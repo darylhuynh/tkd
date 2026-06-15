@@ -4,6 +4,8 @@
 
 Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC-TKD-EDUCATION.md](../OLYMPIC-TKD-EDUCATION.md).
 
+**Kyorugi gear:** Spar/match/`[ACTION]` panels = white dobok + chest hogu + headgear + forearm + shin/foot guards — see [STORYBOARD-GUIDE § Kyorugi Sparring Gear](./STORYBOARD-GUIDE.md#kyorugi-sparring-gear-required).
+
 **Premier flash (extended):** [flash-premier-board-break.md](../scripts/flash-premier-board-break.md) → **§28.1–28.8** · [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 3 → **22.4**  
 **Short thread:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) → **§34.4–34.10**
 
@@ -14,7 +16,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 21.0 — Team Roster Cards [CARD]
 **Scene:** Montage — six quick stat cards (stacked vertical scroll) — Kwon's roster debut at tournament.
 **Cards:** Ethan, TJ, Kieryn, Kian, Ariana, Logan — see [CHARACTER-CARDS.md](../storyboards/CHARACTER-CARDS.md)
-**Prompt:** `stacked fighter profile cards montage six taekwondo athletes empty stat boxes vertical scroll, STYLE: CARD TOURNAMENT`
+**Prompt:** `stacked fighter profile cards montage six taekwondo athletes in full kyorugi gear empty stat boxes vertical scroll, STYLE: CARD TOURNAMENT`
 
 ### 21.1 — Gear Table [TEACH]
 **Scene:** MV lays out electronic hogus, headgear, arm/leg guards. Labels each piece.
@@ -27,9 +29,9 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `teammates helping each other strap taekwondo gear comedy teamwork, STYLE: HAIKYUU`
 
 ### 21.3 — Ethan Mirror [TEACH]
-**Scene:** Ethan fully geared — mirror shot. Silver belt hidden under hogu.
+**Scene:** Ethan **fully geared** — white dobok + electronic chest hogu + headgear + forearm guards + shin/foot guards — mirror shot. Silver belt hidden under hogu.
 **Dialogue:** Ethan (internal): *Armor on. Still the same kid underneath.*
-**Prompt:** `teen full taekwondo competition hogu headgear mirror reflection, STYLE: TOURNAMENT`
+**Prompt:** `teen full olympic kyorugi kit mirror white dobok chest hogu headgear forearm shin foot guards, STYLE: TOURNAMENT`
 
 ### 21.4 — Bracket Mismatch [TEACH]
 **Scene:** Bracket board — Ethan's name under heavier division line.
@@ -88,13 +90,13 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ## Chapter 24 — Ethan Gears Up
 
 ### 24.1 — Alone in Mirror
-**Scene:** Full hogu — Ethan tightens headgear strap.
+**Scene:** **Full kyorugi kit** — Ethan tightens headgear strap — forearm and shin guards visible.
 **Dialogue:** Ethan (internal): *I've been here before.*
-**Prompt:** `teen alone adjusting taekwondo headgear mirror nervous, STYLE: TOURNAMENT`
+**Prompt:** `teen alone adjusting taekwondo headgear mirror nervous, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT`
 
 ### 24.2 — Opponent Scout
-**Scene:** **Derek Cole** (Apex TKD) — taller — warming up spinning hooks.
-**Prompt:** `taller taekwondo fighter Derek Cole warming up spinning kicks background, STYLE: TOURNAMENT`
+**Scene:** **Derek Cole** (Apex TKD) — taller — **full competition gear** — warming up spinning hooks.
+**Prompt:** `taller taekwondo fighter Derek Cole warming up spinning kicks background, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT`
 
 ### 24.3 — MV Corner Lesson [TEACH]
 **Scene:** MV points at opponent's tell — hip drops before spin.
@@ -102,8 +104,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `coach pointing out opponent technique tell instructional corner talk, STYLE: TOURNAMENT TEACH`
 
 ### 24.4 — Walk to Ring [HAIKYUU]
-**Scene:** Team lines path — fist bumps. Logan: "Hit him like he owes you ramen!"
-**Prompt:** `team fist bump tunnel sending fighter to ring haikyuu sendoff, STYLE: HAIKYUU`
+**Scene:** Team lines path — **Ethan in full kit** — fist bumps. Logan: "Hit him like he owes you ramen!"
+**Prompt:** `team fist bump tunnel sending fighter to ring haikyuu sendoff, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: HAIKYUU`
 
 ---
 
@@ -115,39 +117,39 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 25.0 — Fighter VS Cards [CARD] ★
 **Scene:** Dual stat card — **Ethan Hyun** (blue) vs **Derek Cole** (red). Empty boxes for post text.
 **Overlay text:** Ethan · 15 · 5'3" · 95 lbs · Junior −45 kg · 3rd Dan · Kwon's | VS | Derek · 16 · 5'10" · 128 lbs · Open −54 kg · 2nd Dan · Apex TKD
-**Prompt:** `dual fighter VS profile card taekwondo tournament blue red portraits empty stat boxes, STYLE: CARD TOURNAMENT`
+**Prompt:** `dual fighter VS profile card taekwondo tournament blue red portraits empty stat boxes, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: CARD TOURNAMENT`
 
 ### 25.1 — Octagon Wide
 **Scene:** Olympic-style mat — names on screen — score 0–0 — Round 1.
-**Prompt:** `olympic taekwondo octagon wide establishing two fighters referee, STYLE: TOURNAMENT`
+**Prompt:** `olympic taekwondo octagon wide establishing two fighters referee, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT`
 
 ### 25.2 — Guard Up
 **Scene:** Ref bow. Ethan **counter stance** — low guard — Derek side-on bounce.
 **Dialogue:** Ref: "Shi-jak!"
-**Prompt:** `taekwondo match start two fighters kyorugi guard up referee shi-jak, STYLE: TOURNAMENT`
+**Prompt:** `taekwondo match start two fighters kyorugi guard up referee shi-jak, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT`
 
 ### 25.3 — Probe Cut [ACTION]
 **Scene:** Derek **front-leg cut kick** — Ethan blocks high — trunk sensor test.
 **Dialogue:** MV (corner): "Cut. Don't chase."
-**Prompt:** `front leg cut kick blocked guard olympic electronic hogu, STYLE: TOURNAMENT ACTION`
+**Prompt:** `front leg cut kick blocked guard olympic electronic hogu, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT ACTION`
 
 ### 25.4 — Ethan Step-In [ACTION]
 **Scene:** Ethan **steps into range** — classic mistake vs spin setup.
 **Dialogue:** MV (corner): "Spin—!"
-**Prompt:** `fighter stepping into range too close taekwondo mistake, STYLE: TOURNAMENT ACTION`
+**Prompt:** `fighter stepping into range too close taekwondo mistake, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT ACTION`
 
 ### 25.5 — Feint Cut & Chamber [TEACH + ACTION]
 **Scene:** Derek **second cut feint** — hip drops — **spinning hook chamber** — slow-mo inset foot path.
-**Prompt:** `cut kick feint into spinning hook kick chamber slow motion diagram inset, STYLE: TOURNAMENT TEACH ACTION`
+**Prompt:** `cut kick feint into spinning hook kick chamber slow motion diagram inset, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT TEACH ACTION`
 
 ### 25.6 — Impact [TEACH + ACTION] ★
 **Scene:** **Spinning hook** to head — PSS headgear **LED flash** — scoreboard **+5**.
 **SFX:** *BEEP* · silence drop
-**Prompt:** `spinning hook kick head impact electronic headgear red LED flash speed lines impact frame, STYLE: TOURNAMENT TEACH ACTION`
+**Prompt:** `spinning hook kick head impact electronic headgear red LED flash speed lines impact frame, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT TEACH ACTION`
 
 ### 25.7 — Ethan Frozen
 **Scene:** Ethan stands — guard dropped — ref waves — Ethan doesn't move.
-**Prompt:** `teen fighter frozen after head kick loss dissociation guard down, STYLE: TOURNAMENT`
+**Prompt:** `teen fighter frozen after head kick loss dissociation guard down, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT`
 
 ### 25.8 — Scoreboard
 **Scene:** Derek leads **5–0** — round time remaining — psychological KO.
@@ -160,19 +162,21 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 25.10 — Nightmare Inset
 **Scene:** Flash — **same kick** Arc 1 Ch 1 nightmare — visual rhyme.
-**Prompt:** `flashback inset spinning hook kick same trauma visual rhyme desaturated, STYLE: PREMIER`
+**Prompt:** `flashback inset spinning hook kick same trauma visual rhyme desaturated, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER`
 
 ### 25.11 — Headgear Off
 **Scene:** Ethan removes headgear — hands shake — eyes empty.
-**Prompt:** `teen removing taekwondo headgear shaking hands trauma, STYLE: TOURNAMENT`
+**Prompt:** `teen removing taekwondo headgear shaking hands trauma, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT`
 
 ### 25.12 — Match Over
 **Scene:** Wide — Derek bows — Ethan late bow — crowd blur.
-**Prompt:** `post match bow winner loser olympic taekwondo wide, STYLE: TOURNAMENT`
+**Prompt:** `post match bow winner loser olympic taekwondo wide, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT`
 
 ---
 
 ## Chapters 26–30 — Black Belt Flashback [REAL #10–13, #24]
+
+**Timeline:** **Entire block is FLASH Premier** — triggered by Ch 25 loss. **PRESENT** resumes at **Ch 31.1** (bleachers aftermath). Do not interleave with Ch 32–34 tournament present.
 
 **Board break script:** [flash-premier-board-break.md](../scripts/flash-premier-board-break.md) — panel map: **28.1** opening · **28.2** 20 min · **28.3** 40 min clock · **28.4** self-adjust break · **28.5** 1/5 · **28.6** parent whispers · **28.7** bonus second place · **28.8** hollow ceremony
 
@@ -191,16 +195,16 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue:** Instructor: "Punch through. Next."
 **Prompt:** `flashback taekwondo belt test board break station smallest teen in group, STYLE: PREMIER`
 
-### 28.2 — First Failures
+### 28.2 — First Failures [FLASH — belt test, dobok only]
 **Scene:** Ethan punches **below center line** — board holds — knuckles pink — **Ttong Kim watches, says nothing** — other kids finished.
 **Dialogue:** Parent (O.S. whisper): "Why don't they **move the board closer**?"
 **SFX:** *thud* *thud* *thud*
-**Prompt:** `teen punching wooden board wrong angle failing knuckles reddening silent coach, STYLE: PREMIER`
+**Prompt:** `teen punching wooden board wrong angle failing knuckles reddening silent coach white dobok belt test NO hogu, STYLE: PREMIER`
 
-### 28.3 — Clock Moves [REAL #24]
+### 28.3 — Clock Moves [REAL #24] [FLASH — belt test]
 **Scene:** Wall clock — **~almost an hour** — parents standing — **instructor never corrects stance or board height** — Ethan won't stop.
 **Dialogue:** Parent (O.S.): "Please— just let him stop—" · Parent (O.S. whisper): "He's not even hitting the **center**—"
-**Prompt:** `wall clock hour passing teen still punching board wrong position coach silent, STYLE: PREMIER`
+**Prompt:** `wall clock hour passing teen still punching board wrong position coach silent white dobok belt test, STYLE: PREMIER`
 
 ### 28.4 — Board Breaks
 **Scene:** Ethan **shifts foot forward, adjusts hip** — board **splits** — not heroic — Ethan stumbles — **hand black and blue**, swollen.
@@ -212,10 +216,10 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue:** Instructor: "Late and ugly isn't the same as good. **One out of five.**"
 **Prompt:** `instructor disappointed disgusted face grading sheet one out of five, STYLE: PREMIER`
 
-### 28.6 — Crowd Crying & Whispers [REAL #24]
+### 28.6 — Crowd Crying & Whispers [REAL #24] [FLASH — belt test]
 **Scene:** Bleachers — parents **crying** — **after break, louder whispers**: move board closer · wrong position whole hour · **coach should've said one word** — Ethan numb.
 **Dialogue:** Parent (O.S.): "Why didn't the instructor **adjust** anything?" · Father (O.S., hoarse): "He figured it out **himself**."
-**Prompt:** `parents crying whispering belt test board positioning failure coach silence, STYLE: PREMIER soft`
+**Prompt:** `parents crying whispering belt test board positioning failure coach silence white dobok, STYLE: PREMIER soft`
 
 ### 28.7 — Results Board [REAL #9, #24]
 **Scene:** Final scores — Ethan **highest overall passing** — then instructor adds **bonus** to favored girl — Ethan **2nd**.
@@ -229,16 +233,16 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 29.1 — Go Fight [REAL #13]
 **Scene:** No warmup. Instructor points. **"Go fight."**
-**Prompt:** `coach pointing at ring dismissive teen cold no warmup, STYLE: PREMIER`
+**Prompt:** `coach pointing at ring dismissive teen cold no warmup, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER`
 
 ### 29.2 — Spinning Hook Anatomy [TEACH]
 **Scene:** Slow-mo flashback — foot path arc, pivot foot labeled, head target zone.
 **Dialogue:** *(MV voice memory)* "Same kick. You just didn't know its name yet."
-**Prompt:** `spinning hook kick anatomical diagram foot path educational flashback, STYLE: PREMIER TEACH`
+**Prompt:** `spinning hook kick anatomical diagram foot path educational flashback, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER TEACH`
 
 ### 30.1 — The Kick Lands [REAL #11]
 **Scene:** Identical head impact — younger Ethan drops guard.
-**Prompt:** `flashback head kick impact teen dropping guard, STYLE: PREMIER`
+**Prompt:** `flashback head kick impact teen dropping guard, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER`
 
 ### 30.2 — Twenty Minute Scold [REAL #12]
 **Scene:** Instructor yelling — clock on wall moves. Ethan tears.
@@ -274,7 +278,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 32.1 — Corner Wall [HAIKYUU]
 **Scene:** Full team at corner — Kieryn holds scorecard, Logan screams legally.
 **Dialogue:** Logan: "SEND HIM TO THE MOON!"
-**Prompt:** `team cheering corner wildly haikyuu bench energy, STYLE: HAIKYUU TOURNAMENT`
+**Prompt:** `team cheering corner wildly haikyuu bench energy, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: HAIKYUU TOURNAMENT`
 
 ### 32.2 — Emperor's Kick [TEACH]
 **Scene:** TJ power body kick — scoreboard **+2**. Crowd erupts.
@@ -283,7 +287,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 32.3 — TJ Wins
 **Scene:** Ref raises TJ arm. Team pile-on — Ethan stays edge, pulled in by Logan.
-**Prompt:** `team celebrating fighter win group hug pulling quiet member in, STYLE: HAIKYUU`
+**Prompt:** `team celebrating fighter win group hug pulling quiet member in, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: HAIKYUU`
 
 ---
 
@@ -294,12 +298,12 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 33.0 — Kieryn VS Card [CARD]
 **Scene:** Dual card — **Kieryn Lim** vs **Maya Ortiz** before her match.
 **Overlay:** Kieryn · 13 · 5'8" · 108 lbs · Cadet −49 kg · 2nd Dan | VS | Maya · 14 · 5'9" · 112 lbs · Cadet −49 kg · 2nd Dan · Valley Martial Arts
-**Prompt:** `dual fighter VS profile card girl fighters cadet division empty stat boxes, STYLE: CARD TOURNAMENT`
+**Prompt:** `dual fighter VS profile card girl fighters cadet division empty stat boxes, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: CARD TOURNAMENT`
 
 ### 33.1 — Logan Neverending Rage [HAIKYUU]
 **Scene:** Logan down on points — keeps charging. Crowd loves him.
 **Dialogue:** Logan (internal): *One more step. One more.*
-**Prompt:** `short fighter charging never give up crowd cheering underdog, STYLE: HAIKYUU TOURNAMENT`
+**Prompt:** `short fighter charging never give up crowd cheering underdog, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: HAIKYUU TOURNAMENT`
 
 ### 33.1b — Logan Card [CARD] *(optional)*
 **Scene:** Single card — Logan · 13 · 4'10" · 84 lbs · Cadet −41 kg · 2nd Dan
@@ -307,16 +311,16 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 33.2 — Kieryn Cut Probe [ACTION]
 **Scene:** Round open — Kieryn **front-leg cut kick** — Maya blocks — **+2** if clean.
-**Prompt:** `girl fighter front leg cut kick electronic hogu tap olympic, STYLE: TOURNAMENT ACTION`
+**Prompt:** `girl fighter front leg cut kick electronic hogu tap olympic, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT ACTION`
 
 ### 33.3 — Second Cut — Trap [ACTION]
 **Scene:** Kieryn **second cut** — Maya **steps in** to answer — trap sprung.
 **Dialogue:** Kieryn (internal): *There.*
-**Prompt:** `second cut kick opponent stepping in trap setup taekwondo, STYLE: TOURNAMENT ACTION`
+**Prompt:** `second cut kick opponent stepping in trap setup taekwondo, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT ACTION`
 
 ### 33.4 — Pivot Setup [TEACH]
 **Scene:** Kieryn **pivot foot plants** — chamber visible — inset hip rotation arrow.
-**Prompt:** `turning kick chamber pivot foot diagram inset girl fighter, STYLE: TOURNAMENT TEACH`
+**Prompt:** `turning kick chamber pivot foot diagram inset girl fighter, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT TEACH`
 
 ### 33.5 — Turning Head +5 [TEACH + ACTION] ★
 **Scene:** **Turning head kick** — PSS flash — scoreboard **+5**.
@@ -325,29 +329,69 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 33.6 — Kieryn Smirk
 **Scene:** Guard still up — smirk — MVP trash talk without words.
-**Prompt:** `confident girl taekwondo fighter smirk guard up post score, STYLE: TOURNAMENT`
+**Prompt:** `confident girl taekwondo fighter smirk guard up post score, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT`
 
 ### 33.7 — Round Win
 **Scene:** Ref stops — Kieryn arm raised — team corner erupts.
-**Prompt:** `referee raising girl fighter arm victory, STYLE: HAIKYUU TOURNAMENT`
+**Prompt:** `referee raising girl fighter arm victory, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: HAIKYUU TOURNAMENT`
 
 ### 33.8 — Kian Whirlwind [ACTION]
 **Scene:** Kian chaotic **360/tornado** combo — wins on activity — gam-jeom close call.
-**Prompt:** `chaotic spinning taekwondo whirlwind combination wild card fighter, STYLE: TOURNAMENT ACTION`
+**Prompt:** `chaotic spinning taekwondo whirlwind combination wild card fighter, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT ACTION`
 
 ### 33.9 — Ariana Punch [TEACH + ACTION]
 **Scene:** Ariana slips clinch — **punch +1** — decision win.
 **Dialogue:** MV: "One point. That's all she needed."
-**Prompt:** `close range punch scoring chest guard plus one decision win, STYLE: TOURNAMENT TEACH ACTION`
+**Prompt:** `close range punch scoring chest guard plus one decision win, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT TEACH ACTION`
 
 ---
 
-## Chapter 34 — Results & Poomsae Seed [CARD]
+## Chapter 34b — Pineapple Fanta Thread [Yuna seed] ★ READ FIRST
+
+**Timeline:** **PRESENT** — West Regional tournament, **same day as Ch 25 loss** (after Ethan leaves ring → through van home). **Then** read Ch 34 results (34.1–34.3).
+
+**Script:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) § Arc 3
 
 ### 34.0 — Yuna Park Card [CARD]
 **Scene:** Single intro card — poomsae athlete — not spar division.
 **Overlay:** Yuna Park · 15 · 5'6" · 115 lbs · Poomsae Senior · 2nd Dan
 **Prompt:** `single fighter profile card elegant girl poomsae athlete ponytail empty stats, STYLE: CARD TOURNAMENT`
+
+### 34.4 — Vending Machine [PRESENT — post-loss hallway]
+**Scene:** West Regional hallway — **one yellow can left**. Ethan half-geared — headphones around neck (first time Yuna sees them off).
+**Prompt:** `tournament hallway vending machine one yellow soda can left teen in partial taekwondo gear, STYLE: TOURNAMENT`
+
+### 34.5 — Procedure [PRESENT]
+**Scene:** Coins *clink* — **Pineapple Fanta** drops — Ethan opens like **procedure**: sip, breathe, shoulders drop one inch.
+**Dialogue:** Ethan (internal): *Open. Sip. Breathe.*
+**Prompt:** `teen buying pineapple fanta soda vending machine ritual not happy not sad mask returning, STYLE: TOURNAMENT`
+
+### 34.6 — Logan Interruption [HAIKYUU] [PRESENT]
+**Scene:** Logan bounds over — too loud for hallway.
+**Dialogue:** Logan: "Hyung! They have grape too—" · Ethan: "Not the same." · Logan: "It's both sugar!" · Ethan: *(walking)* "Pineapple."
+**Prompt:** `cheerful little brother interrupting quiet teen soda vending machine comedy, STYLE: TOURNAMENT HAIKYUU`
+
+### 34.7 — Yuna Watches [PRESENT]
+**Scene:** Yuna from poomsae warm-up area — not teammate — just watching empty space where Ethan was.
+**Dialogue:** Yuna (internal): *Never tried it. Mom only buys barley tea.*
+**Prompt:** `poomsae girl athlete watching from distance curious quiet observer, STYLE: TOURNAMENT`
+
+### 34.8 — Corner Store [PRESENT — evening, bus home]
+**Scene:** Bus home — Yuna stops — buys Pineapple Fanta — too sweet, too yellow — doesn't throw away.
+**Prompt:** `teen girl buying yellow pineapple soda corner store bus stop evening, STYLE: KWONS casual`
+
+### 34.9 — Notebook Margin [PRESENT — later]
+**Scene:** Poomsae notebook close-up — small handwriting.
+**Dialogue (overlay):** *The quiet boy from sparring — pineapple soda after he loses. Remember.*
+**Prompt:** `notebook margin handwritten note small letters poomsae athlete journal, STYLE: KWONS soft`
+
+### 34.10 — Parking Lot Echo [PRESENT — end of tournament day]
+**Scene:** Team loading van — Ethan holds empty **yellow can** — Yuna across lot with her unopened can — no wave yet — parallel strangers.
+**Prompt:** `tournament parking lot team loading van teen with soda can girl watching from distance, STYLE: TOURNAMENT soft`
+
+---
+
+## Chapter 34 — Results & Poomsae Seed [PRESENT — later same day / wrap]
 
 ### 34.1 — Results Board [HAIKYUU]
 **Scene:** Kwon's name mid-tier — team still proud. High fives.
@@ -355,49 +399,11 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 34.2 — Premier Stare
 **Scene:** Premier students in crowd — glare at Ethan. Ethan doesn't flinch.
-**Prompt:** `rival school students glaring from crowd protagonist calm, STYLE: TOURNAMENT`
+**Prompt:** `rival school students glaring from crowd protagonist calm, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT`
 
 ### 34.3 — Poomsae Ring [TEACH seed]
 **Scene:** Adjacent ring — Yuna Park forms poomsae. Ethan glances — MV: "Different sport. Same discipline."
 **Prompt:** `poomsae athlete performing forms adjacent sparring ring team watching, STYLE: TOURNAMENT TEACH`
-
----
-
-## Chapter 34b — Pineapple Fanta Thread [Yuna seed]
-
-**Script:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) § Arc 3
-
-### 34.4 — Vending Machine
-**Scene:** West Regional hallway — **same day as Ch 25 loss** *(chronology inset; read before 34.1 or as interlude)* — **one yellow can left**. Ethan half-geared — headphones around neck (first time Yuna sees them off).
-**Prompt:** `tournament hallway vending machine one yellow soda can left teen in partial taekwondo gear, STYLE: TOURNAMENT`
-
-### 34.5 — Procedure
-**Scene:** Coins *clink* — **Pineapple Fanta** drops — Ethan opens like **procedure**: sip, breathe, shoulders drop one inch.
-**Dialogue:** Ethan (internal): *Open. Sip. Breathe.*
-**Prompt:** `teen buying pineapple fanta soda vending machine ritual not happy not sad mask returning, STYLE: TOURNAMENT`
-
-### 34.6 — Logan Interruption [HAIKYUU]
-**Scene:** Logan bounds over — too loud for hallway.
-**Dialogue:** Logan: "Hyung! They have grape too—" · Ethan: "Not the same." · Logan: "It's both sugar!" · Ethan: *(walking)* "Pineapple."
-**Prompt:** `cheerful little brother interrupting quiet teen soda vending machine comedy, STYLE: TOURNAMENT HAIKYUU`
-
-### 34.7 — Yuna Watches
-**Scene:** Yuna from poomsae warm-up area — not teammate — just watching empty space where Ethan was.
-**Dialogue:** Yuna (internal): *Never tried it. Mom only buys barley tea.*
-**Prompt:** `poomsae girl athlete watching from distance curious quiet observer, STYLE: TOURNAMENT`
-
-### 34.8 — Corner Store
-**Scene:** Bus home — Yuna stops — buys Pineapple Fanta — too sweet, too yellow — doesn't throw away.
-**Prompt:** `teen girl buying yellow pineapple soda corner store bus stop evening, STYLE: KWONS casual`
-
-### 34.9 — Notebook Margin
-**Scene:** Poomsae notebook close-up — small handwriting.
-**Dialogue (overlay):** *The quiet boy from sparring — pineapple soda after he loses. Remember.*
-**Prompt:** `notebook margin handwritten note small letters poomsae athlete journal, STYLE: KWONS soft`
-
-### 34.10 — Parking Lot Echo
-**Scene:** Team loading van — Ethan holds empty **yellow can** — Yuna across lot with her unopened can — no wave yet — parallel strangers.
-**Prompt:** `tournament parking lot team loading van teen with soda can girl watching from distance, STYLE: TOURNAMENT soft`
 
 ---
 

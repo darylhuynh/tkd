@@ -16,6 +16,7 @@ Append [Global Style from STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md) to all prompt
 2. Append **Global Style** to every prompt unless a panel says `STYLE: PREMIER` or `STYLE: KWONS`.
 3. For dialogue, add text in your editor after generation — most AI tools render text poorly.
 4. **Aspect ratio:** vertical panels `2:3` or `9:16` for webtoon scroll.
+5. **Montage / flash clarity:** [STORYBOARD-CLARITY-GUIDE.md](./STORYBOARD-CLARITY-GUIDE.md) — label **FLASH** vs **PRESENT** on every quick cut (see Ch 1 panels **1.8–1.12**).
 
 ---
 
@@ -38,7 +39,7 @@ blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless 
 | Character | Fragment |
 |-----------|----------|
 | **Ethan Hyun** | teen boy 15, korean-american, 5'3", dark blue shadow perm hair, brown eyes, quiet intense expression |
-| **Ethan (gear)** | + white electronic hogu chest guard, arm guards, leg guards, headgear |
+| **Ethan (gear)** | + **full olympic kyorugi kit:** white dobok, electronic chest hogu, headgear (face shield), forearm guards, shin/foot guards |
 | **Ethan (casual)** | + gold headphones, white backpack, oversized navy hoodie, white tee hanging out, baggy pants |
 | **Ethan (dobok)** | + standard white dobok, guards under, silver-letter black belt *(post)* |
 | **Master Viet** | **Viet Na** — chubby 5'8", kind small eyes, kwon vest or white dobok black neck stripes |
@@ -145,65 +146,71 @@ one small dark blue hair boy staring forward at distant competition ring, STYLE:
 
 ---
 
-### Panel 1.8 — VIP Flash Insert
-**Scene:** Quick cut — parent hands check to instructor. **Repeul Kim** behind him holding brochure stack — silent. Brochure visible: *VIP Training Package*.
-**Dialogue:** Instructor: "We'll take good care of him."
+### Panel 1.8 — VIP Flash Insert [FLASH — dojang enrollment]
+**Timeline:** **FLASH** — Premier front desk / enrollment day (not tournament venue). **ANCHOR returns in 1.9.**
+**Scene:** Parent hands check to **Ttong Kim**. VIP brochure. **Repeul Kim** behind him with brochure stack — silent. **Favored kid** (not Ethan) visible at edge of frame.
+**Dialogue:** Ttong Kim (to VIP parent): "We'll take good care of **him**." *(him = paying kid in frame)*
 
 **Prompt:**
 ```
-close-up hands exchanging check payment, VIP training brochure, overweight woman ugly clashing clothes blurred behind instructor silent,
-expensive taekwondo gear in background, sleazy business atmosphere, shallow depth of field, STYLE: PREMIER
+flashback inset border taekwondo school front desk check payment VIP brochure,
+favored student partial figure edge of frame NOT protagonist, overweight woman ugly clothes silent behind instructor,
+sleazy enrollment atmosphere, STYLE: PREMIER flashback
 ```
 
 ---
 
-### Panel 1.9 — Favoritism
-**Scene:** Instructor kneels — adjusts another kid's headgear, laughing. Paying parents watch proudly.
-**Dialogue:** Instructor: "Remember — feint left, kick right."
+### Panel 1.9 — Favoritism [PRESENT — tournament venue]
+**Timeline:** **PRESENT** — same nightmare tournament day as bleachers montage. Ttong coaches a **different** paying kid.
+**Scene:** Ttong kneels — adjusts **another kid's** headgear — laughing. Parents proud.
+**Dialogue:** Ttong Kim: "Remember — feint left, kick right."
 
 **Prompt:**
 ```
-taekwondo instructor kneeling adjusting student headgear, smiling at wealthy parents nearby,
-personal coaching moment, warm lighting on favored student, STYLE: PREMIER
+taekwondo instructor kneeling adjusting favored student headgear tournament venue,
+wealthy parents watching proudly personal coaching, warm light on favored student NOT small dark blue hair boy,
+STYLE: PREMIER
 ```
 
 ---
 
-### Panel 1.10 — Ethan's View
-**Scene:** Same moment from Ethan's POV — far away on bleachers. Instructor small in distance, backs turned.
+### Panel 1.10 — Ethan's View [PRESENT — bleachers ANCHOR]
+**Timeline:** **PRESENT** — Ethan's bleacher seat. Same day; clock between 1:47 PM and 2:47 PM.
+**Scene:** POV from Ethan's bleachers — Ttong small in distance — backs turned to Ethan.
 **Dialogue:** Ethan (internal): *Same dobok. Same patch.*
 
 **Prompt:**
 ```
 POV from bleachers looking across gymnasium at distant coach helping another student,
-blurred foreground of lonely knees in hogu gear, emotional isolation, long lens compression,
+blurred foreground lonely knees in hogu gear empty seats beside him, emotional isolation,
 STYLE: PREMIER
 ```
 
 ---
 
-### Panel 1.11 — Wrong Stretch
-**Scene:** Random parent grabs Ethan's arm, yanks into stretch. Ethan winces. Instructor doesn't look.
-**Dialogue:** Parent: "Loosen up, kid."
+### Panel 1.11 — Wrong Stretch [PRESENT — bleachers]
+**Timeline:** **PRESENT** — still on bleachers. Shows neglect stacking: stranger "helps" while **his** coach ignores him.
+**Scene:** Random parent yanks Ethan's arm into bad stretch. Ethan winces. Ttong doesn't look.
+**Dialogue:** Parent (O.S.): "Loosen up, kid."
 
 **Prompt:**
 ```
 well-meaning stranger parent stretching teen athlete arm awkwardly on bleachers,
-teen wincing in discomfort, coach in far background turned away not watching,
+teen wincing coach far background turned away not watching neglect,
 STYLE: PREMIER
 ```
 
 ---
 
-### Panel 1.12 — Internal Champion, External Afterthought
-**Scene:** Flash inset — dojang scrimmage. Ethan lands clean head kick on teammate. Smirks.
-**Scene (present):** Back to bleachers. Ethan alone. **2:47 PM** on phone.
+### Panel 1.12 — Skill vs Silence [FLASH inset + PRESENT split]
+**Timeline:** **Top — FLASH — dojang scrimmage, weeks earlier.** **Bottom — PRESENT — bleachers 2:47 PM.**
+**Scene:** Flash — Ethan lands clean head kick on teammate — smirks. Present — phone **2:47 PM** — alone on same bleacher seat.
 **Dialogue:** Ethan (internal): *Won every scrimmage last month.*
 
 **Prompt:**
 ```
-split panel top: taekwondo sparring flashback teen landing head kick with perfect form,
-bottom: same teen alone on bleachers checking phone 2 PM, contrast triumph vs abandonment,
+split panel top FLASH inset dojang scrimmage teen landing head kick smirking weeks ago,
+bottom PRESENT same teen alone bleachers phone 2 47 PM contrast best fighter still ignored,
 STYLE: PREMIER
 ```
 
@@ -262,7 +269,8 @@ red-grey premier accent bar cel shading no readable text STYLE CARD STYLE PREMIE
 **Prompt:**
 ```
 cold taekwondo instructor pointing toward competition ring, dismissive expression,
-teen athlete in full gear listening, instructor checking wristwatch, no warmth,
+teen athlete in white dobok full olympic kyorugi gear chest hogu headgear forearm shin foot guards listening,
+instructor checking wristwatch, no warmth,
 dramatic low angle, STYLE: PREMIER
 ```
 
@@ -274,8 +282,9 @@ dramatic low angle, STYLE: PREMIER
 
 **Prompt:**
 ```
-teen entering taekwondo competition ring with stiff awkward movement, fully geared with headgear,
-opponent already warming up bouncing in fighting stance, referee center, STYLE: PREMIER
+teen entering taekwondo competition ring with stiff awkward movement,
+white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards,
+opponent in same full kit warming up bouncing in fighting stance, referee center, STYLE: PREMIER
 ```
 
 ---
@@ -286,8 +295,10 @@ opponent already warming up bouncing in fighting stance, referee center, STYLE: 
 
 **Prompt:**
 ```
-over shoulder view from competition ring, coach walking away toward another student with fancy gear,
-abandoned fighter in foreground, emotional gut punch composition, STYLE: PREMIER
+over shoulder view from competition ring,
+abandoned fighter in foreground white dobok full olympic kyorugi gear chest hogu headgear forearm shin guards,
+coach walking away toward another student in full competition kit,
+emotional gut punch composition, STYLE: PREMIER
 ```
 
 ---
@@ -298,8 +309,9 @@ abandoned fighter in foreground, emotional gut punch composition, STYLE: PREMIER
 
 **Prompt:**
 ```
-dynamic action shot taekwondo spinning hook kick impact on headgear, motion blur on kicking leg,
-electronic score sensor flash, dramatic speed lines, impact frame, STYLE: PREMIER
+dynamic action shot taekwondo spinning hook kick impact on headgear,
+both fighters white dobok full olympic kyorugi gear chest hogu headgear forearm shin foot guards,
+motion blur on kicking leg, electronic score sensor flash, dramatic speed lines, impact frame, STYLE: PREMIER
 ```
 
 ---
@@ -310,7 +322,9 @@ electronic score sensor flash, dramatic speed lines, impact frame, STYLE: PREMIE
 
 **Prompt:**
 ```
-teen taekwondo fighter falling after head kick impact, silent horror moment, muted desaturated colors,
+teen taekwondo fighter falling after head kick impact,
+white dobok full olympic kyorugi gear chest hogu headgear forearm shin foot guards,
+silent horror moment, muted desaturated colors,
 disappointed coach arms crossed background, crowd blurred, soundless atmosphere visual,
 STYLE: PREMIER
 ```
@@ -655,7 +669,7 @@ STYLE: KWONS
 
 # Chapter 7 — Flashbacks Begin
 
----
+**Timeline:** **FLASH Premier** montage (opening day → favoritism) → **PRESENT ANCHOR** panel **7.5** on Kwon's mats.
 
 ### Panel 7.1 — Opening Day (Warm)
 **Scene:** Flashback — small empty Premier dojang. Younger Ethan (white belt) bows. Instructor smiles genuinely.

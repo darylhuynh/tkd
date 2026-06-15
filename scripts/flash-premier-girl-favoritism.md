@@ -3,7 +3,7 @@
 
 **Purpose:** Document the **implied inappropriate friendliness** and **blatant gender favoritism** at Premier — through what Ethan **saw and heard**, not exposition.  
 **Woven into main scripts:** [arc-04-ch36-37-shadow-archive.md](./arc-04-ch36-37-shadow-archive.md) · Ch 37 beats also in [flash-premier-girl-favoritism.md](./flash-premier-girl-favoritism.md)  
-**Panels:** [arc-04-panel-storyboard.md](../storyboards/arc-04-panel-storyboard.md) §37.1–37.6  
+**Panels:** [arc-04-panel-storyboard.md](../storyboards/arc-04-panel-storyboard.md) §37.1–37.7 · **PRESENT snap** §37.7  
 **Composite character:** **Ha-eun Park** — favored student; may overlap with bully readmitted [#26] — same inner circle, not a main cast member.
 
 **Tone:** Uncomfortable. Institutional rot. **Never show explicit abuse on-page** — reader understands from **silence, bonus points, charts, whispers**.

@@ -2,6 +2,8 @@
 
 Master reference for all panel-by-panel AI prompts across the series.
 
+**Clarity & flow:** [STORYBOARD-CLARITY-GUIDE.md](./STORYBOARD-CLARITY-GUIDE.md) — FLASH/PRESENT tags, montage logic, reading-order exceptions, per-arc flow.
+
 ---
 
 ## File Index
@@ -159,8 +161,8 @@ Full guide: **[ACTION-CHOREOGRAPHY.md](./ACTION-CHOREOGRAPHY.md)**
 
 **AI add-on for `[ACTION]` panels:**
 ```
-dynamic olympic taekwondo kyorugi, electronic scoring gear, motion blur kicking leg,
-impact frame speed lines, sports manga action NOT wire fu
+dynamic olympic taekwondo kyorugi, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards,
+motion blur kicking leg, impact frame speed lines, sports manga action NOT wire fu
 ```
 
 ---
@@ -184,6 +186,29 @@ Full roster + opponents: **[CHARACTER-CARDS.md](./CHARACTER-CARDS.md)**
 ## Panel ID Format
 
 `Chapter.Panel` — e.g. **14.3** = Chapter 14, Panel 3.
+
+---
+
+## Kyorugi Sparring Gear (required)
+
+When teens are **about to spar**, **walking to the ring**, or in **live match / round / `[ACTION]`** panels — they wear **white dobok + full competition kit**, not dobok alone:
+
+| Piece | Prompt term |
+|-------|-------------|
+| Chest | electronic chest guard (hogu) |
+| Head | headgear with face shield |
+| Arms | forearm guards |
+| Legs | shin guards + foot guards |
+
+**Standard fragment** — append to every spar/match/fight prompt:
+
+```
+white dobok, full olympic kyorugi gear, electronic chest hogu, headgear, forearm guards, shin foot guards
+```
+
+**Use for:** tournament rings, inter-school spar, mock bouts, training spar with scoring, U20/Korea/collegiate matches, walk-to-ring sendoffs.
+
+**Skip for:** poomsae-only, pad/shield drills, footwork without contact, rules lecture, dobok-only bow circle, flashback Premier *(unless already in-ring with gear)*.
 
 ---
 

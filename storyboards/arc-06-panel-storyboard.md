@@ -55,15 +55,15 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 77.0 — Fighter VS Cards [CARD] ★
 **Scene:** **Ethan Hyun** vs **Lee Ji-woo** (Busan Youth) — Korea regional.
 **Overlay:** Ethan · 15 · 5'3" · 95 lbs · −45 kg · 3rd Dan · 🇺🇸 Kwon's | VS | Ji-woo · 16 · 5'6" · 99 lbs · −45 kg · 3rd Dan · 🇰🇷 Busan
-**Prompt:** `dual fighter VS card korea regional taekwondo usa vs korea empty stats, STYLE: CARD KOREA`
+**Prompt:** `dual fighter VS card korea regional taekwondo usa vs korea empty stats, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: CARD KOREA`
 
 ### 77.1 — Round 1 Loss
 **Scene:** Round 1 ends — Ethan behind — adjusts guard — no panic.
-**Prompt:** `international taekwondo match round one loss adjusting guard, STYLE: KOREA TOURNAMENT`
+**Prompt:** `international taekwondo match round one loss adjusting guard, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TOURNAMENT`
 
 ### 77.2 — Round 2 Trade [ACTION]
 **Scene:** **Cut kick exchange** — both score — activity mounting.
-**Prompt:** `cut kick exchange olympic taekwondo both score sensors, STYLE: KOREA ACTION`
+**Prompt:** `cut kick exchange olympic taekwondo both score sensors, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
 
 ### 77.3 — Round 3 Clock [ACTION]
 **Scene:** Score tied — **0:30** on timer — MV corner: *"Outwork."*
@@ -71,25 +71,25 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 77.4 — Body Roundhouse +2 [ACTION]
 **Scene:** Ethan **back-leg roundhouse** trunk — PSS flash — stays in stance.
-**Prompt:** `roundhouse body kick electronic hogu plus two clean form, STYLE: KOREA ACTION TEACH`
+**Prompt:** `roundhouse body kick electronic hogu plus two clean form, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION TEACH`
 
 ### 77.5 — Answer Cut [ACTION]
 **Scene:** Ji-woo **cut kick** — Ethan **checks** — no retreat.
-**Prompt:** `cut kick checked guard firm distance control, STYLE: KOREA ACTION`
+**Prompt:** `cut kick checked guard firm distance control, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
 
 ### 77.6 — Clinch Punch +1 [TEACH + ACTION]
 **Scene:** Break clinch — Ethan **straight punch** hogu — judge signals **+1**.
 **Dialogue:** MV: "One point is still a point!"
-**Prompt:** `taekwondo punch plus one clinch break manual score, STYLE: KOREA TEACH ACTION`
+**Prompt:** `taekwondo punch plus one clinch break manual score, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH ACTION`
 
 ### 77.7 — Final Exchange [ACTION]
 **Scene:** Both tired — Ethan **more active** — footwork bounce — Olympic activity win energy.
-**Prompt:** `exhausted fighters high activity footwork round end, STYLE: KOREA ACTION`
+**Prompt:** `exhausted fighters high activity footwork round end, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
 
 ### 77.8 — Round 3 Win [TEACH]
 **Scene:** Bell — Ethan wins round on points — **match may still be lost** — moral endurance.
 **Dialogue:** MV: "You outworked them. Points aren't the only language."
-**Prompt:** `fighter round three victory exhaustion neverending endurance, STYLE: KOREA TEACH HAIKYUU`
+**Prompt:** `fighter round three victory exhaustion neverending endurance, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH HAIKYUU`
 
 ### 77.9 — Yuna Thread Inset [short]
 **Scene:** Poomsae stands — Yuna's bag — **Pineapple Fanta packed, never given** — Ethan loses on points (wide) — fingers on cold can until flat — drinks on hotel bus — *Not yet. Wrong moment.*
@@ -98,24 +98,24 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 78.1 — TJ Emperor's Kick
 **Scene:** Injury managed — clean power score **+2**.
-**Prompt:** `power body kick injured captain scoring, STYLE: KOREA TOURNAMENT TEACH`
+**Prompt:** `power body kick injured captain scoring, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TOURNAMENT TEACH`
 
 ### 79.1 — Kian Patience [TEACH]
 **Scene:** Kian waits — counters instead of spinning wild.
 **Dialogue:** MV: "Discipline isn't silence. It's timing."
-**Prompt:** `patient counter fighter vs disciplined opponent, STYLE: KOREA TEACH`
+**Prompt:** `patient counter fighter vs disciplined opponent, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH`
 
 ### 80.1 — Kieryn Crowd Moment [HAIKYUU]
 **Scene:** 100 Shadow Kick — crowd gasps. Brother watches stream at home (optional inset).
-**Prompt:** `crowd reaction spectacular kick sequence girl fighter, STYLE: KOREA HAIKYUU`
+**Prompt:** `crowd reaction spectacular kick sequence girl fighter, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU`
 
 ### 81.1 — Logan Crowd Favorite [HAIKYUU]
 **Scene:** Loses on points — crowd chants name anyway.
-**Prompt:** `underdog fighter crowd chanting respect, STYLE: KOREA HAIKYUU`
+**Prompt:** `underdog fighter crowd chanting respect, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU`
 
 ### 82.1 — Ariana Punch Decision [TEACH]
 **Scene:** Supreme Accuracy punch **+1** — bandage bloodied — wins.
-**Prompt:** `close punch decision win injured stoic fighter, STYLE: KOREA TEACH`
+**Prompt:** `close punch decision win injured stoic fighter, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH`
 
 ---
 
@@ -128,22 +128,22 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue:** MV: "Two up! Hands up! Cut kick on exit!"
 **Prompt:** `team corner calling scores coordinated haikyuu energy bench, STYLE: KOREA HAIKYUU TEACH`
 
-### 83.2 — Go Fight Flash [REAL #13]
-**Scene:** **Flash inset Premier** — young Ethan alone — *Go fight.* — cut to six faces behind him now.
-**Prompt:** `flashback premier alone pointed at ring vs present full corner support, STYLE: PREMIER KOREA HAIKYUU`
+### 83.2 — Go Fight Flash [REAL #13] [FLASH inset vs PRESENT]
+**Scene:** **FLASH inset** — young Ethan alone at Premier — *Go fight.* — **cut to PRESENT** — six faces behind him at Korea corner.
+**Prompt:** `flashback premier alone pointed at ring vs present full corner support, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER KOREA HAIKYUU`
 
 ### 83.3 — Ethan's Team Match [ACTION]
 **Scene:** Ethan **cut kick +2** — MV reset calls — wins round on activity.
-**Prompt:** `team tournament match cut kick scoring coordinated corner, STYLE: KOREA ACTION TEACH`
+**Prompt:** `team tournament match cut kick scoring coordinated corner, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION TEACH`
 
 ### 84.1 — Golden Point Setup [TEACH]
 **Scene:** Kieryn tied match — sudden death overlay — *First score wins.*
 **Dialogue:** MV: "One point. That's the whole universe."
-**Prompt:** `golden point sudden death round instructional overlay, STYLE: KOREA TEACH`
+**Prompt:** `golden point sudden death round instructional overlay, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH`
 
 ### 84.2 — Kieryn Wins Golden Point [ACTION]
 **Scene:** Front-leg snap to face **+3** — match over — team: *Preview!*
-**Prompt:** `front leg snap kick head golden point win sensor flash, STYLE: KOREA TEACH ACTION`
+**Prompt:** `front leg snap kick head golden point win sensor flash, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH ACTION`
 
 ### 85.1 — Group Bow [HAIKYUU]
 **Scene:** Team placement ceremony — group bow to Korean hosts — flags behind.

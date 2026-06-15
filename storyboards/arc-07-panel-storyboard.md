@@ -23,23 +23,23 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Scene:** Ramyeon life · Fanta drought · kimchi trade · Ariana jerky pocket.
 **Prompt:** `korean dorm cafeteria team food comedy likes dislikes, STYLE: KOREA HAIKYUU`
 
-### 92.1 — Board Remedial Contrast [REAL #24 echo] ★
-**Scene:** Korean staff lowers board in one sentence — cadet breaks in five tries — Ethan watches.
+### 92.1 — Board Remedial Contrast [REAL #24 echo] ★ [PRESENT Korea + FLASH echo]
+**Scene:** Korean staff lowers board in one sentence — cadet breaks in five tries — Ethan watches (**FLASH inset** Premier silent hour optional).
 **Dialogue:** MV: "Different country. Same lesson you deserved at twelve."
 **Prompt:** `coach adjusts board height immediately young athlete contrast flashback echo, STYLE: KOREA TEACH`
 
-### 92.4 — Signature Unlocks · Ethan · Kieryn · Kian [TEACH] ★
-**Scene:** Afternoon rotation — each names and lands first clean **signature** under MV + staff eyes.
-**Dialogue:** Ethan: **Ultimate Counter** · Kieryn: **Laser Stab** · Kian: **Debilitating Combo**
-**Prompt:** `taekwondo training camp signature move unlock montage three athletes, STYLE: KOREA TEACH HAIKYUU`
-
-### 92.2 — Cut List Anxiety
+### 92.2 — Cut List Anxiety [PRESENT]
 **Scene:** Hallway nerves — Ariana: *"Corner or mat. Pick one."*
 **Prompt:** `athletes hiding anxiety before team trials korea, STYLE: KOREA HAIKYUU`
 
-### 92.3 — Dorm Likes/Dislikes — Korea Edition
+### 92.3 — Dorm Likes/Dislikes — Korea Edition [PRESENT]
 **Scene:** Whisper game — Miku ringtone vs K-pop · Logan's ramyeon · bracket dread.
 **Prompt:** `dorm night team bonding comedy korea camp, STYLE: KOREA HAIKYUU`
+
+### 92.4 — Signature Unlocks · Ethan · Kieryn · Kian [TEACH] ★ [PRESENT]
+**Scene:** Afternoon rotation — each names and lands first clean **signature** under MV + staff eyes.
+**Dialogue:** Ethan: **Ultimate Counter** · Kieryn: **Laser Stab** · Kian: **Debilitating Combo**
+**Prompt:** `taekwondo training camp signature move unlock montage three athletes, STYLE: KOREA TEACH HAIKYUU`
 
 ### 93.0 — Signature Unlocks · TJ · Ariana [TEACH] ★
 **Scene:** Dawn mat — **Mountain Strike** stomp→cut head · **Whirling Dervish** 10-hit chain (**3 kicks — then foot down**) — MV logs all five.
@@ -82,11 +82,11 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 
 ### 94.1 — Down Three
 **Scene:** R1 — **2–5** — Logan tablet **plant after nine** — MV: *Three — then down.*
-**Prompt:** `female taekwondo fighter round one down on scoreboard focused, STYLE: KOREA TOURNAMENT`
+**Prompt:** `female taekwondo fighter round one down on scoreboard focused, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TOURNAMENT`
 
 ### 94.2 — Whirling Dervish [TEACH + ACTION]
 **Scene:** Hits 1–6 plant — **+3** — **5–5 tied**.
-**Prompt:** `ten hit taekwondo combo three kicks foot plant electronic sensor flashes, STYLE: KOREA TEACH ACTION`
+**Prompt:** `ten hit taekwondo combo three kicks foot plant electronic sensor flashes, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH ACTION`
 
 ### 94.3 — Gam-jeom on Ten [ACTION] ★
 **Scene:** Hits 7–9–10 — no plant after 9 — Logan **DOWN!** — ref **Gam-jeom!** — **5–6**
@@ -95,7 +95,7 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 ### 94.4 — Lose by One [HAIKYUU]
 **Scene:** Mr. Yang proud — Ariana smiles for herself.
 **Dialogue:** Ariana: "I tied it. I just… didn't put it down."
-**Prompt:** `fighter loses by one point small smile father proud stands, STYLE: KOREA HAIKYUU`
+**Prompt:** `fighter loses by one point small smile father proud stands, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU`
 
 ---
 
@@ -105,7 +105,7 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 
 ### 95.0 — VS Card
 **Scene:** Kian vs Korea TC −49 kg — MV: *Hip first. Then head.*
-**Prompt:** `fighter VS card quarterfinal korea national taekwondo, STYLE: CARD KOREA`
+**Prompt:** `fighter VS card quarterfinal korea national taekwondo, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: CARD KOREA`
 
 ### 95.1 — Debilitating Combo Opens [TEACH + ACTION]
 **Scene:** Hip **+2** — flop kick **miss** — opponent slides back.
@@ -113,7 +113,7 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 
 ### 95.2 — Opponent Discipline [ACTION]
 **Scene:** Cut answers — Kian forces second combo — **partial** — down on volume.
-**Prompt:** `disciplined opponent cut kick scoring exchange, STYLE: KOREA ACTION`
+**Prompt:** `disciplined opponent cut kick scoring exchange, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
 
 ### 95.4 — Round 1 Combo Whiff [TEACH + ACTION] ★
 **Scene:** Hip **+2** — flop **miss** — Jun-ho slides back — **3–2** R1.
@@ -122,11 +122,11 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 
 ### 95.5 — Round 2 Gam-jeom Warning [ACTION]
 **Scene:** Grab on hogu — **−1** — score **3–4** — Kian still grins.
-**Prompt:** `referee gam jeom warning grabbing opponent hogu taekwondo, STYLE: KOREA ACTION`
+**Prompt:** `referee gam jeom warning grabbing opponent hogu taekwondo, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
 
 ### 95.6 — Round 3 Volume Loss [HAIKYUU]
 **Scene:** **4–7** final — Kian grins — *Quarters. I'm younger.*
-**Prompt:** `fighter loses quarterfinal grins next year mindset, STYLE: KOREA HAIKYUU`
+**Prompt:** `fighter loses quarterfinal grins next year mindset, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU`
 
 ---
 
@@ -136,7 +136,7 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 
 ### 96.0 — VS Card
 **Scene:** SF −53 kg — Kieryn vs Korea TC ace — *Not his shadow. Mine.*
-**Prompt:** `female fighter semifinal VS card korea national taekwondo, STYLE: CARD KOREA`
+**Prompt:** `female fighter semifinal VS card korea national taekwondo, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: CARD KOREA`
 
 ### 96.1 — Round 1 Laser Stab [TEACH + ACTION] ★
 **Scene:** Front-leg face snap **+3** — before opponent reacts.
@@ -158,16 +158,16 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 
 ### 97.0 — VS Card · Round 1 Opener
 **Scene:** Ethan vs regional ace — head tag **+3** — red edge flash.
-**Prompt:** `fighter head kick impact rage temptation red edge, STYLE: KOREA TOURNAMENT`
+**Prompt:** `fighter head kick impact rage temptation red edge, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TOURNAMENT`
 
 ### 97.1 — Resist Berserker [REAL callback]
 **Scene:** Flash Arc 5 Ch 59 — Ethan **pulls back**.
-**Prompt:** `fighter resisting berserker mode choosing control, STYLE: KOREA TOURNAMENT`
+**Prompt:** `fighter resisting berserker mode choosing control, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TOURNAMENT`
 
 ### 97.2 — Counter Back Kick [TEACH]
 **Scene:** **+2** back kick — guard up — wins round **6–4**.
 **Dialogue:** MV: "Same kick. Different story."
-**Prompt:** `counter back kick scoring textbook form, STYLE: KOREA TEACH`
+**Prompt:** `counter back kick scoring textbook form, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH`
 
 ### 97.3 — Round 2 Advance [ACTION]
 **Scene:** Ethan **advances** — disciplined volume — **11–8** match into qualifier.
@@ -191,11 +191,11 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 
 ### 98.1 — VS Cards [CARD] ★
 **Scene:** Ethan vs **Kim Min-ho** — dual VS card.
-**Prompt:** `dual fighter VS profile card korea national taekwondo selection, STYLE: CARD KOREA`
+**Prompt:** `dual fighter VS profile card korea national taekwondo selection, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: CARD KOREA`
 
 ### 98.2 — Probe Round [ACTION]
 **Scene:** Min-ho distance — Ethan counter stance — doesn't bite feint.
-**Prompt:** `two fighters distance control olympic kyorugi korea, STYLE: KOREA ACTION`
+**Prompt:** `two fighters distance control olympic kyorugi korea, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
 
 ### 98.3 — Shoulder Tell [TEACH]
 **Scene:** Left shoulder drops — slow-mo inset — flash stack setup.
@@ -204,15 +204,15 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 ### 98.4 — Ultimate Counter [ACTION] ★
 **Scene:** Spinning hook **+5** — **Logan taps shoulder** · MV calls counter — guard up — flash stack intercut Arc 1/3/5.
 **Dialogue:** MV: "—Ultimate Counter—FIVE! Guard UP!"
-**Prompt:** `spinning hook counter to head plus five guard up inside arc, STYLE: KOREA TEACH ACTION`
+**Prompt:** `spinning hook counter to head plus five guard up inside arc, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH ACTION`
 
 ### 98.5 — Min-ho Adjusts [ACTION]
 **Scene:** Body volume — berserker temptation — Ethan breathes — **−2** exchange.
-**Prompt:** `fighter keeps guard after losing exchange disciplined, STYLE: KOREA ACTION`
+**Prompt:** `fighter keeps guard after losing exchange disciplined, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
 
 ### 98.6 — Eliminated on Points [HAIKYUU]
 **Scene:** Min-ho arm raised — Ethan bows — TJ hug — *I still lost.*
-**Prompt:** `fighter moral loss bow mutual respect growth, STYLE: KOREA HAIKYUU`
+**Prompt:** `fighter moral loss bow mutual respect growth, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU`
 
 ---
 
@@ -222,11 +222,11 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 
 ### 99.0 — Finals VS
 **Scene:** U20 −68 kg — selection on the line.
-**Prompt:** `finals taekwondo fighter VS card korea national, STYLE: CARD KOREA`
+**Prompt:** `finals taekwondo fighter VS card korea national, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: CARD KOREA`
 
 ### 99.1 — Round 1 Knee Flare [HAIKYUU]
 **Scene:** TJ cut **+2** — awkward landing — micro-limp — Ethan corners — *Don't hero the spin.*
-**Prompt:** `injured fighter micro limp corner advice role reversal, STYLE: KOREA HAIKYUU TEACH`
+**Prompt:** `injured fighter micro limp corner advice role reversal, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU TEACH`
 
 ### 99.2 — Round 1 Flash — Premier Empty Corner
 **Scene:** Young Ethan alone — *Go fight.* — Present Ethan voice **full**.
@@ -234,7 +234,7 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 
 ### 99.3 — Round 2 Mountain Strike [TEACH + ACTION] ★
 **Scene:** Ethan + Logan **STOMP! CUT!** — mat stomp — cut head **+3** — **6–4** — Logan *felt it in my teeth*.
-**Prompt:** `stomp rhythm break cut kick head plus three taekwondo, STYLE: KOREA TEACH ACTION`
+**Prompt:** `stomp rhythm break cut kick head plus three taekwondo, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH ACTION`
 
 ### 99.4 — Round 3 Emperor's Kick [TEACH + ACTION] ★
 **Scene:** Ethan: *Emperor — NOW!* — turning trunk **+4** — eight-count — **11–9**.
@@ -340,8 +340,8 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 **Dialogue:** Ethan (internal): *Yellow can. Not grape.*
 **Prompt:** `pineapple fanta soda on taekwondo gear bag sticky note Y hallway night, STYLE: KOREA`
 
-### 108.3 — Thread Flashback Montage
-**Scene:** Three quick insets — **34.5** vending procedure · **63.3** Logan halmeoni leak · **77.9** can gone flat — return present.
+### 108.3 — Thread Flashback Montage [FLASH inset chain → PRESENT]
+**Scene:** Three quick insets — **34.5** vending procedure · **63.3** Logan halmeoni leak · **77.9** can gone flat — **return PRESENT** hallway.
 **Script:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) — full thread
 **Prompt:** `montage flashback inset yellow soda can vending machine rules clinic korea stands, STYLE: KOREA soft`
 

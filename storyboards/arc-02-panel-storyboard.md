@@ -6,6 +6,8 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 
 **Premier flash (extended):** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 1 → **15.2b** · § Scene 2 body memory → **15.3** internal.
 
+**Kyorugi gear:** Full kit for spar/match panels — [STORYBOARD-GUIDE § Kyorugi Sparring Gear](../storyboards/STORYBOARD-GUIDE.md#kyorugi-sparring-gear-required).
+
 ---
 
 ## Chapter 11 — Six Reasons (Why We Left)
@@ -15,7 +17,8 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 **Dialogue:** MV: "You don't owe me your past. But your teammates might need to hear it."
 **Prompt:** `team circle sitting on taekwondo mats, diverse teen athletes listening to coach, evening dojang, STYLE: KWONS STYLE: HAIKYUU`
 
-### 11.2 — Kian's Reason
+### 11.2 — Kian's Reason [FLASH inset]
+**Timeline:** **FLASH** — Premier humiliation. **PRESENT** — Kian speaking in circle (Kwon's).
 **Scene:** Flash inset — Ttong Kim berates Kian center mat. **Entire class watching.** Kian humiliated for "acting like a clown."
 **Dialogue:** Ttong Kim: "You think this is a joke?" · Kian (present): "I wasn't laughing after that."
 **Prompt:** `flashback instructor yelling at teen in front of whole taekwondo class humiliation, STYLE: PREMIER`
@@ -72,7 +75,7 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 ### 12.5 — Practice Scoring
 **Scene:** Pair drill — Ethan lands body kick, Logan holds scorecard wrong way.
 **Dialogue:** TJ: "Two points. Write it like a human."
-**Prompt:** `training sparring with teammate holding score paddle upside down, comedy, STYLE: KWONS STYLE: HAIKYUU`
+**Prompt:** `training sparring with teammate holding score paddle upside down, comedy, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS STYLE: HAIKYUU`
 
 ### 12.6 — Team Quiz Finish
 **Scene:** Everyone recites together — punch 1, body 2, head 3.
@@ -94,19 +97,19 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 **Prompt:** `taekwondo coach demonstrating guard stance teens copying, instructional panel, STYLE: KWONS TEACH`
 
 ### 13.3 — Mirror Drill Setup
-**Scene:** Ethan vs Kian — same stance line. MV between them like dual coach.
+**Scene:** Ethan vs Kian — same stance line — **both in full kyorugi gear** (hogu, headgear, arm/leg guards) — MV between them.
 **Dialogue:** MV: "Front leg fighter vs back leg counter. Go."
-**Prompt:** `two teen fighters facing off mirror stance line, coach between them, STYLE: KWONS`
+**Prompt:** `two teen fighters facing off mirror stance line, coach between them, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS`
 
 ### 13.4 — Ethan Wins Round One [TEACH]
 **Scene:** Ethan lands counter **back leg roundhouse** — MV freeze-frame inset shows hip rotation.
 **Dialogue:** MV: "Two points — body. Back leg. That's the textbook."
-**Prompt:** `counter taekwondo roundhouse kick scoring body hogu, hip rotation diagram inset, instructional action, STYLE: KWONS TEACH`
+**Prompt:** `counter taekwondo roundhouse kick scoring body hogu, hip rotation diagram inset, instructional action, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS TEACH`
 
 ### 13.5 — Kian Wins Round Two
 **Scene:** Kian Whirlwind feint — tags Ethan chest.
 **Dialogue:** Ethan: "...Again."
-**Prompt:** `explosive taekwondo combination scoring chest guard, rivals pushing each other, STYLE: KWONS`
+**Prompt:** `explosive taekwondo combination scoring chest guard, rivals pushing each other, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS`
 
 ### 13.6 — MV Notes [HAIKYUU]
 **Scene:** MV clipboard — writes both names with plus marks.
@@ -156,27 +159,29 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 
 ## Chapter 15 — Premier Flashback: The Favor
 
-### 15.1 — Young Ethan Hopeful
+**Timeline:** Entire chapter is **FLASH Premier** until **15.4 PRESENT snap** on Kwon's mats.
+
+### 15.1 — Young Ethan Hopeful [FLASH — dojang, earlier]
 **Scene:** Colored belt Ethan wins drill — instructor used to smile here.
 **Prompt:** `younger taekwondo student winning drill hopeful expression, STYLE: PREMIER lighter`
 
-### 15.2 — VIP Lesson
+### 15.2 — VIP Lesson [FLASH — dojang]
 **Scene:** Paying family private lesson — instructor hands on kid's stance.
 **Prompt:** `private coaching paid student, instructor attentive, STYLE: PREMIER`
 
-### 15.2b — Knockout Bounty [REAL #28] ★
+### 15.2b — Knockout Bounty [REAL #28] ★ [FLASH — tournament staging]
 **Scene:** Tournament staging — Ttong Kim holds **1,000 won** (천 원) — **class bounty if their student KOs another** — black belts **finish / put out** opponents — **eyes Ethan** — *too soft for black belt* — classmates watching (some grin, some shoes).
 **Dialogue:** Ttong Kim: **"One thousand won — 천 원 — if your student knocks the other kid out. Not points. Out."** · **"Black belt doesn't mean nice. Black belt means you finish them."** · *(quieter, to Ethan)* **"Too soft. Too nice to be a real black belt."**
 **Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 1
 **Prompt:** `coach holding 1000 won coin knockout bounty speech black belt finish philosophy teen called too soft public humiliation classmates watching, STYLE: PREMIER`
 
-### 15.3 — Ethan in Corner
+### 15.3 — Ethan in Corner [FLASH — dojang]
 **Scene:** Ethan alone stretching — watches favored students from mirror reflection — **two voices**: *knock them out* / *you're too nice*.
 **Dialogue:** Ethan (internal): *Same floor. Different world.* · *I didn't want to knock anyone out. He said that meant I didn't belong.*
 **Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 2
 **Prompt:** `lonely teen stretching alone watching favored students in mirror reflection cautious not hunter, STYLE: PREMIER`
 
-### 15.4 — Present Snap
+### 15.4 — Present Snap [PRESENT — Kwon's mats ANCHOR]
 **Scene:** Ethan blinks — back on Kwon's mats. Kian: "You with us?"
 **Dialogue:** Ethan: "Yeah."
 **Prompt:** `teen returning from dissociation, teammate hand waving in face, STYLE: KWONS`
@@ -194,7 +199,7 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 ### 16.2 — Kieryn Precision [TEACH]
 **Scene:** Cut kick demo — MV holds paddle low. Kieryn explains.
 **Dialogue:** Kieryn: "Cut kick — blade of the foot, thigh line. Kill their base, score on the reset."
-**Prompt:** `taekwondo cut kick demonstration low target, instructional leg path arrow space, teen girl teaching, STYLE: KWONS TEACH`
+**Prompt:** `taekwondo cut kick demonstration low target, instructional leg path arrow space, teen girl teaching, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS TEACH`
 
 ### 16.3 — Logan Heart
 **Scene:** Logan doing burpees after everyone else finished — TJ runs back to join.
@@ -204,11 +209,11 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 ### 16.4 — Kian Chaos / Ariana Accuracy [TEACH]
 **Scene:** Split — Kian wild spinning; Ariana **punch to hogu** — scoreboard inset **+1**.
 **Dialogue:** MV: "Punch is one point. But only if you're brave enough to get close."
-**Prompt:** `split panel spinning kicks vs close range punch to chest guard, score plus one inset, instructional, STYLE: KWONS TEACH`
+**Prompt:** `split panel spinning kicks vs close range punch to chest guard, score plus one inset, instructional, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS TEACH`
 
 ### 16.5 — Ethan Counters
 **Scene:** Ethan reads Kian's tell — counters mid-combo. Both drop guard laughing.
-**Prompt:** `counter fighter reading opponent mid-combo, both laughing, STYLE: KWONS STYLE: HAIKYUU`
+**Prompt:** `counter fighter reading opponent mid-combo, both laughing, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS STYLE: HAIKYUU`
 
 ### 16.6 — MV Whistle — Team Collapse [HAIKYUU]
 **Scene:** Everyone flat on mats. Logan starfished. Kieryn arm over eyes.
@@ -220,8 +225,8 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 ## Chapter 17 — Fighting Like Colored Belts
 
 ### 17.1 — Sloppy Spar Day
-**Scene:** Team sparring messy — wrong distances, early celebrates.
-**Prompt:** `messy team sparring mistakes, unpolished coordination, STYLE: KWONS`
+**Scene:** Team sparring messy — **full competition kit on all six** — wrong distances, early celebrates.
+**Prompt:** `messy team sparring mistakes, unpolished coordination, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS`
 
 ### 17.2 — MV Line
 **Scene:** MV stops all rings — one whistle.
@@ -268,9 +273,9 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 **Prompt:** `coach showing tablet footage to teen, serious mentoring, STYLE: KWONS`
 
 ### 19.2 — Ariana Bandage Notice
-**Scene:** MV sees tape edge on Ariana's wrist during mock bout — pauses bout.
+**Scene:** MV sees tape edge on Ariana's wrist during mock bout — **both fighters in full kyorugi gear** — pauses bout.
 **Dialogue:** MV: "We train smart. Not broken."
-**Prompt:** `coach pausing sparring noticing hidden bandage, stoic girl defensive, STYLE: KWONS`
+**Prompt:** `coach pausing sparring noticing hidden bandage, stoic girl defensive, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS`
 
 ### 19.3 — Team Waits Outside [HAIKYUU]
 **Scene:** Others sit hallway while each gets private eval — passing snacks, nervous energy.

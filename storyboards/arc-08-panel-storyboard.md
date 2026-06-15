@@ -135,7 +135,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 114.4 — Pads Not Drama [HAIKYUU]
 **Scene:** Ethan pockets phone — picks up gloves — Logan: *Can I block him for justice?* — sparring.
 **Dialogue:** Ethan: "Get pads. We're sparring."
-**Prompt:** `teens picking up sparring gear moving on after blocking bully, STYLE: KWONS HAIKYUU`
+**Prompt:** `teens picking up sparring gear moving on after blocking bully, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS HAIKYUU`
 
 ---
 
@@ -152,8 +152,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue:** Ethan: "I'm still your champion. Just… not the one on that roster."
 **Prompt:** `teen kneeling memorial stone quiet grief korean english inscription, STYLE: HAIKYUU PREMIER soft`
 
-### 115.3 — Hallway Callback [HAIKYUU · Arc 5 flash]
-**Scene:** Chapel hallway — **flash inset Arc 5 Ch 59 hospital benches** — present team same posture — waiting **for him**.
+### 115.3 — Hallway Callback [HAIKYUU · Arc 5 flash] [FLASH inset + PRESENT]
+**Scene:** Chapel hallway **PRESENT** — **FLASH inset Arc 5 Ch 58.2 hospital benches** — present team same posture — waiting **for him**.
 **Dialogue:** Kian: "Same hallway energy. Better reason." · Ariana holds team photo print.
 **Prompt:** `memorial chapel hallway team waiting flash inset hospital callback, STYLE: HAIKYUU`
 
@@ -203,7 +203,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 117.2 — Montage · Kieryn
 **Scene:** Regional camp spar — coach: *Semifinals wasn't a ceiling. Preview.*
-**Prompt:** `female fighter camp spar coach preview mindset, STYLE: KWONS`
+**Prompt:** `female fighter camp spar coach preview mindset, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS`
 
 ### 117.3 — Montage · Kian
 **Scene:** Empty mat night — whirlwind drill — *Quarters won't happen twice.*
@@ -213,8 +213,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Scene:** Logan greets nervous Premier transfer · Ariana drills — Mr. Yang hug — *You don't have to win for me anymore.*
 **Prompt:** `split panel mascot greets new student father daughter hug dojang, STYLE: KWONS HAIKYUU`
 
-### 117.5 — SNU Campus · The Line ★ [REAL payoff]
-**Scene:** **서울대학교** sign — admission letter — **flash inset Arc 4** parent: *school AND taekwondo?* — present texts from team.
+### 117.5 — SNU Campus · The Line ★ [REAL payoff] [PRESENT + FLASH inset]
+**Scene:** **서울대학교** sign — admission letter — **FLASH inset Arc 4 Ch 38** parent: *school AND taekwondo?* — **PRESENT** texts from team.
 **Dialogue (V.O.):** *Not angry. Just… done proving it to him.*
 **Prompt:** `seoul national university campus autumn admission letter flashback parent gossip payoff, STYLE: KWONS TEACH`
 
@@ -243,19 +243,19 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 118.2 — Round 1 · Behind Early [ACTION]
 **Scene:** Sung-min **turning body +4** — Ethan **guard up** — no berserker drop.
 **Dialogue (V.O.):** *Rage wins seconds. Discipline wins seasons.*
-**Prompt:** `turning body kick plus four opponent scoring collegiate match guard up, STYLE: KWONS ACTION TEACH`
+**Prompt:** `turning body kick plus four opponent scoring collegiate match guard up, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS ACTION TEACH`
 
 ### 118.3 — Round 1 Answer · Turning Head [ACTION] ★
 **Scene:** Ethan counter — **turning head kick** — PSS **+5** — crowd reacts.
-**Prompt:** `turning head kick plus five LED flash collegiate championship, STYLE: KWONS TEACH ACTION`
+**Prompt:** `turning head kick plus five LED flash collegiate championship, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS TEACH ACTION`
 
 ### 118.4 — Round 2 · Rage Offered [ACTION]
 **Scene:** Head hit — red edge — grandmother memory — Ethan **breathes** — guard stays — **8–6** entering R3.
-**Prompt:** `fighter red edge vision choosing breath guard up not berserker, STYLE: KWONS ACTION`
+**Prompt:** `fighter red edge vision choosing breath guard up not berserker, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS ACTION`
 
 ### 118.5 — Round 3 · Endurance Win [ACTION]
 **Scene:** Clinch break — **Neverending Endurance** pace — opponent fades — final bell — **WINNER**.
-**Prompt:** `collegiate taekwondo winner scoreboard arm raised disciplined, STYLE: KWONS TOURNAMENT`
+**Prompt:** `collegiate taekwondo winner scoreboard arm raised disciplined, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS TOURNAMENT`
 
 ### 118.6 — Yuna Nods [HAIKYUU]
 **Scene:** Upper stands — friendship ring on railing — Ethan looks up — mutual nod — not loud.

@@ -71,26 +71,34 @@ Same dobok. Same patch.
 ---
 
 ### SCENE 3 — PAID COACHING
-**Panels:** 1.8 · 1.9 · 1.10 · 1.11
+**Panels:** 1.8 · 1.9 · 1.10 · 1.11 · 1.12
 
-**ACTION:**  
-Quick cut — check to **Ttong Kim**. VIP brochure. **Repeul Kim** behind him with brochure stack — blank mean stare.
+**Montage logic:** One **PRESENT** tournament day on bleachers, interrupted by **FLASH** inserts that explain *why* Ethan is ignored. See [STORYBOARD-CLARITY-GUIDE.md](../storyboards/STORYBOARD-CLARITY-GUIDE.md) § Nightmare Montage.
 
-**TTONG KIM**  
-We'll take good care of him.
+**ACTION — 1.8 [FLASH — dojang enrollment]:**  
+Check to **Ttong Kim**. VIP brochure. **Repeul Kim** behind him — brochure stack — blank mean stare. **Favored kid** at frame edge (not Ethan).
 
-Cut — he kneels — adjusts **another kid's** headgear — laughing. Parents proud.
+**TTONG KIM** *(to VIP parent)*  
+We'll take good care of **him**.
 
+**ACTION — 1.9 [PRESENT — tournament venue]:**  
+Cut — **same nightmare day** — Ttong kneels — adjusts **another kid's** headgear — laughing. Parents proud.
+
+**ACTION — 1.10 [PRESENT — bleachers ANCHOR]:**  
 Ethan's POV — far away — backs turned.
+
+**ETHAN (V.O.)**  
+Same dobok. Same patch.
+
+**ACTION — 1.11 [PRESENT — bleachers]:**  
+Random parent **yanks Ethan's arm** into a bad stretch. Ethan winces. Ttong doesn't look.
 
 **PARENT (O.S.)**  
 Loosen up, kid.
 
-Random parent **yanks Ethan's arm** into a bad stretch. Ethan winces. Instructor doesn't look.
-
-Flash inset: dojang scrimmage — Ethan lands clean head kick — smirks.
-
-Present: phone **2:47 PM**. Alone.
+**ACTION — 1.12 [FLASH inset + PRESENT split]:**  
+**FLASH** — dojang scrimmage weeks ago — Ethan lands clean head kick — smirks.  
+**PRESENT** — phone **2:47 PM**. Alone on bleachers.
 
 **ETHAN (V.O.)**  
 Won every scrimmage last month.

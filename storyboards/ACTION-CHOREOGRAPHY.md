@@ -48,7 +48,7 @@ Use these in **every** fight prompt so art reads “WT kyorugi,” not anime str
 | Element | Description | AI prompt fragment |
 |---------|-------------|-------------------|
 | **Octagon mat** | Blue/red corners, WT logo center | `olympic taekwondo octagonal mat blue red corners` |
-| **PSS gear** | Electronic hogu + headgear + sock sensors | `electronic scoring chest guard headgear LED sensor flash` |
+| **PSS gear** | **Full kyorugi kit** on both fighters — white dobok + electronic chest hogu + headgear (face shield) + forearm guards + shin/foot guards | `white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards` |
 | **Fighting stance** | Side-on, guard high, chin tucked, bounce on balls of feet | `olympic kyorugi fighting stance side profile guard up` |
 | **Distance bands** | Long (probe cut kick) → mid (roundhouse) → clinch (punch / illegal grab reset) | `long range taekwondo distance footwork` |
 | **Front leg** | Fast cut kick, axe kick, push kick — **sets rhythm** | `front leg cut kick quick tap to hogu` |

@@ -4,6 +4,8 @@
 
 Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC-TKD-EDUCATION.md](../OLYMPIC-TKD-EDUCATION.md).
 
+**Kyorugi gear:** Full kit for spar/match/`[ACTION]` panels — [STORYBOARD-GUIDE § Kyorugi Sparring Gear](./STORYBOARD-GUIDE.md#kyorugi-sparring-gear-required).
+
 ---
 
 ## Chapters 51–52 — Conditioning [HAIKYUU + TEACH]
@@ -46,8 +48,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `team cafeteria food culture clash comedy training camp, STYLE: KWONS HAIKYUU`
 
 ### 55.1 — Spar Rotation [TEACH]
-**Scene:** Cut kick · clinch accuracy · Emperor's Kick math stations.
-**Prompt:** `team spar rotation stations coach whiteboard periodization, STYLE: KWONS TEACH`
+**Scene:** Cut kick · clinch accuracy · Emperor's Kick math stations — **athletes gear up full kyorugi kit before each rotation**.
+**Prompt:** `team spar rotation stations full competition gear white dobok hogu headgear arm leg guards, STYLE: KWONS TEACH`
 
 ### 55.2 — Dorm Likes/Dislikes
 **Scene:** Flashlight game — K-pop vs rap · Fanta smell · Ariana lands hardest line.
@@ -59,7 +61,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 56.1 — Rival Gym
 **Scene:** Kwon's vs regional school — external tension, not internal.
-**Prompt:** `inter school taekwondo sparring day rival teams, STYLE: KWONS`
+**Prompt:** `inter school taekwondo sparring day rival teams, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS`
 
 ### 56.2 — Gam-Jeom Penalty [TEACH]
 **Scene:** Kian grabs — ref penalty. Scoreboard **-1**.
@@ -68,13 +70,31 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 57.1 — Ethan Holds Own
 **Scene:** Ethan vs unknown ace — counter scores 2.
-**Prompt:** `counter fighter scoring body kick validation, STYLE: KWONS`
+**Prompt:** `counter fighter scoring body kick validation, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS`
 
 ---
 
+## Chapter 60 — Logan Breakthrough [HAIKYUU] *(before Ch 58–59 grief)*
+
+**Timeline:** **PRESENT** — mock tourney at Kwon's, **weeks before** grandmother hospital arc.
+
+### 60.1 — Down on Points
+**Scene:** Mock tourney — Logan losing scoreboard.
+**Prompt:** `short fighter losing on scoreboard determined, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS`
+
+### 60.2 — Neverending Rage Comeback
+**Scene:** Logan charges — team corners erupt.
+**Prompt:** `underdog comeback team cheering haikyuu, STYLE: HAIKYUU`
+
+### 60.3 — Ethan Hug
+**Scene:** Rare Ethan hug — Logan lifts off feet accidentally.
+**Prompt:** `quiet teen hugging cheerful teammate celebration, STYLE: HAIKYUU`
+
 ---
 
-## Chapters 58–60 — Grandmother's Death ★
+## Chapters 58–59 — Grandmother's Death ★
+
+**Timeline:** **PRESENT** — hospital arc → **three days later** berserker spar at Kwon's (59.2).
 
 ### 58.1 — Sudden Turn
 **Scene:** Hospital call during training — Ethan's face drains. MV nods — go.
@@ -97,34 +117,34 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 59.2.1 — Clean Head Shot [ACTION]
 **Scene:** Kian **turning head kick** lands clean — legal — PSS beep — triggers rage.
 **SFX:** *BEEP*
-**Prompt:** `turning head kick landing sparring electronic headgear flash, STYLE: KWONS ACTION`
+**Prompt:** `turning head kick landing sparring electronic headgear flash, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS ACTION`
 
 ### 59.2.2 — Eyes Change [ACTION]
 **Scene:** Ethan's eyes — red tint edge — guard **drops** — berserker offers.
 **Dialogue:** Kian: "Ethan—?"
-**Prompt:** `fighter eyes change rage mode subtle red aura guard dropping, STYLE: KWONS ACTION`
+**Prompt:** `fighter eyes change rage mode subtle red aura guard dropping, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS ACTION`
 
 ### 59.2.3 — Wild Rush [ACTION]
 **Scene:** Ethan **charges** — no distance — **3 spinning attempts** — blur legs.
-**Prompt:** `reckless spinning kick flurry no guard speed blur, STYLE: KWONS ACTION`
+**Prompt:** `reckless spinning kick flurry no guard speed blur, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS ACTION`
 
 ### 59.2.4 — Miss / Graze
 **Scene:** One kick **grazes** hogu — two miss wide — inefficient Olympic anti-pattern.
-**Prompt:** `wild spinning kicks missing target off balance, STYLE: KWONS ACTION`
+**Prompt:** `wild spinning kicks missing target off balance, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS ACTION`
 
 ### 59.2.5 — Kian Backpedal
 **Scene:** Kian **backpedals** — hands up — scared for first time.
 **Dialogue:** Kian: "What was that?"
-**Prompt:** `fighter backing away scared from reckless opponent, STYLE: KWONS ACTION`
+**Prompt:** `fighter backing away scared from reckless opponent, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS ACTION`
 
 ### 59.2.6 — Grab Whistle
 **Scene:** Kian grabs hogu — ref **gam-jeom** whistle — MV enters mat.
 **Dialogue:** MV: "STOP! Ethan!"
-**Prompt:** `referee whistle clinch grab penalty coach stopping spar, STYLE: KWONS`
+**Prompt:** `referee whistle clinch grab penalty coach stopping spar, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS`
 
 ### 59.2 — Berserker Aftermath *(was 59.2 summary)*
 **Scene:** Ethan panting — doesn't remember last 5 seconds — MV catches him.
-**Prompt:** `teen taekwondo fighter berserker aftermath coach catching, STYLE: KWONS`
+**Prompt:** `teen taekwondo fighter berserker aftermath coach catching, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS`
 
 ### 59.3 — MV Explanation
 **Dialogue:** MV: "Grief isn't a technique. You don't get to keep fighting like that without paying for it."
@@ -132,38 +152,24 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ---
 
-## Chapter 61 — TJ & Ethan Highlight [HAIKYUU] *(time skip after grief)*
+## Chapter 59b — TJ & Ethan Recovery [HAIKYUU]
 
-### 61.1 — TJ Sends Ethan Flying [HAIKYUU]
+**Timeline:** **PRESENT** — **weeks after** Ch 58–59 grief; training rhythm returning.
+
+### 59b.1 — TJ Sends Ethan Flying [HAIKYUU]
 **Scene:** TJ kick — Ethan skids. Smirks.
 **Dialogue:** Ethan: "Again."
-**Prompt:** `powerful kick sending small fighter sliding smirking, STYLE: KWONS HAIKYUU`
+**Prompt:** `powerful kick sending small fighter sliding smirking, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS HAIKYUU`
 
-### 61.2 — Head Kick Setup [TEACH]
+### 59b.2 — Head Kick Setup [TEACH]
 **Scene:** MV chalkboard — feint body, kick head for 3.
 **Dialogue:** MV: "Sell the body. Head is three points. Make them flinch wrong."
 **Prompt:** `coach diagram feint body head kick strategy instructional, STYLE: KWONS TEACH`
 
-### 61.3 — Ethan Head-Kicks TJ [HAIKYUU]
+### 59b.3 — Ethan Head-Kicks TJ [HAIKYUU]
 **Scene:** Ethan lands head — TJ eyes bulge — laughs.
 **Dialogue:** TJ: "There he is."
-**Prompt:** `head kick surprise then laughter friendly teammates, STYLE: KWONS HAIKYUU`
-
----
-
-## Chapter 60 — Logan Breakthrough [HAIKYUU]
-
-### 60.1 — Down on Points
-**Scene:** Mock tourney — Logan losing scoreboard.
-**Prompt:** `short fighter losing on scoreboard determined, STYLE: KWONS`
-
-### 60.2 — Neverending Rage Comeback
-**Scene:** Logan charges — team corners erupt.
-**Prompt:** `underdog comeback team cheering haikyuu, STYLE: HAIKYUU`
-
-### 60.3 — Ethan Hug
-**Scene:** Rare Ethan hug — Logan lifts off feet accidentally.
-**Prompt:** `quiet teen hugging cheerful teammate celebration, STYLE: HAIKYUU`
+**Prompt:** `head kick surprise then laughter friendly teammates, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS HAIKYUU`
 
 ---
 
@@ -216,7 +222,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 64.1 — Clinch Kick Illegal [TEACH]
 **Scene:** Kian clinch — ref reset. Legal clinch kick vs grab explained.
 **Dialogue:** MV: "Kick in the clinch — sometimes. Grab the gear — never."
-**Prompt:** `clinch range kick vs grab foul instructional, STYLE: KWONS TEACH`
+**Prompt:** `clinch range kick vs grab foul instructional, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS TEACH`
 
 ---
 
@@ -224,7 +230,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 66.1 — Wince on Emperor's Kick
 **Scene:** TJ hides pain — Ethan sees.
-**Prompt:** `fighter hiding injury teammate noticing, STYLE: KWONS`
+**Prompt:** `fighter hiding injury teammate noticing, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS`
 
 ### 67.1 — Tell MV or Not
 **Scene:** Ethan conflict — Kian: "Pride kills teams." · Logan: "So tell."
@@ -240,7 +246,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 69.1 — Full Contact Draw
 **Scene:** Ethan vs Kian — both bleeding, grinning, bow.
-**Prompt:** `rivals full contact spar mutual respect bow, STYLE: KWONS HAIKYUU`
+**Prompt:** `rivals full contact spar mutual respect bow, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS HAIKYUU`
 
 ### 69.2 — Counter Timing [TEACH]
 **Scene:** MV replay — "Score on the second beat, not the first feint."
@@ -248,7 +254,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 69.3 — Kieryn vs Ariana
 **Scene:** Technical spar — respect nod.
-**Prompt:** `two girls technical spar respect nod, STYLE: KWONS`
+**Prompt:** `two girls technical spar respect nod, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KWONS`
 
 ---
 

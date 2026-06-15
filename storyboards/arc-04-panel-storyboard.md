@@ -12,186 +12,224 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 
 ## Chapter 36 — Black Belt Hollow [REAL #10, #24]
 
-**Script:** [flash-premier-board-break.md](../scripts/flash-premier-board-break.md)
+**Timeline:** **PRESENT anchor** **36.0** (Kwon's empty mat, insomnia) → **FLASH cascade** **36.0a–36.3** (board break → ceremony) → continues into Ch 37 montage → **PRESENT snap** **37.7**.
 
-### 36.0 — Board Break Hour [REAL #24] ★
-**Script:** [flash-premier-board-break.md](../scripts/flash-premier-board-break.md) — extended montage
+**Script:** [arc-04-ch36-37-shadow-archive.md](../scripts/arc-04-ch36-37-shadow-archive.md) · [flash-premier-board-break.md](../scripts/flash-premier-board-break.md)
 
-### 36.0a — Wrong Setup
+### 36.0 — Can't Sleep [PRESENT — Kwon's ANCHOR] ★
+**Scene:** **11 PM** — Ethan alone on Kwon's mat edge — lights low — phone face-down — Premier group chat muted. Memory cascade begins.
+**Dialogue:** Ethan (V.O.): *Arc 3 I said it out loud once. MV heard the hour. Tonight my body remembers the rest.*
+**Prompt:** `teen alone empty taekwondo dojang night edge of mat insomnia phone face down, STYLE: KWONS soft`
+
+### 36.0a — Wrong Setup [FLASH — belt test, dobok only]
 **Scene:** Testing gym — Ethan **smallest, youngest** — board **too thick** — parent volunteer holder — Ttong Kim flat: *Punch through. Don't embarrass the school.*
-**Prompt:** `belt test board break station smallest teen adult sized board silent instructor, STYLE: PREMIER`
+**Prompt:** `flashback belt test board break station smallest teen adult sized board silent instructor white dobok NO hogu, STYLE: PREMIER flashback`
 
-### 36.0b — Silent Hour
+### 36.0b — Silent Hour [FLASH — belt test montage]
 **Scene:** Montage — knuckles pink → clock hands move → **Ttong Kim never adjusts stance, height, or distance** — talks to other parents while Ethan punches wrong angle below center line.
 **Dialogue:** Parent (O.S.): "Can he stop?" · Ttong Kim (O.S.): *(to someone else)* "Good power. Needs commitment."
-**Prompt:** `montage hour passing teen punching wrong board position coach ignoring feet silent cruelty, STYLE: PREMIER`
+**Prompt:** `flashback montage hour passing teen punching wrong board position coach ignoring feet silent cruelty, STYLE: PREMIER flashback`
 
-### 36.0c — Self-Fix & Whispers
+### 36.0c — Self-Fix & Whispers [FLASH — belt test]
 **Scene:** Ethan **steps in, rotates hip** — board splits — stumbles — **hand black and blue** — bleacher whispers: *move board closer* · *wrong spot whole hour* · *coach should've said one word*.
 **Dialogue:** Father (O.S., hoarse): "He figured it out **himself**. After an hour."
-**Prompt:** `teen finally breaks board exhausted bruised fist parents whispering coach silence, STYLE: PREMIER`
+**Prompt:** `flashback teen finally breaks board exhausted bruised fist parents whispering coach silence, STYLE: PREMIER flashback`
 
-### 36.1 — Ceremony Hands
-**Scene:** Instructor cold handshake — Ethan 3rd dan certificate.
-**Prompt:** `hollow black belt ceremony cold handshake, STYLE: PREMIER`
+### 36.1 — Ceremony Hands [FLASH — black belt ceremony]
+**Scene:** Instructor cold handshake — Ethan 3rd dan certificate. **Repeul Kim** multicolor at refreshment table — silent.
+**Prompt:** `flashback hollow black belt ceremony cold handshake, STYLE: PREMIER flashback`
 
-### 36.2 — Second Place [REAL #9, #24]
-**Scene:** Results posted — Ethan **#1 passing** crossed out — **#2** after bonus — girl smiles at instructor.
+### 36.2 — Second Place [REAL #9, #24] [FLASH — test results]
+**Scene:** Results posted — Ethan **#1 passing** crossed out — **#2** after bonus — **Ha-eun** smiles at instructor.
 **Dialogue:** Ethan (V.O.): *Highest score. Second place. Same school.*
-**Prompt:** `test results favoritism second place despite highest score, STYLE: PREMIER`
+**Prompt:** `flashback test results favoritism second place despite highest score, STYLE: PREMIER flashback`
 
-### 36.3 — Parents Proud / Ethan Empty
+### 36.3 — Parents Proud / Ethan Empty [FLASH — ceremony]
 **Dialogue:** Parent: "World champion someday!" · Ethan (internal): *I'm already drowning.*
-**Prompt:** `proud parents empty teen split emotional bruised hand in pocket, STYLE: PREMIER`
+**Prompt:** `flashback proud parents empty teen split emotional bruised hand in pocket, STYLE: PREMIER flashback`
 
 ---
 
 ## Chapter 37 — Favoritism Archive [REAL #5,6,9,25,26,27]
 
-**Script:** [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md) — scene map: **§1** → 37.3 · **§2** → 37.2, 37.4 · **§3** → 37.5 · bonus → 37.6 · pay-to-train → 37.1
+**Timeline:** **FLASH montage** continues from Ch 36 cascade (same insomnia night, no time jump). **Not** chronological — **thematic stack**: money → sidelined → chart → demo → sleepover brag → bonus. **PRESENT snap** at **37.7**.
 
-### 37.1 — Pay-to-Train Montage
-**Scene:** Three quick panels — checks, gear, private lessons.
-**Prompt:** `money favoritism montage taekwondo school, STYLE: PREMIER`
+**Montage thesis:** *They sold access. I sold silence.*
 
-### 37.2 — Ethan Sidelined
-**Scene:** Wins drill — benched. Watches lesser athlete promoted.
-**Prompt:** `talented teen benched watching lesser student promoted, STYLE: PREMIER`
+**Script:** [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md) · [arc-04-ch36-37-shadow-archive.md](../scripts/arc-04-ch36-37-shadow-archive.md) § Scene 4  
+**Scene map:** pay-to-train → **37.1** · sidelined → **37.2** · promotion wall → **37.3** · demo pick → **37.4** · New Year's brag → **37.5** · bonus → **37.6**
 
-### 37.3 — Promotion Wall [REAL #27]
-**Scene:** Belt chart — **girls' names advance faster** — boys wait despite higher scores.
-**Dialogue:** Ttong Kim: "Patience, boys. Belt isn't a race."
-**Prompt:** `dojo belt promotion chart girls advancing faster than boys favoritism, STYLE: PREMIER`
+### 37.1 — Pay-to-Train Montage [FLASH — dojang, money thread]
+**Scene:** Three quick panels — checks · VIP gear · private lessons. **Repeul Kim** may appear at desk edge — silent.
+**Prompt:** `flashback money favoritism montage taekwondo school checks private lessons, STYLE: PREMIER flashback`
 
-### 37.4 — Demo Pick [REAL #9]
-**Scene:** Ethan wins drill — Ttong Kim calls **Ha-eun** for demo instead.
-**Dialogue:** Ttong Kim: "Show them spirit. That's what sponsors like."
-**Prompt:** `instructor choosing favorite girl over better boy student demo, STYLE: PREMIER`
+### 37.2 — Ethan Sidelined [FLASH — dojang mat]
+**Scene:** Ethan **wins drill** — Ttong Kim benches him — watches **lesser athlete** promoted / called forward.
+**Dialogue:** Ethan (V.O.): *Same floor. Different world.*
+**Prompt:** `flashback talented teen benched after winning drill watching lesser student promoted, STYLE: PREMIER flashback`
 
-### 37.5 — New Year's Brag [REAL #25] ★
-**Scene:** After winter break — **Ha-eun** tells class she **slept at Kim-saab's house** New Year's — instructor **smiles, doesn't deny**.
-**Dialogue:** Ha-eun: "Ask him." · *(whispers in crowd)*
-**Prompt:** `teen girl bragging classmates uncomfortable instructor smiling not denying, STYLE: PREMIER unsettling`
+### 37.3 — Promotion Wall [REAL #27] [FLASH — dojang wall chart]
+**Scene:** Belt chart — **girls' names advance faster** (Ha-eun, others) — boys wait despite higher scores.
+**Dialogue:** Ttong Kim: "Patience, boys. Belt isn't a race." · Ethan (V.O.): *I won every scrimmage last month.*
+**Prompt:** `flashback dojo belt promotion chart girls advancing faster than boys favoritism, STYLE: PREMIER flashback`
 
-### 37.6 — Bonus Points [REAL #9, #24]
-**Scene:** Cross-ref Ch 28.7 — **extra credit** on test sheet — Ethan 2nd.
-**Prompt:** `bonus points favoritism test sheet second place, STYLE: PREMIER`
+### 37.4 — Demo Pick [REAL #9] [FLASH — dojang line drill]
+**Scene:** Ethan wins drill — Ttong Kim calls **Ha-eun** (middle of pack) for **demo** instead.
+**Dialogue:** Ttong Kim: "Ha-eun-ah, show them spirit. That's what sponsors like."
+**Prompt:** `flashback instructor choosing favorite girl over better boy student demo, STYLE: PREMIER flashback`
+
+### 37.5 — New Year's Brag [REAL #25] ★ [FLASH — dojang after winter break]
+**Scene:** First class after break — **Ha-eun** tells class she **slept at Kim-saab's house** New Year's — Ttong Kim at clipboard **heard everything** — **smiles, doesn't deny**.
+**Dialogue:** Ha-eun: "Ask him." · Boy (whisper): "…What?" · Ethan (V.O.): *I didn't know if she was bragging. I knew I wasn't supposed to ask.*
+**Prompt:** `flashback teen girl bragging classmates uncomfortable instructor smiling not denying unsettling, STYLE: PREMIER flashback unsettling`
+
+### 37.6 — Bonus Points [REAL #9, #24] [FLASH — belt test callback]
+**Scene:** Cross-ref Arc 3 **28.7** — test sheet — **extra credit / attitude** line — Ha-eun hugs Ttong's arm — Ethan **#2** — bruised hand in pocket.
+**Dialogue:** Ttong Kim: "Extra credit for **school spirit**."
+**Prompt:** `flashback bonus points favoritism test sheet second place bruised hand, STYLE: PREMIER flashback`
+
+### 37.7 — Present Snap [PRESENT — Kwon's mats ANCHOR] ★
+**Scene:** Cascade ends — Ethan on mat — breathing hard — not crying. **MV** returns for keys — stops.
+**Dialogue:** MV: "You shouldn't be alone with that memory." · Ethan: "I thought if I said it once at the tournament, it would leave." · MV: "It doesn't leave. You **learn where it lives** so it doesn't drive." · MV: "At Kwon's, promotion is timestamped. Same criteria. Boys and girls." · Ethan: "She would've had three belts by then." · MV: "And you would've had none of the trust that came with them." · MV: "Go home. Sleep. Tomorrow we train the **second beat**, not the first wound."
+**Prompt:** `present coach finding teen alone on mat after trauma memory kind intervention kwons warm, STYLE: KWONS HAIKYUU`
 
 ---
 
 ## Chapter 38 — Overheard [REAL #1]
 
-### 38.1 — Around Corner
-**Dialogue:** Parent: **"I feel bad for Ethan. You want him to be good at school AND Taekwondo?"**
-**Prompt:** `teen overhearing parents coach conversation hallway corner, STYLE: PREMIER`
+**Timeline:** **PRESENT** — Ethan returns to **Premier** to pick up forgotten gear — overhears **live** around corner — keeps walking.
 
-### 38.2 — Keeps Walking
-**Scene:** Ethan — no reaction visible. Fists in pockets.
-**Prompt:** `teen walking away hiding pain, STYLE: PREMIER`
+### 38.1 — Around Corner [PRESENT — Premier hallway]
+**Scene:** Voices around corner — Ethan frozen mid-step — not a flashback; he is **physically there** picking up gear.
+**Dialogue:** Parent (O.S.): **"I feel bad for Ethan. You want him to be good at school AND Taekwondo?"** · Ttong Kim (O.S.): *(dismissive laugh)* "Some kids can't handle both."
+**Prompt:** `teen overhearing parents coach conversation hallway corner premier dojang present day, STYLE: PREMIER`
+
+### 38.2 — Keeps Walking [PRESENT — Premier hallway exit]
+**Scene:** Ethan — no reaction visible — fists in pockets — walks out — face blank.
+**Dialogue:** Ethan (V.O.): *School AND taekwondo. They already decided I couldn't.*
+**Prompt:** `teen walking away hiding pain premier hallway fists in pockets, STYLE: PREMIER`
 
 ---
 
 ## Chapter 39 — Temperament [REAL #2, #28]
 
-### 39.1 — Dismissal [REAL #2]
-**Dialogue:** Instructor: **"I don't think he has the temperament to become a world-class black belt."**
-**Prompt:** `coach dismissing student to parent flashback too soft black belt, STYLE: PREMIER`
+**Timeline:** **PRESENT** — Kwon's water fountain — **FLASH overlays** as Ethan drinks (memory on present body).
 
-### 39.2 — Bounty Memory [REAL #28] ★
-**Scene:** Same conversation — **[FLASH inset]** — staging hall — **1,000 won** — *too nice* — cuts back to parent nodding.
-**Dialogue:** Ethan (V.O.): *Because I wouldn't knock people out for **천 원**. Because I was **nice**.*
+### 39.1 — Dismissal [PRESENT trigger + FLASH overlay]
+**Scene:** **PRESENT** — Ethan at dojang water fountain drinking. **FLASH overlay** — Ttong Kim to another parent at Premier.
+**Dialogue:** Ttong Kim (flash): **"I don't think he has the temperament to become a world-class black belt."** · Ethan (V.O.): *Because I wouldn't knock people out for 천 원. Because I was **nice**.*
+**Prompt:** `present teen at water fountain flashback overlay coach dismissing student too soft black belt split panel, STYLE: KWONS PREMIER`
+
+### 39.2 — Bounty Memory [REAL #28] ★ [FLASH inset on PRESENT]
+**Scene:** Same fountain beat — **[FLASH inset]** staging hall — **1,000 won** — eyes on young Ethan — *too soft* — inset clears — Ethan closes eyes — breathes.
 **Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 4
-**Prompt:** `flashback inset 1000 won coin knockout bounty overlaid on parent meeting too nice for black belt, STYLE: PREMIER`
+**Prompt:** `flashback inset 1000 won coin knockout bounty overlaid water fountain present teen breathing, STYLE: PREMIER KWONS`
 
 ---
 
 ## Chapter 40 — Lies to Parents [REAL #8]
 
-### 40.1 — Parent Meeting
-**Dialogue:** Instructor: "Refs cheated you. Other schools buy belts."
-**Prompt:** `coach lying to parents post tournament meeting, STYLE: PREMIER`
+**Timeline:** **FLASH** — post-tournament parent meeting at Premier. Ethan (younger) watches from back row.
 
-### 40.2 — Finishers Philosophy [REAL #28]
-**Scene:** Parent asks if KO is dangerous — **[FLASH inset]** — Ttong Kim: *Only if you're weak. We train finishers. Black belts finish.*
+### 40.1 — Parent Meeting [FLASH — Premier parent night]
+**Dialogue:** Ttong Kim: "Refs cheated you. Other schools buy belts." · Ethan (V.O.): *Parents nodded. That was the machine.*
+**Prompt:** `flashback coach lying to parents post tournament meeting teens watching back row, STYLE: PREMIER flashback`
+
+### 40.2 — Finishers Philosophy [REAL #28] [FLASH inset]
+**Scene:** Same meeting memory — parent asks if KO is dangerous — **[FLASH inset within flash]** — Ttong Kim: *Only if you're weak. We train finishers. Black belts finish.*
 **Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 5
-**Prompt:** `flashback inset coach saying black belts finish knockouts parent meeting unsettling, STYLE: PREMIER`
+**Prompt:** `flashback inset coach saying black belts finish knockouts parent meeting unsettling nested memory, STYLE: PREMIER flashback`
 
 ---
 
 ## Chapter 41 — Commitment [REAL #3]
 
-### 41.1 — Loyalty Trap
-**Dialogue:** Instructor: **"You skipped tournaments. I don't know how committed you are."**
-**Prompt:** `coach accusing teen of disloyalty, STYLE: PREMIER`
+**Timeline:** **FLASH** — loyalty accusation — **[FLASH inset]** promotion wall (same cascade night).
+
+### 41.1 — Loyalty Trap [FLASH + FLASH inset]
+**Scene:** **FLASH** — Ttong Kim corners Ethan about skipped tournaments. **[FLASH inset]** — promotion wall — girls advance, Ethan's stripe unchanged eight months.
+**Dialogue:** Ttong Kim: **"You skipped tournaments. I don't know how committed you are."** · Ttong Kim (flash inset): "Patience, boys. Belt isn't a race."
+**Prompt:** `flashback coach accusing teen disloyalty inset promotion chart girls faster, STYLE: PREMIER flashback`
 
 ---
 
 ## Chapter 42–43 — Bullying & Ultimatum [REAL #7,26,4,27]
 
-### 42.1 — Girl Bully Returns [REAL #26] ★
-**Scene:** **Ha-eun** (or favored girl) **readmitted** after bullying — younger kid flinches — instructor welcomes her publicly.
+**Timeline:** **FLASH** **42.1–42.3** — Premier dojang past. **43.1** younger Ethan flash. **43.2** flash ultimatum → **PRESENT** Kwon's hallway echo.
+
+**Script:** [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md) § Ch 42
+
+### 42.1 — Girl Bully Returns [REAL #26] ★ [FLASH — Premier dojang]
+**Scene:** **Ha-eun** (favored girl) **readmitted** after bullying — younger kid **flinches** — **Repeul Kim** at front desk — silent.
 **Dialogue:** Ttong Kim: "We forgive people who grow. She's family again. No comments."
-**Prompt:** `bully girl welcomed back dojang victim flinching instructor protecting, STYLE: PREMIER`
+**Prompt:** `flashback bully girl welcomed back dojang victim flinching instructor protecting, STYLE: PREMIER flashback`
 
-### 42.2 — Toughen Up [REAL #7, #26]
-**Scene:** Flash inset — victim's parent confronts — instructor dismisses.
+### 42.2 — Toughen Up [REAL #7, #26] [FLASH inset]
+**Scene:** **[FLASH inset]** — victim's parent confronts Ttong Kim — dismissed.
 **Dialogue:** Ttong Kim (O.S.): "Boys need to toughen up."
-**Prompt:** `parent confronting coach dismissed bullying cover up, STYLE: PREMIER`
+**Prompt:** `flashback inset parent confronting coach dismissed bullying cover up, STYLE: PREMIER flashback`
 
-### 42.3 — Ethan Punished
-**Scene:** Ethan intervened once — **extra conditioning** week.
+### 42.3 — Ethan Punished [FLASH — Premier mat]
+**Scene:** Ethan intervened once — **extra conditioning** week alone on mat.
 **Dialogue:** Ttong Kim: "Don't play hero."
-**Prompt:** `teen punished extra conditioning lonely mat, STYLE: PREMIER`
+**Prompt:** `flashback teen punished extra conditioning lonely mat, STYLE: PREMIER flashback`
 
-### 43.1 — Early Promotion Question [REAL #27]
-**Scene:** Ethan asks why favored girl promoted despite scores.
+### 43.1 — Early Promotion Question [REAL #27] [FLASH — younger Ethan]
+**Scene:** Younger Ethan at promotion wall — questions favoritism — nervous.
 **Dialogue:** Ethan: "I scored higher. Why did—"
-**Prompt:** `teen questioning unfair promotion nervous, STYLE: PREMIER`
+**Prompt:** `flashback teen questioning unfair promotion nervous premier dojang, STYLE: PREMIER flashback`
 
-### 43.2 — With Us or Against Us [REAL #4]
-**Dialogue:** Instructor: **"You are either with us or against us."**
-**Prompt:** `ultimatum confrontation dojang, STYLE: PREMIER`
+### 43.2 — With Us or Against Us [REAL #4] [FLASH → PRESENT split]
+**Scene:** **Top / main — FLASH** — Ttong Kim ultimatum, inches from Ethan's face. **Bottom or cut — PRESENT** — Ethan in **Kwon's hallway** — same words echo — texts MV: *I'm okay. Just old ghosts.*
+**Dialogue:** Ttong Kim (flash): **"You are either with us or against us."** · Ethan (text): *I'm okay. Just old ghosts.*
+**Prompt:** `split panel flashback ultimatum confrontation vs present teen kwons hallway texting coach echo, STYLE: PREMIER KWONS`
 
 ---
 
 ## Chapter 44 — Parallel Lives [HAIKYUU contrast]
 
-### 44.1 — Premier Cut [REAL #19]
-**Dialogue:** Instructor: "Talentless punks and quitters."
-**Prompt:** `angry coach dismissing departed students, STYLE: PREMIER`
+**Timeline:** **Split same evening** — **44.1 FLASH or distant Premier** · **44.2–44.3 PRESENT Kwon's**.
 
-### 44.2 — Kwon's Tape Review [HAIKYUU + TEACH contrast]
-**Scene:** Same day — Kwon's team reviews **together**. MV pauses — "What would you do for two points here?"
-**Dialogue:** Kieryn: "Body. Turning. Four." · Logan: "I'd panic." · TJ: "You'd kick."
-**Prompt:** `team film study together coach asking scoring question warm dojang, STYLE: KWONS HAIKYUU TEACH`
+### 44.1 — Premier Cut [REAL #19] [FLASH — Premier or rumor reach]
+**Scene:** Ttong Kim to remaining students — departed kids are quitters. *(May be memory or word reaching Kwon's — read as **flash** of Premier after team left.)*
+**Dialogue:** Ttong Kim: "Talentless punks and quitters."
+**Prompt:** `flashback angry coach dismissing departed students premier dojang, STYLE: PREMIER flashback`
 
-### 44.3 — Ramen After [HAIKYUU]
-**Scene:** Logan: "Food fixes everything." · Ethan almost agrees.
-**Prompt:** `team ramen after tape study, STYLE: HAIKYUU`
+### 44.2 — Kwon's Tape Review [HAIKYUU + TEACH contrast] [PRESENT — same evening]
+**Scene:** **Same day** — Kwon's team reviews tape **together**. MV pauses — scoring question.
+**Dialogue:** MV: "What would you do for two points here?" · Kieryn: "Body. Turning. Four." · Logan: "I'd panic." · TJ: "You'd kick."
+**Prompt:** `present team film study together coach asking scoring question warm dojang, STYLE: KWONS HAIKYUU TEACH`
+
+### 44.3 — Ramen After [HAIKYUU] [PRESENT]
+**Scene:** Ramen shop after tape study — team warmth contrast to 44.1.
+**Dialogue:** Logan: "Food fixes everything." · Ethan almost agrees.
+**Prompt:** `present team ramen after tape study warm contrast, STYLE: HAIKYUU KWONS`
 
 ---
 
 ## Chapter 45 — Hospital [REAL #14]
 
-### 45.1 — Weaker Grandmother
+### 45.1 — Weaker Grandmother [PRESENT — hospital]
 **Dialogue:** Grandmother: "You came back to me. That's enough."
-**Prompt:** `hospital grandmother grandson tender, STYLE: PREMIER soft`
+**Prompt:** `present hospital grandmother grandson tender, STYLE: PREMIER soft KWONS`
 
-### 45.2 — Medal He Didn't Win
-**Scene:** Ethan places participation ribbon on blanket — not trophy.
-**Prompt:** `teen placing tournament ribbon on hospital bed, STYLE: PREMIER soft`
+### 45.2 — Medal He Didn't Win [PRESENT — hospital]
+**Scene:** Ethan places **participation ribbon** on blanket — not trophy.
+**Prompt:** `present teen placing tournament ribbon on hospital bed, STYLE: PREMIER soft`
 
 ---
 
 ## Chapter 46 — Threats [REAL #15]
 
-### 46.1 — Call Montage
-**Dialogue:** (voicemail) "Keep talking and I'll make it worse."
-**Prompt:** `threatening phone calls montage, STYLE: PREMIER`
+**Timeline:** **PRESENT** — voicemail montage → **46.2 PRESENT** Kwon's — team notices.
 
-### 46.2 — Logan Notices [HAIKYUU]
+### 46.1 — Call Montage [PRESENT — phone]
+**Dialogue:** (voicemail) "Keep talking and I'll make it worse."
+**Prompt:** `present threatening phone calls montage teen blocking numbers, STYLE: PREMIER KWONS`
+
+### 46.2 — Logan Notices [HAIKYUU] [PRESENT — Kwon's]
 **Scene:** Logan tells TJ quietly — team protective circle forms later.
-**Prompt:** `teammates noticing friend in trouble protective, STYLE: HAIKYUU`
+**Prompt:** `present teammates noticing friend in trouble protective kwons, STYLE: HAIKYUU KWONS`
 
 ---
 
@@ -266,4 +304,4 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 
 ---
 
-**Arc 4 Total: ~82 panels**
+**Arc 4 Total: ~84 panels** (includes **36.0** present anchor · **37.7** present snap)
