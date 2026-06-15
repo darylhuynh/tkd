@@ -4,6 +4,8 @@
 
 Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) to all prompts.
 
+**Premier flash (extended):** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 1 → **15.2b** · § Scene 2 body memory → **15.3** internal.
+
 ---
 
 ## Chapter 11 — Six Reasons (Why We Left)
@@ -162,15 +164,17 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 **Scene:** Paying family private lesson — instructor hands on kid's stance.
 **Prompt:** `private coaching paid student, instructor attentive, STYLE: PREMIER`
 
-### 15.2b — Knockout Bounty [REAL #28]
-**Scene:** Tournament staging — bounty + **Ethan too nice for black belt** — class watching.
-**Dialogue:** Ttong Kim: "One thousand won if you knock them out." · *(to Ethan)* "Too soft."
-**Prompt:** `coach knockout bounty calling student too nice black belt public humiliation, STYLE: PREMIER`
+### 15.2b — Knockout Bounty [REAL #28] ★
+**Scene:** Tournament staging — Ttong Kim holds **1,000 won** (천 원) — **class bounty if their student KOs another** — black belts **finish / put out** opponents — **eyes Ethan** — *too soft for black belt* — classmates watching (some grin, some shoes).
+**Dialogue:** Ttong Kim: **"One thousand won — 천 원 — if your student knocks the other kid out. Not points. Out."** · **"Black belt doesn't mean nice. Black belt means you finish them."** · *(quieter, to Ethan)* **"Too soft. Too nice to be a real black belt."**
+**Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 1
+**Prompt:** `coach holding 1000 won coin knockout bounty speech black belt finish philosophy teen called too soft public humiliation classmates watching, STYLE: PREMIER`
 
 ### 15.3 — Ethan in Corner
-**Scene:** Ethan alone stretching — watches from mirror reflection.
-**Dialogue:** Ethan (internal): *Same floor. Different world.*
-**Prompt:** `lonely teen stretching alone watching favored students in mirror reflection, STYLE: PREMIER`
+**Scene:** Ethan alone stretching — watches favored students from mirror reflection — **two voices**: *knock them out* / *you're too nice*.
+**Dialogue:** Ethan (internal): *Same floor. Different world.* · *I didn't want to knock anyone out. He said that meant I didn't belong.*
+**Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 2
+**Prompt:** `lonely teen stretching alone watching favored students in mirror reflection cautious not hunter, STYLE: PREMIER`
 
 ### 15.4 — Present Snap
 **Scene:** Ethan blinks — back on Kwon's mats. Kian: "You with us?"
@@ -180,6 +184,8 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 ---
 
 ## Chapter 16 — Training Montage [HAIKYUU]
+
+**Script dialogue:** [arc-02-ch12-20-team-building.md](../scripts/arc-02-ch12-20-team-building.md) §16–19
 
 ### 16.1 — TJ Power
 **Scene:** Shield cracks on Emperor's Kick — MV braces hard.
@@ -229,13 +235,28 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 
 ---
 
-## Chapter 18 — Character Bio Cards
+## Chapter 18 — Character Bio Cards [CARD]
 
-### 18.1–18.6 — Stat Card Montage
-**Scene:** Full-page style cards per character (generate as standalone portraits + stat overlay in edit).
-**Prompt (template):** `manhwa character profile card, [CHARACTER FRAGMENT], taekwondo dobok, stat bars, name plate space, clean design, vertical`
+**Script:** [arc-02-ch12-20-team-building.md](../scripts/arc-02-ch12-20-team-building.md) §18 · [CHARACTER-CARDS.md](./CHARACTER-CARDS.md)
 
-Generate six variants swapping character fragment from STORYBOARD-GUIDE.
+### 18.1 — Ethan Card
+**Scene:** Stat card — Ethan Hyun — dobok — quiet intensity.
+**Prompt:** `manhwa character profile card teen boy dark blue hair taekwondo dobok stat bars empty name plate, STYLE: CARD KWONS`
+
+### 18.2 — TJ Card
+**Prompt:** `manhwa character profile card muscular teen teal headband taekwondo dobok empty stats, STYLE: CARD KWONS`
+
+### 18.3 — Kieryn Card
+**Prompt:** `manhwa character profile card teen girl teal purple streak hair taekwondo dobok empty stats, STYLE: CARD KWONS`
+
+### 18.4 — Logan Card
+**Prompt:** `manhwa character profile card short teen bowl cut cheerful taekwondo dobok empty stats, STYLE: CARD KWONS`
+
+### 18.5 — Kian Card
+**Prompt:** `manhwa character profile card teen silver white hair dark skin taekwondo dobok empty stats, STYLE: CARD KWONS`
+
+### 18.6 — Ariana Card
+**Prompt:** `manhwa character profile card teen girl black red streak bob bandaged arms taekwondo dobok empty stats, STYLE: CARD KWONS`
 
 ---
 

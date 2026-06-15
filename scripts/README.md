@@ -46,12 +46,13 @@ Full scene scripts for key chapters — dialogue, action, panel tie-ins.
 
 | Item | Status |
 |------|--------|
-| Arc 2 Ch 16–19 montage dialogue | Expanded in [ch12-20](./arc-02-ch12-20-team-building.md) §16–19 |
-| Arc 4 Ch 47–50 rank discovery | Full script [ch48-49](./arc-04-ch48-49-rank-discovery.md) (Ch 47–50) |
-| Arc 8 Ch 111–115 panel storyboard | Expanded in [arc-08-panel-storyboard.md](../storyboards/arc-08-panel-storyboard.md) §111–115 |
-| Opponent profiles (Min-ho, Do-won, Sung-min) | [characters/](../characters/) |
-| Arc 6 Ch 83–85 team tournament | Expanded in [ch78-85](./arc-06-ch78-85-spotlights.md) §83–85 + [arc-06-panel-storyboard](../storyboards/arc-06-panel-storyboard.md) |
-| Arc 8 Ch 111 flash callbacks | In [ch111-115-closure](./arc-08-ch111-115-closure.md) |
+| Arc 2 Ch 16–19 montage dialogue | ✅ [ch12-20](./arc-02-ch12-20-team-building.md) + [arc-02-panel-storyboard](../storyboards/arc-02-panel-storyboard.md) §16–19 |
+| Arc 4 Ch 47–50 rank discovery | ✅ [ch48-49](./arc-04-ch48-49-rank-discovery.md) + [arc-04-panel-storyboard](../storyboards/arc-04-panel-storyboard.md) §47–50 |
+| Premier flash extended refs in storyboards | ✅ [STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) flash map · Arc 1–4 panels |
+| Pineapple Fanta thread in storyboards | ✅ [short-yuna-pineapple-fanta](./short-yuna-pineapple-fanta.md) · Arc 3/5/6/7 panels |
+| Arc 8 Ch 111 flash callbacks | ✅ [arc-08-panel-storyboard](../storyboards/arc-08-panel-storyboard.md) §111.1–111.4 |
+| Opponent profiles (Min-ho, Do-won, Sung-min) | ✅ [characters/](../characters/) |
+| Arc 6 Ch 83–85 team tournament | ✅ [ch78-85](./arc-06-ch78-85-spotlights.md) + [arc-06-panel-storyboard](../storyboards/arc-06-panel-storyboard.md) |
 
 ---
 

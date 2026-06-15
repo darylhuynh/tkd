@@ -10,13 +10,35 @@ Master reference for all panel-by-panel AI prompts across the series.
 |-----|----------|------|-----------------|
 | 1 — New Beginnings | 1–10 | [arc-01-panel-storyboard.md](./arc-01-panel-storyboard.md) | 69 |
 | 2 — The Team | 11–20 | [arc-02-panel-storyboard.md](./arc-02-panel-storyboard.md) | 76 |
-| 3 — First Tournament | 21–35 | [arc-03-panel-storyboard.md](./arc-03-panel-storyboard.md) | 78 → ~105 |
-| 4 — The Shadow School | 36–50 | [arc-04-panel-storyboard.md](./arc-04-panel-storyboard.md) | 68 |
+| 3 — First Tournament | 21–35 | [arc-03-panel-storyboard.md](./arc-03-panel-storyboard.md) | 78 → **~87** |
+| 4 — The Shadow School | 36–50 | [arc-04-panel-storyboard.md](./arc-04-panel-storyboard.md) | 68 → **~82** |
 | 5 — The Road to Korea | 51–70 | [arc-05-panel-storyboard.md](./arc-05-panel-storyboard.md) | 74 → ~82 |
 | 6 — Korea Regionals | 71–90 | [arc-06-panel-storyboard.md](./arc-06-panel-storyboard.md) | 72 → ~80 |
 | 7 — Legends | 91–110 | [arc-07-panel-storyboard.md](./arc-07-panel-storyboard.md) | 70 → ~85 |
 | 8 — Closure | 111–120 | [arc-08-panel-storyboard.md](./arc-08-panel-storyboard.md) | 58 → ~70 |
 | **Total** | **120** | | **~620+** *(expanded fights + `[CARD]`)* |
+
+---
+
+## Premier Flashbacks & Short Threads
+
+Extended dialogue lives in `scripts/` — storyboards below are the **panel attach map**. Always **`STYLE: PREMIER`** inside flash; explicit return to present palette.
+
+### Premier flash scripts
+
+| Script | REAL # | Storyboard slots |
+|--------|--------|------------------|
+| [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) | #28 | Arc 1 **1.13b** · Arc 2 **15.2b** · Arc 3 **22.4** (MV contrast) · Arc 4 **39.2** · **40.2** (optional inset) |
+| [flash-premier-board-break.md](../scripts/flash-premier-board-break.md) | #24, #9, #10 | Arc 3 **§28.1–28.8** · Arc 4 **§36.0–36.2** · Ch 35 eval callback |
+| [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md) | #9, #25–27 | Arc 4 **§37.2–37.6** · Ch 42–43 callbacks |
+
+**Rule:** Flash triggered by **present stimulus** — never orphan flash chapters. Full integration checklist: [scripts/README.md](../scripts/README.md).
+
+### Shorts & threads
+
+| Script | Thread | Storyboard slots |
+|--------|--------|------------------|
+| [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) | Ethan's drink · Yuna observes → gifts Ch 108 | Arc 3 **§34.4–34.10** · Arc 5 **§63.3–63.4** · Arc 6 **§77.7** · Arc 7 **§108.2–108.4** |
 
 ---
 

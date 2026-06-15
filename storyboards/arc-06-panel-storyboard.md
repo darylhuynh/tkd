@@ -4,6 +4,8 @@
 
 Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC-TKD-EDUCATION.md](../OLYMPIC-TKD-EDUCATION.md).
 
+**Short thread:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) § Arc 6 → **77.7**
+
 ---
 
 ## Chapters 71–73 — Arrival [HAIKYUU]
@@ -88,6 +90,11 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Scene:** Bell — Ethan wins round on points — **match may still be lost** — moral endurance.
 **Dialogue:** MV: "You outworked them. Points aren't the only language."
 **Prompt:** `fighter round three victory exhaustion neverending endurance, STYLE: KOREA TEACH HAIKYUU`
+
+### 77.9 — Yuna Thread Inset [short]
+**Scene:** Poomsae stands — Yuna's bag — **Pineapple Fanta packed, never given** — Ethan loses on points (wide) — fingers on cold can until flat — drinks on hotel bus — *Not yet. Wrong moment.*
+**Script:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) § Arc 6
+**Prompt:** `girl holding warm soda can watching sparring loss from stands not giving gift yet, STYLE: KOREA soft`
 
 ### 78.1 — TJ Emperor's Kick
 **Scene:** Injury managed — clean power score **+2**.

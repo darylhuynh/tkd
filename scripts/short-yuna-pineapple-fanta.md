@@ -1,7 +1,8 @@
 # Short Story — How Yuna Learned About the Pineapple Fanta
 
 **Character:** Yuna Park · Ethan Hyun  
-**Placement in series:** Happens **Arc 3, Chapter 34** (first gift seed) — **woven into** [arc-03-ch32-35-tournament-close.md](./arc-03-ch32-35-tournament-close.md) · recalled **Arc 7, Chapter 108**  
+**Placement in series:** Happens **Arc 3, Chapter 34** (first gift seed) — **woven into** [arc-03-ch32-35-tournament-close.md](./arc-03-ch32-35-tournament-close.md) · recalled **Arc 5 Ch 63** · **Arc 6 Ch 77** · **Arc 7, Chapter 108**  
+**Panels:** [arc-03-panel-storyboard.md](../storyboards/arc-03-panel-storyboard.md) §34.4–34.10 · [arc-05-panel-storyboard.md](../storyboards/arc-05-panel-storyboard.md) §63.3–63.4 · [arc-06-panel-storyboard.md](../storyboards/arc-06-panel-storyboard.md) §77.9 · [arc-07-panel-storyboard.md](../storyboards/arc-07-panel-storyboard.md) §108.2–108.4  
 **Length:** ~800 words · can run as one webtoon interlude (8–12 panels)
 
 ---

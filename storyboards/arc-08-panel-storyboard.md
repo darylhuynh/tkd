@@ -3,7 +3,8 @@
 **Closure** · Forgiveness, final team dinner, character over rank, team photo.
 
 **Scripts:** [arc-08-ch111-115-closure.md](../scripts/arc-08-ch111-115-closure.md) · [arc-08-ch116-120-epilogue.md](../scripts/arc-08-ch116-120-epilogue.md)  
-**Arc doc:** [arc-08-closure.md](../arcs/arc-08-closure.md)
+**Arc doc:** [arc-08-closure.md](../arcs/arc-08-closure.md)  
+**Premier flash (Ch 113):** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) · [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md) — pity not revenge · STYLE: PREMIER soft through glass
 
 Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC-TKD-EDUCATION.md](../OLYMPIC-TKD-EDUCATION.md).
 
@@ -32,26 +33,26 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 111.1 — Door Frame [HAIKYUU · Arc 1 callback]
 **Scene:** Week after van home — Ethan at entrance — hand on frame — **no headphones** — same amber light as Arc 1 Ch 2.
-**Dialogue (V.O.):** *Same feeling. Different reason.*
+**Dialogue (V.O.):** *Arc 1 — I stood here because I didn't trust anyone.* · *Arc 7 — I stood in a hallway in Korea because TJ's name was on a board and mine wasn't.* · *Same feeling. Different reason.*
 **Prompt:** `teen at dojang door frame hesitation morning orange light full circle callback, STYLE: KWONS HAIKYUU`
 
-### 111.2 — Alone Bow
+### 111.1b — Alone Bow
 **Scene:** Empty mat — third line from mirror — Ethan bows to room alone — slow footwork.
-**Dialogue (V.O.):** *TJ made it. I didn't. Not the end.*
-**Prompt:** `teen alone bowing empty taekwondo dojang silver letter belt, STYLE: KWONS`
+**Dialogue (V.O.):** *TJ made it. I didn't.* · *(footwork)* *Not the end.*
+**Prompt:** `teen alone bowing empty taekwondo dojang silver letter belt slow footwork, STYLE: KWONS`
 
-### 111.3 — National Team Jacket [HAIKYUU]
+### 111.2 — National Team Jacket [HAIKYUU]
 **Scene:** TJ tries to hide warm-up jacket — Logan whisper-shout — Kian: *It's both.*
-**Dialogue:** TJ: "It's a jacket, not a crown." · Kieryn: "If you bow slower because of that lanyard I will kick you."
+**Dialogue:** TJ: "It's a jacket, not a crown." · Kieryn: "If you bow slower because of that lanyard I will kick you." · TJ: *(small smile)* "Please don't. National team insurance is confusing."
 **Prompt:** `captain national team jacket team teasing proud haikyuu, STYLE: KWONS HAIKYUU`
 
-### 111.4 — Line Beside Ariana
-**Scene:** Drill line — Ethan beside **Ariana** workhorse pace — not beside TJ — MV counts.
+### 111.3 — Line Beside Ariana
+**Scene:** Drill line — Ethan beside **Ariana** workhorse pace — not beside TJ — MV counts normal drill.
 **Prompt:** `team training line drill no showing off workhorse pace, STYLE: KWONS`
 
-### 111.5 — MV Office · SNU Envelope [TEACH]
+### 111.4 — MV Office · SNU Envelope [TEACH]
 **Scene:** MV slides **Seoul National University** receipt — *school AND taekwondo — whole person.*
-**Dialogue:** MV: "Welcome back to the mat."
+**Dialogue:** MV: "You came back first today." · Ethan: "Couldn't sleep." · MV: "Neither could half the team." · MV: **"Welcome back to the mat."**
 **Prompt:** `coach mentor SNU envelope desk honest talk not soft, STYLE: KWONS TEACH HAIKYUU`
 
 ---

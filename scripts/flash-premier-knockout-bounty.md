@@ -2,7 +2,7 @@
 ## *REAL #28 · Ttong Kim · Premier Tournament*
 
 **Character:** Ttong Kim · Ethan Hyun · Premier class (composite)  
-**Placement:** **Arc 1 Ch 1** (nightmare) · **Arc 2 Ch 15** (flash in [ch12-20](./arc-02-ch12-20-team-building.md)) · **Arc 3 Ch 22** ([ch21-24](./arc-03-ch21-24-first-tournament-prep.md) huddle contrast) · **Arc 4 Ch 39**  
+**Panels:** Arc 1 **1.13b** · Arc 2 **15.2b** · Arc 3 **22.4** (MV contrast) · Arc 4 **39.2** · **40.2** (optional inset)  
 **Tone:** Institutional violence incentivized — small money, huge moral rot. **Not played for comedy.**
 
 **Preserve exact detail:** **1,000 won** (천 원) — offered to the **class/school** if **their student knocks out** another student at **competition** — plus instructor saying **black belts should knock out opponents**, and **Ethan is too nice / too soft** for black belt.

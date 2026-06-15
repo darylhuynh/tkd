@@ -4,7 +4,7 @@
 **Character:** Ethan Hyun (young teen) · **Ttong Kim** · favored student (composite) · crowd/parents  
 **Placement:** **Arc 3, Chapter 28** (flashback during Ch 25 loss) · extended **Arc 4, Chapter 36**  
 **Tone:** Not triumph — exhaustion, institutional cruelty, favoritism  
-**Panels:** [arc-03-panel-storyboard.md](../storyboards/arc-03-panel-storyboard.md) §28.1–28.7 · [arc-04-panel-storyboard.md](../storyboards/arc-04-panel-storyboard.md) §36.0–36.2
+**Panels:** [arc-03-panel-storyboard.md](../storyboards/arc-03-panel-storyboard.md) §28.1–28.8 · [arc-04-panel-storyboard.md](../storyboards/arc-04-panel-storyboard.md) §36.0a–36.0c, 36.1–36.2 · Ch 35 eval callback
 
 ---
 

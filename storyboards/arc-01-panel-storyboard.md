@@ -6,6 +6,8 @@ Append [Global Style from STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md) to all prompt
 
 **Reference sheets:** [reference-sheets/](../reference-sheets/README.md) — attach Ethan, MV, Ttong Kim refs for Ch 1–10 batch gen.
 
+**Premier flash (extended):** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 1 → **1.13b** · § Scene 2 → **1.14–1.16** bridge.
+
 ---
 
 ## How to Use

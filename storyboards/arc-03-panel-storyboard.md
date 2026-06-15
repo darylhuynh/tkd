@@ -4,6 +4,9 @@
 
 Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC-TKD-EDUCATION.md](../OLYMPIC-TKD-EDUCATION.md).
 
+**Premier flash (extended):** [flash-premier-board-break.md](../scripts/flash-premier-board-break.md) → **§28.1–28.8** · [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 3 → **22.4**  
+**Short thread:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) → **§34.4–34.10**
+
 ---
 
 ## Chapter 21 — Equipment Fitting [TEACH + CARD]
@@ -59,9 +62,9 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 22.4 — No Knockout Bounty [REAL #28 contrast]
 **Scene:** MV team huddle — safety briefing before matches.
-**Dialogue:** MV: "Black belt means **discipline**, not cruelty. We do **not** chase knockouts." · Ethan: "He said I was too **nice** to be one." · Kieryn: "That's not taekwondo."
+**Dialogue:** MV: "We win on **points**. We win on **control**. We do **not** chase knockouts. Black belt means **discipline**, not cruelty." · Logan: *(whisper)* "Was that… a thing somewhere?" · Ethan: "Thousand won. If you knock them out. He said I was **too nice** to be one." · Kieryn: "That's not taekwondo. That's a lawsuit." · MV: "Head kicks are three points — not invitations to hurt someone for show."
 **Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 3
-**Prompt:** `coach team huddle black belt discipline not cruelty tournament briefing, STYLE: KWONS HAIKYUU TEACH`
+**Prompt:** `coach team huddle black belt discipline not cruelty tournament briefing contrast flashback trauma, STYLE: KWONS HAIKYUU TEACH`
 
 ---
 
@@ -171,7 +174,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ## Chapters 26–30 — Black Belt Flashback [REAL #10–13, #24]
 
-**Board break script:** [flash-premier-board-break.md](../scripts/flash-premier-board-break.md)
+**Board break script:** [flash-premier-board-break.md](../scripts/flash-premier-board-break.md) — panel map: **28.1** opening · **28.2** 20 min · **28.3** 40 min clock · **28.4** self-adjust break · **28.5** 1/5 · **28.6** parent whispers · **28.7** bonus second place · **28.8** hollow ceremony
 
 ### 26.1 — Warm Opening [REAL]
 **Scene:** Young Ethan white belt — Premier small dojang. Instructor smiles.
@@ -354,10 +357,47 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Scene:** Premier students in crowd — glare at Ethan. Ethan doesn't flinch.
 **Prompt:** `rival school students glaring from crowd protagonist calm, STYLE: TOURNAMENT`
 
-### 34.3 — Poomsae Ring [TEACH seed + Yuna seed]
+### 34.3 — Poomsae Ring [TEACH seed]
 **Scene:** Adjacent ring — Yuna Park forms poomsae. Ethan glances — MV: "Different sport. Same discipline."
-**Optional inset:** Later — Ethan at **vending machine**, Pineapple Fanta after loss (see [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md))
-**Prompt:** `poomsae athlete performing forms adjacent sparring ring, STYLE: TOURNAMENT TEACH`
+**Prompt:** `poomsae athlete performing forms adjacent sparring ring team watching, STYLE: TOURNAMENT TEACH`
+
+---
+
+## Chapter 34b — Pineapple Fanta Thread [Yuna seed]
+
+**Script:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) § Arc 3
+
+### 34.4 — Vending Machine
+**Scene:** West Regional hallway — **same day as Ch 25 loss** *(chronology inset; read before 34.1 or as interlude)* — **one yellow can left**. Ethan half-geared — headphones around neck (first time Yuna sees them off).
+**Prompt:** `tournament hallway vending machine one yellow soda can left teen in partial taekwondo gear, STYLE: TOURNAMENT`
+
+### 34.5 — Procedure
+**Scene:** Coins *clink* — **Pineapple Fanta** drops — Ethan opens like **procedure**: sip, breathe, shoulders drop one inch.
+**Dialogue:** Ethan (internal): *Open. Sip. Breathe.*
+**Prompt:** `teen buying pineapple fanta soda vending machine ritual not happy not sad mask returning, STYLE: TOURNAMENT`
+
+### 34.6 — Logan Interruption [HAIKYUU]
+**Scene:** Logan bounds over — too loud for hallway.
+**Dialogue:** Logan: "Hyung! They have grape too—" · Ethan: "Not the same." · Logan: "It's both sugar!" · Ethan: *(walking)* "Pineapple."
+**Prompt:** `cheerful little brother interrupting quiet teen soda vending machine comedy, STYLE: TOURNAMENT HAIKYUU`
+
+### 34.7 — Yuna Watches
+**Scene:** Yuna from poomsae warm-up area — not teammate — just watching empty space where Ethan was.
+**Dialogue:** Yuna (internal): *Never tried it. Mom only buys barley tea.*
+**Prompt:** `poomsae girl athlete watching from distance curious quiet observer, STYLE: TOURNAMENT`
+
+### 34.8 — Corner Store
+**Scene:** Bus home — Yuna stops — buys Pineapple Fanta — too sweet, too yellow — doesn't throw away.
+**Prompt:** `teen girl buying yellow pineapple soda corner store bus stop evening, STYLE: KWONS casual`
+
+### 34.9 — Notebook Margin
+**Scene:** Poomsae notebook close-up — small handwriting.
+**Dialogue (overlay):** *The quiet boy from sparring — pineapple soda after he loses. Remember.*
+**Prompt:** `notebook margin handwritten note small letters poomsae athlete journal, STYLE: KWONS soft`
+
+### 34.10 — Parking Lot Echo
+**Scene:** Team loading van — Ethan holds empty **yellow can** — Yuna across lot with her unopened can — no wave yet — parallel strangers.
+**Prompt:** `tournament parking lot team loading van teen with soda can girl watching from distance, STYLE: TOURNAMENT soft`
 
 ---
 
@@ -384,4 +424,4 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ---
 
-**Arc 3 Total: ~78 panels**
+**Arc 3 Total: ~87 panels**

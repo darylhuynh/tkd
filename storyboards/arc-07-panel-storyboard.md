@@ -323,7 +323,8 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 
 ## Chapters 107–110 — Selection Board
 
-**Script:** [arc-07-ch107-110-national-selection.md](../scripts/arc-07-ch107-110-national-selection.md)
+**Script:** [arc-07-ch107-110-national-selection.md](../scripts/arc-07-ch107-110-national-selection.md)  
+**Short thread:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) → **108.2–108.4**
 
 ### 107.1 — Names Posted ★
 **Scene:** **TJ LIM — SELECTED**. Ethan not. Kian (QF) · Kieryn (SF) · Ariana (R1) · Logan (non-competitor).
@@ -334,9 +335,20 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 **Dialogue:** Kieryn: "Semis." · Kian: "Quarters." · Ariana: "Gam-jeom on the tenth. I still love this."
 **Prompt:** `teens positive after elimination one year younger mindset, STYLE: KOREA HAIKYUU`
 
-### 108.2 — Yuna Distance
-**Scene:** Pineapple Fanta on bag — note **"Y"** — flashback inset.
-**Prompt:** `girl leaving pineapple fanta on gear bag sticky note, STYLE: KOREA`
+### 108.2 — Gift on the Bag ★
+**Scene:** Night — **Pineapple Fanta** on Ethan's gear bag — sticky note **"Y"** — Ethan alone in hallway.
+**Dialogue:** Ethan (internal): *Yellow can. Not grape.*
+**Prompt:** `pineapple fanta soda on taekwondo gear bag sticky note Y hallway night, STYLE: KOREA`
+
+### 108.3 — Thread Flashback Montage
+**Scene:** Three quick insets — **34.5** vending procedure · **63.3** Logan halmeoni leak · **77.9** can gone flat — return present.
+**Script:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) — full thread
+**Prompt:** `montage flashback inset yellow soda can vending machine rules clinic korea stands, STYLE: KOREA soft`
+
+### 108.4 — First Sip After Loss
+**Scene:** Ethan opens can — same shoulder drop as Ch 34 — doesn't cry — texts no one — keeps note in pocket.
+**Dialogue:** Ethan (V.O.): *She remembered. After I didn't make it.*
+**Prompt:** `teen drinking pineapple fanta alone hallway after elimination quiet gratitude, STYLE: KOREA soft HAIKYUU`
 
 ### 109.1 — Parking Lot [HAIKYUU]
 **Scene:** Lanyard · SNU homework · sunset load-in.

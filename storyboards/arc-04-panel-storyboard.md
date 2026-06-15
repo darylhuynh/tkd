@@ -4,6 +4,10 @@
 
 Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 
+**Premier flash (extended):** [flash-premier-board-break.md](../scripts/flash-premier-board-break.md) → **§36.0–36.2** · [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md) → **§37.2–37.6** · [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 4 → **39.2** · § Scene 5 → **40.2**
+
+**Script (Ch 47–50 polish):** [arc-04-ch48-49-rank-discovery.md](../scripts/arc-04-ch48-49-rank-discovery.md)
+
 ---
 
 ## Chapter 36 — Black Belt Hollow [REAL #10, #24]
@@ -11,8 +15,21 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 **Script:** [flash-premier-board-break.md](../scripts/flash-premier-board-break.md)
 
 ### 36.0 — Board Break Hour [REAL #24] ★
-**Scene:** Extended flashback — wrong **position/height** entire hour — **Ttong Kim silent** — break only when Ethan **adjusts alone** — parent whispers after: move board closer, coach should've spoken.
-**Prompt:** `extended montage belt test wrong board position silent instructor parent whispers, STYLE: PREMIER`
+**Script:** [flash-premier-board-break.md](../scripts/flash-premier-board-break.md) — extended montage
+
+### 36.0a — Wrong Setup
+**Scene:** Testing gym — Ethan **smallest, youngest** — board **too thick** — parent volunteer holder — Ttong Kim flat: *Punch through. Don't embarrass the school.*
+**Prompt:** `belt test board break station smallest teen adult sized board silent instructor, STYLE: PREMIER`
+
+### 36.0b — Silent Hour
+**Scene:** Montage — knuckles pink → clock hands move → **Ttong Kim never adjusts stance, height, or distance** — talks to other parents while Ethan punches wrong angle below center line.
+**Dialogue:** Parent (O.S.): "Can he stop?" · Ttong Kim (O.S.): *(to someone else)* "Good power. Needs commitment."
+**Prompt:** `montage hour passing teen punching wrong board position coach ignoring feet silent cruelty, STYLE: PREMIER`
+
+### 36.0c — Self-Fix & Whispers
+**Scene:** Ethan **steps in, rotates hip** — board splits — stumbles — **hand black and blue** — bleacher whispers: *move board closer* · *wrong spot whole hour* · *coach should've said one word*.
+**Dialogue:** Father (O.S., hoarse): "He figured it out **himself**. After an hour."
+**Prompt:** `teen finally breaks board exhausted bruised fist parents whispering coach silence, STYLE: PREMIER`
 
 ### 36.1 — Ceremony Hands
 **Scene:** Instructor cold handshake — Ethan 3rd dan certificate.
@@ -31,7 +48,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 
 ## Chapter 37 — Favoritism Archive [REAL #5,6,9,25,26,27]
 
-**Script:** [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md)
+**Script:** [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md) — scene map: **§1** → 37.3 · **§2** → 37.2, 37.4 · **§3** → 37.5 · bonus → 37.6 · pay-to-train → 37.1
 
 ### 37.1 — Pay-to-Train Montage
 **Scene:** Three quick panels — checks, gear, private lessons.
@@ -76,10 +93,15 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 
 ## Chapter 39 — Temperament [REAL #2, #28]
 
-### 39.1 — Dismissal
+### 39.1 — Dismissal [REAL #2]
 **Dialogue:** Instructor: **"I don't think he has the temperament to become a world-class black belt."**
-**Ethan (V.O. — bridge to #28):** *Because I wouldn't knock people out for 천 원. Because I was **nice**.*
 **Prompt:** `coach dismissing student to parent flashback too soft black belt, STYLE: PREMIER`
+
+### 39.2 — Bounty Memory [REAL #28] ★
+**Scene:** Same conversation — **[FLASH inset]** — staging hall — **1,000 won** — *too nice* — cuts back to parent nodding.
+**Dialogue:** Ethan (V.O.): *Because I wouldn't knock people out for **천 원**. Because I was **nice**.*
+**Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 4
+**Prompt:** `flashback inset 1000 won coin knockout bounty overlaid on parent meeting too nice for black belt, STYLE: PREMIER`
 
 ---
 
@@ -88,6 +110,11 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 ### 40.1 — Parent Meeting
 **Dialogue:** Instructor: "Refs cheated you. Other schools buy belts."
 **Prompt:** `coach lying to parents post tournament meeting, STYLE: PREMIER`
+
+### 40.2 — Finishers Philosophy [REAL #28]
+**Scene:** Parent asks if KO is dangerous — **[FLASH inset]** — Ttong Kim: *Only if you're weak. We train finishers. Black belts finish.*
+**Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 5
+**Prompt:** `flashback inset coach saying black belts finish knockouts parent meeting unsettling, STYLE: PREMIER`
 
 ---
 
@@ -168,45 +195,75 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 
 ---
 
-## Chapter 47–48 — Rank Discovery [REAL #16–18]
+## Chapter 47 — Rumor [REAL #16]
 
-### 47.1 — Food Court Rumor
-**Dialogue:** Friend: "He's not even a real master."
-**Prompt:** `food court friends gossip, STYLE: KWONS casual`
+**Script:** [arc-04-ch48-49-rank-discovery.md](../scripts/arc-04-ch48-49-rank-discovery.md) § Ch 47
 
-### 48.1 — Laptop Research
-**Scene:** Credential database — **2nd Dan Instructor**.
-**Prompt:** `laptop taekwondo credential search results, STYLE: KWONS`
+### 47.1 — Food Court Ramen
+**Scene:** Neutral ground — former Premier classmate stirs ramen — tired, not hostile.
+**Dialogue:** Friend: "Did you hear? He's not even a real **master**." · "Legally. Dan rank. I looked it up for a joke and now I can't unsee it." · Ethan: *(flat)* "What did you find?"
+**Prompt:** `food court friends gossip ramen neutral territory, STYLE: KWONS casual`
 
-### 48.2 — Laughter
-**Dialogue:** Ethan: "I'm third dan. I outrank him."
-**Prompt:** `teen laughing disbelief laptop, STYLE: KWONS`
+### 47.2 — Link Sent
+**Scene:** Phone buzz — Ethan reads — doesn't react yet — friend: *Don't start a war. I just thought you should know you're not crazy.*
+**Prompt:** `teen reading phone message stoic food court table, STYLE: KWONS`
+
+---
+
+## Chapter 48 — Research [REAL #17–18]
+
+**Script:** [arc-04-ch48-49-rank-discovery.md](../scripts/arc-04-ch48-49-rank-discovery.md) § Ch 48
+
+### 48.1 — Credential Database
+**Scene:** Ethan's room — laptop — official registry.
+**On screen:** **Kim, Ttong — 2nd Dan — Instructor Level — Premier Taekwondo Sports Dynasty**
+**Prompt:** `laptop taekwondo credential search results official registry, STYLE: KWONS`
+
+### 48.2 — Own Profile Tab
+**Scene:** Split screen — Ethan's Kwon's paperwork tab: **Hyun, Ethan — 3rd Dan** — scroll again — same result.
+**Prompt:** `laptop split screen two dan rank profiles comparison, STYLE: KWONS`
+
+### 48.3 — Laughter Release ★
+**Scene:** Ethan alone — breath hitches — **laughter** — tears different from Arc 3 — can't stop.
+**Dialogue:** Ethan: *(to empty room)* **"I'm third dan. I outrank him."**
+**Prompt:** `teen laughing disbelief relief tears laptop room cathartic, STYLE: KWONS`
 
 ---
 
 ## Chapter 49 — Comedy Chapter [HAIKYUU]
 
-### 49.1 — TJ Dies Laughing
-**Scene:** TJ on floor — can't breathe. Kieryn deadpan.
-**Dialogue:** Kieryn: "That explains the gear obsession." · Kian: "Actually… yeah."
-**Prompt:** `team dying laughing comedy beat dojang floor, STYLE: HAIKYUU`
+**Script:** [arc-04-ch48-49-rank-discovery.md](../scripts/arc-04-ch48-49-rank-discovery.md) § Ch 49
 
-### 49.2 — Ariana Almost Smiles
-**Scene:** Ariana corner of mouth — returns to stretching.
-**Prompt:** `stoic girl almost smiling team comedy, STYLE: HAIKYUU`
+### 49.1 — Whisper to TJ
+**Scene:** Ethan pulls TJ aside on mat — whisper — TJ processing.
+**Dialogue:** TJ: "Wait. Wait wait wait—" · TJ: *(drops to mat wheezing)* "He called **you** too soft?!"
+**Prompt:** `team captain collapsing laughing dojang floor comedy, STYLE: HAIKYUU`
+
+### 49.2 — Team Audit
+**Scene:** Whole team hears — Logan wide-eyed — Kieryn deadpan — Kian reconsidering.
+**Dialogue:** Kieryn: "That explains the gear obsession." · Kian: "Actually… yeah." · Logan: "So Ethan could've… ordered him around?" · Ethan: "Technically on paper—" · MV: *(door)* "If you're done auditing the universe, water break."
+**Prompt:** `team dying laughing rank discovery comedy beat dojang, STYLE: HAIKYUU`
+
+### 49.3 — Ariana Almost Smiles
+**Scene:** Ariana corner of mouth — returns to stretching — nobody comments.
+**Prompt:** `stoic girl almost smiling team comedy background stretching, STYLE: HAIKYUU`
 
 ---
 
 ## Chapter 50 — Letting Go
 
-### 50.1 — MV Wisdom
-**Dialogue:** MV: "Rank is paperwork. Character is what you do next."
-**Prompt:** `coach wisdom talk teen listening, STYLE: KWONS`
+**Script:** [arc-04-ch48-49-rank-discovery.md](../scripts/arc-04-ch48-49-rank-discovery.md) § Ch 50
 
-### 50.2 — Ethan Trains Alone — Smiling
-**Scene:** Late night mat — first smile while kicking.
-**Prompt:** `teen training alone smiling at night dojang, STYLE: KWONS`
+### 50.1 — MV Wisdom
+**Scene:** MV and Ethan alone after class.
+**Dialogue:** MV: "You verified rank. Good. Now don't confuse paperwork with permission to be cruel." · MV: **"Rank is paperwork. Character is what you do next."** · Ethan: "He still messaged my grandmother's hospital week." · MV: "Then you delete. You train. You don't become him to beat him."
+**Prompt:** `coach wisdom talk teen listening honest not soft, STYLE: KWONS`
+
+### 50.2 — Late Night Mat ★
+**Scene:** Lights low — roundhouse into shield — again — last threatening voicemail **delete** — **first smile while kicking** in series.
+**Dialogue:** Ethan (V.O.): *Third dan. Still scared sometimes. Not of his belt anymore.*
+**Prompt:** `teen training alone smiling at night dojang deleting phone threat, STYLE: KWONS`
 
 ---
 
-**Arc 4 Total: ~68 panels**
+**Arc 4 Total: ~82 panels**

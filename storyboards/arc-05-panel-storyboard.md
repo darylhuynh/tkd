@@ -191,6 +191,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ## Chapters 63–65 — Poomsae & Yuna [TEACH]
 
+**Short thread:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) § Arc 5 → **63.3–63.4**
+
 ### 63.1 — Forms vs Sparring [TEACH]
 **Scene:** Yuna Park demo poomsae — MV explains difference to team.
 **Dialogue:** MV: "Poomsae is precision without an opponent. Sparring is precision with chaos."
@@ -199,6 +201,17 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 63.2 — Yuna & Ethan Quiet
 **Scene:** Ethan helps translate rules pamphlet — shared silence.
 **Prompt:** `two quiet teens studying taekwondo rules pamphlet, STYLE: KWONS`
+
+### 63.3 — Logan Leak [HAIKYUU]
+**Scene:** Rules clinic — Yuna sees empty **Pineapple Fanta** in recycling by Ethan's bag — Logan zero filter.
+**Dialogue:** Logan: "Oh — that's Hyung's victory drink! Also his losing drink. Also his Tuesday drink." · Yuna: "…Pineapple Fanta?" · Logan: "Only the yellow one!" · Logan: *(whisper)* "Halmeoni used to buy it. Before hospital. Now he buys it himself."
+**Script:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) § Arc 5
+**Prompt:** `rules clinic recycling bin pineapple soda can brother explaining too much comedy, STYLE: KWONS HAIKYUU`
+
+### 63.4 — Shield Up
+**Scene:** Ethan looks up — headphones one ear off — Yuna holds pamphlet like shield — *Section four* — Logan still whispering.
+**Dialogue:** Yuna: *(too fast)* "Nothing. Rules pamphlet. Section four." · Ethan: *(nods)* · headphones back on.
+**Prompt:** `shy girl deflecting with rules pamphlet teen boy headphones awkward almost moment, STYLE: KWONS`
 
 ### 64.1 — Clinch Kick Illegal [TEACH]
 **Scene:** Kian clinch — ref reset. Legal clinch kick vs grab explained.
