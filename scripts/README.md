@@ -22,37 +22,7 @@ Full scene scripts for key chapters — dialogue, action, panel tie-ins.
 
 ★ = major emotional / flash-integration anchor chapters
 
----
-
-## Premier Flashbacks (extended reference)
-
-| Script | Woven into |
-|--------|------------|
-| [flash-premier-board-break.md](./flash-premier-board-break.md) | Arc 3 Sc 3 · Arc 4 ch36-37 · Ch 35 eval |
-| [flash-premier-girl-favoritism.md](./flash-premier-girl-favoritism.md) | Arc 4 ch36-37 · ch38-46 |
-| [flash-premier-knockout-bounty.md](./flash-premier-knockout-bounty.md) | Arc 1 · 2 · **3 Ch 22** · 4 |
-
----
-
-## Shorts & Threads
-
-| Script | File |
-|--------|------|
-| Pineapple Fanta (Yuna) | [short-yuna-pineapple-fanta.md](./short-yuna-pineapple-fanta.md) |
-
----
-
-## Optional polish (not blocking)
-
-| Item | Status |
-|------|--------|
-| Arc 2 Ch 16–19 montage dialogue | ✅ [ch12-20](./arc-02-ch12-20-team-building.md) + [arc-02-panel-storyboard](../storyboards/arc-02-panel-storyboard.md) §16–19 |
-| Arc 4 Ch 47–50 rank discovery | ✅ [ch48-49](./arc-04-ch48-49-rank-discovery.md) + [arc-04-panel-storyboard](../storyboards/arc-04-panel-storyboard.md) §47–50 |
-| Premier flash extended refs in storyboards | ✅ [STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) flash map · Arc 1–4 panels |
-| Pineapple Fanta thread in storyboards | ✅ [short-yuna-pineapple-fanta](./short-yuna-pineapple-fanta.md) · Arc 3/5/6/7 panels |
-| Arc 8 Ch 111 flash callbacks | ✅ [arc-08-panel-storyboard](../storyboards/arc-08-panel-storyboard.md) §111.1–111.4 |
-| Opponent profiles (Min-ho, Do-won, Sung-min) | ✅ [characters/](../characters/) |
-| Arc 6 Ch 83–85 team tournament | ✅ [ch78-85](./arc-06-ch78-85-spotlights.md) + [arc-06-panel-storyboard](../storyboards/arc-06-panel-storyboard.md) |
+**Extended Premier flash dialogue** and **short threads** (e.g. Pineapple Fanta): full prose in `flash-premier-*.md` and `short-*.md` — **panel attach map** lives in [STORYBOARD-GUIDE § Premier Flashbacks & Short Threads](../storyboards/STORYBOARD-GUIDE.md#premier-flashbacks--short-threads), not here.
 
 ---
 
@@ -68,4 +38,4 @@ Full scene scripts for key chapters — dialogue, action, panel tie-ins.
 
 ## Links
 
-- [arcs/](../arcs/) · [storyboards/](../storyboards/) · [REAL-EVENTS-INDEX.md](../REAL-EVENTS-INDEX.md)
+- [storyboards/](../storyboards/) · [STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) · [arcs/](../arcs/) · [REAL-EVENTS-INDEX.md](../REAL-EVENTS-INDEX.md)
