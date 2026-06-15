@@ -1,0 +1,20 @@
+{
+  "character_id": "ethan-hyun",
+  "canon_name": "Ethan Hyun",
+  "age": 15,
+  "height": "5'3\"",
+  "weight": "95 lbs",
+  "division": "Junior -45kg",
+  "belt": "3rd Dan",
+  "school": "Kwon's Taekwondo Academy",
+  "dobok": "standard white dobok, silver belt letters (post), guards under",
+  "source": "Google Sheet tab: Ethan Hyun",
+  "invalid_ai_names": ["Jay Park", "Kwon Euisik"],
+  "files": {
+    "casual-front.png": "Off-mat — oversized navy hoodie, white tee hanging out, baggy pants, gold headphones, white backpack",
+    "dobok-front.png": "Training — standard white dobok, guards under, plain black belt",
+    "gear-front.png": "Tournament — electronic hogus full gear"
+  },
+  "generated": "casual v4, dobok v4, gear v2",
+  "status": "complete"
+}

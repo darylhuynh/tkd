@@ -1,0 +1,21 @@
+{
+  "character_id": "kieryn-lim",
+  "canon_name": "Kieryn Lim",
+  "age": 13,
+  "height": "5'8\"",
+  "weight": "108 lbs",
+  "division": "Cadet -49kg",
+  "belt": "2nd Dan",
+  "school": "Kwon's Taekwondo Academy",
+  "sibling": "TJ Lim (older brother)",
+  "defining_skill": "100 Shadow Kick",
+  "loves": ["K-Pop", "Dancing"],
+  "dobok": "white dobok, collar open upper chest only, yellow belt letters (post), guards under",
+  "source": "Google Sheet tab: Kieryn Lim",
+  "files": {
+    "casual-front.png": "Off-mat — purple/magenta/black K-pop streetwear",
+    "dobok-front.png": "Training — white dobok, collar open upper chest only, guards under",
+    "gear-front.png": "Tournament — electronic hogus"
+  },
+  "generated": "dobok v7, casual v1, gear v2"
+}

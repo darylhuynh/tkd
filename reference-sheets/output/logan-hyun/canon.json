@@ -1,0 +1,21 @@
+{
+  "character_id": "logan-hyun",
+  "canon_name": "Logan Hyun",
+  "age": 13,
+  "height": "4'10\"",
+  "weight": "84 lbs",
+  "division": "Cadet -41kg",
+  "belt": "2nd Dan",
+  "school": "Kwon's Taekwondo Academy",
+  "sibling": "Ethan Hyun (older brother)",
+  "defining_skill": "Neverending Rage",
+  "loves": ["Spicy noodles", "Pasta"],
+  "dobok": "standard white dobok, plain black belt, no patches",
+  "source": "Google Sheet tab: Logan Hyun",
+  "files": {
+    "casual-front.png": "Off-mat — bowl cut, iPad, oversized backpack, food charms",
+    "dobok-front.png": "Training — standard white dobok, plain black belt, guards under",
+    "gear-front.png": "Tournament — electronic hogus full gear"
+  },
+  "generated": "dobok v3, gear v1"
+}

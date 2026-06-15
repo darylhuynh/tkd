@@ -1,0 +1,19 @@
+{
+  "character_id": "repeul-kim",
+  "canon_name": "Repeul Kim",
+  "age": 37,
+  "height": "5'5\"",
+  "weight": "230 lbs",
+  "role": "Background — Ttong Kim's wife",
+  "speaks_on_page": false,
+  "hair": "Brown, curly, medium-to-long",
+  "build": "Pretty overweight, average height",
+  "outfit": "Always casual — intentionally ugly multicolor clashing fashion",
+  "source": "characters/repeul-kim.md",
+  "files": {
+    "casual-front.png": "Primary — ugly multicolor casual turnaround, mean scowl, adult woman",
+    "casual-3q.png": "Background — 3/4 view, low img2img weight, mean scowl"
+  },
+  "generated": "casual v2, casual-3q v1",
+  "status": "complete"
+}

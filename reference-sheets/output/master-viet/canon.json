@@ -1,0 +1,19 @@
+{
+  "character_id": "master-viet",
+  "canon_name": "Viet Na",
+  "called": "Master Viet",
+  "first_name": "Viet",
+  "last_name": "Na",
+  "invalid_name_order": ["Na Viet"],
+  "age": "mid-40s",
+  "height": "5'8\"-5'9\"",
+  "school": "Kwon's Taekwondo Academy",
+  "role": "Head coach",
+  "files": {
+    "vest-front.png": "Default coaching — black vest, tight white tee, blank patches",
+    "dobok-front.png": "Training — white dobok, black neck stripes, black belt",
+    "polo-front.png": "Tournament — blue polo shirt, black pants"
+  },
+  "generated": "dobok v1, polo v1, vest v2",
+  "status": "complete"
+}

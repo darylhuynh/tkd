@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+*.pem
+credentials.json
+
+# Cursor local (not project docs)
+.cursor/

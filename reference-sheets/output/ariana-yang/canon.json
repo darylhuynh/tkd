@@ -1,0 +1,18 @@
+{
+  "character_id": "ariana-yang",
+  "canon_name": "Ariana Yang",
+  "age": 15,
+  "height": "4'11\"",
+  "weight": "92 lbs",
+  "division": "Junior -42kg",
+  "belt": "2nd Dan",
+  "school": "Kwon's Taekwondo Academy",
+  "defining_skill": "Supreme Accuracy",
+  "dobok": "white dobok, collar open upper chest only, blue guards over, arm flags (post), yellow belt letters (post)",
+  "source": "Google Sheet tab: Ariana Yang",
+  "files": {
+    "dobok-front.png": "Training — white dobok, blue guards over, arm flags",
+    "gear-front.png": "Tournament — electronic hogus, extra limb protection"
+  },
+  "generated": "dobok v4, gear v2"
+}

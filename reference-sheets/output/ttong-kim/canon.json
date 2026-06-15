@@ -1,0 +1,17 @@
+{
+  "character_id": "ttong-kim",
+  "canon_name": "Ttong Kim",
+  "rank": "2nd Dan (instructor — not master)",
+  "school": "Premier Taekwondo Sports Dynasty",
+  "height": "5'8\"-5'9\"",
+  "build": "slightly stocky — thick neck, solid torso, NOT bodybuilder, NOT lean",
+  "face": "obvious underbite, lower teeth visible, predatory grin showing teeth",
+  "files": {
+    "shorts-front.png": "Teaching — tight black shorts, black polo, gold watch, underbite + teeth",
+    "jaw-profile.png": "Side profile — underbite lock, lower teeth past upper lip",
+    "dobok-front.png": "Training — white dobok, black neck stripes, underbite",
+    "suit-front.png": "Tournament — ill-fitting business suit, underbite + teeth"
+  },
+  "generated": "shorts v4, dobok v1, suit v1, jaw-profile v1",
+  "status": "complete"
+}

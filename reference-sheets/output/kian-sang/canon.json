@@ -1,0 +1,25 @@
+{
+  "character_id": "kian-sang",
+  "canon_name": "Kian Sang",
+  "age": 15,
+  "height": "5'10\"",
+  "weight": "108 lbs",
+  "division": "Junior -49kg",
+  "belt": "2nd Dan",
+  "school": "Kwon's Taekwondo Academy",
+  "defining_skill": "Whirlwind Kick",
+  "loves": ["Crispy Gobi", "Mushroom Manchurian"],
+  "dobok": "dark gray dobok, Korea+India arm flags (post), yellow belt letters (post), guards under",
+  "casual_palette": {
+    "primary": "deep emerald green hoodie",
+    "secondary": "cream off-white joggers",
+    "accents": "gold brass detail"
+  },
+  "source": "Google Sheet tab: Kian Sang",
+  "files": {
+    "casual-front.png": "Off-mat — emerald green hoodie, cream joggers, gold accents",
+    "dobok-front.png": "Training — dark gray dobok, arm flag patches, guards under",
+    "gear-front.png": "Tournament — electronic hogus full gear"
+  },
+  "generated": "dobok v3, gear v2"
+}

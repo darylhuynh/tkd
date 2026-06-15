@@ -1,0 +1,20 @@
+{
+  "character_id": "tj-lim",
+  "canon_name": "TJ Lim",
+  "age": 15,
+  "height": "5'11\"",
+  "weight": "150 lbs",
+  "division": "Junior -68kg",
+  "belt": "3rd Dan",
+  "school": "Kwon's Taekwondo Academy",
+  "defining_skill": "Emperor's Kick",
+  "loves": ["Hatsune Miku", "Fried rice", "Rap music"],
+  "dobok": "standard white dobok, yellow belt letters (post), guards under",
+  "source": "Google Sheet tab: TJ Lim",
+  "files": {
+    "casual-front.png": "Off-mat — grey baggy sweats, Hatsune Miku graphic tee",
+    "dobok-front.png": "Training — standard white dobok, teal hair, white headband",
+    "gear-front.png": "Tournament — electronic hogus full gear"
+  },
+  "generated": "dobok v5, casual v2 Miku tee, gear v2"
+}
