@@ -1,9 +1,9 @@
-# Arc 7 — Chapter 99: Scene Script
+# Arc 7 — Chapter 98: Scene Script
 ## *TJ — Finals (Selected)*
 
-**Purpose:** **Only Kwon's athlete on the roster** — **Mountain Strike** · **Emperor's Kick** — **Ethan corners** — **WINS 11–9**  
-**Tie-in panels:** [arc-07-panel-storyboard.md](../storyboards/arc-07-panel-storyboard.md) §99  
-**Prior:** [arc-07-ch98-ethan-minho.md](./arc-07-ch98-ethan-minho.md) · **Next:** [arc-07-ch100-logan-corner.md](./arc-07-ch100-logan-corner.md)
+**Purpose:** **Only Kwon's athlete on the roster** — **Mountain Strike** · **Emperor's Kick** — **Ethan corners before his own last fight** — **WINS 11–9**  
+**Tie-in panels:** [arc-07-panel-storyboard.md](../storyboards/arc-07-panel-storyboard.md) §98  
+**Prior:** [arc-07-ch97-ethan-early.md](./arc-07-ch97-ethan-early.md) · **Next:** [arc-07-ch99-ethan-minho.md](./arc-07-ch99-ethan-minho.md)
 
 ---
 
@@ -14,7 +14,7 @@
 ---
 
 ### SCENE 1 — FINALS VS CARD
-**Panels:** 99.0 · 99.1
+**Panels:** 98.0 · 98.1
 
 Selection finals — octagon — **U20 −68 kg** — roster line on the line.
 
@@ -29,13 +29,13 @@ Emperor's Kick only when the math says yes. **Mountain Strike** when the room go
 I'm going.
 
 **ETHAN**  
-*(corner stool)*  
+*(corner stool — his −58 kg final is **after** this)*  
 I got notes. You got me.
 
 ---
 
 ### SCENE 2 — ROUND 1 — REINJURY FLARE [HAIKYUU]
-**Panels:** 99.2 · 99.3
+**Panels:** 98.2 · 98.3
 
 **0:40** — TJ **cut kick +2** — lands **awkward** on taped knee — **micro-limp**.
 
@@ -60,7 +60,7 @@ Round ends **3–3** — TJ hides limp — **wins activity**.
 ---
 
 ### SCENE 3 — ROUND 2 — MOUNTAIN STRIKE [TEACH + ACTION]
-**Panels:** 99.4 · 99.5 · 99.6 ★
+**Panels:** 98.4 · 98.5 · 98.6 ★
 
 **Scoreboard entering R2:** **3–3** match.
 
@@ -86,9 +86,9 @@ I **felt** that in my teeth!
 ---
 
 ### SCENE 4 — ROUND 3 — EMPEROR'S KICK [TEACH + ACTION]
-**Panels:** 99.7 · 99.8 · 99.9
+**Panels:** 98.7 · 98.8 · 98.9
 
-Do-won **desperate volume** — **+2 +2** — **8–6** TJ leads but round **close**.
+Do-won **desperate volume** — **+2 +2** — **8–6** TJ lead but round **close**.
 
 **0:20** — Ethan reads board — *"Plus two wins the round!"*
 
@@ -109,17 +109,17 @@ Arena ** erupts** — Kwon's corner **silent cry** — MV **one nod**.
 ---
 
 ### SCENE 5 — SELECTED [HAIKYUU]
-**Panels:** 99.10 · 99.11
+**Panels:** 98.10 · 98.11
 
 **TJ (quiet — mouthguard out)**  
 I made it.
 
 **ETHAN**  
-*(hug — hard)*  
-Yeah. You did.
+*(hug — hard — then looks toward −58 kg ring)*  
+Yeah. You did. **My turn last.**
 
 **MV**  
-Board tomorrow. Tonight — **ice**. You earned both.
+Board tomorrow. Tonight — **ice**. You earned both. Ethan — **same guard** you gave him.
 
 **HAN DO-WON (opponent — bow)**  
 Your corner was louder than mine. Good fight.
@@ -128,7 +128,7 @@ Your corner was louder than mine. Good fight.
 *(bow)*  
 Good fight.
 
-**[END]**
+**[END — Ch 99 Ethan last fight · Ch 100 Logan · Ch 101+ bridge]**
 
 ---
 
@@ -140,6 +140,8 @@ Good fight.
 | R2 | **Mountain Strike** | 6–4 TJ |
 | R3 | **Emperor's Kick** | Match **11–9** |
 
+**Order lock:** TJ **Ch 98** → Ethan **Ch 99** (last Kwon's bout).
+
 ---
 
-*Next: [arc-07-ch100-logan-corner.md](./arc-07-ch100-logan-corner.md)*
+*Next: [arc-07-ch99-ethan-minho.md](./arc-07-ch99-ethan-minho.md)*

@@ -15,7 +15,7 @@ Locked decisions for national team, epilogue, character arcs, and combat mechani
 | **Arc 5 (~Ch 58–60)** | **Passes away** — team waits in hallway [HAIKYUU] |
 | Arc 6–7 | **Berserker Rage** enters combat |
 | Arc 7 Ch 97 | Ethan **resists** berserker after head tag — advances |
-| Arc 7 Ch 98 | Ultimate Counter **+5** — still **eliminated** on volume |
+| Arc 7 Ch 99 | Ultimate Counter **+5** — still **eliminated** on volume · **growth not victory** |
 | Arc 8 Ch 118 | Rage **offered** in R3 — **declined** — collegiate win on discipline |
 | Arc 8 Ch 115 | **Memorial only** — death not re-staged |
 
@@ -36,9 +36,9 @@ Locked decisions for national team, epilogue, character arcs, and combat mechani
 | **94** | **Ariana** | R1 out | **Whirling Dervish** ties **5–5**; **gam-jeom** on 10th → **5–6**, lose by **1** | [ch94](./scripts/arc-07-ch94-ariana-r1.md) |
 | **95** | **Kian** | QF out | **Debilitating Combo** read · **4–7** | [ch95](./scripts/arc-07-ch95-kian-qf.md) |
 | **96** | **Kieryn** | SF out | **Laser Stab** neutralized · **5–8** | [ch96](./scripts/arc-07-ch96-kieryn-sf.md) |
-| **97** | **Ethan** | Advances | Resists berserker · chin open warning | [ch97](./scripts/arc-07-ch97-ethan-early.md) |
-| **98** | **Ethan** | Qualifier out | vs **Kim Min-ho** · **Ultimate Counter +5** · loses on points | [ch98](./scripts/arc-07-ch98-ethan-minho.md) |
-| **99** | **TJ** | **SELECTED** | vs **Han Do-won** · **11–9** · Mountain Strike · Emperor's Kick | [ch99](./scripts/arc-07-ch99-tj-finals.md) |
+| **97** | **Ethan** | Advances | Resists berserker · chin open warning · **TJ final tonight · Ethan last** | [ch97](./scripts/arc-07-ch97-ethan-early.md) |
+| **98** | **TJ** | **SELECTED** | vs **Han Do-won** · **11–9** · Mountain Strike · Emperor's Kick · **Ethan corners** | [ch98](./scripts/arc-07-ch98-tj-finals.md) |
+| **99** | **Ethan** | Qualifier out (**last fight**) | vs **Kim Min-ho** · **Ultimate Counter +5** · loses on points · **growth not victory** | [ch99](./scripts/arc-07-ch99-ethan-minho.md) |
 | **100** | **Logan** | No mat | Corner chapter — *It counts* (not a fight recap) | [ch100](./scripts/arc-07-ch100-logan-corner.md) |
 | **107** | **TJ** | Board | Only Kwon's name on U20 roster | [ch107-110](./scripts/arc-07-ch107-110-national-selection.md) |
 | **108** | **Ethan** | Board | Not listed · Yuna **Pineapple Fanta** gift | *(same)* |
@@ -49,10 +49,10 @@ Locked decisions for national team, epilogue, character arcs, and combat mechani
 
 | Fighter | Signature | Deploy chapter |
 |---------|-----------|----------------|
-| Ethan | **Ultimate Counter** | Ch 98 |
+| Ethan | **Ultimate Counter** | Ch 99 |
 | Kieryn | **Laser Stab** | Ch 96 |
 | Kian | **Debilitating Combo** | Ch 95 |
-| TJ | **Mountain Strike** | Ch 99 |
+| TJ | **Mountain Strike** | Ch 98 |
 | Ariana | **Whirling Dervish** (3 kicks — then foot down) | Ch 94 |
 
 ---
@@ -131,8 +131,8 @@ See [ttong-kim.md](./characters/ttong-kim.md)
 
 | Name | Ch | Result |
 |------|-----|--------|
-| **Kim Min-ho** | 98 | Beats Ethan on points after Ultimate Counter | [kim-min-ho.md](./characters/kim-min-ho.md) |
-| **Han Do-won** | 99 | TJ wins **11–9** | [han-do-won.md](./characters/han-do-won.md) |
+| **Kim Min-ho** | 99 | Beats Ethan on points after Ultimate Counter | [kim-min-ho.md](./characters/kim-min-ho.md) |
+| **Han Do-won** | 98 | TJ wins **11–9** | [han-do-won.md](./characters/han-do-won.md) |
 | **Park Sung-min** | 118 | Ethan wins collegiate final | [park-sung-min.md](./characters/park-sung-min.md) |
 
 ---

@@ -13,9 +13,9 @@
 | **94** | Ariana · R1 · gam-jeom, lose by 1 | [ch94-ariana-r1](../scripts/arc-07-ch94-ariana-r1.md) |
 | **95** | Kian · QF · Debilitating Combo read | [ch95-kian-qf](../scripts/arc-07-ch95-kian-qf.md) |
 | **96** | Kieryn · SF · Laser Stab neutralized | [ch96-kieryn-sf](../scripts/arc-07-ch96-kieryn-sf.md) |
-| **97** | Ethan · early rounds · advances | [ch97-ethan-early](../scripts/arc-07-ch97-ethan-early.md) |
-| **98** | Ethan · vs Min-ho · Ultimate Counter · **eliminated** | [ch98-ethan-minho](../scripts/arc-07-ch98-ethan-minho.md) |
-| **99** | TJ · finals · **SELECTED** | [ch99-tj-finals](../scripts/arc-07-ch99-tj-finals.md) |
+| **97** | Ethan · early rounds · advances · **TJ final tonight · Ethan last** | [ch97-ethan-early](../scripts/arc-07-ch97-ethan-early.md) |
+| **98** | TJ · finals · **SELECTED** · Ethan corners | [ch98-tj-finals](../scripts/arc-07-ch98-tj-finals.md) |
+| **99** | Ethan · vs Min-ho · Ultimate Counter · **eliminated (last fight)** · **growth not victory** | [ch99-ethan-minho](../scripts/arc-07-ch99-ethan-minho.md) |
 | **100** | Logan · **corner chapter** (not recap) · *It counts* | [ch100-logan-corner](../scripts/arc-07-ch100-logan-corner.md) |
 | **101** | Ethan roof after elimination | [ch101-104-bridge](../scripts/arc-07-ch101-104-bridge.md) |
 | **102** | Bracket wall — who's left | *(same file)* |
@@ -45,8 +45,8 @@ The Korea U20 National Team qualification gauntlet. Career-defining matches — 
 | Ariana gam-jeom — lose by 1 | 94 |
 | Kian / Kieryn — next year | 95, 96 |
 | Ethan resists berserker | 97 |
-| **Ultimate Counter** — still eliminated | 98 |
-| TJ selected — Ethan corners | 99 |
+| TJ selected — Ethan corners | 98 |
+| **Ultimate Counter** — eliminated **last** · growth not victory | 99 |
 | Logan — corner without competing · *It counts* | 100 |
 | MV: *I'm not Ttong Kim* | 101 |
 | Board posted · Ethan not listed | 107 |

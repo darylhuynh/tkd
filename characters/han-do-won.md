@@ -33,7 +33,7 @@
 | R2 | **Mountain Strike** | TJ 6–4 |
 | R3 | **Emperor's Kick +4** | Match **11–9 TJ** |
 
-**Script:** [arc-07-ch99-tj-finals.md](../scripts/arc-07-ch99-tj-finals.md)  
+**Script:** [arc-07-ch98-tj-finals.md](../scripts/arc-07-ch98-tj-finals.md)  
 **Storyboard:** [arc-07-panel-storyboard.md](../storyboards/arc-07-panel-storyboard.md) §99
 
 ---

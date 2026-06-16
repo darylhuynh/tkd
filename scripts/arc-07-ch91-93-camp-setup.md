@@ -451,7 +451,7 @@ Keep up. **Legends don't jog.**
 | **TJ** | **Mountain Strike** | Mat **stomp rhythm break** → **cut kick to head** |
 | **Ariana** | **Whirling Dervish** | **10-hit** body/head chain — **3 kicks, then foot down** (legal in bout) |
 
-**Integration:** Camp pays off in **Ch 94–100** (one chapter per fighter). **Ultimate Counter** deploys in [arc-07-ch98-ethan-minho.md](./arc-07-ch98-ethan-minho.md).
+**Integration:** Camp pays off in **Ch 94–100** (one chapter per fighter). **Ultimate Counter** deploys in [arc-07-ch99-ethan-minho.md](./arc-07-ch99-ethan-minho.md). **TJ selected Ch 98** before Ethan's last fight.
 
 ---
 

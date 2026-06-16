@@ -10,7 +10,7 @@
 | Verdict | Detail |
 |---------|--------|
 | **Overall flow** | ✅ Strong — trauma → sanctuary → team → first test → shadow → road → regionals → U20 → closure reads cleanly |
-| **Canon accuracy** | ✅ Locked outcomes preserved (TJ only U20, Ethan eliminated Ch 98, grandmother Arc 5, Logan corner Ch 100) |
+| **Canon accuracy** | ✅ Locked outcomes preserved (TJ only U20 Ch 98, Ethan last Ch 99 growth loss, grandmother Arc 5, Logan corner Ch 100) |
 | **Haikyuu DNA** | ✅ Found family, baseline banter, team meals, hallway waits, nobody cuts alone |
 | **Blue Lock DNA** | ✅ Individual stakes, elimination boards, ego duels (Ethan/Kian), selection pressure |
 | **Solo Leveling DNA** | ✅ Visual intensity, growth montages, signature unlocks — **not** isekai/system menus |
@@ -29,7 +29,7 @@
 | **4** Shadow School | Tape study + ramen vs Premier cold | “With us or against us,” rank discovery | Confrontation intensity, board-break hour |
 | **5** Road to Korea | Hallway wait at death [HAIKYUU] | Weight room individual grind | Berserker seed, post-grief training |
 | **6** Korea Regionals | Corner protocol, team placement | Elimination board, ADVANCE/WAIT/OUT | Lee Ji-woo endurance fight, pro dojang scale |
-| **7** Legends | Ch 106 huddle, Ch 110 van hug | Ch 94–100 gauntlet, Ch 98 elimination | U20 signatures, Ultimate Counter +5 still out |
+| **7** Legends | Ch 106 huddle, Ch 110 van hug | Ch 94–100 gauntlet · **Ch 98 TJ selected · Ch 99 Ethan last** | U20 signatures, Ultimate Counter +5 still out |
 | **8** Closure | Logan water, team photo, memorial wait | Collegiate final vs Sung-min | Rage offered/declined, quiet V.O. closure |
 
 ---
@@ -74,7 +74,7 @@
 - **Sequential read enforced:** Ch 94→100 fight order locked in outcomes.
 - **Blue Lock peak:** One chapter per exit; gam-jeom, read combos, elimination on points.
 - **Haikyuu peak:** Ch 100 Logan corner (*It counts*); Ch 106 nobody cuts alone.
-- **Ethan arc:** Ch 97 resist → Ch 98 Ultimate Counter still out → Ch 101 roof — **not broken**.
+- **Ethan arc:** Ch 97 advance → **Ch 98 corners TJ** → **Ch 99 last fight · growth not victory** → Ch 118 collegiate win + Yuna — **not broken**.
 
 ### Arc 8 — Closure (Ch 111–120) ✅
 - **Emotional denouement:** No boss fight with Ttong — pity + peace.
@@ -95,7 +95,7 @@
 | Berserker Rage | Arc 5 | Arc 7 Ch 97–98, Arc 8 Ch 118 decline | ✅ |
 | Ethan/Kian rivalry | Arc 2 | Arc 5–7 push; never enemy | ✅ |
 | Yuna / Fanta | Arc 3 seed | Arc 7 Ch 108, Arc 8 ring | ✅ |
-| TJ national team | Arc 5+ | Arc 7 Ch 99, 107 board | ✅ |
+| TJ national team | Arc 5+ | Arc 7 **Ch 98**, 107 board | ✅ |
 | Logan non-competitor | Arc 2 | Arc 7 Ch 100 corner | ✅ |
 | MV “character not rank” | Arc 1 | Arc 8 Ch 119 | ✅ |
 
@@ -119,7 +119,7 @@
 | Arc 5 Ch 59b | Legacy IDs in Ch 61 — document in storyboard footer only |
 | Arc 6 Ch 77.0 | VS card counts as panel — reader should not skip |
 | Arc 7 Ch 100 | Ensure script/panels stay corner-only (no full Logan fight) |
-| Readers | Build `build_arc02_reader.py` … `build_arc08_reader.py` when art lands |
+| Readers | ✅ `arcs/*/index.html` via `build_arc_reader.py` |
 
 ---
 

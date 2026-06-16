@@ -291,7 +291,7 @@ scoreboard five six one point loss, female fighter foot still in air, STYLE: KOR
 | 99.3 | **Mountain Strike** stomp → cut head **+3** | **6–4** R2 |
 | 99.4 | **Emperor's Kick** turning trunk **+4** | Match **11–9** — **SELECTED** |
 
-**Script:** [arc-07-ch99-tj-finals.md](../scripts/arc-07-ch99-tj-finals.md)
+**Script:** [arc-07-ch98-tj-finals.md](../scripts/arc-07-ch98-tj-finals.md)
 
 ---
 
@@ -323,7 +323,7 @@ scoreboard five six one point loss, female fighter foot still in air, STYLE: KOR
 | 98.5 | Min-ho adjusts — body volume — Ethan **−2** | Berserker resisted |
 | 98.6 | **Eliminated on points** — bows steady | Falls short of roster |
 
-**Script:** [arc-07-ch98-ethan-minho.md](../scripts/arc-07-ch98-ethan-minho.md)
+**Script:** [arc-07-ch99-ethan-minho.md](../scripts/arc-07-ch99-ethan-minho.md)
 
 **Prompt (counter panel):**
 ```

@@ -97,4 +97,4 @@ I'll corner you if you want.
 
 ---
 
-*Next: [arc-07-ch98-ethan-minho.md](./arc-07-ch98-ethan-minho.md)*
+*Next: [arc-07-ch98-tj-finals.md](./arc-07-ch98-tj-finals.md)*

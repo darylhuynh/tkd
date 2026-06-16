@@ -34,7 +34,7 @@ See **[STORY-FLOW-REVIEW.md](./STORY-FLOW-REVIEW.md)** for full arcs 1–8 conti
 | Arc | Storyboard | Reader HTML |
 |-----|------------|-------------|
 | 1 | ✅ 203 | ✅ `arcs/new-beginnings/` |
-| 2–8 | ✅ ~200–400 each | ❌ pending (`build_arcNN_reader.py`) |
+| 2–8 | ✅ ~200–400 each | ✅ `arcs/the-team/` … `arcs/closure/` |
 
 ---
 

@@ -33,7 +33,7 @@
 | R2 | Ethan **Ultimate Counter +5** | Min-ho stumbles — adjusts |
 | R3 | Body kick volume — Ethan **−2** — berserker resisted | **Min-ho wins on points** |
 
-**Script:** [arc-07-ch98-ethan-minho.md](../scripts/arc-07-ch98-ethan-minho.md)  
+**Script:** [arc-07-ch99-ethan-minho.md](../scripts/arc-07-ch99-ethan-minho.md)  
 **Cards:** [CHARACTER-CARDS.md](../storyboards/CHARACTER-CARDS.md) § Ch 98
 
 ---

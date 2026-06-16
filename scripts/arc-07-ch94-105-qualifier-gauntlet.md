@@ -24,8 +24,8 @@
 | **95** | [arc-07-ch95-kian-qf.md](./arc-07-ch95-kian-qf.md) | **Kian** | QF — on points |
 | **96** | [arc-07-ch96-kieryn-sf.md](./arc-07-ch96-kieryn-sf.md) | **Kieryn** | SF — on points |
 | **97** | [arc-07-ch97-ethan-early.md](./arc-07-ch97-ethan-early.md) | **Ethan** | Early rounds — **advances** |
-| **98** | [arc-07-ch98-ethan-minho.md](./arc-07-ch98-ethan-minho.md) | **Ethan** | Qualifier — **eliminated** |
-| **99** | [arc-07-ch99-tj-finals.md](./arc-07-ch99-tj-finals.md) | **TJ** | Finals — **SELECTED** |
+| **98** | [arc-07-ch98-tj-finals.md](./arc-07-ch98-tj-finals.md) | **TJ** | Finals — **SELECTED** |
+| **99** | [arc-07-ch99-ethan-minho.md](./arc-07-ch99-ethan-minho.md) | **Ethan** | Qualifier (**last**) — **eliminated** · growth |
 | **100** | [arc-07-ch100-logan-corner.md](./arc-07-ch100-logan-corner.md) | **Logan** | No mat — **corner chapter** *(not recap)* |
 
 **Storyboard:** [arc-07-panel-storyboard.md](../storyboards/arc-07-panel-storyboard.md)

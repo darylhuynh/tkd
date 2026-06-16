@@ -301,8 +301,8 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 | **95** | **Kian** | QF | **Lose on points** — Debilitating Combo read | [ch95-kian-qf](../scripts/arc-07-ch95-kian-qf.md) |
 | **96** | **Kieryn** | SF | **Lose on points** — Laser Stab neutralized | [ch96-kieryn-sf](../scripts/arc-07-ch96-kieryn-sf.md) |
 | **97** | **Ethan** | Early path | **Advances** — resists berserker; chin open | [ch97-ethan-early](../scripts/arc-07-ch97-ethan-early.md) |
-| **98** | **Ethan** | Qualifier | **Eliminated** — Ultimate Counter +5; loses match | [ch98-ethan-minho](../scripts/arc-07-ch98-ethan-minho.md) |
-| **99** | **TJ** | Finals | **SELECTED** — Mountain Strike · Emperor's Kick | [ch99-tj-finals](../scripts/arc-07-ch99-tj-finals.md) |
+| **98** | **TJ** | Finals | **SELECTED** — Mountain Strike · Emperor's Kick · Ethan corners | [ch98-tj-finals](../scripts/arc-07-ch98-tj-finals.md) |
+| **99** | **Ethan** | Qualifier (**last**) | **Eliminated** — Ultimate Counter +5; **growth not victory** | [ch99-ethan-minho](../scripts/arc-07-ch99-ethan-minho.md) |
 | **100** | **Logan** | *(no mat)* | **Corners** — does not compete at U20 | [ch100-logan-corner](../scripts/arc-07-ch100-logan-corner.md) |
 
 ---
@@ -669,198 +669,201 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 **Dialogue:** Kian: "Win ugly if you have to." · Ethan: "Win clean if I can."
 **Prompt:** `rivals locker quiet ego respect before big match, STYLE: KOREA BLUE LOCK`
 
-### 97.20 — Chapter Button · Qualifier Tomorrow
-**Scene:** Lights out — Ethan eyes open — spinning hook shadow on ceiling.
-**Dialogue:** Ethan (V.O.): *Ultimate Counter. When he commits.*
-**Prompt:** `teen awake dark dorm ceiling shadow resolve, STYLE: KOREA SOLO LEVELING`
+### 97.20 — Chapter Button · Bracket Order
+**Scene:** Bracket printout on wall — **TJ −68 kg final tonight** · **Ethan −58 kg qualification last** — lights out — spinning hook shadow on ceiling.
+**Dialogue:** Ethan (V.O.): *Corner him first. Then Ultimate Counter — when Min-ho commits.*
+**Prompt:** `bracket wall final fight order teen awake resolve, STYLE: KOREA SOLO LEVELING BLUE LOCK`
 
 ---
 
-## Chapter 98 — Ethan · Elimination vs Min-ho ★★
+## Chapter 98 — TJ · Finals (Selected) ★
 
-**Script:** [arc-07-ch98-ethan-minho.md](../scripts/arc-07-ch98-ethan-minho.md)  
-**Choreography:** [ACTION-CHOREOGRAPHY.md](./ACTION-CHOREOGRAPHY.md) § Ch 98  
-**Cards:** [CHARACTER-CARDS.md](./CHARACTER-CARDS.md) § Ch 98
+**Script:** [arc-07-ch98-tj-finals.md](../scripts/arc-07-ch98-tj-finals.md)
 
-### 98.0 — Film Session [HAIKYUU + TEACH]
-**Scene:** Shoulder tell on tape — Kieryn sticky note.
-**Dialogue:** Ethan: "I see it."
-**Prompt:** `team film study opponent tells haikyuu, STYLE: KOREA HAIKYUU TEACH`
-
-### 98.1 — VS Cards [CARD] ★
-**Scene:** Ethan vs **Kim Min-ho** — dual VS card.
-**Prompt:** `dual fighter VS profile card korea national taekwondo selection, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: CARD KOREA`
-
-### 98.2 — Probe Round [ACTION]
-**Scene:** Min-ho distance — Ethan counter stance — doesn't bite feint.
-**Prompt:** `two fighters distance control olympic kyorugi korea, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
-
-### 98.3 — Shoulder Tell [TEACH]
-**Scene:** Left shoulder drops — slow-mo inset — flash stack setup.
-**Prompt:** `opponent left shoulder drop tell before spin close up, STYLE: KOREA TEACH`
-
-### 98.4 — Ultimate Counter [ACTION] ★
-**Scene:** Spinning hook **+5** — **Logan taps shoulder** · MV calls counter — guard up — flash stack intercut Arc 1/3/5.
-**Dialogue:** MV: "—Ultimate Counter—FIVE! Guard UP!"
-**Prompt:** `spinning hook counter to head plus five guard up inside arc, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH ACTION`
-
-### 98.5 — Min-ho Adjusts [ACTION]
-**Scene:** Body volume — berserker temptation — Ethan breathes — **−2** exchange.
-**Prompt:** `fighter keeps guard after losing exchange disciplined, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
-
-### 98.6 — Eliminated on Points [HAIKYUU]
-**Scene:** Min-ho arm raised — Ethan bows — TJ hug — *I still lost.*
-**Prompt:** `fighter moral loss bow mutual respect growth, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU`
-
-### 98.7 — Round 1 Distance Chess [ACTION]
-**Scene:** Min-ho disciplined probe — Ethan counter stance — octagon center empty.
-**Prompt:** `two fighters distance control probe round one olympic kyorugi, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
-
-### 98.8 — Cut Feint No Bite [ACTION]
-**Scene:** Min-ho cut feint — Ethan **doesn't step in** — MV corner nod.
-**Dialogue:** MV: "Good. Make him show it."
-**Prompt:** `cut kick feint not biting distance read taekwondo, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION TEACH`
-
-### 98.9 — Min-ho Cut Commit [ACTION]
-**Scene:** Round 2 — real cut kick — Ethan **does not retreat** — Pattern A setup.
-**Prompt:** `cut kick commit fighter holds ground counter setup, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
-
-### 98.11 — Logan Shoulder Tap [ACTION]
-**Scene:** Corner — phone flat illegal — Logan taps Ethan's pad — **Now!**
-**Dialogue:** Logan: *(tap)* "Now!"
-**Prompt:** `corner tap shoulder pad signal now taekwondo, STYLE: KOREA ACTION HAIKYUU`
-
-### 98.12 — Slide Inside Arc [ACTION] [SOLO LEVELING]
-**Scene:** Ethan slides inside spin arc — guard chamber high — epic speed lines.
-**Prompt:** `fighter slides inside spinning hook arc guard high epic, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION SOLO LEVELING`
-
-### 98.13 — Flash Stack Intercut [ACTION]
-**Scene:** Arc 3 Derek · Arc 1 nightmare · Premier drop · Arc 5 STOP — four insets one kick.
-**Prompt:** `flashback intercut stack spinning hook trauma redemption panels, STYLE: KOREA ACTION FLASH`
-
-### 98.14 — Ultimate Counter +5 Impact [ACTION] ★
-**Scene:** Spinning hook head — PSS **+5** flash — Min-ho stumbles — arena blur.
-**Dialogue:** MV: "—Ultimate Counter—FIVE! Guard UP!"
-**Prompt:** `spinning hook counter to head plus five sensor flash impact, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH ACTION SOLO LEVELING`
-
-### 98.15 — Guard Up Recovery [ACTION]
-**Scene:** Ethan hands high — no berserker charge — Min-ho resets.
-**Prompt:** `fighter guard up after scoring no celebration charge, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
-
-### 98.16 — Min-ho Body Volume [ACTION]
-**Scene:** Min-ho smiles — trunk rhythm **+2 +2** — Olympic chess volume.
-**Prompt:** `opponent body kick volume smile disciplined taekwondo, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
-
-### 98.17 — Berserker Breath [ACTION]
-**Scene:** Red edge flicker — Ethan **exhales** — grief is not a technique — stays present.
-**Dialogue:** MV (V.O.): "Grief is not a technique."
-**Prompt:** `fighter resisting rage breath guard firm, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION REAL`
-
-### 98.18 — Exchange −2 [ACTION]
-**Scene:** Min-ho cut on exit — Ethan **−2** — chin open **two seconds** — still standing.
-**Dialogue:** MV: "Two seconds on the chin. Progress. Not enough today."
-**Prompt:** `losing exchange trunk kick guard drop two seconds, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION TEACH`
-
-### 98.19 — Final Round Volume [ACTION]
-**Scene:** Round 3 — Min-ho activity flood — Ethan behind on board — no panic charge.
-**Prompt:** `final round volume behind on scoreboard disciplined, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
-
-### 98.20 — Min-ho Bow Exchange [HAIKYUU]
-**Scene:** Min-ho: *You didn't flinch on the spin.* — Ethan: *Last year I was still in a bleacher in my head.*
-**Prompt:** `fighters bow mutual respect dialogue after elimination, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU`
-
----
-
-## Chapter 99 — TJ · Finals (Selected) ★
-
-**Script:** [arc-07-ch99-tj-finals.md](../scripts/arc-07-ch99-tj-finals.md)
-
-### 99.0 — Finals VS
+### 98.0 — Finals VS
 **Scene:** U20 −68 kg — selection on the line.
 **Prompt:** `finals taekwondo fighter VS card korea national, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: CARD KOREA`
 
-### 99.1 — Round 1 Knee Flare [HAIKYUU + ACTION]
+### 98.1 — Round 1 Knee Flare [HAIKYUU + ACTION]
 **Scene:** TJ cut **+2** — awkward landing — micro-limp — Ethan corners — *Don't hero the spin.*
 **Prompt:** `injured fighter micro limp corner advice role reversal, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU TEACH ACTION`
 
-### 99.2 — Round 1 Flash — Premier Empty Corner
+### 98.2 — Round 1 Flash — Premier Empty Corner
 **Scene:** Young Ethan alone — *Go fight.* — Present Ethan voice **full**.
 **Prompt:** `flashback empty corner vs present full corner support, STYLE: KOREA HAIKYUU PREMIER`
 
-### 99.3 — Round 2 Mountain Strike [TEACH + ACTION] ★
+### 98.3 — Round 2 Mountain Strike [TEACH + ACTION] ★
 **Scene:** Ethan + Logan **STOMP! CUT!** — mat stomp — cut head **+3** — **6–4** — Logan *felt it in my teeth*.
 **Prompt:** `stomp rhythm break cut kick head plus three taekwondo, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH ACTION`
 
-### 99.4 — Round 3 Emperor's Kick [TEACH + ACTION] ★
+### 98.4 — Round 3 Emperor's Kick [TEACH + ACTION] ★
 **Scene:** Ethan: *Emperor — NOW!* — turning trunk **+4** — eight-count — **11–9**.
 **Prompt:** `devastating turning trunk kick emperor finisher sensor flash, STYLE: KOREA TEACH ACTION`
 
-### 99.5 — Selected [HAIKYUU]
+### 98.5 — Selected [HAIKYUU]
 **Scene:** Ref raises TJ's arm — Do-won bow — *I made it.* — Ethan hug.
 **Prompt:** `finals winner arm raised team hug quiet triumph, STYLE: KOREA HAIKYUU`
 
-### 99.7 — Round 1 Cut +2 [ACTION]
+### 98.7 — Round 1 Cut +2 [ACTION]
 **Scene:** **0:40** — TJ cut kick **+2** — clean — taped knee loads.
 **Prompt:** `cut kick plus two finals round one taekwondo, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
 
-### 99.8 — Awkward Landing Micro-Limp [ACTION]
+### 98.8 — Awkward Landing Micro-Limp [ACTION]
 **Scene:** TJ lands wrong — micro-limp — Do-won **body +2** answer — **2–2**.
 **Prompt:** `injured fighter awkward landing micro limp opponent scores, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION HAIKYUU`
 
-### 99.9 — Ethan Corner Steady [ACTION]
+### 98.9 — Ethan Corner Steady [ACTION]
 **Scene:** Ethan steps to corner stool — full voice — not Premier empty.
 **Dialogue:** Ethan: "Cut when he steps. Don't hero the spin until I call it."
 **Prompt:** `teammate corner stool advice role reversal steady, STYLE: KOREA ACTION HAIKYUU`
 
-### 99.10 — Round 1 Activity Win [ACTION]
+### 98.10 — Round 1 Activity Win [ACTION]
 **Scene:** Round ends **3–3** — TJ hides limp — wins activity — limp deeper.
 **Prompt:** `round one tied activity win hiding injury, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
 
-### 99.11 — Round 2 Pressure [ACTION]
+### 98.11 — Round 2 Pressure [ACTION]
 **Scene:** Do-won presses — TJ backs to red — corner screaming.
 **Dialogue:** Ethan: "Now — quiet the room!"
 **Prompt:** `finals round two pressure backing to corner, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
 
-### 99.12 — Logan STOMP! [ACTION]
+### 98.12 — Logan STOMP! [ACTION]
 **Scene:** Stands — raw throat — **STOMP! CUT!** — TJ hears through noise.
 **Dialogue:** Logan: "STOMP! CUT!"
 **Prompt:** `corner screaming stomp cut signals hoarse voice, STYLE: KOREA ACTION HAIKYUU`
 
-### 99.13 — Mat Stomp Crack [ACTION] [SOLO LEVELING]
+### 98.13 — Mat Stomp Crack [ACTION] [SOLO LEVELING]
 **Scene:** Heavy stomp — mat **cracks** rhythm — Do-won micro-flinch — epic frame.
 **Prompt:** `mat stomp rhythm break epic impact taekwondo finals, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION SOLO LEVELING`
 
-### 99.14 — Cut Head +3 [ACTION] ★
+### 98.14 — Cut Head +3 [ACTION] ★
 **Scene:** Immediate cut head — PSS **+3** — **6–3** in-round — ends **6–4** round.
 **Prompt:** `stomp then cut kick head plus three sensor flash mountain strike, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH ACTION`
 
-### 99.15 — Logan Teeth [HAIKYUU + ACTION]
+### 98.15 — Logan Teeth [HAIKYUU + ACTION]
 **Scene:** Logan grips rail — *felt it in my teeth* — MV one finger hush.
 **Dialogue:** Logan: "I **felt** that in my teeth!"
 **Prompt:** `corner gripping rail felt impact comedy hoarse, STYLE: KOREA ACTION HAIKYUU`
 
-### 99.16 — Round 3 Desperate Volume [ACTION]
+### 98.16 — Round 3 Desperate Volume [ACTION]
 **Scene:** Do-won **+2 +2** flurry — **8–6** TJ lead — round still close — **0:20**.
 **Prompt:** `finals round three desperate volume flurry, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
 
-### 99.17 — Ethan Reads Board [ACTION]
+### 98.17 — Ethan Reads Board [ACTION]
 **Scene:** Ethan eyes scoreboard — *Plus two wins the round!*
 **Dialogue:** Ethan: "Emperor — **NOW**!"
 **Prompt:** `corner reading scoreboard calling finisher taekwondo, STYLE: KOREA ACTION TEACH`
 
-### 99.18 — Emperor's Kick +4 [ACTION] ★ [SOLO LEVELING]
+### 98.18 — Emperor's Kick +4 [ACTION] ★ [SOLO LEVELING]
 **Scene:** Turning trunk — PSS **+4** — Do-won down — ref **eight-count** — epic impact.
 **Dialogue:** Logan: "NOW!"
 **Prompt:** `devastating turning trunk kick emperor finisher sensor flash eight count, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH ACTION SOLO LEVELING`
 
-### 99.19 — Final Bell 11–9 [ACTION]
+### 98.19 — Final Bell 11–9 [ACTION]
 **Scene:** Bell — board **11–9** — TJ chest heaving — knee screaming silent.
 **Prompt:** `finals bell score eleven nine winner exhausted, STYLE: KOREA ACTION`
 
-### 99.20 — Do-won Bow [HAIKYUU]
+### 98.20 — Do-won Bow [HAIKYUU]
 **Scene:** Do-won: *Your corner was louder than mine.* — TJ bow — mouthguard out.
 **Dialogue:** TJ: "Good fight." · Do-won: "Good fight."
 **Prompt:** `finalists mutual bow respect after selection match, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU`
+
+---
+
+## Chapter 99 — Ethan · Last Fight · Growth Not Victory ★★
+
+**Script:** [arc-07-ch99-ethan-minho.md](../scripts/arc-07-ch99-ethan-minho.md)  
+**Choreography:** [ACTION-CHOREOGRAPHY.md](./ACTION-CHOREOGRAPHY.md) § Ch 99  
+**Cards:** [CHARACTER-CARDS.md](./CHARACTER-CARDS.md) § Ch 99  
+**Note:** **Last Kwon's fight of the gauntlet** — TJ selected Ch 98. Loss teaches **growth over victory**.
+
+### 99.0 — Film Session [HAIKYUU + TEACH]
+**Scene:** Shoulder tell on tape — Kieryn sticky note.
+**Dialogue:** Ethan: "I see it."
+**Prompt:** `team film study opponent tells haikyuu, STYLE: KOREA HAIKYUU TEACH`
+
+### 99.1 — VS Cards [CARD] ★
+**Scene:** Ethan vs **Kim Min-ho** — dual VS card.
+**Prompt:** `dual fighter VS profile card korea national taekwondo selection, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: CARD KOREA`
+
+### 99.2 — Probe Round [ACTION]
+**Scene:** Min-ho distance — Ethan counter stance — doesn't bite feint.
+**Prompt:** `two fighters distance control olympic kyorugi korea, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
+
+### 99.3 — Shoulder Tell [TEACH]
+**Scene:** Left shoulder drops — slow-mo inset — flash stack setup.
+**Prompt:** `opponent left shoulder drop tell before spin close up, STYLE: KOREA TEACH`
+
+### 99.4 — Ultimate Counter [ACTION] ★
+**Scene:** Spinning hook **+5** — **Logan taps shoulder** · MV calls counter — guard up — flash stack intercut Arc 1/3/5.
+**Dialogue:** MV: "—Ultimate Counter—FIVE! Guard UP!"
+**Prompt:** `spinning hook counter to head plus five guard up inside arc, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH ACTION`
+
+### 99.5 — Min-ho Adjusts [ACTION]
+**Scene:** Body volume — berserker temptation — Ethan breathes — **−2** exchange.
+**Prompt:** `fighter keeps guard after losing exchange disciplined, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
+
+### 99.6 — Eliminated on Points [HAIKYUU]
+**Scene:** Min-ho arm raised — Ethan bows steady — **TJ in aisle** — roster patch visible — last Kwon's bout of the trials.
+**Dialogue:** MV: "The board says out. Your guard stayed up." · TJ: "You read it." · Ethan: "I still lost." · TJ: "Yeah. And you're still standing."
+**Prompt:** `fighter moral loss bow growth not victory team aisle, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU`
+
+### 99.7 — Round 1 Distance Chess [ACTION]
+**Scene:** Min-ho disciplined probe — Ethan counter stance — octagon center empty.
+**Prompt:** `two fighters distance control probe round one olympic kyorugi, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
+
+### 99.8 — Cut Feint No Bite [ACTION]
+**Scene:** Min-ho cut feint — Ethan **doesn't step in** — MV corner nod.
+**Dialogue:** MV: "Good. Make him show it."
+**Prompt:** `cut kick feint not biting distance read taekwondo, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION TEACH`
+
+### 99.9 — Min-ho Cut Commit [ACTION]
+**Scene:** Round 2 — real cut kick — Ethan **does not retreat** — Pattern A setup.
+**Prompt:** `cut kick commit fighter holds ground counter setup, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
+
+### 99.11 — Logan Shoulder Tap [ACTION]
+**Scene:** Corner — phone flat illegal — Logan taps Ethan's pad — **Now!**
+**Dialogue:** Logan: *(tap)* "Now!"
+**Prompt:** `corner tap shoulder pad signal now taekwondo, STYLE: KOREA ACTION HAIKYUU`
+
+### 99.12 — Slide Inside Arc [ACTION] [SOLO LEVELING]
+**Scene:** Ethan slides inside spin arc — guard chamber high — epic speed lines.
+**Prompt:** `fighter slides inside spinning hook arc guard high epic, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION SOLO LEVELING`
+
+### 99.13 — Flash Stack Intercut [ACTION]
+**Scene:** Arc 3 Derek · Arc 1 nightmare · Premier drop · Arc 5 STOP — four insets one kick.
+**Prompt:** `flashback intercut stack spinning hook trauma redemption panels, STYLE: KOREA ACTION FLASH`
+
+### 99.14 — Ultimate Counter +5 Impact [ACTION] ★
+**Scene:** Spinning hook head — PSS **+5** flash — Min-ho stumbles — arena blur.
+**Dialogue:** MV: "—Ultimate Counter—FIVE! Guard UP!"
+**Prompt:** `spinning hook counter to head plus five sensor flash impact, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH ACTION SOLO LEVELING`
+
+### 99.15 — Guard Up Recovery [ACTION]
+**Scene:** Ethan hands high — no berserker charge — Min-ho resets.
+**Prompt:** `fighter guard up after scoring no celebration charge, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
+
+### 99.16 — Min-ho Body Volume [ACTION]
+**Scene:** Min-ho smiles — trunk rhythm **+2 +2** — Olympic chess volume.
+**Prompt:** `opponent body kick volume smile disciplined taekwondo, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
+
+### 99.17 — Berserker Breath [ACTION]
+**Scene:** Red edge flicker — Ethan **exhales** — grief is not a technique — stays present.
+**Dialogue:** MV (V.O.): "Grief is not a technique."
+**Prompt:** `fighter resisting rage breath guard firm, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION REAL`
+
+### 99.18 — Exchange −2 [ACTION]
+**Scene:** Min-ho cut on exit — Ethan **−2** — chin open **two seconds** — still standing.
+**Dialogue:** MV: "Two seconds on the chin. Progress. Not enough today."
+**Prompt:** `losing exchange trunk kick guard drop two seconds, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION TEACH`
+
+### 99.19 — Final Round Volume [ACTION]
+**Scene:** Round 3 — Min-ho activity flood — Ethan behind on board — no panic charge.
+**Prompt:** `final round volume behind on scoreboard disciplined, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION`
+
+### 99.20 — Growth Not Victory [HAIKYUU] ★
+**Scene:** Bow exchange with Min-ho — MV corner after — empty upper seats — **no rage drop**.
+**Dialogue:** Min-ho: "You didn't flinch on the spin." · Ethan: "Last year I was still in a bleacher in my head." · MV: "National team isn't the only proof. **Character** is. Pack tomorrow — not broken."
+**Prompt:** `fighters bow coach growth lesson after elimination not broken, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU TEACH`
 
 ---
 
@@ -881,13 +884,13 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 **Scene:** Hallway — *I wrote plant after nine* — chair kick at air — Ariana: *That's on me.*
 **Prompt:** `teen corner guilt hallway not angry kick empty chair, STYLE: KOREA HAIKYUU`
 
-### 100.4 — After Ethan · Fist Bump
-**Scene:** Hallway floor — *You read it. You still lost.* — fist bump — no hug.
-**Prompt:** `brothers fist bump hallway after loss quiet support, STYLE: KOREA HAIKYUU`
+### 100.4 — After TJ · That Counts [HAIKYUU]
+**Scene:** Medical room doorway — Logan tears happy — TJ icing knee after Ch 98 — *That counts.*
+**Dialogue:** Logan: "That counts." · TJ: "You screamed so much my ears are still bleeding."
 
-### 100.5 — It Counts [HAIKYUU]
-**Scene:** TJ icing knee — Logan crying happy — *That counts.*
-**Prompt:** `captain validates non fighter corner teen crying happy, STYLE: KOREA HAIKYUU`
+### 100.5 — After Ethan · Fist Bump
+**Scene:** Hallway floor **after last bout** — *You read it. You still lost.* — fist bump — no hug.
+**Dialogue:** Logan: "You read it. You still lost." · Ethan: "I didn't rage." · Logan: *(fist bump — hoarse silent nod)*
 
 ### 100.6 — Ramen Truce
 **Dialogue:** Logan: "Can we get ramyeon?" · Whole team: *Fine / extra spice.*

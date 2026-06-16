@@ -172,13 +172,13 @@ ARCS = [
         "href": "arcs/new-beginnings/index.html",
         "available": True,
     },
-    {"num": 2, "title": "The Team", "chapters": "11–20", "tagline": "Six friends become a family.", "href": None, "available": False},
-    {"num": 3, "title": "First Tournament", "chapters": "21–35", "tagline": "First blood on the mat.", "href": None, "available": False},
-    {"num": 4, "title": "Shadow School", "chapters": "36–50", "tagline": "Premier doesn't let go easily.", "href": None, "available": False},
-    {"num": 5, "title": "Road to Korea", "chapters": "51–70", "tagline": "The impossible dream takes shape.", "href": None, "available": False},
-    {"num": 6, "title": "Korea Regionals", "chapters": "71–90", "tagline": "Prove it on foreign soil.", "href": None, "available": False},
-    {"num": 7, "title": "Legends", "chapters": "91–110", "tagline": "U20 National Team selection.", "href": None, "available": False},
-    {"num": 8, "title": "Closure", "chapters": "111–120", "tagline": "Growth, loss, and what remains.", "href": None, "available": False},
+    {"num": 2, "title": "The Team", "chapters": "11–20", "tagline": "Six friends become a family.", "href": "arcs/the-team/index.html", "available": True},
+    {"num": 3, "title": "First Tournament", "chapters": "21–35", "tagline": "First blood on the mat.", "href": "arcs/first-tournament/index.html", "available": True},
+    {"num": 4, "title": "Shadow School", "chapters": "36–50", "tagline": "Premier doesn't let go easily.", "href": "arcs/shadow-school/index.html", "available": True},
+    {"num": 5, "title": "Road to Korea", "chapters": "51–70", "tagline": "The impossible dream takes shape.", "href": "arcs/road-to-korea/index.html", "available": True},
+    {"num": 6, "title": "Korea Regionals", "chapters": "71–90", "tagline": "Prove it on foreign soil.", "href": "arcs/korea-regionals/index.html", "available": True},
+    {"num": 7, "title": "Legends", "chapters": "91–110", "tagline": "U20 National Team selection.", "href": "arcs/legends/index.html", "available": True},
+    {"num": 8, "title": "Closure", "chapters": "111–120", "tagline": "Growth, loss, and what remains.", "href": "arcs/closure/index.html", "available": True},
 ]
 
 

@@ -134,7 +134,7 @@
           "scene": "Flash \u2014 Ethan lands clean head kick on teammate \u2014 smirks. Present \u2014 phone **2:47 PM** \u2014 alone on same bleacher seat.",
           "dialogue": "Ethan (internal): *Won every scrimmage last month.*",
           "sfx": "",
-          "timeline": "**Top \u2014 FLASH \u2014 dojang scrimmage, weeks earlier.** **Bottom \u2014 PRESENT \u2014 bleachers 2:47 PM.**",
+          "timeline": "FLASH",
           "prompt": "split panel top FLASH inset dojang scrimmage teen landing head kick smirking weeks ago,\nbottom PRESENT same teen alone bleachers phone 2 47 PM contrast best fighter still ignored,\nSTYLE: PREMIER",
           "style": "",
           "image": null
@@ -328,7 +328,7 @@
           "scene": "Ethan pauses inside entrance. **FLASH inset** \u2014 crowded Premier mat, instructor's back. Snaps back to quiet Kwon's.",
           "dialogue": "Ethan (internal): *Same sport. Different air.*",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "teen fighter just inside dojang doorway small flashback inset crowded cold school instructor back turned,\npresent warm empty reception area contrast, dissociation beat, STYLE: KWONS with PREMIER inset",
           "style": "",
           "image": null
@@ -449,7 +449,7 @@
           "scene": "Through open door \u2014 distant car horn. Ethan's fingers twitch. **FLASH** \u2014 tournament PA echo *\"Ring 4.\"*",
           "dialogue": "*(SFX only)*",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "teen fingers twitching on bench open dojang door background street sound trigger,\nsmall traumatic flash inset tournament PA speaker, STYLE: KWONS with PREMIER flash",
           "style": "",
           "image": null
@@ -1203,7 +1203,7 @@
           "scene": "Quick flash \u2014 Premier instructor's cold face. Hands exchanging cash. Red tint.",
           "dialogue": "*(distorted)* \"...with us or...\"",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "traumatic flashback inset cold angry taekwondo instructor face, hands exchanging money,\nred desaturated overlay, sharp fragment panel, STYLE: PREMIER",
           "style": "",
           "image": null
@@ -1258,7 +1258,7 @@
           "scene": "**FLASH** \u2014 paying kid gear adjustment \u2014 Ethan on bleachers same memory frame.",
           "dialogue": "Instructor (flash): \"Investment pays off.\"",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "flashback inset favored student gear adjustment instructor praising,\nbleachers lonely teen same memory frame, STYLE: PREMIER flash",
           "style": "",
           "image": null
@@ -1302,7 +1302,7 @@
           "scene": "**FLASH sting** \u2014 hands exchanging cash \u2014 Ttong cold grin \u2014 red overlay.",
           "dialogue": "Ttong (distorted): \"\u2026with us or\u2026\"",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "traumatic flash hands exchanging money cold instructor grin red overlay fragment,\nSTYLE: PREMIER flash sting",
           "style": "",
           "image": null
@@ -1390,7 +1390,7 @@
           "scene": "Ethan in bed \u2014 headphones on \u2014 eyes close \u2014 no smash cut this time.",
           "dialogue": "*(none \u2014 relief beat)*",
           "sfx": "",
-          "timeline": "",
+          "timeline": "**FLASH Premier** montage (opening day \u2192 favoritism) \u2192 **PRESENT ANCHOR** panel **7.5** on Kwon's mats.",
           "prompt": "teen falling asleep with headphones calm breathing no nightmare transition,\nsoft peaceful panel contrast chapter 1, STYLE: KWONS soft",
           "style": "",
           "image": null
@@ -1408,7 +1408,7 @@
           "scene": "Flashback \u2014 small empty Premier dojang. Younger Ethan (white belt) bows. Instructor smiles genuinely.",
           "dialogue": "Instructor: \"Welcome to the family.\"",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "flashback small new taekwondo dojang, young white belt boy bowing, warm smiling instructor,\nhopeful beginning, soft warm memory filter, STYLE: PREMIER lighter",
           "style": "",
           "image": null
@@ -1485,7 +1485,7 @@
           "scene": "**FLASH** \u2014 empty Premier \u2014 fresh mats \u2014 Ttong younger \u2014 genuine smile.",
           "dialogue": "Ttong (younger): \"Small school. Big heart.\"",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "flashback brand new small taekwondo dojang empty fresh mats younger instructor genuine smile,\nhopeful memory filter, STYLE: PREMIER lighter",
           "style": "",
           "image": null
@@ -1496,7 +1496,7 @@
           "scene": "**FLASH** \u2014 white belt Ethan \u2014 first uniform \u2014 parents proud off-panel.",
           "dialogue": "Ethan (V.O.): *I believed him.*",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "flashback young white belt boy first taekwondo uniform excited parents blurred proud,\nchildhood hope, STYLE: PREMIER lighter",
           "style": "",
           "image": null
@@ -1507,7 +1507,7 @@
           "scene": "**FLASH montage cell** \u2014 enrollment line grows \u2014 brochures multiply \u2014 **Repeul Kim** silent with stack.",
           "dialogue": "*(none)*",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "flashback montage enrollment line growing VIP brochures multiplying silent woman background,\ncommercialization creeping in, STYLE: PREMIER cooling",
           "style": "",
           "image": null
@@ -1518,7 +1518,7 @@
           "scene": "**FLASH** \u2014 Ethan wins local medal \u2014 Ttong hugs paying kid instead in background.",
           "dialogue": "Ethan (V.O.): *I won. He photographed someone else.*",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "flashback teen winning medal instructor hugging different student in background for photo,\nbetrayal seed memory, STYLE: PREMIER",
           "style": "",
           "image": null
@@ -1529,7 +1529,7 @@
           "scene": "**FLASH** \u2014 Ethan dominates scrimmage \u2014 coach claps for paying kid's bad kick.",
           "dialogue": "Instructor: \"Excellent form, Marcus!\"",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "flashback sparring teen dominating coach applauding weaker wealthy student instead,\ninjustice montage cell, STYLE: PREMIER",
           "style": "",
           "image": null
@@ -1540,7 +1540,7 @@
           "scene": "**FLASH** \u2014 clipboard \u2014 Ethan's name crossed out \u2014 paying kid circled.",
           "dialogue": "Instructor: \"Ethan \u2014 sit. Marcus \u2014 demo team.\"",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "flashback clipboard names crossed out favored student circled demo team selection,\nexplicit sideline panel, STYLE: PREMIER",
           "style": "",
           "image": null
@@ -1551,7 +1551,7 @@
           "scene": "**FLASH split** \u2014 new electronic hogus on paying kid \u2014 Ethan's worn straps.",
           "dialogue": "Ethan (V.O.): *Same patch. Different price tag.*",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "flashback split panel expensive new taekwondo gear vs worn gear same school patch,\neconomic favoritism visual, STYLE: PREMIER",
           "style": "",
           "image": null
@@ -1562,7 +1562,7 @@
           "scene": "**FLASH** \u2014 Ttong portrait \u2014 smile doesn't reach eyes \u2014 underbite grin.",
           "dialogue": "Ttong: \"We're a family.\"",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "flashback instructor portrait smile not reaching eyes predatory undertone,\nunsettling promo photo aesthetic, STYLE: PREMIER",
           "style": "",
           "image": null
@@ -1595,7 +1595,7 @@
           "scene": "Ethan kicks \u2014 **FLASH overlay faint** \u2014 empty Premier opening day ghosted on present mat.",
           "dialogue": "Ethan (V.O.): *He was kind when the room was empty.*",
           "sfx": "",
-          "timeline": "",
+          "timeline": "FLASH",
           "prompt": "present kick with faint ghost overlay flash empty dojang opening day double exposure,\npoetic memory blend, STYLE: KWONS with PREMIER ghost",
           "style": "",
           "image": null

@@ -4,7 +4,7 @@
 **Purpose:** Logan's **character chapter** — not a fight recap. **No mat** at U20 — corner work, guilt, and *does it count?*  
 **Rule:** Do **not** replay kicks from Ch 94/98/99. Reader already saw those. This chapter is **Logan's interiority only**.  
 **Tie-in panels:** [arc-07-panel-storyboard.md](../storyboards/arc-07-panel-storyboard.md) §100  
-**Prior:** [arc-07-ch99-tj-finals.md](./arc-07-ch99-tj-finals.md) · **Next:** [arc-07-ch101-104-bridge.md](./arc-07-ch101-104-bridge.md)
+**Prior:** [arc-07-ch99-ethan-minho.md](./arc-07-ch99-ethan-minho.md) · **Next:** [arc-07-ch101-104-bridge.md](./arc-07-ch101-104-bridge.md)
 
 ---
 
