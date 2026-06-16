@@ -328,7 +328,172 @@
   color: var(--text-muted);
 }
 
-/* Strip mode — one long PNG per segment, script below */
+/* Continuous webtoon reader — stacked pages, no gaps */
+
+.reader-page--manhwa {
+  background: #000;
+}
+
+.reader-header--manhwa {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: 0.55rem 0;
+  background: rgba(0, 0, 0, 0.92);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(8px);
+}
+
+.reader-header--manhwa .reader-header-inner {
+  max-width: min(720px, 100%);
+  margin-inline: auto;
+  padding: 0 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.reader-header--manhwa .reader-back {
+  font-size: 0.72rem;
+  flex-shrink: 0;
+}
+
+.reader-manhwa-title {
+  flex: 1;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.reader-manhwa-script {
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.reader-manhwa-script:hover {
+  color: var(--gold);
+}
+
+.webtoon-manhwa {
+  width: min(720px, 100%);
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  padding: 0;
+  background: #000;
+}
+
+.manhwa-page {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+  background: #000;
+}
+
+.manhwa-page-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  vertical-align: top;
+}
+
+.manhwa-footnotes {
+  width: min(720px, calc(100% - 1.5rem));
+  margin: 2.5rem auto 1rem;
+  padding: 1.25rem 1rem 1.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  background: #0a0d14;
+}
+
+.manhwa-footnotes-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 0 0 1.25rem;
+}
+
+.manhwa-footnote-section {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.manhwa-footnote-section:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.manhwa-footnote-heading {
+  font-size: 0.82rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem;
+  color: var(--gold);
+}
+
+.manhwa-footnote-note {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin: 0 0 0.85rem;
+}
+
+.manhwa-footnote-panel {
+  padding: 0.65rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+.manhwa-footnote-panel:last-child {
+  border-bottom: none;
+}
+
+.manhwa-footnote-id {
+  font-size: 0.76rem;
+  margin: 0 0 0.35rem;
+  color: var(--cyan);
+}
+
+.manhwa-footnote-scene {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin: 0 0 0.35rem;
+  line-height: 1.5;
+}
+
+.manhwa-footnote-dialogue {
+  font-size: 0.82rem;
+  margin: 0.35rem 0 0;
+  padding: 0.5rem 0.75rem;
+  border-left: 2px solid var(--cyan);
+  background: rgba(46, 232, 255, 0.06);
+  font-style: italic;
+}
+
+.manhwa-footnote-sfx {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin: 0.25rem 0 0;
+}
+
+.chapter-nav--manhwa {
+  width: min(720px, calc(100% - 2rem));
+  margin: 0 auto 2.5rem;
+  padding-top: 0.5rem;
+}
+
+/* Strip mode — one long PNG per segment, script below (legacy) */
 
 .reader-page--strip .webtoon-strip-scroll {
   width: min(520px, 100%);

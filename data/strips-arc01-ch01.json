@@ -5,7 +5,7 @@
   "reader": "chapter-01.html",
   "script_reader": "chapter-01-script.html",
   "strip_dir": "gallery/strips/arc-01",
-  "layout": "dynamic-manhwa",
+  "layout": "webtoon",
   "strips": [
     {
       "id": "page1",
