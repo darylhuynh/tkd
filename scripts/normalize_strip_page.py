@@ -146,6 +146,20 @@ def center_zoom_row(slab: "np.ndarray", keep_frac: float = 0.88) -> "np.ndarray"
     return slab[:, left : left + crop_w]
 
 
+def pad_row_to_width(slab: "np.ndarray", target_width: int, fill: tuple[int, int, int] = (0, 0, 0)) -> "np.ndarray":
+    """Place row art on target-width canvas without upscaling."""
+    rh, rw, _ = slab.shape
+    if rw >= target_width:
+        scale = target_width / rw
+        new_h = max(1, round(rh * scale))
+        return np.array(Image.fromarray(slab).resize((target_width, new_h), Image.Resampling.LANCZOS))
+    canvas = np.zeros((rh, target_width, 3), dtype=np.uint8)
+    canvas[:, :] = fill
+    offset = (target_width - rw) // 2
+    canvas[:, offset : offset + rw] = slab
+    return canvas
+
+
 def normalize_per_row(
     img: Image.Image,
     rows: int,
@@ -155,6 +169,7 @@ def normalize_per_row(
     matte_edges: bool = True,
     row_zoom: dict[int, float] | None = None,
     flood_matte: bool = False,
+    pad_only: bool = False,
 ) -> Image.Image:
     if np is None:
         raise SystemExit("Install numpy for per-row mode: pip install numpy")
@@ -178,10 +193,13 @@ def normalize_per_row(
         if crop.size == 0:
             continue
         ch, cw = crop.shape[:2]
-        scale = target_width / cw
-        new_h = max(1, round(ch * scale))
-        row_img = Image.fromarray(crop).resize((target_width, new_h), Image.Resampling.LANCZOS)
-        out_rows.append(np.array(row_img))
+        if pad_only and cw <= target_width:
+            row_arr = pad_row_to_width(crop, target_width)
+        else:
+            scale = target_width / cw
+            new_h = max(1, round(ch * scale))
+            row_arr = np.array(Image.fromarray(crop).resize((target_width, new_h), Image.Resampling.LANCZOS))
+        out_rows.append(row_arr)
 
     if not out_rows:
         raise SystemExit("Per-row crop produced no rows")
@@ -201,6 +219,7 @@ def normalize(
     matte_edges: bool = True,
     row_zoom: dict[int, float] | None = None,
     flood_matte: bool = False,
+    pad_only: bool = False,
 ) -> Path:
     if Image is None:
         raise SystemExit("Install Pillow: pip install Pillow")
@@ -225,6 +244,7 @@ def normalize(
             matte_edges=matte_edges,
             row_zoom=row_zoom,
             flood_matte=flood_matte,
+            pad_only=pad_only,
         )
         print(f"{src.name}: {img.size} -> per-row x{rows} -> {resized.size}")
     else:
@@ -269,6 +289,7 @@ def main() -> None:
     parser.add_argument("--no-matte-edges", action="store_true", help="Skip painting side letterbox columns black")
     parser.add_argument("--flood-matte", action="store_true", help="Flood-fill border-connected white to black")
     parser.add_argument("--row1-zoom", type=float, default=0.0, help="Center-crop zoom for row 1 (e.g. 0.82)")
+    parser.add_argument("--pad-only", action="store_true", help="Crop letterbox then pad to width (no upscale)")
     args = parser.parse_args()
 
     rows = args.rows
@@ -288,6 +309,7 @@ def main() -> None:
         matte_edges=not args.no_matte_edges,
         row_zoom=row_zoom,
         flood_matte=args.flood_matte,
+        pad_only=args.pad_only,
     )
 
 

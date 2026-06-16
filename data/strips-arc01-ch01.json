@@ -8,10 +8,16 @@
   "layout": "webtoon",
   "strips": [
     {
-      "id": "page1",
-      "file": "chapter-01-page-1-arrival.png",
-      "label": "PAGE 1 — Arrival & Change (1.1–1.7)",
-      "panel_ids": ["1.1", "1.2", "1.3", "1.4", "1.6", "1.7"]
+      "id": "page1a",
+      "file": "chapter-01-page-1a-arrival.png",
+      "label": "PAGE 1a — Arrival (1.1–1.3)",
+      "panel_ids": ["1.1", "1.2", "1.3"]
+    },
+    {
+      "id": "page1b",
+      "file": "chapter-01-page-1b-change.png",
+      "label": "PAGE 1b — Change (1.4, 1.6–1.7)",
+      "panel_ids": ["1.4", "1.6", "1.7"]
     },
     {
       "id": "page2",
