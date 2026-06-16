@@ -48,11 +48,36 @@ Relentless · stoic · hardworking
 
 ## Files to Generate
 
-`output/ariana-yang/`: `dobok-front.png` · `dobok-extra-guards.png` · `gear-front.png`
+`output/ariana-yang/`: `casual-front.png` · `casual-side.png` · `casual-back.png` · `dobok-front.png` · `gear-front.png`
 
 ---
 
 ## Prompts
+
+### Casual — Front (Primary)
+```
+teen girl 15 filipino-american 4 foot 11 petite dark brown skin,
+black hair red streaks chin length bob blunt bangs stoic focused neutral expression,
+modest casual outfit olive green zip hoodie cream joggers white sneakers small black backpack,
+full body front view only neutral stance plain white background,
+manhwa webtoon clean lineart cel shading korean sports manhwa solo leveling character aesthetic,
+NO TEXT NO LETTERS NO NAME TAGS
+```
+
+### Casual — Side
+```
+same filipino-american teen girl 4 foot 11 dark brown skin black hair red streak bob blunt bangs,
+olive green hoodie cream joggers white sneakers black backpack,
+full body side profile view only plain white background manhwa webtoon character reference,
+NO TEXT NO LETTERS
+```
+
+### Casual — Back
+```
+same petite girl from behind black hair red streak bob olive green hoodie cream joggers black backpack,
+full body back view only plain white background manhwa webtoon character reference,
+NO TEXT NO LETTERS
+```
 
 ### Dobok + Guards Over — Front (Primary)
 ```
@@ -85,4 +110,4 @@ full body front, character reference, STYLE: KWONS manhwa
 
 Arc 1 **10.x** · Arc 3 Ariana punch **33.9** · Arc 5 bandage slip **51.x**
 
-**Generated v4:** `dobok-front.png` · **v2:** `gear-front.png`
+**Generated v4:** `dobok-front.png` · **v2:** `gear-front.png` · **v1:** `casual-front.png`

@@ -1,0 +1,17 @@
+{
+  "character_id": "derek-cole",
+  "canon_name": "Derek Cole",
+  "age": 16,
+  "height": "5'10\"",
+  "weight": "128 lbs",
+  "division": "Open -54kg",
+  "belt": "2nd Dan",
+  "school": "Apex TKD",
+  "defining_skill": "Spinning hook specialist",
+  "visual_lock": "Bleached mohawk · chrome chain · black/red Apex dobok · red belt",
+  "files": {
+    "dobok-front.png": "Apex TKD — black jacket red diagonal stripe, white pants, red belt"
+  },
+  "generated": "dobok v2",
+  "status": "complete"
+}

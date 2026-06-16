@@ -1,0 +1,824 @@
+{
+  "title": "Taekwondo Legends",
+  "logline": "After leaving a toxic, money-driven school that cares only about the bottom line and their image, Ethan Hyun and five teammates rebuild under Master Viet at Kwon's Taekwondo Academy. Together they chase an impossible dream: qualifying for the Korea U20 National Team.",
+  "story_premise": "Ethan walks into Kwon's Taekwondo Academy with elite technique, a silver letter black belt and scars from an old school. Master Viet doesn't promise miracles - he promises attention. One by one, five friends leave Premier Taekwondo Sports Dynasty's Shadow to follow Ethan.",
+  "story_premise_2": "The rivalry stays on the tournament floor — rival schools, national camps, and the long road to Korea. At Kwon's, teammates push each other harder; they don't tear each other down.",
+  "genre": [
+    "Sports Drama",
+    "Coming of Age",
+    "Martial Arts",
+    "Found Family"
+  ],
+  "arcs": [
+    {
+      "num": 1,
+      "title": "New Beginnings",
+      "chapters": "1–10",
+      "tagline": "Nightmare at Premier. Hope at Kwon's.",
+      "href": "arcs/new-beginnings/index.html",
+      "available": true
+    },
+    {
+      "num": 2,
+      "title": "The Team",
+      "chapters": "11–20",
+      "tagline": "Six friends become a family.",
+      "href": null,
+      "available": false
+    },
+    {
+      "num": 3,
+      "title": "First Tournament",
+      "chapters": "21–35",
+      "tagline": "First blood on the mat.",
+      "href": null,
+      "available": false
+    },
+    {
+      "num": 4,
+      "title": "Shadow School",
+      "chapters": "36–50",
+      "tagline": "Premier doesn't let go easily.",
+      "href": null,
+      "available": false
+    },
+    {
+      "num": 5,
+      "title": "Road to Korea",
+      "chapters": "51–70",
+      "tagline": "The impossible dream takes shape.",
+      "href": null,
+      "available": false
+    },
+    {
+      "num": 6,
+      "title": "Korea Regionals",
+      "chapters": "71–90",
+      "tagline": "Prove it on foreign soil.",
+      "href": null,
+      "available": false
+    },
+    {
+      "num": 7,
+      "title": "Legends",
+      "chapters": "91–110",
+      "tagline": "U20 National Team selection.",
+      "href": null,
+      "available": false
+    },
+    {
+      "num": 8,
+      "title": "Closure",
+      "chapters": "111–120",
+      "tagline": "Growth, loss, and what remains.",
+      "href": null,
+      "available": false
+    }
+  ],
+  "characters": [
+    {
+      "character_id": "ethan-hyun",
+      "canon_name": "Ethan Hyun",
+      "display_name": "Ethan Hyun",
+      "also_known_as": null,
+      "age": 15,
+      "height": "5'3\"",
+      "weight": "95 lbs",
+      "division": "Junior -45kg",
+      "belt": "3rd Dan",
+      "school": "Kwon's Taekwondo Academy",
+      "role": "Main Character · The Gifted Broken Prodigy",
+      "faction": "kwons",
+      "stats": {
+        "Attack": "B+",
+        "Defense": "B",
+        "Technique": "A",
+        "Mobility": "A-",
+        "Physical": "B+"
+      },
+      "skills": [
+        {
+          "name": "Neverending Endurance",
+          "unlock": "base",
+          "detail": "outlasts opponents in extended exchanges"
+        },
+        {
+          "name": "Berserker Rage",
+          "unlock": "arc5",
+          "detail": "grief-fueled mode; post–Arc 5 Ch 58 (see [STORY-OUTCOMES.md](../STORY-OUTCOMES.md))"
+        },
+        {
+          "name": "Ultimate Counter",
+          "unlock": "arc7",
+          "detail": "unlocked **Arc 7 Ch 92** (U20 camp). Reads any committed attack; answers with **spinning hook to head** while **guard stays up**. First competitive use: **Ch 98** vs Min-ho."
+        }
+      ],
+      "portrait": "reference-sheets/output/ethan-hyun/casual-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/ethan-hyun/casual-front.png",
+          "label": "Casual Front",
+          "caption": "Off-mat — oversized navy hoodie, white tee hanging out, baggy pants, gold headphones, white backpack"
+        },
+        {
+          "src": "reference-sheets/output/ethan-hyun/casual-side.png",
+          "label": "Casual Side",
+          "caption": "Off-mat — side profile turnaround"
+        },
+        {
+          "src": "reference-sheets/output/ethan-hyun/casual-back.png",
+          "label": "Casual Back",
+          "caption": "Off-mat — back view turnaround"
+        },
+        {
+          "src": "reference-sheets/output/ethan-hyun/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "Training — standard white dobok, guards under, plain black belt"
+        },
+        {
+          "src": "reference-sheets/output/ethan-hyun/gear-front.png",
+          "label": "Gear Front",
+          "caption": "Tournament — electronic hogus full gear"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "tj-lim",
+      "canon_name": "TJ Lim",
+      "display_name": "TJ Lim",
+      "also_known_as": null,
+      "age": 15,
+      "height": "5'11\"",
+      "weight": "150 lbs",
+      "division": "Junior -68kg",
+      "belt": "3rd Dan",
+      "school": "Kwon's Taekwondo Academy",
+      "role": "Team Ace / Anchor · The Chosen Champion",
+      "faction": "kwons",
+      "stats": {
+        "Attack": "A",
+        "Defense": "B+",
+        "Technique": "B",
+        "Mobility": "C+",
+        "Physical": "A"
+      },
+      "skills": [
+        {
+          "name": "Emperor's Kick",
+          "unlock": "base",
+          "detail": "devastating power shot; signature finisher"
+        },
+        {
+          "name": "Mountain Strike",
+          "unlock": "arc7",
+          "detail": "unlocked **Arc 7 Ch 93** (U20 camp). Heavy **mat stomp** breaks opponent rhythm → **cut kick to head** (+3). Rhythm weapon, not a illegal strike."
+        }
+      ],
+      "portrait": "reference-sheets/output/tj-lim/casual-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/tj-lim/casual-front.png",
+          "label": "Casual Front",
+          "caption": "Off-mat — grey baggy sweats, Hatsune Miku graphic tee"
+        },
+        {
+          "src": "reference-sheets/output/tj-lim/casual-side.png",
+          "label": "Casual Side",
+          "caption": "Off-mat — side profile turnaround"
+        },
+        {
+          "src": "reference-sheets/output/tj-lim/casual-back.png",
+          "label": "Casual Back",
+          "caption": "Off-mat — back view turnaround"
+        },
+        {
+          "src": "reference-sheets/output/tj-lim/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "Training — standard white dobok, teal hair, white headband"
+        },
+        {
+          "src": "reference-sheets/output/tj-lim/gear-front.png",
+          "label": "Gear Front",
+          "caption": "Tournament — electronic hogus full gear"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "kieryn-lim",
+      "canon_name": "Kieryn Lim",
+      "display_name": "Kieryn Lim",
+      "also_known_as": null,
+      "age": 13,
+      "height": "5'8\"",
+      "weight": "108 lbs",
+      "division": "Cadet -49kg",
+      "belt": "2nd Dan",
+      "school": "Kwon's Taekwondo Academy",
+      "role": "Female Ace · The Sassy Technician",
+      "faction": "kwons",
+      "stats": {
+        "Attack": "A-",
+        "Defense": "B",
+        "Technique": "B-",
+        "Mobility": "B+",
+        "Physical": "A"
+      },
+      "skills": [
+        {
+          "name": "100 Shadow Kick",
+          "unlock": "base",
+          "detail": "rapid combination finishing sequence"
+        },
+        {
+          "name": "Laser Stab",
+          "unlock": "arc7",
+          "detail": "unlocked **Arc 7 Ch 92** (U20 camp). Front-leg **straight snap to face** — reach and speed before opponent reacts."
+        }
+      ],
+      "portrait": "reference-sheets/output/kieryn-lim/casual-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/kieryn-lim/casual-front.png",
+          "label": "Casual Front",
+          "caption": "Off-mat — purple/magenta/black K-pop streetwear"
+        },
+        {
+          "src": "reference-sheets/output/kieryn-lim/casual-side.png",
+          "label": "Casual Side",
+          "caption": "Off-mat — side profile turnaround"
+        },
+        {
+          "src": "reference-sheets/output/kieryn-lim/casual-back.png",
+          "label": "Casual Back",
+          "caption": "Off-mat — back view turnaround"
+        },
+        {
+          "src": "reference-sheets/output/kieryn-lim/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "Training — white dobok, collar open upper chest only, guards under"
+        },
+        {
+          "src": "reference-sheets/output/kieryn-lim/gear-front.png",
+          "label": "Gear Front",
+          "caption": "Tournament — electronic hogus"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "logan-hyun",
+      "canon_name": "Logan Hyun",
+      "display_name": "Logan Hyun",
+      "also_known_as": null,
+      "age": 13,
+      "height": "4'10\"",
+      "weight": "84 lbs",
+      "division": "Cadet -41kg",
+      "belt": "2nd Dan",
+      "school": "Kwon's Taekwondo Academy",
+      "role": "Heart of the Team · The School Mascot",
+      "faction": "kwons",
+      "stats": {
+        "Attack": "B",
+        "Defense": "B",
+        "Technique": "B-",
+        "Mobility": "B",
+        "Physical": "B"
+      },
+      "skills": [
+        {
+          "name": "Neverending Rage",
+          "unlock": "base",
+          "detail": "intensity spikes when team or family is threatened"
+        }
+      ],
+      "portrait": "reference-sheets/output/logan-hyun/casual-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/logan-hyun/casual-front.png",
+          "label": "Casual Front",
+          "caption": "Off-mat — bowl cut, iPad, oversized backpack, food charms"
+        },
+        {
+          "src": "reference-sheets/output/logan-hyun/casual-side.png",
+          "label": "Casual Side",
+          "caption": "Off-mat — side profile turnaround"
+        },
+        {
+          "src": "reference-sheets/output/logan-hyun/casual-back.png",
+          "label": "Casual Back",
+          "caption": "Off-mat — back view turnaround"
+        },
+        {
+          "src": "reference-sheets/output/logan-hyun/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "Training — standard white dobok, plain black belt, guards under"
+        },
+        {
+          "src": "reference-sheets/output/logan-hyun/gear-front.png",
+          "label": "Gear Front",
+          "caption": "Tournament — electronic hogus full gear"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "kian-sang",
+      "canon_name": "Kian Sang",
+      "display_name": "Kian Sang",
+      "also_known_as": null,
+      "age": 15,
+      "height": "5'10\"",
+      "weight": "108 lbs",
+      "division": "Junior -49kg",
+      "belt": "2nd Dan",
+      "school": "Kwon's Taekwondo Academy",
+      "role": "Internal Challenger · The Storm",
+      "faction": "kwons",
+      "stats": {
+        "Attack": "A",
+        "Defense": "B-",
+        "Technique": "C+",
+        "Mobility": "B",
+        "Physical": "A+"
+      },
+      "skills": [
+        {
+          "name": "Whirlwind Kick",
+          "unlock": "base",
+          "detail": "chaotic spinning offense"
+        },
+        {
+          "name": "Debilitating Combo",
+          "unlock": "arc7",
+          "detail": "unlocked **Arc 7 Ch 92** (U20 camp). **Hip-line trunk kick** breaks base → **flop kick to head** finish."
+        }
+      ],
+      "portrait": "reference-sheets/output/kian-sang/casual-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/kian-sang/casual-front.png",
+          "label": "Casual Front",
+          "caption": "Off-mat — emerald green hoodie, cream joggers, gold accents"
+        },
+        {
+          "src": "reference-sheets/output/kian-sang/casual-side.png",
+          "label": "Casual Side",
+          "caption": "Off-mat — side profile turnaround"
+        },
+        {
+          "src": "reference-sheets/output/kian-sang/casual-back.png",
+          "label": "Casual Back",
+          "caption": "Off-mat — back view turnaround"
+        },
+        {
+          "src": "reference-sheets/output/kian-sang/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "Training — dark gray dobok, arm flag patches, guards under"
+        },
+        {
+          "src": "reference-sheets/output/kian-sang/gear-front.png",
+          "label": "Gear Front",
+          "caption": "Tournament — electronic hogus full gear"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "ariana-yang",
+      "canon_name": "Ariana Yang",
+      "display_name": "Ariana Yang",
+      "also_known_as": null,
+      "age": 15,
+      "height": "4'11\"",
+      "weight": "92 lbs",
+      "division": "Junior -42kg",
+      "belt": "2nd Dan",
+      "school": "Kwon's Taekwondo Academy",
+      "role": "Workhorse · The Unbreakable Daughter",
+      "faction": "kwons",
+      "stats": {
+        "Attack": "B-",
+        "Defense": "A-",
+        "Technique": "B+",
+        "Mobility": "A-",
+        "Physical": "C-"
+      },
+      "skills": [
+        {
+          "name": "Supreme Accuracy",
+          "unlock": "base",
+          "detail": "lands clean shots others miss"
+        },
+        {
+          "name": "Whirling Dervish",
+          "unlock": "arc7",
+          "detail": "unlocked **Arc 7 Ch 93** (U20 camp). **10-hit** body/head combination with spins between strikes. **Legal in tournament:** up to **3 consecutive kicks** before the foot must plant — chain runs **3+3+3+1** with resets between groups."
+        }
+      ],
+      "portrait": "reference-sheets/output/ariana-yang/casual-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/ariana-yang/casual-front.png",
+          "label": "Casual Front",
+          "caption": "Off-mat — olive green hoodie, cream joggers, white sneakers, black backpack"
+        },
+        {
+          "src": "reference-sheets/output/ariana-yang/casual-side.png",
+          "label": "Casual Side",
+          "caption": "Off-mat — side profile turnaround"
+        },
+        {
+          "src": "reference-sheets/output/ariana-yang/casual-back.png",
+          "label": "Casual Back",
+          "caption": "Off-mat — back view turnaround"
+        },
+        {
+          "src": "reference-sheets/output/ariana-yang/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "Training — white dobok, blue guards over, arm flags"
+        },
+        {
+          "src": "reference-sheets/output/ariana-yang/gear-front.png",
+          "label": "Gear Front",
+          "caption": "Tournament — electronic hogus, extra limb protection"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "master-viet",
+      "canon_name": "Viet Na",
+      "display_name": "Viet Na",
+      "also_known_as": "Master Viet",
+      "age": "mid-40s",
+      "height": "5'8\"-5'9\"",
+      "weight": null,
+      "division": null,
+      "belt": null,
+      "school": "Kwon's Taekwondo Academy",
+      "role": "Head Instructor · Kwon's Taekwondo Academy",
+      "faction": "coach",
+      "stats": {},
+      "skills": [],
+      "portrait": "reference-sheets/output/master-viet/casual-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/master-viet/casual-front.png",
+          "label": "Casual Front",
+          "caption": "Coaching — dark zip vest, tight white tee, black pants"
+        },
+        {
+          "src": "reference-sheets/output/master-viet/casual-side.png",
+          "label": "Casual Side",
+          "caption": "Coaching — side profile turnaround"
+        },
+        {
+          "src": "reference-sheets/output/master-viet/casual-back.png",
+          "label": "Casual Back",
+          "caption": "Coaching — back view turnaround"
+        },
+        {
+          "src": "reference-sheets/output/master-viet/vest-front.png",
+          "label": "Vest Front",
+          "caption": "Alias of casual-front"
+        },
+        {
+          "src": "reference-sheets/output/master-viet/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "Training — white dobok, black neck stripes, black belt"
+        },
+        {
+          "src": "reference-sheets/output/master-viet/polo-front.png",
+          "label": "Polo Front",
+          "caption": "Tournament — blue polo shirt, black pants"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "yuna-park",
+      "canon_name": "Yuna Park",
+      "display_name": "Yuna Park",
+      "also_known_as": null,
+      "age": "15 → 17 (epilogue)",
+      "height": "5'6\"",
+      "weight": "115 lbs",
+      "division": "Poomsae",
+      "belt": "2nd Dan (poomsae)",
+      "school": null,
+      "role": "Poomsae Athlete · Ethan's Love Interest",
+      "faction": "ally",
+      "stats": {},
+      "skills": [],
+      "portrait": "reference-sheets/output/yuna-park/casual-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/yuna-park/poomsae-front.png",
+          "label": "Poomsae Front",
+          "caption": "Poomsae — WT-style white/black v-neck top, dark blue pants, black belt"
+        },
+        {
+          "src": "reference-sheets/output/yuna-park/casual-front.png",
+          "label": "Casual Front",
+          "caption": "Off-mat — cutesy pastel outfit, backpack with cute keychain charms"
+        },
+        {
+          "src": "reference-sheets/output/yuna-park/casual-side.png",
+          "label": "Casual Side",
+          "caption": "Off-mat — side profile turnaround"
+        },
+        {
+          "src": "reference-sheets/output/yuna-park/casual-back.png",
+          "label": "Casual Back",
+          "caption": "Off-mat — back view turnaround"
+        },
+        {
+          "src": "reference-sheets/output/yuna-park/college-casual-ring.png",
+          "label": "College Casual Ring",
+          "caption": "Epilogue Arc 8 — age 17 SNU campus casual, friendship ring on finger"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "ttong-kim",
+      "canon_name": "Ttong Kim",
+      "display_name": "Ttong Kim",
+      "also_known_as": null,
+      "age": null,
+      "height": "5'8\"-5'9\"",
+      "weight": null,
+      "division": null,
+      "belt": "2nd Dan (instructor — not master)",
+      "school": "Premier Taekwondo Sports Dynasty",
+      "role": "Antagonist · Premier Taekwondo Sports Dynasty",
+      "faction": "premier",
+      "stats": {},
+      "skills": [],
+      "portrait": "reference-sheets/output/ttong-kim/casual-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/ttong-kim/casual-front.png",
+          "label": "Casual Front",
+          "caption": "Off-mat — tight black shorts, black polo, gold watch, underbite + teeth"
+        },
+        {
+          "src": "reference-sheets/output/ttong-kim/casual-side.png",
+          "label": "Casual Side",
+          "caption": "Off-mat — side profile turnaround, underbite"
+        },
+        {
+          "src": "reference-sheets/output/ttong-kim/casual-back.png",
+          "label": "Casual Back",
+          "caption": "Off-mat — back view turnaround"
+        },
+        {
+          "src": "reference-sheets/output/ttong-kim/shorts-front.png",
+          "label": "Shorts Front",
+          "caption": "Teaching — tight black shorts, black polo, gold watch, underbite + teeth"
+        },
+        {
+          "src": "reference-sheets/output/ttong-kim/jaw-profile.png",
+          "label": "Jaw Profile",
+          "caption": "Side profile — underbite lock, lower teeth past upper lip"
+        },
+        {
+          "src": "reference-sheets/output/ttong-kim/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "Training — white dobok, black neck stripes, underbite"
+        },
+        {
+          "src": "reference-sheets/output/ttong-kim/suit-front.png",
+          "label": "Suit Front",
+          "caption": "Tournament — ill-fitting business suit, underbite + teeth"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "repeul-kim",
+      "canon_name": "Repeul Kim",
+      "display_name": "Repeul Kim",
+      "also_known_as": null,
+      "age": 37,
+      "height": "5'5\"",
+      "weight": "230 lbs",
+      "division": null,
+      "belt": null,
+      "school": null,
+      "role": "Background · Ttong's wife (never speaks)",
+      "faction": "premier",
+      "stats": {},
+      "skills": [],
+      "portrait": "reference-sheets/output/repeul-kim/casual-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/repeul-kim/casual-front.png",
+          "label": "Casual Front",
+          "caption": "Primary — ugly multicolor casual turnaround, mean scowl, adult woman"
+        },
+        {
+          "src": "reference-sheets/output/repeul-kim/casual-3q.png",
+          "label": "Casual 3Q",
+          "caption": "Background — 3/4 view, low img2img weight, mean scowl"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "derek-cole",
+      "canon_name": "Derek Cole",
+      "display_name": "Derek Cole",
+      "also_known_as": null,
+      "age": 16,
+      "height": "5'10\"",
+      "weight": "128 lbs",
+      "division": "Open -54kg",
+      "belt": "2nd Dan",
+      "school": "Apex TKD",
+      "role": "Arc 3 · Ch 25 opponent",
+      "faction": "rival",
+      "stats": {},
+      "skills": [
+        {
+          "name": "Spinning Hook",
+          "unlock": "base"
+        }
+      ],
+      "portrait": "reference-sheets/output/derek-cole/dobok-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/derek-cole/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "Apex TKD — black jacket red diagonal stripe, white pants, red belt"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "maya-ortiz",
+      "canon_name": "Maya Ortiz",
+      "display_name": "Maya Ortiz",
+      "also_known_as": null,
+      "age": 14,
+      "height": "5'9\"",
+      "weight": "112 lbs",
+      "division": "Cadet -49kg",
+      "belt": "2nd Dan",
+      "school": "Valley Martial Arts",
+      "role": "Arc 3 · Ch 33 opponent",
+      "faction": "rival",
+      "stats": {},
+      "skills": [
+        {
+          "name": "Cadet Bracket Ace",
+          "unlock": "base"
+        }
+      ],
+      "portrait": "reference-sheets/output/maya-ortiz/dobok-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/maya-ortiz/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "Valley MA — navy jacket orange side panels, orange belt"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "lee-ji-woo",
+      "canon_name": "Lee Ji-woo",
+      "display_name": "Lee Ji-woo",
+      "also_known_as": null,
+      "age": 16,
+      "height": "5'6\"",
+      "weight": "99 lbs",
+      "division": "Junior -45kg",
+      "belt": "3rd Dan",
+      "school": "Busan Youth Team",
+      "role": "Arc 6 · Ch 77 — Korea regional",
+      "faction": "rival",
+      "stats": {},
+      "skills": [
+        {
+          "name": "Endurance Grind",
+          "unlock": "base"
+        }
+      ],
+      "portrait": "reference-sheets/output/lee-ji-woo/dobok-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/lee-ji-woo/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "Busan Youth — powder blue dobok teal collar trim, teal belt"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "kim-min-ho",
+      "canon_name": "Kim Min-ho",
+      "display_name": "Kim Min-ho",
+      "also_known_as": null,
+      "age": 17,
+      "height": "5'11\"",
+      "weight": "132 lbs",
+      "division": "U20 -58kg",
+      "belt": "3rd Dan",
+      "school": "Korea National TC",
+      "role": "Arc 7 · Ch 98 — Ethan's elimination",
+      "faction": "rival",
+      "stats": {},
+      "skills": [
+        {
+          "name": "Disciplined Distance",
+          "unlock": "base"
+        },
+        {
+          "name": "Shoulder Tell (spin setup)",
+          "unlock": "base"
+        }
+      ],
+      "portrait": "reference-sheets/output/kim-min-ho/dobok-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/kim-min-ho/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "KNTC — white dobok red collar/cuff piping, charcoal gray belt"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "han-do-won",
+      "canon_name": "Han Do-won",
+      "display_name": "Han Do-won",
+      "also_known_as": null,
+      "age": 17,
+      "height": "6'0\"",
+      "weight": "158 lbs",
+      "division": "U20 -68kg",
+      "belt": "3rd Dan",
+      "school": "Korea National TC",
+      "role": "Arc 7 · Ch 99 — TJ finals",
+      "faction": "rival",
+      "stats": {},
+      "skills": [
+        {
+          "name": "Pressure Volume",
+          "unlock": "base"
+        },
+        {
+          "name": "Body Kick Chains",
+          "unlock": "base"
+        }
+      ],
+      "portrait": "reference-sheets/output/han-do-won/dobok-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/han-do-won/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "KNTC — charcoal gray dobok red shoulder panels, black belt"
+        }
+      ],
+      "status": "complete"
+    },
+    {
+      "character_id": "park-sung-min",
+      "canon_name": "Park Sung-min",
+      "display_name": "Park Sung-min",
+      "also_known_as": null,
+      "age": 21,
+      "height": "5'10\"",
+      "weight": "145 lbs",
+      "division": "Collegiate -68kg",
+      "belt": "4th Dan",
+      "school": "Yonsei Univ.",
+      "role": "Arc 8 · Ch 118 epilogue",
+      "faction": "rival",
+      "stats": {},
+      "skills": [
+        {
+          "name": "Turning Body Kicks",
+          "unlock": "base"
+        },
+        {
+          "name": "Feint Spins",
+          "unlock": "base"
+        }
+      ],
+      "portrait": "reference-sheets/output/park-sung-min/dobok-front.png",
+      "views": [
+        {
+          "src": "reference-sheets/output/park-sung-min/dobok-front.png",
+          "label": "Dobok Front",
+          "caption": "Yonsei — deep blue dobok gold collar trim, gold belt"
+        }
+      ],
+      "status": "complete"
+    }
+  ]
+}

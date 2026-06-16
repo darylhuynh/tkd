@@ -10,10 +10,13 @@
   "school": "Kwon's Taekwondo Academy",
   "role": "Head coach",
   "files": {
-    "vest-front.png": "Default coaching — black vest, tight white tee, blank patches",
+    "casual-front.png": "Coaching — dark zip vest, tight white tee, black pants",
+    "casual-side.png": "Coaching — side profile turnaround",
+    "casual-back.png": "Coaching — back view turnaround",
+    "vest-front.png": "Alias of casual-front",
     "dobok-front.png": "Training — white dobok, black neck stripes, black belt",
     "polo-front.png": "Tournament — blue polo shirt, black pants"
   },
-  "generated": "dobok v1, polo v1, vest v2",
+  "generated": "casual v1 front/side/back, dobok v1, polo v1",
   "status": "complete"
 }

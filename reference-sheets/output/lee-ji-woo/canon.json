@@ -1,0 +1,17 @@
+{
+  "character_id": "lee-ji-woo",
+  "canon_name": "Lee Ji-woo",
+  "age": 16,
+  "height": "5'6\"",
+  "weight": "99 lbs",
+  "division": "Junior -45kg",
+  "belt": "3rd Dan",
+  "school": "Busan Youth Team",
+  "defining_skill": "Endurance test",
+  "visual_lock": "Ash-gray bob · teal headband · powder blue/teal Busan dobok",
+  "files": {
+    "dobok-front.png": "Busan Youth — powder blue dobok teal collar trim, teal belt"
+  },
+  "generated": "dobok v2",
+  "status": "complete"
+}

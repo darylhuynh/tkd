@@ -11,8 +11,12 @@
   "dobok": "white dobok, collar open upper chest only, blue guards over, arm flags (post), yellow belt letters (post)",
   "source": "Google Sheet tab: Ariana Yang",
   "files": {
+    "casual-front.png": "Off-mat — olive green hoodie, cream joggers, white sneakers, black backpack",
+    "casual-side.png": "Off-mat — side profile turnaround",
+    "casual-back.png": "Off-mat — back view turnaround",
     "dobok-front.png": "Training — white dobok, blue guards over, arm flags",
     "gear-front.png": "Tournament — electronic hogus, extra limb protection"
   },
-  "generated": "dobok v4, gear v2"
+  "generated": "casual v2 front/side/back, dobok v4, gear v2",
+  "status": "complete"
 }

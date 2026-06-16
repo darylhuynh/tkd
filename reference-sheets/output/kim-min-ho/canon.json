@@ -1,0 +1,16 @@
+{
+  "character_id": "kim-min-ho",
+  "canon_name": "Kim Min-ho",
+  "age": 17,
+  "height": "5'11\"",
+  "weight": "132 lbs",
+  "division": "U20 -58kg",
+  "belt": "3rd Dan",
+  "school": "Korea National TC",
+  "visual_lock": "Undercut platinum tips · gold stud · white dobok red piping · gray belt",
+  "files": {
+    "dobok-front.png": "KNTC — white dobok red collar/cuff piping, charcoal gray belt"
+  },
+  "generated": "dobok v2",
+  "status": "complete"
+}

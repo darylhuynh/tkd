@@ -7,6 +7,9 @@
   "build": "slightly stocky — thick neck, solid torso, NOT bodybuilder, NOT lean",
   "face": "obvious underbite, lower teeth visible, predatory grin showing teeth",
   "files": {
+    "casual-front.png": "Off-mat — tight black shorts, black polo, gold watch, underbite + teeth",
+    "casual-side.png": "Off-mat — side profile turnaround, underbite",
+    "casual-back.png": "Off-mat — back view turnaround",
     "shorts-front.png": "Teaching — tight black shorts, black polo, gold watch, underbite + teeth",
     "jaw-profile.png": "Side profile — underbite lock, lower teeth past upper lip",
     "dobok-front.png": "Training — white dobok, black neck stripes, underbite",

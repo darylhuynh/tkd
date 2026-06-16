@@ -1,0 +1,16 @@
+{
+  "character_id": "han-do-won",
+  "canon_name": "Han Do-won",
+  "age": 17,
+  "height": "6'0\"",
+  "weight": "158 lbs",
+  "division": "U20 -68kg",
+  "belt": "3rd Dan",
+  "school": "Korea National TC",
+  "visual_lock": "Spiky hair red streak · jaw tape · fingerless gloves · charcoal/red dobok",
+  "files": {
+    "dobok-front.png": "KNTC — charcoal gray dobok red shoulder panels, black belt"
+  },
+  "generated": "dobok v2",
+  "status": "complete"
+}

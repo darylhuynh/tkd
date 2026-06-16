@@ -4,7 +4,9 @@ Turnaround model sheets for **consistent AI panel generation** (img2img / IP-Ada
 
 **Primary source:** [Google Sheets — Character Card](https://docs.google.com/spreadsheets/d/18DGBDJphipA9le931yoLtFqWFlLESeIMyyiIGv10-MU/edit?usp=sharing) (one tab per fighter).
 
-**Local CSV snapshots:** [`source-csv/`](./source-csv/) — re-export if the sheet changes.
+**Import-ready CSVs (cleaned):** [`google-sheets-import/`](./google-sheets-import/) — regenerate with `python scripts/export_google_sheets.py`.
+
+**Legacy CSV snapshots:** [`source-csv/`](./source-csv/) — old exports; prefer `google-sheets-import/` after sync.
 
 **Extended profiles:** [`../characters/`](../characters/README.md) — story beats, MV/Ttong Kim details added after the sheet.
 
@@ -15,7 +17,7 @@ Turnaround model sheets for **consistent AI panel generation** (img2img / IP-Ada
 | Batch | Character | Sheet tab | Ref file |
 |-------|-----------|-----------|----------|
 | **P0** | Ethan Hyun | Ethan Hyun | [ethan-hyun-ref.md](./ethan-hyun-ref.md) |
-| **P0** | Master Viet (**Viet Na**) | *(no dedicated tab — use profile)* | [master-viet-ref.md](./master-viet-ref.md) |
+| **P0** | Master Viet (**Viet Na**) | *(no dedicated tab — use profile)* | [master-viet-ref.md](./master-viet-ref.md) · casual front/side/back |
 | **P0** | Ttong Kim | *(no dedicated tab — use profile)* | [ttong-kim-ref.md](./ttong-kim-ref.md) |
 | **P0** | Repeul Kim | *(background — use profile)* | [repeul-kim-ref.md](./repeul-kim-ref.md) |
 | **P1** | TJ Lim | TJ Lim | [tj-lim-ref.md](./tj-lim-ref.md) |
@@ -49,7 +51,7 @@ Turnaround model sheets for **consistent AI panel generation** (img2img / IP-Ada
 | Character | Views | Status |
 |-----------|-------|--------|
 | **Kian Sang** | casual · dobok · gear | ✅ |
-| **Ariana Yang** | dobok · gear | ✅ |
+| **Ariana Yang** | casual · dobok · gear | ✅ |
 | **Yuna Park** | poomsae · casual · college-casual-ring | ✅ |
 
 ---
@@ -102,8 +104,14 @@ reference-sheets/
 │   ├── kieryn-lim/      ← casual · dobok · gear
 │   ├── logan-hyun/      ← casual · dobok · gear
 │   ├── kian-sang/       ← casual · dobok · gear
-│   ├── ariana-yang/     ← dobok · gear
-│   └── yuna-park/       ← poomsae · casual · college-casual-ring
+│   ├── ariana-yang/     ← casual · dobok · gear
+│   ├── yuna-park/       ← poomsae · casual · college-casual-ring
+│   ├── derek-cole/      ← dobok
+│   ├── maya-ortiz/      ← dobok
+│   ├── lee-ji-woo/      ← dobok
+│   ├── kim-min-ho/      ← dobok
+│   ├── han-do-won/      ← dobok
+│   └── park-sung-min/   ← dobok
 ```
 
 ---

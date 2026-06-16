@@ -12,7 +12,7 @@ Append [Global Style from STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md) to all prompt
 
 ## How to Use
 
-1. Generate panels in order (`1.1` → `10.10`).
+1. Generate panels in order (`1.1` → `10.20`).
 2. Append **Global Style** to every prompt unless a panel says `STYLE: PREMIER` or `STYLE: KWONS`.
 3. For dialogue, add text in your editor after generation — most AI tools render text poorly.
 4. **Aspect ratio:** vertical panels `2:3` or `9:16` for webtoon scroll.
@@ -422,6 +422,186 @@ welcoming quiet atmosphere, backlit entrance silhouette, STYLE: KWONS
 
 ---
 
+### Panel 2.6 — Premier Ghost
+**Scene:** Ethan pauses inside entrance. **FLASH inset** — crowded Premier mat, instructor's back. Snaps back to quiet Kwon's.
+**Dialogue:** Ethan (internal): *Same sport. Different air.*
+
+**Prompt:**
+```
+teen fighter just inside dojang doorway small flashback inset crowded cold school instructor back turned,
+present warm empty reception area contrast, dissociation beat, STYLE: KWONS with PREMIER inset
+```
+
+---
+
+### Panel 2.7 — Shoes Off
+**Scene:** Close-up — Ethan removes sneakers, lines them beside others. Kwon's shoe rack — worn but neat.
+**Dialogue:** *(none — ritual beat)*
+
+**Prompt:**
+```
+close-up teen removing sneakers placing on wooden shoe rack taekwondo dojang entrance,
+other student shoes lined neatly, respectful detail panel, STYLE: KWONS
+```
+
+---
+
+### Panel 2.8 — Observation — MV Counts
+**Scene:** Wide — MV counts reps aloud for one student on mitts. No yelling. Steady rhythm.
+**Dialogue:** MV: "Four… five… turn the hip on six."
+
+**Prompt:**
+```
+taekwondo master counting reps calmly holding focus mitts one student kicking,
+empty space on mat not overcrowded, patient coaching wide shot, STYLE: KWONS
+```
+
+---
+
+### Panel 2.9 — Student Thanks
+**Scene:** Student bows, wipes sweat — genuine smile at MV. MV nods once — not performative.
+**Dialogue:** Student: "Thank you, Master."
+
+**Prompt:**
+```
+teen student bowing to taekwondo master after drill genuine grateful smile,
+master modest nod not theatrical, warm mentor moment, STYLE: KWONS
+```
+
+---
+
+### Panel 2.10 — Ethan Watches From Wall
+**Scene:** Ethan stands by gear cubbies — hasn't changed yet. Arms crossed. Studying the room.
+**Dialogue:** *(none)*
+
+**Prompt:**
+```
+short teen boy with white gear backpack standing against dojang wall arms crossed observing,
+other students training background soft focus, guarded watcher composition, STYLE: KWONS
+```
+
+---
+
+### Panel 2.11 — Trophy Shelf Honest
+**Scene:** Ethan glances at modest trophy shelf — local medals, faded ribbon. No fake gold wall.
+**Dialogue:** Ethan (internal): *No brochure lies.*
+
+**Prompt:**
+```
+modest taekwondo dojang trophy shelf few real medals honest worn ribbon,
+teen glancing sideways at shelf detail shot, STYLE: KWONS
+```
+
+---
+
+### Panel 2.12 — Window Light
+**Scene:** Golden hour through high windows. Dust motes. Ethan exhales — shoulders drop one inch.
+**Dialogue:** *(none — beat)*
+
+**Prompt:**
+```
+golden afternoon light through dojang windows dust particles floating,
+teen silhouette relaxing shoulders slightly emotional release, STYLE: KWONS
+```
+
+---
+
+### Panel 2.13 — Other Student Notices
+**Scene:** A cadet student (background extra) whispers to friend — points subtly at Ethan's backpack.
+**Dialogue:** Cadet: "New guy brought competition gear."
+
+**Prompt:**
+```
+two background taekwondo students whispering glancing at newcomer with gear backpack,
+new student unaware foreground, natural dojang gossip, STYLE: KWONS
+```
+
+---
+
+### Panel 2.14 — MV Finishes Drill
+**Scene:** MV dismisses student with pat on shoulder. Turns — sees Ethan properly for first time inside.
+**Dialogue:** MV: "You can put your bag down. You're not in the way."
+
+**Prompt:**
+```
+taekwondo master finishing lesson turning to notice visitor teen with backpack,
+kind open expression not suspicious, STYLE: KWONS
+```
+
+---
+
+### Panel 2.15 — Bag Down
+**Scene:** Ethan sets white gear backpack on bench — slow, deliberate. Sits beside it without changing.
+**Dialogue:** Ethan: "I'm… just looking today."
+
+**Prompt:**
+```
+teen placing white taekwondo gear backpack on bench sitting beside it hesitant,
+dojo interior quiet, first honest words, STYLE: KWONS
+```
+
+---
+
+### Panel 2.16 — MV Doesn't Push
+**Scene:** MV pulls chair — sits across from Ethan. Not looming. Same eye level again.
+**Dialogue:** MV: "Looking is allowed here."
+
+**Prompt:**
+```
+master sitting on chair same height as seated teen equal conversation posture,
+no pressure body language, STYLE: KWONS
+```
+
+---
+
+### Panel 2.17 — Street Sound Memory
+**Scene:** Through open door — distant car horn. Ethan's fingers twitch. **FLASH** — tournament PA echo *"Ring 4."*
+**Dialogue:** *(SFX only)*
+
+**Prompt:**
+```
+teen fingers twitching on bench open dojang door background street sound trigger,
+small traumatic flash inset tournament PA speaker, STYLE: KWONS with PREMIER flash
+```
+
+---
+
+### Panel 2.18 — MV Waits
+**Scene:** MV doesn't ask what happened. Offers water bottle — unopened — slides it across bench.
+**Dialogue:** MV: "When you're ready."
+
+**Prompt:**
+```
+master sliding sealed water bottle across bench to quiet teen patient waiting,
+simple kindness gesture close-up hands, STYLE: KWONS
+```
+
+---
+
+### Panel 2.19 — Ethan Accepts Water
+**Scene:** Ethan takes bottle. Doesn't drink yet. Holds it like an anchor.
+**Dialogue:** Ethan (internal): *One student. One voice.*
+
+**Prompt:**
+```
+teen holding unopened water bottle both hands sitting on bench emotional anchor object,
+soft side lighting face downcast, STYLE: KWONS
+```
+
+---
+
+### Panel 2.20 — Stay Until Close
+**Scene:** Wide — class ends. Students bow out. Ethan still on bench. MV rolls mats nearby — doesn't rush him.
+**Dialogue:** MV (off): "Lock-up's at nine. Take your time."
+
+**Prompt:**
+```
+wide shot emptying dojang students bowing out teen still on bench master rolling mats background,
+patient sanctuary atmosphere golden light, STYLE: KWONS
+```
+
+---
+
 # Chapter 3 — Meeting Master Viet
 
 ---
@@ -470,6 +650,198 @@ teen with dark blue hair quiet guarded expression, STYLE: KWONS
 ```
 teen boy removing gold headphones, vulnerable quiet expression saying his name,
 close-up face, soft lighting, character introduction moment, STYLE: KWONS
+```
+
+---
+
+### Panel 3.5 — Belt Question
+**Scene:** Two students in background — one nudges other — staring at silver letters on Ethan's belt (still in bag, partially visible).
+**Dialogue:** Student B: "Silver letters… you don't see that here."
+
+**Prompt:**
+```
+background taekwondo students whispering pointing at unusual black belt silver embroidery in bag,
+curious not hostile, STYLE: KWONS
+```
+
+---
+
+### Panel 3.6 — MV Introduces Self
+**Scene:** MV offers hand — Western shake, then switches to bow when Ethan bows first.
+**Dialogue:** MV: "Viet Na. Most people say Master Viet. Either's fine."
+
+**Prompt:**
+```
+taekwondo master introducing himself respectful bow handshake hybrid,
+teen returning bow awkward polite, STYLE: KWONS
+```
+
+---
+
+### Panel 3.7 — Looking or Training
+**Scene:** MV crosses arms — not aggressive. Direct question.
+**Dialogue:** MV: "You looking or training?"
+
+**Prompt:**
+```
+master direct question arms crossed relaxed teen considering answer pause panel,
+dojo background quiet tension, STYLE: KWONS
+```
+
+---
+
+### Panel 3.8 — Long Beat
+**Scene:** Beat panel — Ethan's eyes on mat lines. Jaw working. Silence stretches.
+**Dialogue:** *(none — 3-second beat)*
+
+**Prompt:**
+```
+minimal beat panel teen staring at dojang floor mat lines internal decision,
+empty negative space emotional silence, STYLE: KWONS
+```
+
+---
+
+### Panel 3.9 — Training
+**Scene:** Ethan stands — small nod.
+**Dialogue:** Ethan: "…Training."
+
+**Prompt:**
+```
+teen standing with quiet determined nod choosing to train,
+character decision moment medium shot, STYLE: KWONS
+```
+
+---
+
+### Panel 3.10 — Changing Room
+**Scene:** Ethan in corner — pulls dobok from bag. Hands pause on silver-letter belt.
+**Dialogue:** Ethan (internal): *Last thing they couldn't take.*
+
+**Prompt:**
+```
+teen changing into white taekwondo dobok holding silver letter black belt reverently,
+private corner of dojang emotional detail, STYLE: KWONS
+```
+
+---
+
+### Panel 3.11 — First Bow In
+**Scene:** Ethan steps onto mat — bows to room. Other students pause — return bow.
+**Dialogue:** *(none — ritual)*
+
+**Prompt:**
+```
+teen bowing entering taekwondo mat other students pausing to return bow respect,
+formal dojang etiquette wide shot, STYLE: KWONS
+```
+
+---
+
+### Panel 3.12 — MV Watches Footwork
+**Scene:** MV asks for casual stance — Ethan shifts weight — professional habit from old school.
+**Dialogue:** MV: "Show me how you stand before anyone tells you to."
+
+**Prompt:**
+```
+master observing teen fighter natural fighting stance evaluation,
+instructional medium two-shot, STYLE: KWONS
+```
+
+---
+
+### Panel 3.13 — Quiet Class
+**Scene:** Observation — no one filming for social. No parents coaching from bleachers. Just training.
+**Dialogue:** Ethan (internal): *No audience.*
+
+**Prompt:**
+```
+taekwondo class training without parents filming without chaos focused practice,
+teen noticing difference observational panel, STYLE: KWONS
+```
+
+---
+
+### Panel 3.14 — Silver Belt Close-Up
+**Scene:** Detail — silver letters catch window light. MV's eyes flick to belt — doesn't comment yet.
+**Dialogue:** MV: "That's a serious belt."
+
+**Prompt:**
+```
+close-up silver embroidered letters on black taekwondo belt catching light,
+master's eyes in soft focus background measuring not judging, STYLE: KWONS
+```
+
+---
+
+### Panel 3.15 — No Sales Pitch (Sign)
+**Scene:** MV walks Ethan past wall — simple rates sheet. No "VIP package." No merch table.
+**Dialogue:** MV: "We don't sell dreams. We train bodies."
+
+**Prompt:**
+```
+simple honest taekwondo school tuition notice board no flashy marketing,
+master gesturing matter-of-fact teen listening, STYLE: KWONS
+```
+
+---
+
+### Panel 3.16 — Ethan Almost Smiles
+**Scene:** Corner of Ethan's mouth — almost — doesn't complete. MV pretends not to notice.
+**Dialogue:** *(none)*
+
+**Prompt:**
+```
+subtle almost-smile on guarded teen face master looking away giving privacy,
+micro-expression character beat, STYLE: KWONS
+```
+
+---
+
+### Panel 3.17 — Other Students Resume
+**Scene:** Class returns to drills — but side glances — curiosity not hostility.
+**Dialogue:** Cadet (whisper): "He moves like a black belt."
+
+**Prompt:**
+```
+taekwondo students resuming drills stealing glances at skilled newcomer,
+natural peer observation, STYLE: KWONS
+```
+
+---
+
+### Panel 3.18 — MV Assigns Space
+**Scene:** MV points open mat lane — not back corner exile.
+**Dialogue:** MV: "You can work here. Same air as everyone else."
+
+**Prompt:**
+```
+master pointing to open space on main dojang mat welcoming not segregating,
+teen carrying belt to assigned spot, STYLE: KWONS
+```
+
+---
+
+### Panel 3.19 — First Instruction
+**Scene:** MV holds paddle low — testing reaction speed, not showmanship.
+**Dialogue:** MV: "When I say hold, you hold. When I say go, you go. Clear?"
+
+**Prompt:**
+```
+master holding focus paddle low ready position teen nodding understanding,
+clear boundary setting mentor moment, STYLE: KWONS
+```
+
+---
+
+### Panel 3.20 — Ethan Nods
+**Scene:** Ethan nods once — sharp. First crack of trust.
+**Dialogue:** Ethan: "Clear."
+
+**Prompt:**
+```
+teen sharp single nod focused eyes first trust beat,
+close-up face golden light, STYLE: KWONS
 ```
 
 ---
@@ -551,6 +923,174 @@ emotional silence panel, STYLE: KWONS
 
 ---
 
+### Panel 4.7 — They Didn't Have Me
+**Scene:** Ethan finally — quiet but clear — eyes still averted.
+**Dialogue:** Ethan: "They didn't have me."
+
+**Prompt:**
+```
+teen speaking difficult truth looking away master listening still not pushing,
+emotional honesty panel medium shot, STYLE: KWONS
+```
+
+---
+
+### Panel 4.8 — MV Adjusts Shield
+**Scene:** MV resets drill — doesn't dwell. Professional pivot back to work.
+**Dialogue:** MV: "Then show me what you kept."
+
+**Prompt:**
+```
+master resetting kicking shield professional calm after emotional beat,
+back to training transition, STYLE: KWONS
+```
+
+---
+
+### Panel 4.9 — Chamber Speed [TEACH]
+**Scene:** MV calls speed — Ethan chambers roundhouse faster — still clean.
+**Dialogue:** MV: "Speed without form is just noise."
+
+**Prompt:**
+```
+teen chambering fast roundhouse kick master observing hip alignment,
+instructional speed vs form panel, STYLE: KWONS TEACH
+```
+
+---
+
+### Panel 4.10 — Combo Flow
+**Scene:** Roundhouse → cut kick chain on paddle. Fluid. Other students stop to watch.
+**Dialogue:** *(SFX)* *smack-smack*
+
+**Prompt:**
+```
+dynamic taekwondo combo roundhouse into cut kick on focus mitts,
+background students pausing to watch impressed, STYLE: KWONS
+```
+
+---
+
+### Panel 4.11 — Breathing Control
+**Scene:** Ethan finishes — controlled breathing — not gasping. MV notes it.
+**Dialogue:** MV (internal caption): *Conditioning held.*
+
+**Prompt:**
+```
+teen fighter controlled breathing after combo sweat on brow steady,
+master noting endurance detail observation panel, STYLE: KWONS
+```
+
+---
+
+### Panel 4.12 — Back Kick Distance [TEACH]
+**Scene:** MV steps in — Ethan back kick — perfect distance — MV doesn't flinch.
+**Dialogue:** MV: "You don't flinch when they crowd you."
+
+**Prompt:**
+```
+precise taekwondo back kick stopping inches from master chest perfect distance control,
+instructional trust drill, STYLE: KWONS TEACH
+```
+
+---
+
+### Panel 4.13 — Class Resumes Watching
+**Scene:** Wide — whole class at water break — watching Ethan from sidelines. Not jealous — measuring.
+**Dialogue:** Student: "Where'd he come from?"
+
+**Prompt:**
+```
+taekwondo class on water break watching talented newcomer train sideline whispers,
+peer assessment wide shot, STYLE: KWONS
+```
+
+---
+
+### Panel 4.14 — MV Correction Micro
+**Scene:** MV taps Ethan's rear foot — tiny angle fix. Ethan adjusts instantly.
+**Dialogue:** MV: "There. Don't lose that."
+
+**Prompt:**
+```
+master correcting teen foot angle tiny adjustment instant compliance,
+detail instructional panel feet and mat, STYLE: KWONS TEACH
+```
+
+---
+
+### Panel 4.15 — Electronic Hogu Mention [TEACH]
+**Scene:** MV holds chest hogu — points at sensor zone.
+**Dialogue:** MV: "Olympic rules — chest sensor, head sensor. Power in the right zone beats flashy everywhere."
+
+**Prompt:**
+```
+master holding electronic chest hogu explaining sensor zone diagram inset,
+olympic taekwondo education panel, STYLE: KWONS TEACH
+```
+
+---
+
+### Panel 4.16 — Ethan Nods — Sport Mind
+**Scene:** Ethan touches hogu — familiar — tournament muscle memory.
+**Dialogue:** Ethan: "I know the zones."
+
+**Prompt:**
+```
+teen touching electronic hogu chest sensor familiar tournament gear,
+confident quiet knowledge, STYLE: KWONS
+```
+
+---
+
+### Panel 4.17 — Sweat On Mat
+**Scene:** Close — sweat drop on mat. Ethan's first real work at Kwon's.
+**Dialogue:** *(none — symbolic)*
+
+**Prompt:**
+```
+close-up sweat drop on taekwondo mat after training symbolic first real work,
+detail shot warm lighting, STYLE: KWONS
+```
+
+---
+
+### Panel 4.18 — Other Students Bow Out
+**Scene:** Class ends — students bow to MV — Ethan follows half a beat late — copies form.
+**Dialogue:** All: "Thank you, Master."
+
+**Prompt:**
+```
+taekwondo class bowing out teen newcomer copying bow half beat late learning ritual,
+group etiquette wide shot, STYLE: KWONS
+```
+
+---
+
+### Panel 4.19 — MV Quiet Praise
+**Scene:** MV to Ethan alone — low voice — not for show.
+**Dialogue:** MV: "Better than most black belts I see walk in."
+
+**Prompt:**
+```
+master quiet private praise to teen after class not performative,
+intimate mentor moment two-shot, STYLE: KWONS
+```
+
+---
+
+### Panel 4.20 — Ethan Doesn't Know What To Do
+**Scene:** Ethan opens mouth — closes it — bows instead. MV accepts bow.
+**Dialogue:** *(none)*
+
+**Prompt:**
+```
+teen awkward grateful bow instead of words master accepting bow warm,
+character beat silence, STYLE: KWONS
+```
+
+---
+
 # Chapter 5 — The Goal
 
 ---
@@ -615,6 +1155,186 @@ measured response, teen waiting, STYLE: KWONS
 
 ---
 
+### Panel 5.6 — Not A Small Dream
+**Scene:** MV repeats — slower — letting words land.
+**Dialogue:** MV: "That's not a small dream."
+
+**Prompt:**
+```
+master repeating serious statement teen absorbing weight of words,
+mentor gravity panel, STYLE: KWONS
+```
+
+---
+
+### Panel 5.7 — Ethan Knows
+**Scene:** Ethan — fierce again — doesn't back down from scale of goal.
+**Dialogue:** Ethan: "I know."
+
+**Prompt:**
+```
+teen fierce determined expression not backing down from big dream,
+low angle face close-up, STYLE: KWONS
+```
+
+---
+
+### Panel 5.8 — Small Dreams Die
+**Scene:** MV wipes mouth with towel — matter-of-fact coaching wisdom.
+**Dialogue:** MV: "Small dreams don't survive hard weeks."
+
+**Prompt:**
+```
+master with towel around neck coaching wisdom matter-of-fact expression,
+teen listening intently sitting on mat, STYLE: KWONS
+```
+
+---
+
+### Panel 5.9 — Formal Distance Narrows
+**Scene:** MV sits beside Ethan — not above — same mat level.
+**Dialogue:** MV: "What do you want from taekwondo — not what you think I want to hear."
+
+**Prompt:**
+```
+master sitting beside teen on mat equal level honest question,
+trust building composition, STYLE: KWONS
+```
+
+---
+
+### Panel 5.10 — Ethan Almost Lies Small
+**Scene:** Ethan's mouth opens — "to get better" — stops himself.
+**Dialogue:** Ethan (internal): *Don't shrink it.*
+
+**Prompt:**
+```
+teen internal struggle almost saying small safe answer catching himself,
+close-up face hesitation, STYLE: KWONS
+```
+
+---
+
+### Panel 5.11 — Room Still
+**Scene:** Wide — empty dojang — two figures on mat — clock ticks.
+**Dialogue:** *(none — beat)*
+
+**Prompt:**
+```
+wide empty dojang two figures on mat silence clock on wall,
+decision atmosphere beat panel, STYLE: KWONS
+```
+
+---
+
+### Panel 5.12 — Korea U20 (Repeat Weight)
+**Scene:** Same line — but now MV hears the weight. Ethan doesn't look away this time.
+**Dialogue:** Ethan: "Korea U20 National Team."
+
+**Prompt:**
+```
+teen stating ambitious goal eye contact with master not looking away,
+dramatic character moment, STYLE: KWONS
+```
+
+---
+
+### Panel 5.13 — MV Doesn't Laugh
+**Scene:** MV's reaction — no ridicule — slight eyebrow raise — respect.
+**Dialogue:** *(none)*
+
+**Prompt:**
+```
+master reaction no laughter slight eyebrow raise respect not mockery,
+reaction panel face close-up, STYLE: KWONS
+```
+
+---
+
+### Panel 5.14 — Can I Train Here
+**Scene:** Ethan bows from seated position — awkward but sincere.
+**Dialogue:** Ethan: "Can I… train here?"
+
+**Prompt:**
+```
+teen bowing from seated position awkward sincere request,
+vulnerable formal ask, STYLE: KWONS
+```
+
+---
+
+### Panel 5.15 — No Promise
+**Scene:** MV stands — offers hand to help Ethan up.
+**Dialogue:** MV: "We'll see if you mean it."
+
+**Prompt:**
+```
+master offering hand to help teen up no empty promise serious deal,
+handshake help-up panel, STYLE: KWONS
+```
+
+---
+
+### Panel 5.16 — Ethan Takes Hand
+**Scene:** Ethan accepts hand up — first physical trust.
+**Dialogue:** *(none)*
+
+**Prompt:**
+```
+teen accepting master's hand being helped up first physical trust gesture,
+hands close-up warm light, STYLE: KWONS
+```
+
+---
+
+### Panel 5.17 — Enrollment Paper Simple
+**Scene:** Front desk — one-page form. No VIP upsell. Ethan reads — plain language.
+**Dialogue:** MV: "Month to month. Leave if we fail you."
+
+**Prompt:**
+```
+simple one page taekwondo enrollment form no upsell teen reading relieved,
+honest business practice panel, STYLE: KWONS
+```
+
+---
+
+### Panel 5.18 — Ethan Signs
+**Scene:** Ethan signs — hand steady. MV witnesses — no hard sell smile.
+**Dialogue:** *(SFX)* *pen scratch*
+
+**Prompt:**
+```
+teen signing enrollment form steady hand master witnessing no pressure smile,
+commitment moment detail, STYLE: KWONS
+```
+
+---
+
+### Panel 5.19 — Gear Locker
+**Scene:** MV assigns cubby number. Ethan places white backpack inside.
+**Dialogue:** MV: "Same spot every day. This is yours."
+
+**Prompt:**
+```
+master assigning gear locker cubby teen placing white backpack inside belonging moment,
+dojo cubby row, STYLE: KWONS
+```
+
+---
+
+### Panel 5.20 — Night Exit Hope
+**Scene:** Ethan leaves — night air — looks back through window — MV rolling last mat. Golden interior.
+**Dialogue:** Ethan (internal): *Maybe.*
+
+**Prompt:**
+```
+teen leaving dojang at night looking back through window master rolling mats inside golden light,
+hopeful ending shot street exterior, STYLE: KWONS
+```
+
+---
+
 # Chapter 6 — Why Did You Leave?
 
 ---
@@ -663,6 +1383,198 @@ red desaturated overlay, sharp fragment panel, STYLE: PREMIER
 ```
 kind taekwondo master nodding accepting answer, respectful distance, teen relieved but tense,
 STYLE: KWONS
+```
+
+---
+
+### Panel 6.5 — Walking Mats Edge
+**Scene:** Ethan and MV walk perimeter — shoes off — evening class cleaning up.
+**Dialogue:** MV: "Premier still has your friends on their roster."
+
+**Prompt:**
+```
+master and teen walking dojang mat edge evening cleanup conversation,
+casual serious talk wide shot, STYLE: KWONS
+```
+
+---
+
+### Panel 6.6 — Ethan Stiffens
+**Scene:** Ethan flinches at school name — headphones hand moves to pocket.
+**Dialogue:** Ethan: "They're not my friends if they stay."
+
+**Prompt:**
+```
+teen flinching at mention of old school hand moving to headphones pocket,
+defensive reaction close-up, STYLE: KWONS
+```
+
+---
+
+### Panel 6.7 — MV Corrects Gently
+**Scene:** MV — calm — doesn't argue.
+**Dialogue:** MV: "Some of them followed you out. Give them time."
+
+**Prompt:**
+```
+master gentle correction calm expression teen stubborn profile,
+mentor patience panel, STYLE: KWONS
+```
+
+---
+
+### Panel 6.8 — Flash VIP [FLASH]
+**Scene:** **FLASH** — paying kid gear adjustment — Ethan on bleachers same memory frame.
+**Dialogue:** Instructor (flash): "Investment pays off."
+
+**Prompt:**
+```
+flashback inset favored student gear adjustment instructor praising,
+bleachers lonely teen same memory frame, STYLE: PREMIER flash
+```
+
+---
+
+### Panel 6.9 — Present — Jaw Clench
+**Scene:** **PRESENT** — Ethan's jaw — knuckles white on belt.
+**Dialogue:** *(none)*
+
+**Prompt:**
+```
+present teen jaw clenched white knuckles on black belt emotional trigger,
+close-up detail STYLE: KWONS
+```
+
+---
+
+### Panel 6.10 — Direct Question Again
+**Scene:** MV stops walking — direct eye contact.
+**Dialogue:** MV: "Did someone hurt you?"
+
+**Prompt:**
+```
+master stopping direct eye contact serious care question,
+teen caught off guard, STYLE: KWONS
+```
+
+---
+
+### Panel 6.11 — Ethan Opens Mouth
+**Scene:** Ethan starts to speak — stops — shame and anger mix.
+**Dialogue:** Ethan: "They…"
+
+**Prompt:**
+```
+teen trying to speak stopping mid word shame anger mixed expression,
+vulnerable beat panel, STYLE: KWONS
+```
+
+---
+
+### Panel 6.12 — Flash Cash [FLASH]
+**Scene:** **FLASH sting** — hands exchanging cash — Ttong cold grin — red overlay.
+**Dialogue:** Ttong (distorted): "…with us or…"
+
+**Prompt:**
+```
+traumatic flash hands exchanging money cold instructor grin red overlay fragment,
+STYLE: PREMIER flash sting
+```
+
+---
+
+### Panel 6.13 — It Wasn't Home
+**Scene:** **PRESENT** — Ethan blurts — then regrets volume.
+**Dialogue:** Ethan: "It wasn't home anymore."
+
+**Prompt:**
+```
+teen blurting emotional truth then immediately guarded,
+master listening still, STYLE: KWONS
+```
+
+---
+
+### Panel 6.14 — MV Accepts
+**Scene:** MV nods — doesn't pry further today.
+**Dialogue:** MV: "Home isn't a building. You'll know when you're in one."
+
+**Prompt:**
+```
+master nodding wise quiet response teen processing,
+mentor wisdom two-shot, STYLE: KWONS
+```
+
+---
+
+### Panel 6.15 — Cleaning Together
+**Scene:** Ethan picks up water bottle someone left — MV notices — doesn't comment.
+**Dialogue:** *(none — character action)*
+
+**Prompt:**
+```
+teen picking up forgotten water bottle helping clean dojang unprompted,
+master noticing approving without words, STYLE: KWONS
+```
+
+---
+
+### Panel 6.16 — Night Street
+**Scene:** Ethan walks home — streetlights — phone dark in pocket.
+**Dialogue:** Ethan (internal): *Not yet.*
+
+**Prompt:**
+```
+teen walking home night streetlights hands in hoodie pocket phone dark,
+contemplative solitude, STYLE: KWONS night
+```
+
+---
+
+### Panel 6.17 — Premier Text Spam
+**Scene:** Phone lights up — spam — *"Come back for black belt test special."* Ethan deletes without opening.
+**Dialogue:** (text) **"Limited slots — VIP only."**
+
+**Prompt:**
+```
+smartphone spam text VIP taekwondo marketing teen deleting without reading,
+disgust micro-expression, STYLE: PREMIER cold on phone glow
+```
+
+---
+
+### Panel 6.18 — Apartment Quiet
+**Scene:** Ethan's room — gear bag by door — medal drawer closed — doesn't open it.
+**Dialogue:** *(none)*
+
+**Prompt:**
+```
+teen bedroom gear bag by door closed medal drawer not opening past trauma,
+quiet domestic panel, STYLE: KWONS soft night
+```
+
+---
+
+### Panel 6.19 — Mirror — Belt On
+**Scene:** Ethan ties silver belt in mirror — practice — not for show.
+**Dialogue:** Ethan (internal): *Still mine.*
+
+**Prompt:**
+```
+teen tying black belt with silver letters in bedroom mirror private ritual,
+identity affirmation close-up mirror, STYLE: KWONS soft
+```
+
+---
+
+### Panel 6.20 — Sleep — No Nightmare
+**Scene:** Ethan in bed — headphones on — eyes close — no smash cut this time.
+**Dialogue:** *(none — relief beat)*
+
+**Prompt:**
+```
+teen falling asleep with headphones calm breathing no nightmare transition,
+soft peaceful panel contrast chapter 1, STYLE: KWONS soft
 ```
 
 ---
@@ -727,6 +1639,186 @@ less skilled wealthy student called forward instead, injustice panel, STYLE: PRE
 ```
 present day teen frozen in fighting stance on dojang mats alone, dissociating,
 warm dojang, concerned coach voice off panel, STYLE: KWONS
+```
+
+---
+
+### Panel 7.6 — MV Enters Frame
+**Scene:** MV steps into Ethan's eyeline — doesn't touch — waits.
+**Dialogue:** MV: "Flashback or footwork?"
+
+**Prompt:**
+```
+master stepping into view careful not to startle dissociating teen,
+gentle check-in, STYLE: KWONS
+```
+
+---
+
+### Panel 7.7 — Ethan Returns
+**Scene:** Ethan blinks — exhales — embarrassed.
+**Dialogue:** Ethan: "Footwork."
+
+**Prompt:**
+```
+teen returning to present embarrassed exhale master half-smile not calling lie,
+recovery moment, STYLE: KWONS
+```
+
+---
+
+### Panel 7.8 — Opening Day Detail [FLASH]
+**Scene:** **FLASH** — empty Premier — fresh mats — Ttong younger — genuine smile.
+**Dialogue:** Ttong (younger): "Small school. Big heart."
+
+**Prompt:**
+```
+flashback brand new small taekwondo dojang empty fresh mats younger instructor genuine smile,
+hopeful memory filter, STYLE: PREMIER lighter
+```
+
+---
+
+### Panel 7.9 — Young Ethan Excited [FLASH]
+**Scene:** **FLASH** — white belt Ethan — first uniform — parents proud off-panel.
+**Dialogue:** Ethan (V.O.): *I believed him.*
+
+**Prompt:**
+```
+flashback young white belt boy first taekwondo uniform excited parents blurred proud,
+childhood hope, STYLE: PREMIER lighter
+```
+
+---
+
+### Panel 7.10 — Enrollment Line [FLASH]
+**Scene:** **FLASH montage cell** — enrollment line grows — brochures multiply — **Repeul Kim** silent with stack.
+**Dialogue:** *(none)*
+
+**Prompt:**
+```
+flashback montage enrollment line growing VIP brochures multiplying silent woman background,
+commercialization creeping in, STYLE: PREMIER cooling
+```
+
+---
+
+### Panel 7.11 — First Trophy [FLASH]
+**Scene:** **FLASH** — Ethan wins local medal — Ttong hugs paying kid instead in background.
+**Dialogue:** Ethan (V.O.): *I won. He photographed someone else.*
+
+**Prompt:**
+```
+flashback teen winning medal instructor hugging different student in background for photo,
+betrayal seed memory, STYLE: PREMIER
+```
+
+---
+
+### Panel 7.12 — Scrimmage King [FLASH]
+**Scene:** **FLASH** — Ethan dominates scrimmage — coach claps for paying kid's bad kick.
+**Dialogue:** Instructor: "Excellent form, Marcus!"
+
+**Prompt:**
+```
+flashback sparring teen dominating coach applauding weaker wealthy student instead,
+injustice montage cell, STYLE: PREMIER
+```
+
+---
+
+### Panel 7.13 — Demo Team Pick [FLASH]
+**Scene:** **FLASH** — clipboard — Ethan's name crossed out — paying kid circled.
+**Dialogue:** Instructor: "Ethan — sit. Marcus — demo team."
+
+**Prompt:**
+```
+flashback clipboard names crossed out favored student circled demo team selection,
+explicit sideline panel, STYLE: PREMIER
+```
+
+---
+
+### Panel 7.14 — Gear Gap [FLASH]
+**Scene:** **FLASH split** — new electronic hogus on paying kid — Ethan's worn straps.
+**Dialogue:** Ethan (V.O.): *Same patch. Different price tag.*
+
+**Prompt:**
+```
+flashback split panel expensive new taekwondo gear vs worn gear same school patch,
+economic favoritism visual, STYLE: PREMIER
+```
+
+---
+
+### Panel 7.15 — Ttong Smile Thin [FLASH]
+**Scene:** **FLASH** — Ttong portrait — smile doesn't reach eyes — underbite grin.
+**Dialogue:** Ttong: "We're a family."
+
+**Prompt:**
+```
+flashback instructor portrait smile not reaching eyes predatory undertone,
+unsettling promo photo aesthetic, STYLE: PREMIER
+```
+
+---
+
+### Panel 7.16 — Present — Ethan Fists
+**Scene:** **PRESENT** — Ethan on Kwon's mat — fists unclench when MV speaks.
+**Dialogue:** MV: "Breathe. Then move."
+
+**Prompt:**
+```
+present teen unclenching fists on mat master coaching breathing,
+grounding exercise, STYLE: KWONS
+```
+
+---
+
+### Panel 7.17 — One Step Drill
+**Scene:** MV runs simple one-step — Ethan flows — muscle memory from pain.
+**Dialogue:** *(SFX)* *tap — step — kick*
+
+**Prompt:**
+```
+master running one step self defense drill teen flowing through movements,
+therapeutic movement panel, STYLE: KWONS
+```
+
+---
+
+### Panel 7.18 — Kind When Empty [V.O.]
+**Scene:** Ethan kicks — **FLASH overlay faint** — empty Premier opening day ghosted on present mat.
+**Dialogue:** Ethan (V.O.): *He was kind when the room was empty.*
+
+**Prompt:**
+```
+present kick with faint ghost overlay flash empty dojang opening day double exposure,
+poetic memory blend, STYLE: KWONS with PREMIER ghost
+```
+
+---
+
+### Panel 7.19 — MV Sees Ghost Too
+**Scene:** MV watches Ethan — sees something behind eyes — doesn't name it.
+**Dialogue:** MV (internal): *That school left marks.*
+
+**Prompt:**
+```
+master watching teen train recognizing trauma behind eyes compassionate observation,
+mentor POV panel, STYLE: KWONS
+```
+
+---
+
+### Panel 7.20 — Bow Out — Present Wins
+**Scene:** Ethan bows — present tense — chooses Kwon's air.
+**Dialogue:** Ethan (internal): *Room's not empty anymore.*
+
+**Prompt:**
+```
+teen bowing on kwons mat present tense choosing forward golden light,
+arc closure beat chapter 7, STYLE: KWONS
 ```
 
 ---
@@ -807,6 +1899,174 @@ protective grandson moment, hospital room, STYLE: PREMIER soft
 
 ---
 
+### Panel 8.7 — Halmeoni Notices
+**Scene:** Grandmother's thin hand squeezes his — she saw the phone.
+**Dialogue:** Grandmother: "Bad men on the phone?"
+
+**Prompt:**
+```
+elderly grandmother squeezing teen hand asking gentle question tired kind eyes,
+hospital bed intimate two-shot, STYLE: PREMIER soft
+```
+
+---
+
+### Panel 8.8 — Ethan Deflects Korean
+**Scene:** Ethan answers in Korean — soft — protective lie.
+**Dialogue:** Ethan: "Nothing. Rest."
+
+**Prompt:**
+```
+teen speaking korean softly to grandmother protective deflection,
+cultural intimate dialogue panel, STYLE: PREMIER soft
+```
+
+---
+
+### Panel 8.9 — You Came
+**Scene:** Grandmother pats his hand — winces less when smiling at him.
+**Dialogue:** Grandmother: "You came. That's enough for today."
+
+**Prompt:**
+```
+grandmother patting grandson hand weak smile enough for today emotional,
+tender hospital beat, STYLE: PREMIER soft
+```
+
+---
+
+### Panel 8.10 — Window Rain
+**Scene:** Rain on hospital window — Ethan watches — reflection overlays his face.
+**Dialogue:** *(none)*
+
+**Prompt:**
+```
+rain on hospital window teen face reflected in glass contemplative,
+melancholy atmosphere panel, STYLE: PREMIER soft
+```
+
+---
+
+### Panel 8.11 — Voicemail Play [REAL #15]
+**Scene:** Ethan steps into hall — alone — plays voicemail — hand over mouth.
+**Dialogue:** Ttong (V.O.): "Stop talking about my school. Stop making kids leave."
+
+**Prompt:**
+```
+teen alone hospital hallway playing voicemail hand over mouth shaken,
+threatening audio visual, STYLE: PREMIER harsh
+```
+
+---
+
+### Panel 8.12 — Delete Voicemail
+**Scene:** Ethan deletes message — block number — hands tremble.
+**Dialogue:** *(none)*
+
+**Prompt:**
+```
+teen deleting voicemail blocking number trembling hands phone screen,
+fear and anger panel, STYLE: PREMIER harsh
+```
+
+---
+
+### Panel 8.13 — Nurse Passes
+**Scene:** Nurse walks by — Ethan straightens — hides phone — trained to look fine.
+**Dialogue:** Nurse: "Visiting hours end at eight."
+
+**Prompt:**
+```
+hospital nurse walking past teen straightening hiding phone performing okay,
+masking trauma public space, STYLE: PREMIER soft
+```
+
+---
+
+### Panel 8.14 — Return To Room
+**Scene:** Ethan returns — smile ready — sits back down.
+**Dialogue:** Ethan: "New school has good mats."
+
+**Prompt:**
+```
+teen returning to hospital room forced gentle smile sitting by grandmother,
+protective grandson returning, STYLE: PREMIER soft
+```
+
+---
+
+### Panel 8.15 — Photo In Purse
+**Scene:** Grandmother shows worn photo — young Ethan white belt — creased edges.
+**Dialogue:** Grandmother: "Before the big school."
+
+**Prompt:**
+```
+elderly woman showing creased photo young grandson white belt in hospital bed,
+nostalgic tender detail, STYLE: PREMIER soft
+```
+
+---
+
+### Panel 8.16 — Ethan Can't Look
+**Scene:** Ethan looks at photo — too long — pain — looks away.
+**Dialogue:** Ethan: "That was a long time ago."
+
+**Prompt:**
+```
+teen looking at childhood photo then looking away pain restrained,
+emotional avoidance close-up, STYLE: PREMIER soft
+```
+
+---
+
+### Panel 8.17 — Bus Ride Home
+**Scene:** Ethan on night bus — forehead on window — city lights streak.
+**Dialogue:** Ethan (internal): *I won't bring this to her room again.*
+
+**Prompt:**
+```
+teen on night bus forehead against window city lights streak exhausted,
+transit solitude panel, STYLE: PREMIER soft night
+```
+
+---
+
+### Panel 8.18 — Kwon's Text From MV
+**Scene:** Phone — new message — MV — *"Door's open tomorrow. Early class if you want."*
+**Dialogue:** (text) MV: **"No pressure."**
+
+**Prompt:**
+```
+smartphone text from taekwondo master kind message door open tomorrow,
+warm notification glow on tired teen face bus, STYLE: KWONS soft on phone
+```
+
+---
+
+### Panel 8.19 — Small Reply
+**Scene:** Ethan types — deletes — types — sends one word.
+**Dialogue:** (text) Ethan: **"Early."**
+
+**Prompt:**
+```
+teen typing short reply on phone careful minimal emotional text,
+close-up thumbs screen, STYLE: KWONS soft
+```
+
+---
+
+### Panel 8.20 — Hospital Exit Wide
+**Scene:** Wide — hospital exterior — Ethan small in frame — dawn breaking.
+**Dialogue:** *(none — transition)*
+
+**Prompt:**
+```
+wide shot hospital exterior dawn breaking small teen figure leaving,
+transition hope hard week continues, STYLE: PREMIER soft to KWONS dawn
+```
+
+---
+
 # Chapter 9 — Can They Come Too?
 
 ---
@@ -855,6 +2115,198 @@ teen thumbs typing, golden hour through window on hands, STYLE: KWONS
 ```
 smartphone screen flooding with reply notifications excited messages,
 comic relief energy, warm lighting, STYLE: KWONS
+```
+
+---
+
+### Panel 9.5 — TJ First Reply
+**Scene:** Text thread — **TJ** — *"Send address. We're not staying at Premier another week."*
+**Dialogue:** (text) TJ: **"Is the mat actually soft or Kieryn will complain."**
+
+**Prompt:**
+```
+smartphone group chat TJ message confident tone address request,
+text UI panel comic energy, STYLE: KWONS
+```
+
+---
+
+### Panel 9.6 — Kieryn Sarcasm
+**Scene:** Kieryn typing bubble — long — sends anyway.
+**Dialogue:** (text) Kieryn: **"Took you long enough, prodigy."**
+
+**Prompt:**
+```
+smartphone chat kieryn sarcastic reply typing bubble energy,
+character voice through text, STYLE: KWONS
+```
+
+---
+
+### Panel 9.7 — Logan Sticker Flood
+**Scene:** Logan sends food stickers — ramen — spaghetti — question marks.
+**Dialogue:** (text) Logan: **"Is there food near there??"**
+
+**Prompt:**
+```
+smartphone chat logan food emoji stickers flood comic relief,
+character personality text only, STYLE: KWONS
+```
+
+---
+
+### Panel 9.8 — Kian Short
+**Scene:** Kian — one line — no emoji.
+**Dialogue:** (text) Kian: **"I owe you a rematch. Send pin."**
+
+**Prompt:**
+```
+smartphone chat kian short blunt message rematch energy,
+minimal text panel, STYLE: KWONS
+```
+
+---
+
+### Panel 9.9 — Ariana Read Receipt
+**Scene:** Ariana — typing… — stops — **Read 9:42 PM** — no reply yet.
+**Dialogue:** *(none — mystery beat)*
+
+**Prompt:**
+```
+smartphone chat ariana read receipt no reply typing stopped mystery,
+quiet character tease, STYLE: KWONS
+```
+
+---
+
+### Panel 9.10 — Ethan Stares At Screen
+**Scene:** Ethan on dojang steps after class — screen glow — almost smiles.
+**Dialogue:** Ethan (internal): *I didn't ask them to follow me. I asked if they could breathe.*
+
+**Prompt:**
+```
+teen sitting on dojang steps phone glow face almost smiling internal relief,
+golden evening, STYLE: KWONS
+```
+
+---
+
+### Panel 9.11 — MV Over Shoulder
+**Scene:** MV locks door — sees Ethan on steps — doesn't ask who texts.
+**Dialogue:** MV: "Friends?"
+
+**Prompt:**
+```
+master locking dojang door seeing teen on steps simple question,
+warm evening two-shot, STYLE: KWONS
+```
+
+---
+
+### Panel 9.12 — Ethan Nods
+**Scene:** Ethan nods — doesn't hide phone for once.
+**Dialogue:** Ethan: "Maybe."
+
+**Prompt:**
+```
+teen nodding not hiding phone hopeful maybe answer,
+trust micro-moment, STYLE: KWONS
+```
+
+---
+
+### Panel 9.13 — Everyone Deserves Home (Repeat Weight)
+**Scene:** MV repeats earlier line — now Ethan hears full meaning.
+**Dialogue:** MV: "Everyone deserves a home. Even the loud ones."
+
+**Prompt:**
+```
+master repeating kind policy line teen listening full meaning landing,
+mentor wisdom evening light, STYLE: KWONS
+```
+
+---
+
+### Panel 9.14 — Schedule Check
+**Scene:** Ethan pulls up class schedule — screenshots — sends to group.
+**Dialogue:** (text) Ethan: **"Saturday 10 AM. Don't be late."**
+
+**Prompt:**
+```
+teen screenshotting class schedule sending group chat taking charge,
+leadership seed panel, STYLE: KWONS
+```
+
+---
+
+### Panel 9.15 — Premier Group Chat Muted
+**Scene:** Ethan mutes old Premier team chat — 99+ notifications — doesn't open.
+**Dialogue:** (text preview) **"Where did Hyun go?"**
+
+**Prompt:**
+```
+smartphone muting old premier group chat notification badge ignored,
+breaking away panel, STYLE: PREMIER cold on KWONS present
+```
+
+---
+
+### Panel 9.16 — Ariana Finally Replies
+**Scene:** Ariana — one word — lands heavy.
+**Dialogue:** (text) Ariana: **"Okay."**
+
+**Prompt:**
+```
+smartphone single word reply ariana okay minimal emotional weight,
+quiet character text beat, STYLE: KWONS
+```
+
+---
+
+### Panel 9.17 — Night Before — Ethan Prepares
+**Scene:** Ethan lays out extra guest waivers MV left on desk — neat stack.
+**Dialogue:** Ethan (internal): *Six chairs. One room.*
+
+**Prompt:**
+```
+teen preparing guest enrollment forms on dojang desk night before arrivals,
+anticipation detail shot, STYLE: KWONS night
+```
+
+---
+
+### Panel 9.18 — MV Early Light
+**Scene:** MV alone — opens dojang early — turns on lights — extra mats out.
+**Dialogue:** MV (internal): *Big day.*
+
+**Prompt:**
+```
+master opening dojang early morning turning on lights extra mats prepared,
+mentor preparation wide shot, STYLE: KWONS dawn
+```
+
+---
+
+### Panel 9.19 — Ethan Early Arrival
+**Scene:** Ethan already waiting outside — bag packed — headphones off.
+**Dialogue:** Ethan: "I couldn't sleep."
+
+**Prompt:**
+```
+teen waiting outside dojang early morning bag packed no headphones nervous excited,
+dawn arrival, STYLE: KWONS
+```
+
+---
+
+### Panel 9.20 — Door Unlock
+**Scene:** MV unlocks — first inside — Ethan follows — empty mat like promise.
+**Dialogue:** MV: "Let's get the room ready."
+
+**Prompt:**
+```
+master unlocking dojang door teen following inside empty mat morning light ready,
+chapter transition to team arrival, STYLE: KWONS dawn
 ```
 
 ---
@@ -985,26 +2437,147 @@ emotional finale, caption space at bottom, STYLE: KWONS
 
 ---
 
+### Panel 10.11 — Team Stretch Circle
+**Scene:** MV leads stretch circle — seven students — Ethan not in corner — in ring.
+**Dialogue:** MV: "Same rules for everyone."
+
+**Prompt:**
+```
+taekwondo team stretch circle seven students master leading ethan included in ring,
+team chemistry haikyuu warmth, STYLE: KWONS
+```
+
+---
+
+### Panel 10.12 — TJ Windows Line
+**Scene:** TJ grins at Ethan — callback Ch 2.
+**Dialogue:** TJ: "You picked a place with windows. Good call."
+
+**Prompt:**
+```
+confident teen teal headband grinning at ethan team banter dojang,
+character voice panel HAIKYUU warmth, STYLE: KWONS
+```
+
+---
+
+### Panel 10.13 — Kieryn Mat Test
+**Scene:** Kieryn presses mat with foot — dramatic — actually fine.
+**Dialogue:** Kieryn: "If the mats are soft, I'm still leaving."
+
+**Prompt:**
+```
+sarcastic teen girl testing dojang mat with foot dramatic expression,
+comic team intro, STYLE: KWONS
+```
+
+---
+
+### Panel 10.14 — Logan Food Question
+**Scene:** Logan — bowl cut — backpack overflowing — raises hand like school.
+**Dialogue:** Logan: "Is there food later? Important question."
+
+**Prompt:**
+```
+cheerful small teen bowl cut raising hand asking about food oversized backpack,
+comic relief character intro, STYLE: KWONS
+```
+
+---
+
+### Panel 10.15 — Kian Rematch
+**Scene:** Kian — silver hair — hands in pockets — locks eyes with Ethan.
+**Dialogue:** Kian: "You owe me a rematch from Premier."
+
+**Prompt:**
+```
+silver hair teen challenging smirk hands in pockets facing ethan rivalry spark,
+character intro tension friendly, STYLE: KWONS
+```
+
+---
+
+### Panel 10.16 — Ariana Silent Stretch
+**Scene:** Ariana — red streak bob — stretching alone — doesn't look up — bandages on ankle.
+**Dialogue:** *(none)*
+
+**Prompt:**
+```
+quiet teen girl red hair streak stretching alone extra ankle bandages not looking up,
+introverted character intro, STYLE: KWONS
+```
+
+---
+
+### Panel 10.17 — MV Team Speech
+**Scene:** MV center — team semicircle — Ethan off-center not hiding.
+**Dialogue:** MV: "We train hard. We don't tear each other down. You brought family — don't waste it."
+
+**Prompt:**
+```
+master addressing semicircle team speech ethan visible among peers not spotlight,
+mentor team speech wide, STYLE: KWONS
+```
+
+---
+
+### Panel 10.18 — Curiosity Not Pity
+**Scene:** Team glances at Ethan — curiosity — TJ nudges Kieryn — no pity faces.
+**Dialogue:** Kieryn (whisper): "So *that's* the prodigy."
+
+**Prompt:**
+```
+team glancing at ethan curious not pitying whispered comment,
+group reaction panel, STYLE: KWONS
+```
+
+---
+
+### Panel 10.19 — First Group Bow
+**Scene:** MV calls bow — seven sync — Ethan one beat late — laughs quietly with Logan.
+**Dialogue:** All: "Thank you, Master!"
+
+**Prompt:**
+```
+seven students bowing together ethan slightly late logan stifling laugh team sync,
+found family chemistry, STYLE: KWONS HAIKYUU
+```
+
+---
+
+### Panel 10.20 — Caption Card
+**Scene:** Black hold — white text — same energy as 1.1 title card inverted.
+**Caption:** *Welcome to Kwon's.*
+**Dialogue:** *(none — end arc 1)*
+
+**Prompt:**
+```
+title card black background white caption space welcome to kwons text added in post,
+arc finale card minimal, STYLE: KWONS
+```
+
+---
+
 ## Arc 1 Panel Count Summary
 
 | Chapter | Panels | Range |
 |---------|--------|-------|
-| 1 — Nightmare | 20 | 1.1–1.20 |
-| 2 — Arrival | 5 | 2.1–2.5 |
-| 3 — Meeting MV | 4 | 3.1–3.4 |
-| 4 — Training | 6 | 4.1–4.6 |
-| 5 — The Goal | 5 | 5.1–5.5 |
-| 6 — Why Leave | 4 | 6.1–6.4 |
-| 7 — Flashbacks | 5 | 7.1–7.5 |
-| 8 — Hospital | 6 | 8.1–8.6 |
-| 9 — Can They Come | 4 | 9.1–9.4 |
-| 10 — Welcome | 10 | 10.1–10.10 |
-| **Total** | **69** | |
+| 1 — Nightmare | 23 | 1.1–1.20 (+ 1.13a-T/R, 1.13b) |
+| 2 — Arrival | 20 | 2.1–2.20 |
+| 3 — Meeting MV | 20 | 3.1–3.20 |
+| 4 — Training | 20 | 4.1–4.20 |
+| 5 — The Goal | 20 | 5.1–5.20 |
+| 6 — Why Leave | 20 | 6.1–6.20 |
+| 7 — Flashbacks | 20 | 7.1–7.20 |
+| 8 — Hospital | 20 | 8.1–8.20 |
+| 9 — Can They Come | 20 | 9.1–9.20 |
+| 10 — Welcome | 20 | 10.1–10.20 |
+| **Total** | **203** | |
 
 ---
 
 ## Next Steps
 
 - **Character reference sheets:** [reference-sheets/](../reference-sheets/README.md) — start with **Ethan** (Google Sheet tab + P0 prompts).
-- **Expand thin chapters** (2–6) with more panels if you want ~10–15 panels per chapter for a full webtoon episode length.
+- **Arc 2+ expansion:** Match ~20 panels/chapter when expanding other arcs — see [STORYBOARD-GUIDE.md](./STORYBOARD-GUIDE.md).
 - **Batch generation tip:** Generate Ethan reference sheet first (panels 3.4, 4.2, 5.3) and use as image-to-image reference for consistency.

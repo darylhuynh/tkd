@@ -1,0 +1,16 @@
+{
+  "character_id": "park-sung-min",
+  "canon_name": "Park Sung-min",
+  "age": 21,
+  "height": "5'10\"",
+  "weight": "145 lbs",
+  "division": "Collegiate -68kg",
+  "belt": "4th Dan",
+  "school": "Yonsei Univ.",
+  "visual_lock": "Slicked hair loose strand · gold watch · deep blue/gold Yonsei dobok",
+  "files": {
+    "dobok-front.png": "Yonsei — deep blue dobok gold collar trim, gold belt"
+  },
+  "generated": "dobok v2",
+  "status": "complete"
+}

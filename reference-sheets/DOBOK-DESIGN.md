@@ -35,6 +35,6 @@ Arc 1 Kwon's spar team — **complete** for front views (casual + dobok + gear p
 | Kieryn | ✓ | ✓ | ✓ |
 | Logan | ✓ | ✓ | ✓ |
 | Kian | ✓ | ✓ | ✓ |
-| Ariana | — | ✓ | ✓ |
+| Ariana | ✓ | ✓ | ✓ |
 
 **Not started:** Yuna Park (Arc 5+). Master Viet / Ttong Kim use separate outfit refs.

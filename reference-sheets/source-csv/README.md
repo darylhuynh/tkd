@@ -1,4 +1,6 @@
-# Google Sheet CSV snapshots
+# Google Sheet CSV snapshots (legacy)
+
+> **Use [`../google-sheets-import/`](../google-sheets-import/) instead** — cleaned Field | Value layout, new tabs, storyboard index. Regenerate: `python scripts/export_google_sheets.py`.
 
 Exported from: https://docs.google.com/spreadsheets/d/18DGBDJphipA9le931yoLtFqWFlLESeIMyyiIGv10-MU/edit?usp=sharing
 

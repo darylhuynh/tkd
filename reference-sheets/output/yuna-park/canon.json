@@ -11,6 +11,8 @@
   "files": {
     "poomsae-front.png": "Poomsae — WT-style white/black v-neck top, dark blue pants, black belt",
     "casual-front.png": "Off-mat — cutesy pastel outfit, backpack with cute keychain charms",
+    "casual-side.png": "Off-mat — side profile turnaround",
+    "casual-back.png": "Off-mat — back view turnaround",
     "college-casual-ring.png": "Epilogue Arc 8 — age 17 SNU campus casual, friendship ring on finger"
   },
   "generated": "poomsae/casual v1, college v1"

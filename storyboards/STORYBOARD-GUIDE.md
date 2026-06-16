@@ -10,15 +10,15 @@ Master reference for all panel-by-panel AI prompts across the series.
 
 | Arc | Chapters | File | Panels (approx) |
 |-----|----------|------|-----------------|
-| 1 — New Beginnings | 1–10 | [arc-01-panel-storyboard.md](./arc-01-panel-storyboard.md) | 69 |
-| 2 — The Team | 11–20 | [arc-02-panel-storyboard.md](./arc-02-panel-storyboard.md) | 76 |
+| 1 — New Beginnings | 1–10 | [arc-01-panel-storyboard.md](./arc-01-panel-storyboard.md) | 203 |
+| 2 — The Team | 11–20 | [arc-02-panel-storyboard.md](./arc-02-panel-storyboard.md) | 200 |
 | 3 — First Tournament | 21–35 | [arc-03-panel-storyboard.md](./arc-03-panel-storyboard.md) | 78 → **~87** |
 | 4 — The Shadow School | 36–50 | [arc-04-panel-storyboard.md](./arc-04-panel-storyboard.md) | 68 → **~82** |
 | 5 — The Road to Korea | 51–70 | [arc-05-panel-storyboard.md](./arc-05-panel-storyboard.md) | 74 → ~82 |
 | 6 — Korea Regionals | 71–90 | [arc-06-panel-storyboard.md](./arc-06-panel-storyboard.md) | 72 → ~80 |
 | 7 — Legends | 91–110 | [arc-07-panel-storyboard.md](./arc-07-panel-storyboard.md) | 70 → ~85 |
 | 8 — Closure | 111–120 | [arc-08-panel-storyboard.md](./arc-08-panel-storyboard.md) | 58 → ~70 |
-| **Total** | **120** | | **~620+** *(expanded fights + `[CARD]`)* |
+| **Total** | **120** | | **~870+** *(Arc 1–2 expanded; 3–8 pending ~20/ch)* |
 
 ---
 

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Taekwondo Legends — a Korean-American sports manhwa about found family, Olympic taekwondo, and chasing the U20 National Team dream.">
+  <title>Taekwondo Legends</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+KR:wght@400;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/pitch.css?v=5">
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="site-header" id="top">
+    <nav class="nav">
+      <a class="nav-logo" href="#top">TKD <span>LEGENDS</span></a>
+      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links">
+        <li><a href="#story">Story</a></li>
+        <li><a href="#arcs">Arcs</a></li>
+        <li><a href="#roster">Fighters</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-bg" aria-hidden="true"></div>
+      <div class="hero-inner">
+        <p class="hero-eyebrow">Korean-American Sports Manhwa · Vertical Webtoon</p>
+        <h1 class="hero-title">
+          <span class="hero-title-en">Taekwondo</span>
+          <span class="hero-title-kr">태권도 레전드</span>
+          <span class="hero-title-en accent">Legends</span>
+        </h1>
+        <p class="hero-logline" id="hero-logline">Loading…</p>
+        <div class="hero-tags" id="hero-tags"></div>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#roster">Meet the Fighters</a>
+          <a class="btn btn-ghost" href="arcs/new-beginnings/index.html">Read Arc 1</a>
+        </div>
+      </div>
+      <div class="hero-scroll" aria-hidden="true">
+        <span>Scroll</span>
+        <div class="hero-scroll-line"></div>
+      </div>
+    </section>
+
+    <section class="section story" id="story">
+      <div class="container">
+        <div class="section-head">
+          <span class="section-label">The Story</span>
+          <h2>Six kids who almost quit the sport.<br><em>One team that refused to break.</em></h2>
+        </div>
+        <div class="story-grid">
+          <div class="story-copy">
+            <p id="story-premise-1"></p>
+            <p id="story-premise-2"></p>
+            <blockquote class="story-rule">
+              The team is a family. The true conflict comes from rival schools, tournaments, and personal growth — not internal betrayal.
+            </blockquote>
+          </div>
+          <div class="story-schools">
+            <article class="school-card school-kwons">
+              <h3>Kwon's Taekwondo Academy</h3>
+              <p class="school-lead">Master Viet · Patient · Technical · Honest</p>
+              <p>Individual attention, honest coaching, and a culture where teammates push each other to improve — never tear each other down.</p>
+            </article>
+            <article class="school-card school-premier">
+              <h3>Premier Taekwondo Sports Dynasty</h3>
+              <p class="school-lead">Ttong Kim · Money · Status · Control</p>
+              <p>VIP packages and public "elite" branding. Favoritism, misinformation, and loyalty tests for anyone who dares to leave.</p>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section arcs" id="arcs">
+      <div class="container">
+        <div class="section-head center">
+          <span class="section-label">Eight Arcs</span>
+          <h2>From nightmare to <em>national stage</em></h2>
+        </div>
+        <div class="arc-track" id="arc-track"></div>
+      </div>
+    </section>
+
+    <section class="section roster" id="roster">
+      <div class="container">
+        <div class="section-head">
+          <span class="section-label">Fighter Cards</span>
+          <h2>Meet the <em>roster</em></h2>
+          <p class="section-desc">Height, weight, division, combat stats, and signature moves — including U20 camp unlocks.</p>
+        </div>
+        <div class="roster-filters" id="roster-filters" role="tablist" aria-label="Filter fighters"></div>
+        <div class="card-grid" id="card-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <p class="footer-brand">Taekwondo Legends</p>
+        <p class="footer-note">Pitch site · Work in progress</p>
+      </div>
+      <p class="footer-copy">Olympic sport taekwondo · Found family</p>
+    </div>
+  </footer>
+
+  <dialog class="fighter-modal" id="fighter-modal" aria-label="Fighter profile">
+    <button class="fighter-modal-close" type="button" aria-label="Close">&times;</button>
+    <div class="fighter-modal-body" id="fighter-modal-body"></div>
+  </dialog>
+
+  <script src="assets/js/pitch.js?v=5" type="module"></script>
+</body>
+</html>

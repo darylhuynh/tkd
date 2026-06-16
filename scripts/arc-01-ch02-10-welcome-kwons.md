@@ -3,7 +3,7 @@
 
 **Purpose:** Kwon's sanctuary · MV trust · Korea U20 goal · Premier flash seeds · hospital · team arrives  
 **Tone:** Palette shift PREMIER → **KWONS** amber · hope closes the arc  
-**Tie-in panels:** [arc-01-panel-storyboard.md](../storyboards/arc-01-panel-storyboard.md) §2.1–10.x
+**Tie-in panels:** [arc-01-panel-storyboard.md](../storyboards/arc-01-panel-storyboard.md) §2.1–10.20 (~20 panels/chapter)
 
 ---
 
@@ -22,7 +22,7 @@
 # CHAPTER 2 — ARRIVAL
 
 ### SCENE 1 — WINDOW [REAL #20]
-**Panels:** 2.1 · 2.2
+**Panels:** 2.1–2.20
 
 **ACTION:**  
 Evening. **Kwon's Taekwondo Academy** — wood floors — amber light.
@@ -45,7 +45,7 @@ Hand on door. Hesitates.
 # CHAPTER 3 — MEETING MASTER VIET
 
 ### SCENE 2 — INVITED IN
-**Panels:** 3.1 · 3.2 · 3.4 [CARD optional]
+**Panels:** 3.1–3.20
 
 **ACTION:**  
 MV notices Ethan at glass. Opens door — no sales pitch.
@@ -70,7 +70,7 @@ Show me what you kept when you left.
 # CHAPTER 4 — DEMONSTRATION [TEACH]
 
 ### SCENE 3 — PADDLES
-**Panels:** 4.1–4.4
+**Panels:** 4.1–4.20
 
 **ACTION:**  
 MV runs basics — roundhouse, back kick, cut kick — shield and paddles.
@@ -96,7 +96,7 @@ They didn't have me.
 # CHAPTER 5 — THE GOAL
 
 ### SCENE 4 — WHAT DO YOU WANT?
-**Panels:** 5.1 · 5.2
+**Panels:** 5.1–5.20
 
 **ACTION:**  
 MV sits on bench — Ethan stands — formal distance narrowing.
@@ -134,7 +134,7 @@ We'll see if you mean it.
 # CHAPTER 6 — WHY DID YOU LEAVE?
 
 ### SCENE 5 — DEFLECTION
-**Panels:** 6.1 · 6.3
+**Panels:** 6.1–6.20
 
 **ACTION:**  
 MV asks direct: *Why did you leave?*
@@ -166,7 +166,7 @@ When you're ready to tell me the rest, I'll listen.
 # CHAPTER 7 — FLASHBACKS BEGIN
 
 ### SCENE 6 — WARM THEN COLD [REAL #5 · #6]
-**Panels:** 7.1 · 7.2
+**Panels:** 7.1–7.20
 
 **ACTION:**  
 Flashback — small empty Premier. Young Ethan white belt bows.
@@ -186,7 +186,7 @@ He was kind when the room was empty.
 # CHAPTER 8 — HOSPITAL [REAL #14 · #15]
 
 ### SCENE 7 — VISIT
-**Panels:** 8.1 · 8.2 · 8.3
+**Panels:** 8.1–8.20
 
 **ACTION:**  
 After training. Hospital room — **Halmeoni** frail — kind tired eyes.
@@ -217,7 +217,7 @@ You came. That's enough for today.
 # CHAPTER 9 — CAN THEY COME TOO?
 
 ### SCENE 8 — EVERYONE DESERVES A HOME
-**Panels:** 9.1 · 9.2
+**Panels:** 9.1–9.20
 
 **ACTION:**  
 Kwon's — Ethan finds MV rolling mats alone.
@@ -240,7 +240,7 @@ I didn't ask them to follow me. I asked if they could breathe.
 # CHAPTER 10 — WELCOME TO KWON'S
 
 ### SCENE 9 — SIX SILHOUETTES
-**Panels:** 10.1–10.10
+**Panels:** 10.1–10.20
 
 **ACTION:**  
 Next session. Door opens — **five arrivals** — varied body language:

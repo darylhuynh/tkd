@@ -1,0 +1,16 @@
+{
+  "character_id": "maya-ortiz",
+  "canon_name": "Maya Ortiz",
+  "age": 14,
+  "height": "5'9\"",
+  "weight": "112 lbs",
+  "division": "Cadet -49kg",
+  "belt": "2nd Dan",
+  "school": "Valley Martial Arts",
+  "visual_lock": "Purple-black ombré braid · silver hoops · navy/orange Valley dobok",
+  "files": {
+    "dobok-front.png": "Valley MA — navy jacket orange side panels, orange belt"
+  },
+  "generated": "dobok v2",
+  "status": "complete"
+}

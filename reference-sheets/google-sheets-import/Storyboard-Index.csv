@@ -1,0 +1,437 @@
+arc,chapter,chapter_section,panel_id,title,timeline,tags,dialogue,source_file
+01,1,,1.1,Title Card,,,,arc-01-panel-storyboard.md
+01,1,,1.2,Too Early,,," Kid A: ""Why are we here so early?""",arc-01-panel-storyboard.md
+01,1,,1.3,Bracket Shock,,, Ethan (internal): *Seven hours.,arc-01-panel-storyboard.md
+01,1,,1.4,No Warmup,,, *(none),arc-01-panel-storyboard.md
+01,1,,1.5,Bleacher Isolation,,, *(none),arc-01-panel-storyboard.md
+01,1,,1.6,Time Passes (Montage Cell 1),,,,arc-01-panel-storyboard.md
+01,1,,1.7,Time Passes (Montage Cell 2),,,,arc-01-panel-storyboard.md
+01,1,,1.8,VIP Flash Insert [FLASH — dojang enrollment],**FLASH** — Premier front desk / enrollment day (not tournament venue). **ANCHOR returns in 1.9.**,FLASH," Ttong Kim (to VIP parent): ""We'll take good care of **him**."" *(him = paying kid in frame)",arc-01-panel-storyboard.md
+01,1,,1.9,Favoritism [PRESENT — tournament venue],**PRESENT** — same nightmare tournament day as bleachers montage. Ttong coaches a **different** paying kid.,PRESENT," Ttong Kim: ""Remember — feint left, kick right.""",arc-01-panel-storyboard.md
+01,1,,1.10,Ethan's View [PRESENT — bleachers ANCHOR],**PRESENT** — Ethan's bleacher seat. Same day; clock between 1:47 PM and 2:47 PM.,PRESENT, Ethan (internal): *Same dobok. Same patch.,arc-01-panel-storyboard.md
+01,1,,1.11,Wrong Stretch [PRESENT — bleachers],"**PRESENT** — still on bleachers. Shows neglect stacking: stranger ""helps"" while **his** coach ignores him.",PRESENT," Parent (O.S.): ""Loosen up, kid.""",arc-01-panel-storyboard.md
+01,1,,1.12,Skill vs Silence [FLASH inset + PRESENT split],"**Top — FLASH — dojang scrimmage, weeks earlier.** **Bottom — PRESENT — bleachers 2:47 PM.**","FLASH, PRESENT", Ethan (internal): *Won every scrimmage last month.,arc-01-panel-storyboard.md
+01,1,,1.13,Finally Called,,,,arc-01-panel-storyboard.md
+01,1,,1.13a-T,[CARD] Ttong Kim Intro ★,,CARD,,arc-01-panel-storyboard.md
+01,1,,1.13a-R,[CARD] Repeul Kim Intro ★,,CARD,,arc-01-panel-storyboard.md
+01,1,,1.13b,Knockout Bounty [REAL #28] ★,,," Ttong Kim: **""One thousand won if you knock them out. Black belt doesn't mean nice — it means you finish them.""** · *(to Ethan)* **""Too soft.""",arc-01-panel-storyboard.md
+01,1,,1.14,Ninety Seconds,,," Instructor: **""Go fight.""",arc-01-panel-storyboard.md
+01,1,,1.15,Cold Entry,,, *(none),arc-01-panel-storyboard.md
+01,1,,1.16,Abandoned Corner,,, *(none),arc-01-panel-storyboard.md
+01,1,,1.17,The Spinning Hook,,FLASH,,arc-01-panel-storyboard.md
+01,1,,1.18,Sound Dies,,, *(silence),arc-01-panel-storyboard.md
+01,1,,1.19,Smash Cut Wake,,,,arc-01-panel-storyboard.md
+01,1,,1.20,Aftermath,,, Ethan (internal): *It wasn't just the kick.,arc-01-panel-storyboard.md
+01,2,,2.1,New Day,,, *(none),arc-01-panel-storyboard.md
+01,2,,2.2,Through the Window,,," MV (muffled): ""Turn the hip more — yes, like that.""",arc-01-panel-storyboard.md
+01,2,,2.3,Contrast Split,,, *(none),arc-01-panel-storyboard.md
+01,2,,2.4,Hand on Door,,, Ethan (internal): *What if it's the same?,arc-01-panel-storyboard.md
+01,2,,2.5,Door Opens,,, *(none),arc-01-panel-storyboard.md
+01,3,,3.1,Silver Belt,,," Student: ""Is that real?""",arc-01-panel-storyboard.md
+01,3,,3.2,MV Approaches,,," MV: ""You can watch as long as you want. Or you can join.""",arc-01-panel-storyboard.md
+01,3,,3.3,No Sales Pitch,,," MV: ""No pressure. What's your name?""",arc-01-panel-storyboard.md
+01,3,,3.4,Ethan Speaks,,," Ethan: ""...Ethan.""",arc-01-panel-storyboard.md
+01,4,,4.1,Pad Work Begins [TEACH],,TEACH," MV: ""Roundhouse — dollyo chagi. Turn the hip, snap the leg. Show me.""",arc-01-panel-storyboard.md
+01,4,,4.2,Roundhouse [TEACH],,TEACH," MV: ""Two points to the body in a match — if the sensor agrees.""",arc-01-panel-storyboard.md
+01,4,,4.3,Back Kick [TEACH],,TEACH," MV: ""Back kick — dwi chagi. Don't chase. Let them run into it.""",arc-01-panel-storyboard.md
+01,4,,4.4,Cut Kick [TEACH],,TEACH," MV: ""Cut kick — oreo chagi. Low line. Disrupt their balance before you score.""",arc-01-panel-storyboard.md
+01,4,,4.5,Perfect Form,,," MV: ""Your form is perfect. Why would you leave a school that taught you this?""",arc-01-panel-storyboard.md
+01,4,,4.6,No Answer,,," Ethan: ""...""",arc-01-panel-storyboard.md
+01,5,,5.1,The Question,,," MV: ""What do you want?""",arc-01-panel-storyboard.md
+01,5,,5.2,Silence,,, *(none — beat panel),arc-01-panel-storyboard.md
+01,5,,5.3,Korea U20,,," Ethan: ""Korea U20 National Team.""",arc-01-panel-storyboard.md
+01,5,,5.4,The Ask,,," Ethan: ""I want to join Kwon's Taekwondo Academy.""",arc-01-panel-storyboard.md
+01,5,,5.5,MV Response,,," MV: ""That's not a small dream. We can talk about it.""",arc-01-panel-storyboard.md
+01,6,,6.1,Direct Question,,," MV: ""Why did you leave your old school?""",arc-01-panel-storyboard.md
+01,6,,6.2,Deflection,,," Ethan: ""It wasn't home anymore.""",arc-01-panel-storyboard.md
+01,6,,6.3,Flash Sting (Money),,FLASH," *(distorted)* ""...with us or...""",arc-01-panel-storyboard.md
+01,6,,6.4,MV Backs Off,**FLASH Premier** montage (opening day → favoritism) → **PRESENT ANCHOR** panel **7.5** on Kwon's mats.,"FLASH, PRESENT"," MV: ""When you're ready to tell me the rest, I'll listen.""",arc-01-panel-storyboard.md
+01,7,,7.1,Opening Day (Warm),,FLASH," Instructor: ""Welcome to the family.""",arc-01-panel-storyboard.md
+01,7,,7.2,Growth,,, *(none),arc-01-panel-storyboard.md
+01,7,,7.3,Favoritism Montage,,," Instructor: ""Excellent! See — investment pays off.""",arc-01-panel-storyboard.md
+01,7,,7.4,Sidelined,,," Instructor: ""Ethan — sit. Marcus — come here.""",arc-01-panel-storyboard.md
+01,7,,7.5,Present Anchor,,," MV (off): ""Ethan? You okay?""",arc-01-panel-storyboard.md
+01,8,,8.1,Hospital Hall,,, *(none),arc-01-panel-storyboard.md
+01,8,,8.2,Grandmother,,," Grandmother: ""My champion.""",arc-01-panel-storyboard.md
+01,8,,8.3,Hand Hold,,," Ethan: ""I found a new school.""",arc-01-panel-storyboard.md
+01,8,,8.4,Phone Buzz,,,,arc-01-panel-storyboard.md
+01,8,,8.5,Threatening Messages,,," (text) **""I know where you train now.""",arc-01-panel-storyboard.md
+01,8,,8.6,Silence Phone,,," Ethan: ""It's nothing.""",arc-01-panel-storyboard.md
+01,9,,9.1,The Ask,,," Ethan: ""Some friends... they left Premier too. Can they join?""",arc-01-panel-storyboard.md
+01,9,,9.2,MV Answer,,," MV: ""Everyone deserves a home.""",arc-01-panel-storyboard.md
+01,9,,9.3,The Text,,," (text) Ethan: *""Found a place. Kwon's. He said yes.""",arc-01-panel-storyboard.md
+01,9,,9.4,Replies Flood,,," (text) Kieryn: *""Took you long enough.""",arc-01-panel-storyboard.md
+01,10,,10.1,Arrivals Begin,,, *(none),arc-01-panel-storyboard.md
+01,10,,10.2,TJ Lim,,," TJ: ""So this is the famous Kwon's.""",arc-01-panel-storyboard.md
+01,10,,10.3,Kieryn Lim,,," Kieryn: ""Smaller than I expected.""",arc-01-panel-storyboard.md
+01,10,,10.4,Logan Hyun,,," Logan: ""Hi! Hi! Is there food nearby?""",arc-01-panel-storyboard.md
+01,10,,10.5,Kian Sang,,," Kian: ""...You got here first. Doesn't mean you're ahead.""",arc-01-panel-storyboard.md
+01,10,,10.6,Ethan & Kian Eye Lock,,, *(none),arc-01-panel-storyboard.md
+01,10,,10.7,Ariana Yang,,, *(none),arc-01-panel-storyboard.md
+01,10,,10.8,MV Addresses All,,," MV: ""Kwon's isn't a business. It's a team. If you work, I work.""",arc-01-panel-storyboard.md
+01,10,,10.9,Ethan Looks Around,,, Ethan (internal): *Home.,arc-01-panel-storyboard.md
+01,10,,10.10,Final Wide,,, *(none — title card energy),arc-01-panel-storyboard.md
+02,11,11,11.1,Circle on the Mat,,," MV: ""You don't owe me your past. But your teammates might need to hear it.""",arc-02-panel-storyboard.md
+02,11,11,11.2,Kian's Reason [FLASH inset],**FLASH** — Premier humiliation. **PRESENT** — Kian speaking in circle (Kwon's).,"FLASH, PRESENT"," Ttong Kim: ""You think this is a joke?"" · Kian (present): ""I wasn't laughing after that.""",arc-02-panel-storyboard.md
+02,11,11,11.3,Kieryn's Reason,,," Kieryn: ""My friends were there. But I'd never get better. Not at Premier.""",arc-02-panel-storyboard.md
+02,11,11,11.4,Ariana's Reason,,," Father: ""She needs a coach who sees her."" · Ariana: ""He listened when they didn't.""",arc-02-panel-storyboard.md
+02,11,11,11.5,Logan's Reason,,," Logan: ""Where you go, I go. I don't need to compete. I need my brother.""",arc-02-panel-storyboard.md
+02,11,11,11.6,TJ's Reason,,FLASH," TJ: ""He singled me out every day. I was getting worse. Ethan was at Kwon's. I followed my friend.""",arc-02-panel-storyboard.md
+02,11,11,11.7,Ethan Last [HAIKYUU],,HAIKYUU," Ethan: ""I was good enough to be ignored."" · TJ: ""Not here.""",arc-02-panel-storyboard.md
+02,12,12,12.1,Classroom on Mats,,," MV: ""Best of three. Ninety seconds per round.""",arc-02-panel-storyboard.md
+02,12,12,12.2,Kieryn the Professor,,," Kieryn: ""Head kick is three. Turning head kick is six. Math isn't hard.""",arc-02-panel-storyboard.md
+02,12,12,12.3,Logan Lost,,," Logan: ""So a punch is worth... ten?"" · Kieryn: ""You're ten.""",arc-02-panel-storyboard.md
+02,12,12,12.4,Kian Debates,,," Kian: ""What if the ref is blind?"" · MV: ""Then we adapt.""",arc-02-panel-storyboard.md
+02,12,12,12.5,Practice Scoring,,," TJ: ""Two points. Write it like a human.""",arc-02-panel-storyboard.md
+02,12,12,12.6,Team Quiz Finish,,," All: ""Turning kicks double!"" · MV: ""Good. Now sweat.""",arc-02-panel-storyboard.md
+02,13,13,13.1,MV Diagram [TEACH],,TEACH," MV: ""Front leg is fast. Back leg is power. Olympic sparring lives in the space between.""",arc-02-panel-storyboard.md
+02,13,13,13.2,Guard & Distance [TEACH],,TEACH," MV: ""Guard is geometry. If your hands drift, your head becomes two points — or three.""",arc-02-panel-storyboard.md
+02,13,13,13.3,Mirror Drill Setup,,," MV: ""Front leg fighter vs back leg counter. Go.""",arc-02-panel-storyboard.md
+02,13,13,13.4,Ethan Wins Round One [TEACH],,TEACH," MV: ""Two points — body. Back leg. That's the textbook.""",arc-02-panel-storyboard.md
+02,13,13,13.5,Kian Wins Round Two,,," Ethan: ""...Again.""",arc-02-panel-storyboard.md
+02,13,13,13.6,MV Notes [HAIKYUU],,HAIKYUU, MV (internal): *They make each other honest.,arc-02-panel-storyboard.md
+02,13,13,13.7,Logan Trips,,," Logan: ""I meant to do that."" · TJ: ""Sure.""",arc-02-panel-storyboard.md
+02,14,14,14.1,Ramen Shop,,," Logan: ""FINALLY. Real food.""",arc-02-panel-storyboard.md
+02,14,14,14.2,Baseline Banter (Full),,," TJ: ""Stop fighting."" · Ethan: ""I wasn't."" · Kian: ""I was."" · Logan: ""Can we get ramen?"" · Kieryn: ""You're all idiots.""",arc-02-panel-storyboard.md
+02,14,14,14.3,Ariana Leaves Early,,," Ariana: ""Extra forms. Don't wait up.""",arc-02-panel-storyboard.md
+02,14,14,14.4,Logan & TJ Brother Moment,,," Logan: ""You're too big to be my brother."" · TJ: ""Too bad.""",arc-02-panel-storyboard.md
+02,14,14,14.5,Ethan Almost Smiles,,," Kieryn: ""You smiling?"" · Ethan: ""No.""",arc-02-panel-storyboard.md
+02,14,14,14.6,Walk Home Group,,, *(none — warm silence),arc-02-panel-storyboard.md
+02,15,15,15.1,"Young Ethan Hopeful [FLASH — dojang, earlier]",,,,arc-02-panel-storyboard.md
+02,15,15,15.2,VIP Lesson [FLASH — dojang],,,,arc-02-panel-storyboard.md
+02,15,15,15.2b,Knockout Bounty [REAL #28] ★ [FLASH — tournament staging],,," Ttong Kim: **""One thousand won — 천 원 — if your student knocks the other kid out. Not points. Out.""** · **""Black belt doesn't mean nice. Black belt means you finish them.""** · *(quieter, to Ethan)* **""Too soft. Too nice to be a real black belt.""",arc-02-panel-storyboard.md
+02,15,15,15.3,Ethan in Corner [FLASH — dojang],,, Ethan (internal): *Same floor. Different world.* · *I didn't want to knock anyone out. He said that meant I didn't belong.,arc-02-panel-storyboard.md
+02,15,15,15.4,Present Snap [PRESENT — Kwon's mats ANCHOR],,," Ethan: ""Yeah.""",arc-02-panel-storyboard.md
+02,16,16,16.1,TJ Power,,,,arc-02-panel-storyboard.md
+02,16,16,16.2,Kieryn Precision [TEACH],,TEACH," Kieryn: ""Cut kick — blade of the foot, thigh line. Kill their base, score on the reset.""",arc-02-panel-storyboard.md
+02,16,16,16.3,Logan Heart,,," TJ: ""One more set. Together.""",arc-02-panel-storyboard.md
+02,16,16,16.4,Kian Chaos / Ariana Accuracy [TEACH],,TEACH," MV: ""Punch is one point. But only if you're brave enough to get close.""",arc-02-panel-storyboard.md
+02,16,16,16.5,Ethan Counters,,,,arc-02-panel-storyboard.md
+02,16,16,16.6,MV Whistle — Team Collapse [HAIKYUU],,HAIKYUU," MV: ""Shower. Eat. Sleep. That's an order.""",arc-02-panel-storyboard.md
+02,17,17,17.1,Sloppy Spar Day,,,,arc-02-panel-storyboard.md
+02,17,17,17.2,MV Line,,," MV: ""You fight like color belts. Good — that means you can still fix it.""",arc-02-panel-storyboard.md
+02,17,17,17.3,Reset Drill [HAIKYUU],,HAIKYUU," All: ""Again!"" · Logan: ""Again?!""",arc-02-panel-storyboard.md
+02,18,18,18.1,Ethan Card,,,,arc-02-panel-storyboard.md
+02,18,18,18.2,TJ Card,,,,arc-02-panel-storyboard.md
+02,18,18,18.3,Kieryn Card,,,,arc-02-panel-storyboard.md
+02,18,18,18.4,Logan Card,,,,arc-02-panel-storyboard.md
+02,18,18,18.5,Kian Card,,,,arc-02-panel-storyboard.md
+02,18,18,18.6,Ariana Card,,,,arc-02-panel-storyboard.md
+02,19,19,19.1,Ethan Tenacity Flag,,," MV: ""Technique is A. Courage is still hiding.""",arc-02-panel-storyboard.md
+02,19,19,19.2,Ariana Bandage Notice,,," MV: ""We train smart. Not broken.""",arc-02-panel-storyboard.md
+02,19,19,19.3,Team Waits Outside [HAIKYUU],,HAIKYUU,,arc-02-panel-storyboard.md
+02,20,20,20.1,Flyer Drop,,," MV: ""Official matches. I need to know who you are under lights.""",arc-02-panel-storyboard.md
+02,20,20,20.2,Reactions Montage [HAIKYUU],,HAIKYUU,,arc-02-panel-storyboard.md
+02,20,20,20.3,Team Huddle Hands,,," TJ: ""Kwon's on three. One—two—""",arc-02-panel-storyboard.md
+02,20,20,20.4,Final — Date Circled,,TEACH,,arc-02-panel-storyboard.md
+03,21,21,21.0,Team Roster Cards [CARD],,CARD,,arc-03-panel-storyboard.md
+03,21,21,21.1,Gear Table [TEACH],,TEACH," MV: ""Chest sensor — two for body. Head sensor — three for head. Gear only scores clean contact.""",arc-03-panel-storyboard.md
+03,21,21,21.2,Team Helps Strap [HAIKYUU],,HAIKYUU," Kieryn: ""Left strap. Right strap. Brain.""",arc-03-panel-storyboard.md
+03,21,21,21.3,Ethan Mirror [TEACH],,TEACH, Ethan (internal): *Armor on. Still the same kid underneath.,arc-03-panel-storyboard.md
+03,21,21,21.4,Bracket Mismatch [TEACH],,TEACH," MV: ""Weight class got bumped. You'll fight up. Happens in opens.""",arc-03-panel-storyboard.md
+03,21,21,21.5,Team Pep [HAIKYUU],,HAIKYUU," TJ: ""We corner you. You don't fight alone.""",arc-03-panel-storyboard.md
+03,22,22,22.1,Weigh-In Chaos,,," Kieryn: ""Don't breathe out. You'll miss weight and cry.""",arc-03-panel-storyboard.md
+03,22,22,22.2,Logan Waves [HAIKYUU],,HAIKYUU," Logan: ""Hi! We came to win! Or try!""",arc-03-panel-storyboard.md
+03,22,22,22.3,Venue Scale [TEACH],,TEACH," MV: ""Ring four is ours. Watch the board — it tells you what's real.""",arc-03-panel-storyboard.md
+03,22,22,22.4,No Knockout Bounty [REAL #28 contrast],,," MV: ""We win on **points**. We win on **control**. We do **not** chase knockouts. Black belt means **discipline**, not cruelty."" · Logan: *(whisper)* ""Was that… a thing somewhere?"" · Ethan: ""Thousand won. If you knock them out. He said I was **too nice** to be one."" · Kieryn: ""That's not taekwondo. That's a lawsuit."" · MV: ""Head kicks are three points — not invitations to hurt someone for show.""",arc-03-panel-storyboard.md
+03,23,23,23.1,Bus / Car Convoy,,,,arc-03-panel-storyboard.md
+03,23,23,23.2,Baseline Banter Callback,,," TJ: ""Stop fighting."" · Kian: ""I was."" · Logan: ""Can we stop for food?""",arc-03-panel-storyboard.md
+03,23,23,23.3,MV Tap [HAIKYUU],,HAIKYUU," MV: ""When you're ready — not before.""",arc-03-panel-storyboard.md
+03,24,24,24.1,Alone in Mirror,,, Ethan (internal): *I've been here before.,arc-03-panel-storyboard.md
+03,24,24,24.2,Opponent Scout,,,,arc-03-panel-storyboard.md
+03,24,24,24.3,MV Corner Lesson [TEACH],,TEACH," MV: ""Hook kick — watch the chamber. If he spins, turning kick doubles. Cover high.""",arc-03-panel-storyboard.md
+03,24,24,24.4,Walk to Ring [HAIKYUU],,HAIKYUU,,arc-03-panel-storyboard.md
+03,25,25,25.0,Fighter VS Cards [CARD] ★,,CARD,,arc-03-panel-storyboard.md
+03,25,25,25.1,Octagon Wide,,,,arc-03-panel-storyboard.md
+03,25,25,25.2,Guard Up,,," Ref: ""Shi-jak!""",arc-03-panel-storyboard.md
+03,25,25,25.3,Probe Cut [ACTION],,ACTION," MV (corner): ""Cut. Don't chase.""",arc-03-panel-storyboard.md
+03,25,25,25.4,Ethan Step-In [ACTION],,ACTION," MV (corner): ""Spin—!""",arc-03-panel-storyboard.md
+03,25,25,25.5,Feint Cut & Chamber [TEACH + ACTION],,,,arc-03-panel-storyboard.md
+03,25,25,25.6,Impact [TEACH + ACTION] ★,,FLASH,,arc-03-panel-storyboard.md
+03,25,25,25.7,Ethan Frozen,,,,arc-03-panel-storyboard.md
+03,25,25,25.8,Scoreboard,,,,arc-03-panel-storyboard.md
+03,25,25,25.9,MV Corner [HAIKYUU],,HAIKYUU, *(silence),arc-03-panel-storyboard.md
+03,25,25,25.10,Nightmare Inset,,FLASH,,arc-03-panel-storyboard.md
+03,25,25,25.11,Headgear Off,,,,arc-03-panel-storyboard.md
+03,25,25,25.12,Match Over,,,,arc-03-panel-storyboard.md
+03,26,26–30,26.1,Warm Opening [REAL],,FLASH," Instructor: ""Welcome to the family.""",arc-03-panel-storyboard.md
+03,27,26–30,27.1,Money Grows [REAL #8],,," Instructor: ""They bought those belts. Your kids earned theirs.""",arc-03-panel-storyboard.md
+03,28,26–30,28.1,Board Station [REAL #24] ★,,FLASH," Instructor: ""Punch through. Next.""",arc-03-panel-storyboard.md
+03,28,26–30,28.2,"First Failures [FLASH — belt test, dobok only]",,," Parent (O.S. whisper): ""Why don't they **move the board closer**?""",arc-03-panel-storyboard.md
+03,28,26–30,28.3,Clock Moves [REAL #24] [FLASH — belt test],,," Parent (O.S.): ""Please— just let him stop—"" · Parent (O.S. whisper): ""He's not even hitting the **center**—""",arc-03-panel-storyboard.md
+03,28,26–30,28.4,Board Breaks,,, Ethan (internal): *It broke when I moved. Not when they helped.,arc-03-panel-storyboard.md
+03,28,26–30,28.5,One of Five [REAL #24],,," Instructor: ""Late and ugly isn't the same as good. **One out of five.**""",arc-03-panel-storyboard.md
+03,28,26–30,28.6,Crowd Crying & Whispers [REAL #24] [FLASH — belt test],,," Parent (O.S.): ""Why didn't the instructor **adjust** anything?"" · Father (O.S., hoarse): ""He figured it out **himself**.""",arc-03-panel-storyboard.md
+03,28,26–30,28.7,"Results Board [REAL #9, #24]",,," Instructor (to girl): ""Extra credit. Attitude."" · Ethan (internal): *I would have passed with zero.",arc-03-panel-storyboard.md
+03,28,26–30,28.8,First to Black Belt [REAL #10],,, Ethan (internal): *Nothing left but fear.,arc-03-panel-storyboard.md
+03,29,26–30,29.1,Go Fight [REAL #13],,,,arc-03-panel-storyboard.md
+03,29,26–30,29.2,Spinning Hook Anatomy [TEACH],,"TEACH, FLASH"," *(MV voice memory)* ""Same kick. You just didn't know its name yet.""",arc-03-panel-storyboard.md
+03,30,26–30,30.1,The Kick Lands [REAL #11],,FLASH,,arc-03-panel-storyboard.md
+03,30,26–30,30.2,Twenty Minute Scold [REAL #12],,," Instructor: ""You took a head shot like you wanted to lose!""",arc-03-panel-storyboard.md
+03,31,31,31.1,Alone Bleachers,,,,arc-03-panel-storyboard.md
+03,31,31,31.2,Logan Sits [HAIKYUU],,HAIKYUU, *(silence),arc-03-panel-storyboard.md
+03,31,31,31.3,TJ Line [HAIKYUU],,HAIKYUU," TJ: ""That kick didn't win him the war. Next ring is ours.""",arc-03-panel-storyboard.md
+03,32,32,32.0,TJ Lim Card [CARD],,CARD,,arc-03-panel-storyboard.md
+03,32,32,32.1,Corner Wall [HAIKYUU],,HAIKYUU," Logan: ""SEND HIM TO THE MOON!""",arc-03-panel-storyboard.md
+03,32,32,32.2,Emperor's Kick [TEACH],,TEACH," MV: ""Two! Drive through!""",arc-03-panel-storyboard.md
+03,32,32,32.3,TJ Wins,,,,arc-03-panel-storyboard.md
+03,33,33,33.0,Kieryn VS Card [CARD],,CARD,,arc-03-panel-storyboard.md
+03,33,33,33.1,Logan Neverending Rage [HAIKYUU],,HAIKYUU, Logan (internal): *One more step. One more.,arc-03-panel-storyboard.md
+03,33,33,33.1b,Logan Card [CARD] *(optional)*,,CARD,,arc-03-panel-storyboard.md
+03,33,33,33.2,Kieryn Cut Probe [ACTION],,ACTION,,arc-03-panel-storyboard.md
+03,33,33,33.3,Second Cut — Trap [ACTION],,ACTION, Kieryn (internal): *There.,arc-03-panel-storyboard.md
+03,33,33,33.4,Pivot Setup [TEACH],,TEACH,,arc-03-panel-storyboard.md
+03,33,33,33.5,Turning Head +5 [TEACH + ACTION] ★,,FLASH," Kieryn: ""Head is three. Turning adds two.""",arc-03-panel-storyboard.md
+03,33,33,33.6,Kieryn Smirk,,,,arc-03-panel-storyboard.md
+03,33,33,33.7,Round Win,,,,arc-03-panel-storyboard.md
+03,33,33,33.8,Kian Whirlwind [ACTION],,ACTION,,arc-03-panel-storyboard.md
+03,33,33,33.9,Ariana Punch [TEACH + ACTION],,," MV: ""One point. That's all she needed.""",arc-03-panel-storyboard.md
+03,34,34b,34.0,Yuna Park Card [CARD],,CARD,,arc-03-panel-storyboard.md
+03,34,34b,34.4,Vending Machine [PRESENT — post-loss hallway],,,,arc-03-panel-storyboard.md
+03,34,34b,34.5,Procedure [PRESENT],,, Ethan (internal): *Open. Sip. Breathe.,arc-03-panel-storyboard.md
+03,34,34b,34.6,Logan Interruption [HAIKYUU] [PRESENT],,HAIKYUU," Logan: ""Hyung! They have grape too—"" · Ethan: ""Not the same."" · Logan: ""It's both sugar!"" · Ethan: *(walking)* ""Pineapple.""",arc-03-panel-storyboard.md
+03,34,34b,34.7,Yuna Watches [PRESENT],,, Yuna (internal): *Never tried it. Mom only buys barley tea.,arc-03-panel-storyboard.md
+03,34,34b,34.8,"Corner Store [PRESENT — evening, bus home]",,,,arc-03-panel-storyboard.md
+03,34,34b,34.9,Notebook Margin [PRESENT — later],,, *The quiet boy from sparring — pineapple soda after he loses. Remember.,arc-03-panel-storyboard.md
+03,34,34b,34.10,Parking Lot Echo [PRESENT — end of tournament day],,,,arc-03-panel-storyboard.md
+03,34,34,34.1,Results Board [HAIKYUU],,HAIKYUU,,arc-03-panel-storyboard.md
+03,34,34,34.2,Premier Stare,,,,arc-03-panel-storyboard.md
+03,34,34,34.3,Poomsae Ring [TEACH seed],,,,arc-03-panel-storyboard.md
+03,35,35,35.1,Tape Review [TEACH],,TEACH," MV: ""You saw the chamber. Your body remembered. Your feet didn't move.""",arc-03-panel-storyboard.md
+03,35,35,35.2,Scoring Context [TEACH],,TEACH," MV: ""Next time — back kick on the spin. Two points. Their gamble becomes yours.""",arc-03-panel-storyboard.md
+03,35,35,35.3,Ethan Speaks [HAIKYUU],,HAIKYUU," Ethan: ""My old coach said go fight. That's all I ever got."" · MV: ""You would've passed with zero?"" · Ethan: ""…Yeah.""",arc-03-panel-storyboard.md
+03,35,35,35.4,Next Time Together,,," MV: ""Next time, we prepare together.""",arc-03-panel-storyboard.md
+04,36,36,36.0,Can't Sleep [PRESENT — Kwon's ANCHOR] ★,,, Ethan (V.O.): *Arc 3 I said it out loud once. MV heard the hour. Tonight my body remembers the rest.,arc-04-panel-storyboard.md
+04,36,36,36.0a,"Wrong Setup [FLASH — belt test, dobok only]",,FLASH,,arc-04-panel-storyboard.md
+04,36,36,36.0b,Silent Hour [FLASH — belt test montage],,," Parent (O.S.): ""Can he stop?"" · Ttong Kim (O.S.): *(to someone else)* ""Good power. Needs commitment.""",arc-04-panel-storyboard.md
+04,36,36,36.0c,Self-Fix & Whispers [FLASH — belt test],,," Father (O.S., hoarse): ""He figured it out **himself**. After an hour.""",arc-04-panel-storyboard.md
+04,36,36,36.1,Ceremony Hands [FLASH — black belt ceremony],,FLASH,,arc-04-panel-storyboard.md
+04,36,36,36.2,"Second Place [REAL #9, #24] [FLASH — test results]",,, Ethan (V.O.): *Highest score. Second place. Same school.,arc-04-panel-storyboard.md
+04,36,36,36.3,Parents Proud / Ethan Empty [FLASH — ceremony],,FLASH," Parent: ""World champion someday!"" · Ethan (internal): *I'm already drowning.",arc-04-panel-storyboard.md
+04,37,37,37.1,"Pay-to-Train Montage [FLASH — dojang, money thread]",,FLASH,,arc-04-panel-storyboard.md
+04,37,37,37.2,Ethan Sidelined [FLASH — dojang mat],,FLASH, Ethan (V.O.): *Same floor. Different world.,arc-04-panel-storyboard.md
+04,37,37,37.3,Promotion Wall [REAL #27] [FLASH — dojang wall chart],,," Ttong Kim: ""Patience, boys. Belt isn't a race."" · Ethan (V.O.): *I won every scrimmage last month.",arc-04-panel-storyboard.md
+04,37,37,37.4,Demo Pick [REAL #9] [FLASH — dojang line drill],,FLASH," Ttong Kim: ""Ha-eun-ah, show them spirit. That's what sponsors like.""",arc-04-panel-storyboard.md
+04,37,37,37.5,New Year's Brag [REAL #25] ★ [FLASH — dojang after winter break],,," Ha-eun: ""Ask him."" · Boy (whisper): ""…What?"" · Ethan (V.O.): *I didn't know if she was bragging. I knew I wasn't supposed to ask.",arc-04-panel-storyboard.md
+04,37,37,37.6,"Bonus Points [REAL #9, #24] [FLASH — belt test callback]",,," Ttong Kim: ""Extra credit for **school spirit**.""",arc-04-panel-storyboard.md
+04,37,37,37.7,Present Snap [PRESENT — Kwon's mats ANCHOR] ★,,," MV: ""You shouldn't be alone with that memory."" · Ethan: ""I thought if I said it once at the tournament, it would leave."" · MV: ""It doesn't leave. You **learn where it lives** so it doesn't drive."" · MV: ""At Kwon's, promotion is timestamped. Same criteria. Boys and girls."" · Ethan: ""She would've had three belts by then."" · MV: ""And you would've had none of the trust that came with them."" · MV: ""Go home. Sleep. Tomorrow we train the **second beat**, not the first wound.""",arc-04-panel-storyboard.md
+04,38,38,38.1,Around Corner [PRESENT — Premier hallway],,FLASH," Parent (O.S.): **""I feel bad for Ethan. You want him to be good at school AND Taekwondo?""** · Ttong Kim (O.S.): *(dismissive laugh)* ""Some kids can't handle both.""",arc-04-panel-storyboard.md
+04,38,38,38.2,Keeps Walking [PRESENT — Premier hallway exit],,, Ethan (V.O.): *School AND taekwondo. They already decided I couldn't.,arc-04-panel-storyboard.md
+04,39,39,39.1,Dismissal [PRESENT trigger + FLASH overlay],,FLASH," Ttong Kim (flash): **""I don't think he has the temperament to become a world-class black belt.""** · Ethan (V.O.): *Because I wouldn't knock people out for 천 원. Because I was **nice**.",arc-04-panel-storyboard.md
+04,39,39,39.2,Bounty Memory [REAL #28] ★ [FLASH inset on PRESENT],,FLASH,,arc-04-panel-storyboard.md
+04,40,40,40.1,Parent Meeting [FLASH — Premier parent night],,FLASH," Ttong Kim: ""Refs cheated you. Other schools buy belts."" · Ethan (V.O.): *Parents nodded. That was the machine.",arc-04-panel-storyboard.md
+04,40,40,40.2,Finishers Philosophy [REAL #28] [FLASH inset],,FLASH,,arc-04-panel-storyboard.md
+04,41,41,41.1,Loyalty Trap [FLASH + FLASH inset],,FLASH," Ttong Kim: **""You skipped tournaments. I don't know how committed you are.""** · Ttong Kim (flash inset): ""Patience, boys. Belt isn't a race.""",arc-04-panel-storyboard.md
+04,42,42–43,42.1,Girl Bully Returns [REAL #26] ★ [FLASH — Premier dojang],,," Ttong Kim: ""We forgive people who grow. She's family again. No comments.""",arc-04-panel-storyboard.md
+04,42,42–43,42.2,"Toughen Up [REAL #7, #26] [FLASH inset]",,FLASH," Ttong Kim (O.S.): ""Boys need to toughen up.""",arc-04-panel-storyboard.md
+04,42,42–43,42.3,Ethan Punished [FLASH — Premier mat],,FLASH," Ttong Kim: ""Don't play hero.""",arc-04-panel-storyboard.md
+04,43,42–43,43.1,Early Promotion Question [REAL #27] [FLASH — younger Ethan],,FLASH," Ethan: ""I scored higher. Why did—""",arc-04-panel-storyboard.md
+04,43,42–43,43.2,With Us or Against Us [REAL #4] [FLASH → PRESENT split],,FLASH," Ttong Kim (flash): **""You are either with us or against us.""** · Ethan (text): *I'm okay. Just old ghosts.",arc-04-panel-storyboard.md
+04,44,44,44.1,Premier Cut [REAL #19] [FLASH — Premier or rumor reach],,FLASH," Ttong Kim: ""Talentless punks and quitters.""",arc-04-panel-storyboard.md
+04,44,44,44.2,Kwon's Tape Review [HAIKYUU + TEACH contrast] [PRESENT — same evening],,," MV: ""What would you do for two points here?"" · Kieryn: ""Body. Turning. Four."" · Logan: ""I'd panic."" · TJ: ""You'd kick.""",arc-04-panel-storyboard.md
+04,44,44,44.3,Ramen After [HAIKYUU] [PRESENT],,HAIKYUU," Logan: ""Food fixes everything."" · Ethan almost agrees.",arc-04-panel-storyboard.md
+04,45,45,45.1,Weaker Grandmother [PRESENT — hospital],,," Grandmother: ""You came back to me. That's enough.""",arc-04-panel-storyboard.md
+04,45,45,45.2,Medal He Didn't Win [PRESENT — hospital],,,,arc-04-panel-storyboard.md
+04,46,46,46.1,Call Montage [PRESENT — phone],,," (voicemail) ""Keep talking and I'll make it worse.""",arc-04-panel-storyboard.md
+04,46,46,46.2,Logan Notices [HAIKYUU] [PRESENT — Kwon's],,HAIKYUU,,arc-04-panel-storyboard.md
+04,47,47,47.1,Food Court Ramen,,," Friend: ""Did you hear? He's not even a real **master**."" · ""Legally. Dan rank. I looked it up for a joke and now I can't unsee it."" · Ethan: *(flat)* ""What did you find?""",arc-04-panel-storyboard.md
+04,47,47,47.2,Link Sent,,,,arc-04-panel-storyboard.md
+04,48,48,48.1,Credential Database,,,,arc-04-panel-storyboard.md
+04,48,48,48.2,Own Profile Tab,,,,arc-04-panel-storyboard.md
+04,48,48,48.3,Laughter Release ★,,," Ethan: *(to empty room)* **""I'm third dan. I outrank him.""",arc-04-panel-storyboard.md
+04,49,49,49.1,Whisper to TJ,,," TJ: ""Wait. Wait wait wait—"" · TJ: *(drops to mat wheezing)* ""He called **you** too soft?!""",arc-04-panel-storyboard.md
+04,49,49,49.2,Team Audit,,," Kieryn: ""That explains the gear obsession."" · Kian: ""Actually… yeah."" · Logan: ""So Ethan could've… ordered him around?"" · Ethan: ""Technically on paper—"" · MV: *(door)* ""If you're done auditing the universe, water break.""",arc-04-panel-storyboard.md
+04,49,49,49.3,Ariana Almost Smiles,,,,arc-04-panel-storyboard.md
+04,50,50,50.1,MV Wisdom,,," MV: ""You verified rank. Good. Now don't confuse paperwork with permission to be cruel."" · MV: **""Rank is paperwork. Character is what you do next.""** · Ethan: ""He still messaged my grandmother's hospital week."" · MV: ""Then you delete. You train. You don't become him to beat him.""",arc-04-panel-storyboard.md
+04,50,50,50.2,Late Night Mat ★,,, Ethan (V.O.): *Third dan. Still scared sometimes. Not of his belt anymore.,arc-04-panel-storyboard.md
+05,51,51–52,51.1,Hill Sprints [HAIKYUU],,HAIKYUU," TJ: ""One more. I said one more.""",arc-05-panel-storyboard.md
+05,51,51–52,51.2,Ariana Extra Reps,,,,arc-05-panel-storyboard.md
+05,52,51–52,52.1,Ethan vs Kian Daily War,,,,arc-05-panel-storyboard.md
+05,52,51–52,52.2,Cut vs Roundhouse [TEACH],,TEACH," MV: ""Roundhouse scores. Cut kick steals their legs. Pick the story.""",arc-05-panel-storyboard.md
+05,54,54–55,54.1,Bus & Bunks,,,,arc-05-panel-storyboard.md
+05,54,54–55,54.2,Board Contrast [REAL #24 echo] ★,,," MV: ""Lower two inches. We **coach**.""",arc-05-panel-storyboard.md
+05,54,54–55,54.3,Mess Hall Wars,,,,arc-05-panel-storyboard.md
+05,55,54–55,55.1,Spar Rotation [TEACH],,TEACH,,arc-05-panel-storyboard.md
+05,55,54–55,55.2,Dorm Likes/Dislikes,,FLASH,,arc-05-panel-storyboard.md
+05,56,56–58,56.1,Rival Gym,,,,arc-05-panel-storyboard.md
+05,56,56–58,56.2,Gam-Jeom Penalty [TEACH],,TEACH," MV: ""Gam-jeom. Grab the gear, lose a point. Hands open.""",arc-05-panel-storyboard.md
+05,57,56–58,57.1,Ethan Holds Own,,,,arc-05-panel-storyboard.md
+05,60,60,60.1,Down on Points,,,,arc-05-panel-storyboard.md
+05,60,60,60.2,Neverending Rage Comeback,,,,arc-05-panel-storyboard.md
+05,60,60,60.3,Ethan Hug,,,,arc-05-panel-storyboard.md
+05,58,58–59,58.1,Sudden Turn,,,,arc-05-panel-storyboard.md
+05,58,58–59,58.2,Hallway Wait [HAIKYUU],,HAIKYUU, *(silence),arc-05-panel-storyboard.md
+05,59,58–59,59.1,She Passes,,,,arc-05-panel-storyboard.md
+05,59,58–59,59.2.0,Sparring Cards [CARD],,CARD,,arc-05-panel-storyboard.md
+05,59,58–59,59.2.1,Clean Head Shot [ACTION],,"ACTION, FLASH",,arc-05-panel-storyboard.md
+05,59,58–59,59.2.2,Eyes Change [ACTION],,ACTION," Kian: ""Ethan—?""",arc-05-panel-storyboard.md
+05,59,58–59,59.2.3,Wild Rush [ACTION],,ACTION,,arc-05-panel-storyboard.md
+05,59,58–59,59.2.4,Miss / Graze,,,,arc-05-panel-storyboard.md
+05,59,58–59,59.2.5,Kian Backpedal,,," Kian: ""What was that?""",arc-05-panel-storyboard.md
+05,59,58–59,59.2.6,Grab Whistle,,," MV: ""STOP! Ethan!""",arc-05-panel-storyboard.md
+05,59,58–59,59.2,Berserker Aftermath *(was 59.2 summary)*,,,,arc-05-panel-storyboard.md
+05,59,58–59,59.3,MV Explanation,,," MV: ""Grief isn't a technique. You don't get to keep fighting like that without paying for it.""",arc-05-panel-storyboard.md
+05,61,61,61.1,Brother's Coach Visit,,," Old coach: ""Not like your brother."" · Kieryn: ""Good.""",arc-05-panel-storyboard.md
+05,61,61,61.2,100 Shadow Kick [TEACH],,TEACH," Kieryn: ""Shadow kick — turn the world off. Only the line matters.""",arc-05-panel-storyboard.md
+05,62,62,62.1,Locker Room,,," MV: ""We train smart. Not broken."" · Ariana: ""I'm not stopping.""",arc-05-panel-storyboard.md
+05,63,63–65,63.1,Forms vs Sparring [TEACH],,TEACH," MV: ""Poomsae is precision without an opponent. Sparring is precision with chaos.""",arc-05-panel-storyboard.md
+05,63,63–65,63.2,Yuna & Ethan Quiet,,,,arc-05-panel-storyboard.md
+05,63,63–65,63.3,Logan Leak [HAIKYUU],,HAIKYUU," Logan: ""Oh — that's Hyung's victory drink! Also his losing drink. Also his Tuesday drink."" · Yuna: ""…Pineapple Fanta?"" · Logan: ""Only the yellow one!"" · Logan: *(whisper)* ""Halmeoni used to buy it. Before hospital. Now he buys it himself.""",arc-05-panel-storyboard.md
+05,63,63–65,63.4,Shield Up,,," Yuna: *(too fast)* ""Nothing. Rules pamphlet. Section four."" · Ethan: *(nods)* · headphones back on.",arc-05-panel-storyboard.md
+05,64,63–65,64.1,Clinch Kick Illegal [TEACH],,TEACH," MV: ""Kick in the clinch — sometimes. Grab the gear — never.""",arc-05-panel-storyboard.md
+05,66,66–68,66.1,Wince on Emperor's Kick,,,,arc-05-panel-storyboard.md
+05,67,66–68,67.1,Tell MV or Not,,,,arc-05-panel-storyboard.md
+05,68,66–68,68.1,TJ Admits,,," TJ: ""I can't fake this one."" · MV: ""Then we rebuild. Together.""",arc-05-panel-storyboard.md
+05,69,69,69.1,Full Contact Draw,,,,arc-05-panel-storyboard.md
+05,69,69,69.2,Counter Timing [TEACH],,TEACH,,arc-05-panel-storyboard.md
+05,69,69,69.3,Kieryn vs Ariana,,,,arc-05-panel-storyboard.md
+05,70,70,70.1,Email Posted,,," Logan: ""Scroll down—"" · *(cut)",arc-05-panel-storyboard.md
+06,71,71–73,71.1,Incheon Airport,,,,arc-06-panel-storyboard.md
+06,72,71–73,72.1,Kieryn Translates [HAIKYUU],,HAIKYUU," Kieryn: ""He said your stance looks like a traffic cone."" · Logan: ""What's a cone?""",arc-06-panel-storyboard.md
+06,73,71–73,73.1,First Night Market [HAIKYUU],,HAIKYUU,,arc-06-panel-storyboard.md
+06,74,74–76,74.1,Pro Dojang Tour,,,,arc-06-panel-storyboard.md
+06,74,74–76,74.2,Ninety Seconds Three Stories [TEACH],,TEACH," Coach: ""Ninety seconds is three stories. Beginning. Middle. End.""",arc-06-panel-storyboard.md
+06,75,74–76,75.1,Ethan Realization,,," Ethan: ""We weren't even close before.""",arc-06-panel-storyboard.md
+06,76,74–76,76.1,Team Sync Drill [HAIKYUU],,HAIKYUU,,arc-06-panel-storyboard.md
+06,77,77,77.0,Fighter VS Cards [CARD] ★,,CARD,,arc-06-panel-storyboard.md
+06,77,77,77.1,Round 1 Loss,,,,arc-06-panel-storyboard.md
+06,77,77,77.2,Round 2 Trade [ACTION],,ACTION,,arc-06-panel-storyboard.md
+06,77,77,77.3,Round 3 Clock [ACTION],,ACTION,,arc-06-panel-storyboard.md
+06,77,77,77.4,Body Roundhouse +2 [ACTION],,"ACTION, FLASH",,arc-06-panel-storyboard.md
+06,77,77,77.5,Answer Cut [ACTION],,ACTION,,arc-06-panel-storyboard.md
+06,77,77,77.6,Clinch Punch +1 [TEACH + ACTION],,," MV: ""One point is still a point!""",arc-06-panel-storyboard.md
+06,77,77,77.7,Final Exchange [ACTION],,ACTION,,arc-06-panel-storyboard.md
+06,77,77,77.8,Round 3 Win [TEACH],,TEACH," MV: ""You outworked them. Points aren't the only language.""",arc-06-panel-storyboard.md
+06,77,77,77.9,Yuna Thread Inset [short],,,,arc-06-panel-storyboard.md
+06,78,77,78.1,TJ Emperor's Kick,,,,arc-06-panel-storyboard.md
+06,79,77,79.1,Kian Patience [TEACH],,TEACH," MV: ""Discipline isn't silence. It's timing.""",arc-06-panel-storyboard.md
+06,80,77,80.1,Kieryn Crowd Moment [HAIKYUU],,HAIKYUU,,arc-06-panel-storyboard.md
+06,81,77,81.1,Logan Crowd Favorite [HAIKYUU],,HAIKYUU,,arc-06-panel-storyboard.md
+06,82,77,82.1,Ariana Punch Decision [TEACH],,TEACH,,arc-06-panel-storyboard.md
+06,83,83–85,83.1,Team Bench Echo [TEACH + HAIKYUU],,," MV: ""Two up! Hands up! Cut kick on exit!""",arc-06-panel-storyboard.md
+06,83,83–85,83.2,Go Fight Flash [REAL #13] [FLASH inset vs PRESENT],,FLASH,,arc-06-panel-storyboard.md
+06,83,83–85,83.3,Ethan's Team Match [ACTION],,ACTION,,arc-06-panel-storyboard.md
+06,84,83–85,84.1,Golden Point Setup [TEACH],,TEACH," MV: ""One point. That's the whole universe.""",arc-06-panel-storyboard.md
+06,84,83–85,84.2,Kieryn Wins Golden Point [ACTION],,"ACTION, FLASH",,arc-06-panel-storyboard.md
+06,85,83–85,85.1,Group Bow [HAIKYUU],,HAIKYUU,,arc-06-panel-storyboard.md
+06,85,83–85,85.2,Ramen Vote [HAIKYUU],,HAIKYUU,,arc-06-panel-storyboard.md
+06,85,83–85,85.3,Bus Window Scale,,,,arc-06-panel-storyboard.md
+06,86,86–90,86.1,Premier-Style School Out [TEACH contrast],,FLASH, Ethan (internal): *That was never the level. We just believed the brochure.,arc-06-panel-storyboard.md
+06,87,86–90,87.1,MV Quiet Moment,,,,arc-06-panel-storyboard.md
+06,89,86–90,89.1,Selection Pipeline,,,,arc-06-panel-storyboard.md
+06,90,86–90,90.1,Korea Team Photo,,,,arc-06-panel-storyboard.md
+07,91,91–93,91.1,National Center,,,,arc-07-panel-storyboard.md
+07,91,91–93,91.2,First Mat Block [TEACH],,TEACH," MV: ""Arc 3 paid for that sentence.""",arc-07-panel-storyboard.md
+07,91,91–93,91.3,Cafeteria Culture Shock,,,,arc-07-panel-storyboard.md
+07,92,91–93,92.1,Board Remedial Contrast [REAL #24 echo] ★ [PRESENT Korea + FLASH echo],,FLASH," MV: ""Different country. Same lesson you deserved at twelve.""",arc-07-panel-storyboard.md
+07,92,91–93,92.2,Cut List Anxiety [PRESENT],,,,arc-07-panel-storyboard.md
+07,92,91–93,92.3,Dorm Likes/Dislikes — Korea Edition [PRESENT],,,,arc-07-panel-storyboard.md
+07,92,91–93,92.4,Signature Unlocks · Ethan · Kieryn · Kian [TEACH] ★ [PRESENT],,TEACH, Ethan: **Ultimate Counter** · Kieryn: **Laser Stab** · Kian: **Debilitating Combo,arc-07-panel-storyboard.md
+07,93,91–93,93.0,Signature Unlocks · TJ · Ariana [TEACH] ★,,TEACH," TJ: ""Stun the **moment**."" · Ariana: ""Ten hits. **Three — then down.**""",arc-07-panel-storyboard.md
+07,93,91–93,93.1,TJ Injury Check [TEACH],,TEACH," TJ: ""I'm going."" · MV: ""Emperor's Kick only when the math says yes.""",arc-07-panel-storyboard.md
+07,93,91–93,93.2,Ramyeon Summit,,,,arc-07-panel-storyboard.md
+07,93,91–93,93.3,Dawn Jog Handoff,,,,arc-07-panel-storyboard.md
+07,94,94,94.1,Down Three,,,,arc-07-panel-storyboard.md
+07,94,94,94.2,Whirling Dervish [TEACH + ACTION],,FLASH,,arc-07-panel-storyboard.md
+07,94,94,94.3,Gam-jeom on Ten [ACTION] ★,,ACTION,,arc-07-panel-storyboard.md
+07,94,94,94.4,Lose by One [HAIKYUU],,HAIKYUU," Ariana: ""I tied it. I just… didn't put it down.""",arc-07-panel-storyboard.md
+07,95,95,95.0,VS Card,,,,arc-07-panel-storyboard.md
+07,95,95,95.1,Debilitating Combo Opens [TEACH + ACTION],,,,arc-07-panel-storyboard.md
+07,95,95,95.2,Opponent Discipline [ACTION],,ACTION,,arc-07-panel-storyboard.md
+07,95,95,95.4,Round 1 Combo Whiff [TEACH + ACTION] ★,,," Ethan: *Bean pole, don't chase the flop if he's gone.",arc-07-panel-storyboard.md
+07,95,95,95.5,Round 2 Gam-jeom Warning [ACTION],,ACTION,,arc-07-panel-storyboard.md
+07,95,95,95.6,Round 3 Volume Loss [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
+07,96,96,96.0,VS Card,,,,arc-07-panel-storyboard.md
+07,96,96,96.1,Round 1 Laser Stab [TEACH + ACTION] ★,,FLASH,,arc-07-panel-storyboard.md
+07,96,96,96.2,Round 2 Adaptation [ACTION],,ACTION,,arc-07-panel-storyboard.md
+07,96,96,96.3,Round 3 Semifinal Loss [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
+07,97,97,97.0,VS Card · Round 1 Opener,,FLASH,,arc-07-panel-storyboard.md
+07,97,97,97.1,Resist Berserker [REAL callback],,FLASH,,arc-07-panel-storyboard.md
+07,97,97,97.2,Counter Back Kick [TEACH],,TEACH," MV: ""Same kick. Different story.""",arc-07-panel-storyboard.md
+07,97,97,97.3,Round 2 Advance [ACTION],,ACTION,,arc-07-panel-storyboard.md
+07,97,97,97.4,Chin Open Warning [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
+07,98,98,98.0,Film Session [HAIKYUU + TEACH],,," Ethan: ""I see it.""",arc-07-panel-storyboard.md
+07,98,98,98.1,VS Cards [CARD] ★,,CARD,,arc-07-panel-storyboard.md
+07,98,98,98.2,Probe Round [ACTION],,ACTION,,arc-07-panel-storyboard.md
+07,98,98,98.3,Shoulder Tell [TEACH],,"TEACH, FLASH",,arc-07-panel-storyboard.md
+07,98,98,98.4,Ultimate Counter [ACTION] ★,,"ACTION, FLASH"," MV: ""—Ultimate Counter—FIVE! Guard UP!""",arc-07-panel-storyboard.md
+07,98,98,98.5,Min-ho Adjusts [ACTION],,ACTION,,arc-07-panel-storyboard.md
+07,98,98,98.6,Eliminated on Points [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
+07,99,99,99.0,Finals VS,,,,arc-07-panel-storyboard.md
+07,99,99,99.1,Round 1 Knee Flare [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
+07,99,99,99.2,Round 1 Flash — Premier Empty Corner,,FLASH,,arc-07-panel-storyboard.md
+07,99,99,99.3,Round 2 Mountain Strike [TEACH + ACTION] ★,,,,arc-07-panel-storyboard.md
+07,99,99,99.4,Round 3 Emperor's Kick [TEACH + ACTION] ★,,FLASH,,arc-07-panel-storyboard.md
+07,99,99,99.5,Selected [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
+07,100,100,100.1,Not on the Card,,,,arc-07-panel-storyboard.md
+07,100,100,100.2,The Week · Montage [HAIKYUU],,HAIKYUU, *I hold water and scream until my voice breaks. That's the job.,arc-07-panel-storyboard.md
+07,100,100,100.3,After Ariana · Guilt,,,,arc-07-panel-storyboard.md
+07,100,100,100.4,After Ethan · Fist Bump,,,,arc-07-panel-storyboard.md
+07,100,100,100.5,It Counts [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
+07,100,100,100.6,Ramen Truce,,," Logan: ""Can we get ramyeon?"" · Whole team: *Fine / extra spice.",arc-07-panel-storyboard.md
+07,101,101–104,101.1,Roof After Elimination [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
+07,101,101–104,101.2,Not Ttong Kim [HAIKYUU],,HAIKYUU," MV: ""I'm not Ttong Kim."" · Ethan: *TJ made it.",arc-07-panel-storyboard.md
+07,102,101–104,102.1,Bracket Wall [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
+07,103,101–104,103.1,TJ Ice & Math [TEACH],,TEACH,,arc-07-panel-storyboard.md
+07,104,101–104,104.1,Eve Team Meal [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
+07,104,101–104,104.2,MV Six AM,,, MV: *Legends aren't only on rosters — but tomorrow we read one anyway.,arc-07-panel-storyboard.md
+07,105,105–106,105.1,Rumor Blowup,,,,arc-07-panel-storyboard.md
+07,106,105–106,106.1,Team Before Self,,," TJ: ""Nobody cuts alone.""",arc-07-panel-storyboard.md
+07,107,107–110,107.1,Names Posted ★,,," TJ: ""I made it."" · Ethan: ""Yeah. You did.""",arc-07-panel-storyboard.md
+07,108,107–110,108.1,Next Year [HAIKYUU],,HAIKYUU," Kieryn: ""Semis."" · Kian: ""Quarters."" · Ariana: ""Gam-jeom on the tenth. I still love this.""",arc-07-panel-storyboard.md
+07,108,107–110,108.2,Gift on the Bag ★,,, Ethan (internal): *Yellow can. Not grape.,arc-07-panel-storyboard.md
+07,108,107–110,108.3,Thread Flashback Montage [FLASH inset chain → PRESENT],,,,arc-07-panel-storyboard.md
+07,108,107–110,108.4,First Sip After Loss,,, Ethan (V.O.): *She remembered. After I didn't make it.,arc-07-panel-storyboard.md
+07,109,107–110,109.1,Parking Lot [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
+07,110,107–110,110.1,Embrace Anyway [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
+08,111,111,111.1,Door Frame [HAIKYUU · Arc 1 callback],,, *Arc 1 — I stood here because I didn't trust anyone.* · *Arc 7 — I stood in a hallway in Korea because TJ's name was on a board and mine wasn't.* · *Same feeling. Different reason.,arc-08-panel-storyboard.md
+08,111,111,111.1b,Alone Bow,,, *TJ made it. I didn't.* · *(footwork)* *Not the end.,arc-08-panel-storyboard.md
+08,111,111,111.2,National Team Jacket [HAIKYUU],,HAIKYUU," TJ: ""It's a jacket, not a crown."" · Kieryn: ""If you bow slower because of that lanyard I will kick you."" · TJ: *(small smile)* ""Please don't. National team insurance is confusing.""",arc-08-panel-storyboard.md
+08,111,111,111.3,Line Beside Ariana,,,,arc-08-panel-storyboard.md
+08,111,111,111.4,MV Office · SNU Envelope [TEACH],,TEACH," MV: ""You came back first today."" · Ethan: ""Couldn't sleep."" · MV: ""Neither could half the team."" · MV: **""Welcome back to the mat.""",arc-08-panel-storyboard.md
+08,112,112,112.1,Premier Kids at Glass,,," Min-jun: ""We heard TJ made national team.""",arc-08-panel-storyboard.md
+08,112,112,112.2,Special Special [HAIKYUU],,HAIKYUU,,arc-08-panel-storyboard.md
+08,112,112,112.3,They See You [HAIKYUU],,HAIKYUU," Ethan: ""Scared is honest. You don't have to perform brave for him.""",arc-08-panel-storyboard.md
+08,112,112,112.4,Why Let Us In,,,,arc-08-panel-storyboard.md
+08,112,112,112.5,Logan Offers Water [HAIKYUU],,HAIKYUU,,arc-08-panel-storyboard.md
+08,112,112,112.6,Not All Jerks,,,,arc-08-panel-storyboard.md
+08,113,113,113.1,Smaller Premier [PREMIER soft],,, *Third dan. I outrank him.,arc-08-panel-storyboard.md
+08,113,113,113.2,Through the Glass,,," Ttong Kim: ""Parents paid for excellence, not excuses.""",arc-08-panel-storyboard.md
+08,113,113,113.3,Eyes Meet [HAIKYUU],,HAIKYUU, *Pity isn't forgiveness. It's just… done.,arc-08-panel-storyboard.md
+08,113,113,113.4,Dynasty Sign Wide,,,,arc-08-panel-storyboard.md
+08,114,114,114.1,Phone Buzz [REAL #15 callback],,,,arc-08-panel-storyboard.md
+08,114,114,114.2,Logan Rare Anger [HAIKYUU],,HAIKYUU," Logan: ""He can't still—"" · Ethan: ""Until I stop letting him.""",arc-08-panel-storyboard.md
+08,114,114,114.3,Delete · Block · Report,,," MV: ""You owe yourself peace."" · Ethan: ""Yeah. I do.""",arc-08-panel-storyboard.md
+08,114,114,114.4,Pads Not Drama [HAIKYUU],,HAIKYUU," Ethan: ""Get pads. We're sparring.""",arc-08-panel-storyboard.md
+08,115,115,115.1,Car People [HAIKYUU],,HAIKYUU,,arc-08-panel-storyboard.md
+08,115,115,115.2,At the Stone,,," Ethan: ""I'm still your champion. Just… not the one on that roster.""",arc-08-panel-storyboard.md
+08,115,115,115.3,Hallway Callback [HAIKYUU · Arc 5 flash] [FLASH inset + PRESENT],,FLASH," Kian: ""Same hallway energy. Better reason."" · Ariana holds team photo print.",arc-08-panel-storyboard.md
+08,115,115,115.4,Photo at Stone,,," Logan: ""Halmeoni said ramen isn't dinner. So we ate anyway. Twice.""",arc-08-panel-storyboard.md
+08,115,115,115.5,Bow Toward Light,,,,arc-08-panel-storyboard.md
+08,116,116,116.1,Parking Lot Bench [HAIKYUU · Arc 1 callback],,," Yuna: ""Neither does missing people."" · Ethan: *Halmeoni used to sit on a bench outside my old school.",arc-08-panel-storyboard.md
+08,116,116,116.2,Yellow Can Thread,,,,arc-08-panel-storyboard.md
+08,116,116,116.3,Friendship Ring [HAIKYUU],,HAIKYUU," Yuna: ""For when you're ready. I'll cheer from the stands. Not loud.""",arc-08-panel-storyboard.md
+08,116,116,116.4,Matching Bands,,," Ethan: ""I'll cheer for you too. Poomsae finals. Whenever.""",arc-08-panel-storyboard.md
+08,117,117,117.1,Montage · TJ [HAIKYUU],,HAIKYUU,,arc-08-panel-storyboard.md
+08,117,117,117.2,Montage · Kieryn,,,,arc-08-panel-storyboard.md
+08,117,117,117.3,Montage · Kian,,,,arc-08-panel-storyboard.md
+08,117,117,117.4,Montage · Logan & Ariana,,,,arc-08-panel-storyboard.md
+08,117,117,117.5,SNU Campus · The Line ★ [REAL payoff] [PRESENT + FLASH inset],,FLASH, *Not angry. Just… done proving it to him.,arc-08-panel-storyboard.md
+08,117,117,117.6,Guard Drill [TEACH],,TEACH," Ethan: ""I went to Seoul. Close enough for today.""",arc-08-panel-storyboard.md
+08,118,118,118.0,Fighter VS Cards [CARD] ★,,CARD,,arc-08-panel-storyboard.md
+08,118,118,118.1,Arena · Rules Corner [TEACH],,TEACH," Logan: ""You don't need rage for this one."" · Ethan: ""I know.""",arc-08-panel-storyboard.md
+08,118,118,118.2,Round 1 · Behind Early [ACTION],,ACTION, *Rage wins seconds. Discipline wins seasons.,arc-08-panel-storyboard.md
+08,118,118,118.3,Round 1 Answer · Turning Head [ACTION] ★,,"ACTION, FLASH",,arc-08-panel-storyboard.md
+08,118,118,118.4,Round 2 · Rage Offered [ACTION],,ACTION,,arc-08-panel-storyboard.md
+08,118,118,118.5,Round 3 · Endurance Win [ACTION],,ACTION,,arc-08-panel-storyboard.md
+08,118,118,118.6,Yuna Nods [HAIKYUU],,HAIKYUU,,arc-08-panel-storyboard.md
+08,118,118,118.7,Podium · Medal,,, *Legends aren't only on rosters.,arc-08-panel-storyboard.md
+08,118,118,118.8,Ramen Shop Callback [HAIKYUU],,HAIKYUU,,arc-08-panel-storyboard.md
+08,119,119,119.1,MV Speech [TEACH],,TEACH," MV: ""A true martial artist is defined by **character**, not rank.""",arc-08-panel-storyboard.md
+08,119,119,119.2,Scoreboard Fades [TEACH],,TEACH,,arc-08-panel-storyboard.md
+08,119,119,119.3,TJ · Ethan Fist Bump,,,,arc-08-panel-storyboard.md
+08,119,119,119.4,Full Team Bow,,,,arc-08-panel-storyboard.md
+08,120,120,120.1,Logan Sets Timer [HAIKYUU],,HAIKYUU," MV: ""On three. One—""",arc-08-panel-storyboard.md
+08,120,120,120.2,Golden Hour Wide ★,,,,arc-08-panel-storyboard.md
+08,120,120,120.3,Inset · Yuna Rings (optional),,,,arc-08-panel-storyboard.md
+08,120,120,120.4,Memorial Callback · Fade Out,,, *Halmeoni — I lost U20. I made SNU. I'm still your champion.,arc-08-panel-storyboard.md

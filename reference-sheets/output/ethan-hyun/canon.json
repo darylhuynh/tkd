@@ -12,6 +12,8 @@
   "invalid_ai_names": ["Jay Park", "Kwon Euisik"],
   "files": {
     "casual-front.png": "Off-mat — oversized navy hoodie, white tee hanging out, baggy pants, gold headphones, white backpack",
+    "casual-side.png": "Off-mat — side profile turnaround",
+    "casual-back.png": "Off-mat — back view turnaround",
     "dobok-front.png": "Training — standard white dobok, guards under, plain black belt",
     "gear-front.png": "Tournament — electronic hogus full gear"
   },

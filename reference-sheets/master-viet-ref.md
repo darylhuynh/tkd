@@ -39,23 +39,41 @@ Save under `output/master-viet/`:
 
 | File | View | Outfit |
 |------|------|--------|
-| `vest-front.png` | Front | Logo vest + tight tee *(default coaching)* |
+| `casual-front.png` | Front | Vest + tight tee *(default coaching — same as vest)* |
+| `casual-side.png` | Side | Vest + tight tee |
+| `casual-back.png` | Back | Vest + tight tee |
+| `vest-front.png` | Front | Alias of casual-front |
 | `dobok-front.png` | Front | White dobok · **black neck stripes** |
 | `polo-front.png` | Front | **Tournament** — blue polo · black pants |
 
 ---
 
-## Prompts — NO TEXT (mandatory)
+## Prompts — Casual / Vest (NO TEXT)
 
-Append to every prompt:
-
+### Casual — Front (Primary)
 ```
-NO TEXT NO LETTERS NO NUMBERS NO NAME TAGS NO STAT SHEET NO HANGUL NO ENGLISH WORDS,
-blank empty patches on vest, plain white background, solo leveling manhwa lineart cel shading,
-character design reference only
+middle-aged korean vietnamese man coach 5 foot 8 chubby round belly soft build,
+kind face small warm eyes gentle smile, dark zip vest over tight white t-shirt belly visible,
+black athletic pants sneakers, full body front view only neutral pose arms at sides,
+manhwa webtoon solo leveling lineart cel shading plain white background,
+NO TEXT NO LETTERS blank vest patches
 ```
 
-### Vest — Front (Primary)
+### Casual — Side
+```
+same chubby kind coach small eyes warm smile dark zip vest tight white tee belly visible,
+black athletic pants sneakers, full body side profile view only plain white background manhwa,
+NO TEXT NO LETTERS blank vest patches
+```
+
+### Casual — Back
+```
+same middle-aged chubby coach from behind dark zip vest tight white tee black athletic pants,
+full body back view only plain white background manhwa webtoon character reference,
+NO TEXT NO LETTERS
+```
+
+### Vest — Front (alias)
 ```
 middle-aged korean vietnamese man coach 5 foot 8 chubby round belly soft build,
 kind face small warm eyes gentle smile, dark zip vest over tight white t-shirt belly visible,

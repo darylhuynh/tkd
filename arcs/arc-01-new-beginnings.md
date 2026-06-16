@@ -62,49 +62,57 @@ Ethan arrives alone at Kwon's Taekwondo Academy — quiet, guarded, carrying a s
 ### Chapter 2 — Arrival at Kwon's
 - **[REAL #20]** Ethan peeks through dojang window: MV gives **individual coaching tips** to a student
 - Contrast montage: Premier = crowd, noise, instructor's back; Kwon's = one student, eye contact, correction
-- Ethan hesitates at entrance — hand on door
+- Ethan hesitates at entrance — hand on door — *What if it's the same?*
+- **Expanded beats:** shoe ritual, modest trophy shelf, class watches newcomer, MV offers water without pressure, Ethan stays until close
 
 ### Chapter 3 — Meeting Master Viet
 - MV notices Ethan watching; invites him in without pressure
 - Other students glance — Ethan's silver-letter belt draws attention
-- MV: calm, direct, no sales pitch
+- MV: calm, direct, no sales pitch — *"We don't sell dreams. We train bodies."*
+- **Expanded beats:** looking vs training choice, first bow on mat, MV assigns open mat lane (not exile), clear drill boundaries
 
 ### Chapter 4 — Training Demonstration
 - MV runs Ethan through basics: roundhouse, back kick, cut kick — paddles and shield
 - **[REAL #21]** MV complements **perfect form** — genuine surprise Ethan left his old school
-- Ethan barely speaks; executes flawlessly
+- Ethan: *"They didn't have me."*
+- **Expanded beats:** combo flow, class watching, Olympic sensor zone `[TEACH]`, private praise after bow-out
 
 ### Chapter 5 — The Goal
 - MV asks: **"What do you want?"**
 - Ethan, after silence: **Korea U20 National Team**
 - Wants to join Kwon's Taekwondo Academy
-- MV doesn't promise — but doesn't dismiss
+- MV doesn't promise — *"We'll see if you mean it."*
+- **Expanded beats:** small dreams die in hard weeks, simple enrollment (no VIP), gear locker assigned, night exit hope
 
 ### Chapter 6 — Why Did You Leave?
 - MV asks directly; Ethan deflects
 - Short flashback sting: instructor's cold face, money changing hands (no full story yet)
 - Ethan: "It wasn't home anymore."
+- **Expanded beats:** Premier spam texts, cleaning dojang unprompted, mirror belt ritual, first sleep without nightmare
 
 ### Chapter 7 — Flashbacks Begin
 - **[REAL #5, #6]** Montage: favoritism toward paying families; Ethan outperforming but sidelined
 - Younger Ethan excited at Premier's opening — instructor was warm once
 - Growth = colder room, fewer words for Ethan
+- **Expanded beats:** demo team clipboard, gear gap split, MV grounds Ethan with breathing + one-step drill
 
 ### Chapter 8 — Hospital Visit
 - **[REAL #14, #15]** After training, Ethan visits grandmother — she's frail, fading
 - Phone buzzes: spam messages, **threatening voicemails from Ttong Kim**
 - "Stop talking about my school. Stop making kids leave."
 - Ethan silences phone; sits with her
+- **Expanded beats:** Halmeoni asks about bad men, creased white-belt photo, MV texts *"Door's open tomorrow"*
 
 ### Chapter 9 — Can They Come Too?
 - Ethan asks MV if friends from old school can join
 - MV: "Everyone deserves a home."
 - Ethan texts the group — we see names, not faces yet
+- **Expanded beats:** individual text voices (TJ/Kieryn/Logan/Kian/Ariana), mute Premier chat, MV opens early, room ready
 
 ### Chapter 10 — Welcome to Kwon's
 - **TJ, Kieryn, Logan, Kian, Ariana** arrive — varied body language (confident, sarcastic, cheerful, loud, silent)
-- MV addresses them together
-- **Final panel:** Wide shot of full team on mat
+- MV addresses them together — team banter, Kian rematch tease, Ariana silent stretch
+- **Final panel:** Wide shot of full team on mat + caption card
 - **Caption:** *"Welcome to Kwon's."*
 
 ---
@@ -141,7 +149,7 @@ Ethan arrives alone at Kwon's Taekwondo Academy — quiet, guarded, carrying a s
 
 ## Panel Storyboard
 
-Full panel-by-panel AI prompts: **[arc-01-panel-storyboard.md](../storyboards/arc-01-panel-storyboard.md)** (69 panels, Chapters 1–10)
+Full panel-by-panel AI prompts: **[arc-01-panel-storyboard.md](../storyboards/arc-01-panel-storyboard.md)** (203 panels, ~20 per chapter, Chapters 1–10)
 
 **Scene scripts:** [Ch 1 nightmare](../scripts/arc-01-ch01-nightmare.md) · [Ch 2–10 Welcome to Kwon's](../scripts/arc-01-ch02-10-welcome-kwons.md)
 

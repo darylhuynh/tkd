@@ -12,6 +12,8 @@
   "source": "characters/repeul-kim.md",
   "files": {
     "casual-front.png": "Primary — ugly multicolor casual turnaround, mean scowl, adult woman",
+    "casual-side.png": "Off-mat — side profile turnaround",
+    "casual-back.png": "Off-mat — back view turnaround",
     "casual-3q.png": "Background — 3/4 view, low img2img weight, mean scowl"
   },
   "generated": "casual v2, casual-3q v1",
