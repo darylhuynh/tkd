@@ -55,7 +55,8 @@ def strip_image_path(strip_dir: str, filename: str) -> tuple[str | None, bool]:
     rel = Path(strip_dir) / filename
     full = ROOT / rel
     if full.exists():
-        return "../../" + rel.as_posix(), True
+        version = int(full.stat().st_mtime)
+        return f"../../{rel.as_posix()}?v={version}", True
     return None, False
 
 

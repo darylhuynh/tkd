@@ -384,7 +384,7 @@
 }
 
 .webtoon-manhwa {
-  width: min(720px, 100%);
+  width: min(1536px, 100%);
   margin-inline: auto;
   display: flex;
   flex-direction: column;
@@ -408,7 +408,7 @@
 }
 
 .manhwa-footnotes {
-  width: min(720px, calc(100% - 1.5rem));
+  width: min(1536px, calc(100% - 1.5rem));
   margin: 2.5rem auto 1rem;
   padding: 1.25rem 1rem 1.5rem;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
@@ -488,7 +488,7 @@
 }
 
 .chapter-nav--manhwa {
-  width: min(720px, calc(100% - 2rem));
+  width: min(1536px, calc(100% - 2rem));
   margin: 0 auto 2.5rem;
   padding-top: 0.5rem;
 }
