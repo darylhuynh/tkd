@@ -3,7 +3,6 @@
   "chapter": 1,
   "title": "Nightmare",
   "reader": "chapter-01.html",
-  "script_reader": "chapter-01-script.html",
   "strip_dir": "gallery/strips/arc-01",
   "layout": "webtoon",
   "strips": [

@@ -203,12 +203,16 @@ def build(arc: int, chapter: int) -> Path:
 
     ch_slug = f"chapter-{chapter:02d}"
     reader_file = config.get("reader", f"{ch_slug}-strip.html")
-    script_reader = config.get("script_reader", f"{ch_slug}.html")
+    script_reader = config.get("script_reader")
     page_path = out_dir / reader_file
     strip_alias = out_dir / f"{ch_slug}-strip.html"
     arc_label = f"{arc:02d}"
 
     body_class = "reader-page reader-page--manhwa" if layout != "strip" else "reader-page reader-page--strip"
+
+    script_link = ""
+    if script_reader:
+        script_link = f'\n      <a class="reader-manhwa-script" href="{script_reader}">Script</a>'
 
     page = f"""<!DOCTYPE html>
 <html lang="en">
@@ -227,8 +231,7 @@ def build(arc: int, chapter: int) -> Path:
   <header class="reader-header reader-header--manhwa">
     <div class="reader-header-inner">
       <a class="reader-back" href="index.html">← Arc {arc_label}</a>
-      <span class="reader-manhwa-title">Ch {chapter} · {html.escape(ch_title)}</span>
-      <a class="reader-manhwa-script" href="{script_reader}">Script</a>
+      <span class="reader-manhwa-title">Ch {chapter} · {html.escape(ch_title)}</span>{script_link}
     </div>
   </header>
 
