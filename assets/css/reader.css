@@ -56,6 +56,36 @@
   margin: 0;
 }
 
+.arc-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1.25rem;
+  width: 100%;
+}
+
+.arc-nav-start {
+  text-align: left;
+  min-width: 0;
+}
+
+.arc-nav-end {
+  text-align: right;
+  min-width: 0;
+  margin-left: auto;
+}
+
+.arc-nav-link {
+  font-size: 0.85rem;
+  color: var(--cyan);
+  text-decoration: none;
+}
+
+.arc-nav-link:hover {
+  text-decoration: underline;
+}
+
 .reader-main {
   width: min(960px, calc(100% - 2rem));
   margin-inline: auto;

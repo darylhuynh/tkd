@@ -329,14 +329,20 @@ def write_index(cfg: dict, arc_num: int, chapters: list[dict], prev_arc: dict | 
         {strip_link}
         </div>""")
 
-    arc_nav = ""
+    arc_nav_start = ""
+    arc_nav_end = ""
     if prev_arc:
-        arc_nav += f'<a class="arc-nav-link" href="../{prev_arc["out_dir"]}/index.html">← Arc {prev_arc["num_label"]}: {html.escape(prev_arc["label"])}</a> '
+        arc_nav_start = (
+            f'<a class="arc-nav-link" href="../{prev_arc["out_dir"]}/index.html">'
+            f'← Arc {prev_arc["num_label"]}: {html.escape(prev_arc["label"])}</a>'
+        )
     if next_arc:
-        arc_nav += f'<a class="arc-nav-link" href="../{next_arc["out_dir"]}/index.html">Arc {next_arc["num_label"]}: {html.escape(next_arc["label"])} →</a>'
+        arc_nav_end = (
+            f'<a class="arc-nav-link" href="../{next_arc["out_dir"]}/index.html">'
+            f'Arc {next_arc["num_label"]}: {html.escape(next_arc["label"])} →</a>'
+        )
 
     ch_range = f"{chapters[0]['num']}–{chapters[-1]['num']}" if chapters else "—"
-    total = sum(len(c["panels"]) for c in chapters)
     page = reader_head(f"Arc {arc_num} — {cfg['label']}", depth=2)
     page += f"""
   <header class="reader-header">
@@ -345,8 +351,8 @@ def write_index(cfg: dict, arc_num: int, chapters: list[dict], prev_arc: dict | 
       <p class="reader-arc-label">Arc {cfg["num_label"]}</p>
       <h1>{html.escape(cfg["label"])}</h1>
       <p class="reader-summary">{summary}</p>
-      <p class="reader-meta">Chapters {ch_range} · {total} storyboard panels</p>
-      <nav class="arc-nav">{arc_nav}</nav>
+      <p class="reader-meta">Chapters {ch_range}</p>
+      <nav class="arc-nav"><div class="arc-nav-start">{arc_nav_start}</div><div class="arc-nav-end">{arc_nav_end}</div></nav>
     </div>
   </header>
   <main class="reader-main">
