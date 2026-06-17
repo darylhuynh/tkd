@@ -60,6 +60,12 @@
       "file": "chapter-01-page-7-ko-aftermath.png",
       "label": "PAGE 7 — Score, silence & black (1.44–1.45)",
       "panel_ids": ["1.44", "1.45"]
+    },
+    {
+      "id": "page8",
+      "file": "chapter-01-page-8-wake.png",
+      "label": "PAGE 8 — Wake (1.46–1.48)",
+      "panel_ids": ["1.46", "1.47", "1.48"]
     }
   ],
   "skipped_strips": [

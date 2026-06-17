@@ -222,7 +222,7 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 
 **Refs:** `ethan-hyun/gear-front` · `ttong-kim/casual-front` · style anchor PAGE 6
 
-### PAGE 8 — Wake (panels 1.46–1.48) · *planned*
+### PAGE 8 — Wake (panels 1.46–1.48) · **LIVE**
 
 | Row | Shape | Beats |
 |-----|-------|-------|
