@@ -70,7 +70,7 @@
 
 ## Appearance
 
-- Dark blue shadow-perm hair (Korean shadow perm, slightly messy)
+- Dark blue shadow-perm hair (Korean shadow perm, slightly messy) — **in art: navy/cobalt blue-black with visible blue in highlights; must NOT render as plain jet black**
 - Brown eyes · soft jawline · sharp reserved expression — **K-pop visual**
 - Lean athletic build · 5'3" · long limbs
 

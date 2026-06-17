@@ -79,7 +79,8 @@ blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless 
 |-----------|-------------|
 | **Ttong Kim** | 38 · 5'8" stocky · underbite · **Premier polo + tight black shorts + gold watch** |
 | **Repeul Kim** | 37 · 5'5" · brown curly hair · **ugly multicolor casual** · scowl · silent edge of frame |
-| **Ring opponent** | Taller older Premier teen · **same blue-hogu kit as Ethan** |
+| **Ethan Hyun** | 15 · 5'3" lean · **navy blue shadow perm** (visible blue tint in hair, not jet black) · brown eyes · kit per phase |
+| **Ring opponent** | Taller external-school teen · red hogu · **plain dobok NO Premier patch** |
 
 **Visual arc:** casual kid → dobok → athlete → neglected all day → KO → wake.
 
@@ -108,14 +109,16 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 |-----|-------|-------|
 | Full | Black page | Disembodied **speech bubbles** only — voices before the dream. Alternating left/right; final line centered. |
 
-**Lines (exact):**
-1. *"You should just accept the training I give him. Stop asking for more."*
-2. *"I feel bad for Ethan. You want him to be good at school AND taekwondo?"*
-3. *"I don't think he has the temperament to compete as a world class black belt."*
-4. *"You skipped all these tournaments. I don't think you are committed to Taekwondo."*
-5. *"You are either with us. Or against us."*
+**Lines (graphic PNG — glowing italic caps on black):**
+1. *I FEEL BAD FOR ETHAN.*
+2. *YOU WANT HIM TO BE GOOD AT SCHOOL AND TAEKWONDO?*
+3. *I DON'T THINK HE HAS THE TEMPERAMENT TO COMPETE AS A WORLD CLASS BLACK BELT.*
+4. *YOU SKIPPED THESE TOURNAMENTS.*
+5. *I DON'T KNOW HOW COMMITTED YOU ARE FOR TAEKWONDO.*
+6. *YOU ARE EITHER WITH US...*
+7. *...OR AGAINST US.* (larger, bottom center)
 
-**Note:** Rendered as HTML in strip reader (`type: dialogue` in `strips-arc01-ch01.json`) — not AI-generated PNG.
+**Note:** PNG strip `chapter-01-page-0-prelude-voices.png` — not HTML bubbles.
 
 ### PAGE 1a — Arrival (panels 1.1–1.3)
 **3 rows** · arena → van → crowd walk.

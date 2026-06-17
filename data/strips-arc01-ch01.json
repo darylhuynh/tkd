@@ -9,32 +9,9 @@
   "strips": [
     {
       "id": "page0",
-      "type": "dialogue",
+      "file": "chapter-01-page-0-prelude-voices.png",
       "label": "PAGE 0 — Voices in the dark (prelude)",
-      "panel_ids": ["1.0"],
-      "lines": [
-        {
-          "text": "You should just accept the training I give him. Stop asking for more.",
-          "align": "right"
-        },
-        {
-          "text": "I feel bad for Ethan. You want him to be good at school AND taekwondo?",
-          "align": "left"
-        },
-        {
-          "text": "I don't think he has the temperament to compete as a world class black belt.",
-          "align": "right"
-        },
-        {
-          "text": "You skipped all these tournaments. I don't think you are committed to Taekwondo.",
-          "align": "left"
-        },
-        {
-          "text": "You are either with us. Or against us.",
-          "align": "center",
-          "variant": "final"
-        }
-      ]
+      "panel_ids": ["1.0"]
     },
     {
       "id": "page1a",
