@@ -209,8 +209,9 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 | Row | Shape | Beats |
 |-----|-------|-------|
 | R1 | **33\|33\|33 ~35%** | **Fighter cards** with portrait + **Age · Ht · Wt · Rank** (match pitch site): **Ttong** \| **Repeul** \| **Ethan** |
-| R2 | Wide ~30% | **1.37** Knockout bounty — Ttong holds **1,000 won** · eyes Ethan · *too soft* · Repeul edge |
-| R3 | Wide ~35% tri-beat | **1.41–1.43** OTS Ethan POV · Ttong yelling *attack don't be soft* · hesitant vs **looming** red hogu · steps forward · **hook kick (heel)** · **mouthguard flies out** close-up |
+| R2 | Wide ~30% | **1.37** Knockout bounty — Ttong holds **1,000 won** bills · **gently talking** to Ethan · *too soft* · Repeul edge |
+| R3 | Wide ~28% **50\|50** | **1.41** Ttong **behind** Ethan in **red corner** chair yells *charge* · Ethan **charges** (no opponent) |
+| R4 | Full ~20% | **1.43** **Hook kick to head** — generic red opponent only here · no mouthguard |
 
 **Card stat lock (ROW 1 only — readable text allowed on cards):**
 
@@ -726,7 +727,7 @@ close-up feet stepping over competition ring boundary tape onto mat Ethan Hyun t
 
 ---
 ### Panel 1.41 — Hesitant Step [PRESENT — ring] *(PAGE 6 R3 part A)*
-**Scene:** **Over-shoulder Ethan POV.** Looming **red hogu** opponent. **Ttong yelling** at corner — *attack, attack, don't be soft.* Ethan **hesitant**.
+**Scene:** **Over-shoulder from behind Ethan** on blue mat. **Ttong** in **red corner** chair **behind** him — *charge forward, attack!* Empty ring ahead (no opponent in frame).
 **Dialogue:** ** Ttong (O.S.): "Attack! Attack! Don't be soft!"
 
 **Prompt:**
