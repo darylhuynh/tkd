@@ -4,7 +4,7 @@
   "title": "Nightmare",
   "strip_dir": "gallery/strips/arc-01",
   "panels_per_page": 3,
-  "global_negative": "photorealistic, 3d render, western comic style, soft anime, painterly, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, readable text, letters, numbers, low quality, chibi, equal size panel grid, uniform strip of identical boxes, more than 3 panel rows per page, crowded warmup floor, everyone in matching tracksuits, awkward raised paddles, paddle extended toward coach, floating characters, sitting poses, mid-air poses, stretched limo van, double front doors, wrong ring mat layout, square ring mat, square competition ring, oval ring, circular ring, all blue hogus in same ring, red center mat with blue border, Ethan jet black hair, Ethan pure black hair, Ethan brown black hair, Ethan hair with no blue tint",
+  "global_negative": "photorealistic, 3d render, western comic style, soft anime, painterly, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, readable text, letters, numbers, low quality, chibi, equal size panel grid, uniform strip of identical boxes, more than 3 panel rows per page, crowded warmup floor, everyone in matching tracksuits, awkward raised paddles, paddle extended toward coach, floating characters, sitting poses, mid-air poses, stretched limo van, double front doors, wrong ring mat layout, octagonal ring, octagon mat, oval ring, circular ring, all blue hogus in same ring, red center mat with blue border, Ethan jet black hair, Ethan pure black hair, Ethan brown black hair, Ethan hair with no blue tint",
   "pages": [
     {
       "id": "page0",
@@ -148,20 +148,18 @@
         "reference-sheets/output/ttong-kim/casual-front.png",
         "reference-sheets/output/repeul-kim/casual-front.png"
       ],
-      "style_anchor": "gallery/strips/arc-01/chapter-01-page-6-cards-hook.png",
-      "prompt": "ETHAN HAIR LOCK: Korean shadow perm messy volume; hair color NAVY BLUE and cobalt blue-black with CLEAR BLUE visible in strands and highlight edges; blue undertone must read as BLUE in cel shading; NOT jet black NOT pure black NOT brown-black hair\n\nVertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles NO readable text,\n\nROW 1 ~40% beat 1.31 FLASH desaturated tri-cut DOJANG training montage: head kick | roundhouse body | push kick. Ethan white dobok black belt NO hogu navy blue hair. Training partner SAME height SAME size as Ethan teen equal stature generic sparring athlete white dobok blonde hair short NOT bigger NOT taller NOT adult man NOT muscular giant.\n\nROW 2 ~30% beat 1.32 FLASH desaturated DOJANG NOT tournament: Ttong Kim standing arms crossed WATCHING displeased unsatisfied scowl. Repeul Kim behind eating potato chips. Teen Ethan looks back over shoulder noticing Ttong unhappy navy blue hair. Match ttong and repeul refs.\n\nROW 3 ~30% beat 1.33 PRESENT: BLUE center RED border ring. Ethan small teen BLUE hogu helmet ON much smaller than opponent. RED hogu opponent MUCH BIGGER taller broader muscular teen short dark STRAIGHT hair under red helmet NOT curly same character as PAGE 6. Referee black pants white shirt red tie hand raised.\n\nSTYLE PREMIER flash rows desaturated row 3 full color EXACTLY 3 ROWS ONLY"
+      "style_anchor": "gallery/strips/arc-01/chapter-01-page-6b-charge-hook.png",
+      "prompt": "ETHAN HAIR LOCK: Korean shadow perm messy volume; hair color NAVY BLUE and cobalt blue-black with CLEAR BLUE visible in strands and highlight edges; blue undertone must read as BLUE in cel shading; NOT jet black NOT pure black NOT brown-black hair\n\nVertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles NO readable text,\n\nROW 1 ~40% beat 1.31 FLASH desaturated tri-cut DOJANG training montage: head kick | roundhouse body | push kick. Ethan white dobok black belt NO hogu navy blue hair. Training partner SAME height SAME size as Ethan teen equal stature generic sparring athlete white dobok blonde hair short NOT bigger NOT taller NOT adult man NOT muscular giant.\n\nROW 2 ~30% beat 1.32 FLASH desaturated DOJANG NOT tournament: Ttong Kim standing arms crossed WATCHING displeased unsatisfied scowl. Repeul Kim behind eating potato chips. Teen Ethan looks back over shoulder noticing Ttong unhappy navy blue hair. Match ttong and repeul refs.\n\nROW 3 ~30% beat 1.33 PRESENT: BLUE center RED border ring. Ethan small teen BLUE hogu helmet ON much smaller than opponent. RED hogu opponent MUCH BIGGER taller broader muscular teen short dark STRAIGHT hair under red helmet NOT curly same character as PAGE 6b. Referee black pants white shirt red tie hand raised.\n\nSTYLE PREMIER flash rows desaturated row 3 full color EXACTLY 3 ROWS ONLY"
     },
     {
-      "id": "page6",
-      "label": "PAGE 6 — Cards, bounty & the hook (1.35–1.37, 1.41–1.43)",
-      "output": "chapter-01-page-6-cards-hook.png",
+      "id": "page6a",
+      "label": "PAGE 6a — Fighter cards & bounty (1.35–1.37)",
+      "output": "chapter-01-page-6a-cards-bounty.png",
       "panel_ids": [
         "1.35",
         "1.36",
         "1.36b",
-        "1.37",
-        "1.41",
-        "1.43"
+        "1.37"
       ],
       "reference_images": [
         "reference-sheets/output/ethan-hyun/gear-front.png",
@@ -169,7 +167,22 @@
         "reference-sheets/output/repeul-kim/casual-front.png"
       ],
       "style_anchor": "gallery/strips/arc-01/chapter-01-page-5c-dojang-montage.png",
-      "prompt": "ETHAN HAIR LOCK: Korean shadow perm messy volume; hair color NAVY BLUE and cobalt blue-black with CLEAR BLUE visible in strands and highlight edges; blue undertone must read as BLUE in cel shading; NOT jet black NOT pure black NOT brown-black hair\n\nSTYLE LOCK ALL ROWS: Korean webtoon manhwa cel shading EXACTLY like Solo Leveling — desaturated blue-grey palette crisp ink outlines dramatic lighting PREMIER tournament aesthetic MATCH style anchor PAGE 5c exactly NOT painterly NOT soft anime NOT 3D NOT photorealistic\n\nVertical manhwa WEBTOON PAGE EXACTLY 4 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles except fighter card stat text ROW 1 ONLY,\n\nRING LAYOUT LOCK: OCTAGONAL taekwondo competition ring NOT square NOT rectangle NOT circular. Blue inner OCTAGON athlete zone. Red outer OCTAGON border and red corner coach zones. Coach chair in RED CORNER behind Ethan NOT on blue octagon. Ttong coach NEVER on blue mat NEVER fighter in ring.\n\nROW 1 ~28% THREE EQUAL COLUMNS fighter profile cards Ttong | Repeul | Ethan readable stats navy blue hair Ethan card.\n\nROW 2 ~24% beat 1.37 FLASH desaturated sepia DOJANG: Ttong Kim holding 1000 won Korean paper BILLS gently talking softly to young teen Ethan black belt calm gentle expression NOT yelling. Repeul Kim scowl blurred edge eating chips background.\n\nROW 3 ~28% beat 1.41 TWO EQUAL panels 50|50 PRESENT octagonal tournament ring:\nLEFT 3-1 WIDE: OCTAGONAL ring blue inner octagon red outer octagon. Ethan blue hogu helmet on blue octagon foreground. TTONG KIM coach BEHIND Ethan seated chair RED CORNER black polo yelling pointing charge forward attack. Across octagonal ring opposite side GENERIC RED hogu teen opponent WAITING in fighting stance taller plain generic face short dark straight hair NOT Ttong NO underbite plain white dobok NO Premier patch.\nRIGHT 3-2: Ethan CHARGING forward lunging on blue octagon blue hogu Premier patch committed attack toward opponent.\n\nROW 4 ~20% beat 1.43 FULL WIDTH: HOOK KICK huryeo chagi generic RED hogu opponent heel Ethan blue helmet head impact. Opponent GENERIC face NOT Ttong short dark hair. NO mouthguard flying.\n\nMATCH PAGE 5c style anchor. EXACTLY 4 ROWS ONLY"
+      "prompt": "ETHAN HAIR LOCK: Korean shadow perm messy volume; hair color NAVY BLUE and cobalt blue-black with CLEAR BLUE visible in strands and highlight edges; blue undertone must read as BLUE in cel shading; NOT jet black NOT pure black NOT brown-black hair\n\nSTYLE LOCK: Korean webtoon manhwa cel shading EXACTLY like Solo Leveling — desaturated blue-grey palette crisp ink outlines dramatic lighting PREMIER aesthetic MATCH PAGE 5c style anchor NOT painterly NOT soft anime NOT 3D\n\nVertical manhwa WEBTOON PAGE EXACTLY 2 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles except fighter card stat text ROW 1 ONLY,\n\nROW 1 ~50% THREE EQUAL COLUMNS fighter profile cards Ttong | Repeul | Ethan readable stats navy blue hair Ethan card.\n\nROW 2 ~50% beat 1.37 FLASH desaturated sepia DOJANG: Ttong Kim holding 1000 won Korean paper BILLS gently talking softly to young teen Ethan black belt calm gentle expression NOT yelling NOT pointing. Repeul Kim scowl blurred edge eating chips background dojang mirrors trophies.\n\nEXACTLY 2 ROWS ONLY"
+    },
+    {
+      "id": "page6b",
+      "label": "PAGE 6b — Charge & hook kick (1.41–1.43)",
+      "output": "chapter-01-page-6b-charge-hook.png",
+      "panel_ids": [
+        "1.41",
+        "1.43"
+      ],
+      "reference_images": [
+        "reference-sheets/output/ethan-hyun/gear-front.png",
+        "reference-sheets/output/ttong-kim/casual-front.png"
+      ],
+      "style_anchor": "gallery/strips/arc-01/chapter-01-page-6a-cards-bounty.png",
+      "prompt": "ETHAN HAIR LOCK: Korean shadow perm messy volume; hair color NAVY BLUE and cobalt blue-black with CLEAR BLUE visible in strands and highlight edges; blue undertone must read as BLUE in cel shading; NOT jet black NOT pure black NOT brown-black hair\n\nSTYLE LOCK: Korean webtoon manhwa cel shading EXACTLY like Solo Leveling — desaturated blue-grey palette crisp ink outlines dramatic lighting PREMIER aesthetic MATCH PAGE 6a and PAGE 5c NOT painterly NOT soft anime NOT 3D\n\nVertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles NO readable text,\n\nRING LAYOUT LOCK: SQUARE blue center competition mat. RED border outline frame OUTSIDE the blue square — coach zone is in red outline OUTSIDE blue bounds NOT on blue mat. NOT octagon NOT circle.\n\nROW 1 ~35% beat 1.41 WIDE PRESENT tournament: SQUARE ring blue center red outer border. Ethan blue hogu blue helmet on BLUE square mat near his corner. TTONG KIM coach seated on chair in RED OUTLINE zone OUTSIDE blue square bounds near Ethan corner black polo yelling pointing CHARGE FORWARD attack mouth open angry. Generic RED hogu teen opponent visible waiting across blue square taller plain generic face short dark straight hair NOT Ttong plain dobok NO Premier patch.\n\nROW 2 ~35% beat 1.41-1.42: Ethan CHARGING forward lunging aggressively across blue square listening to coach blue hogu Premier patch committed attack. RED hogu opponent across ring SIZING HIM UP evaluating wary fighting stance generic teen face NOT Ttong.\n\nROW 3 ~30% beat 1.43 FULL WIDTH: SPINNING HOOK KICK huryeo chagi generic RED hogu opponent heel strikes Ethan blue helmet FACE head impact. Opponent GENERIC face NOT Ttong short dark hair plain dobok NO patch. NO mouthguard flying.\n\nEXACTLY 3 ROWS ONLY"
     },
     {
       "id": "page7",
@@ -183,7 +196,7 @@
         "reference-sheets/output/ethan-hyun/gear-front.png",
         "reference-sheets/output/ttong-kim/casual-front.png"
       ],
-      "style_anchor": "gallery/strips/arc-01/chapter-01-page-6-cards-hook.png",
+      "style_anchor": "gallery/strips/arc-01/chapter-01-page-6b-charge-hook.png",
       "prompt": "ETHAN HAIR LOCK: Korean shadow perm messy volume; hair color NAVY BLUE and cobalt blue-black with CLEAR BLUE visible in strands and highlight edges; blue undertone must read as BLUE in cel shading; NOT jet black NOT pure black NOT brown-black hair\n\nVertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles. Readable text ONLY scoreboard labels RED BLUE and numbers 6 and 0 NO fighter names,\n\nROW 1 ~30% beat 1.44a: electronic taekwondo scoreboard large display labels RED and BLUE only RED score 6 BLUE score 0. Ethan Hyun teen blue hogu blue helmet falling backward mid-air from head kick BOTH white mouthguard AND blue helmet flying airborne separate objects arena background\n\nROW 2 ~40% beat 1.44b FOUR-PANEL montage left to right muted desaturated silent horror:\nPANEL 1 ~40% Ethan Hyun FACE DOWN prone on blue center red border ring mat knocked out white mouthguard lying on mat NEXT TO his head beside him clearly visible\nPANEL 2 ~20% Ttong Kim coach unconcerned cold flat expression black polo shorts underbite NOT disappointed just indifferent\nPANEL 3 ~20% Ttong Kim ONE hand curved dismissive wave wrist bent palm away shooing NOT salute manga squiggly wavy motion lines near hand showing dismissive waving gesture\nPANEL 4 ~20% Ttong Kim walking away back turned leaving ring\n\nROW 3 ~30% beat 1.45: zoomed OUT wide shot tiny Ethan Hyun falling sinking downward into endless pitch black water abyss drowning metaphor dark void deep ocean tumbling descending into black no light traumatic soundless horror NOT bedroom NOT ring mat NOT face down on floor\n\nSTYLE PREMIER EXACTLY 3 ROWS ONLY"
     },
     {

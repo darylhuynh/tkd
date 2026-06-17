@@ -55,10 +55,16 @@
       "panel_ids": ["1.31", "1.32", "1.33"]
     },
     {
-      "id": "page6",
-      "file": "chapter-01-page-6-cards-hook.png",
-      "label": "PAGE 6 — Cards, bounty & the hook (1.35–1.43)",
-      "panel_ids": ["1.35", "1.36", "1.36b", "1.37", "1.41", "1.43"]
+      "id": "page6a",
+      "file": "chapter-01-page-6a-cards-bounty.png",
+      "label": "PAGE 6a — Fighter cards & bounty (1.35–1.37)",
+      "panel_ids": ["1.35", "1.36", "1.36b", "1.37"]
+    },
+    {
+      "id": "page6b",
+      "file": "chapter-01-page-6b-charge-hook.png",
+      "label": "PAGE 6b — Charge & hook kick (1.41–1.43)",
+      "panel_ids": ["1.41", "1.43"]
     },
     {
       "id": "page7",

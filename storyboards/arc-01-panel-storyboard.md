@@ -91,7 +91,7 @@ blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless 
 - **PAGE 3 — Preparation:** 1.9–1.16 *(skipped in strip reader)*
 - **PAGE 4 — Isolation:** 1.17–1.26
 - **PAGE 5a–5c — Favoritism & called:** 1.27–1.33
-- **PAGE 6 — Cards & hook:** 1.35–1.37 · 1.41–1.43
+- **PAGE 6a–6b — Cards, bounty & hook:** 1.35–1.37 · 1.41–1.43
 - **PAGE 7 — KO aftermath:** 1.44–1.45
 - **PAGE 8 — Wake:** 1.46–1.48
 
@@ -204,24 +204,26 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 
 **Refs:** `dobok-front` · `gear-front` · `ttong-kim` · `repeul-kim` · style anchor PAGE 5b
 
-### PAGE 6 — Cards, bounty & the hook (panels 1.35–1.37, 1.41–1.43) · **NEXT TO GENERATE**
+### PAGE 6a — Fighter cards & bounty (panels 1.35–1.37) · **LIVE**
 
 | Row | Shape | Beats |
 |-----|-------|-------|
-| R1 | **33\|33\|33 ~35%** | **Fighter cards** with portrait + **Age · Ht · Wt · Rank** (match pitch site): **Ttong** \| **Repeul** \| **Ethan** |
-| R2 | Wide ~30% | **1.37** Knockout bounty — Ttong holds **1,000 won** bills · **gently talking** to Ethan · *too soft* · Repeul edge |
-| R3 | Wide ~28% **50\|50** | **1.41** Octagonal ring · Ttong **behind** Ethan in **red corner** yells *charge* · **red opponent waiting** across · Ethan **charges** |
-| R4 | Full ~20% | **1.43** **Hook kick to head** — generic red opponent only here · no mouthguard |
-
-**Card stat lock (ROW 1 only — readable text allowed on cards):**
-
-| Card | Age | Ht | Wt | Rank |
-|------|-----|----|----|------|
-| **Ttong Kim** | 38 | 5'8" | 198 lbs | 2nd Dan |
-| **Repeul Kim** | 37 | 5'5" | 230 lbs | Premier (staff) |
-| **Ethan Hyun** | 15 | 5'3" | 95 lbs | 3rd Dan · −45kg |
+| R1 | **33\|33\|33 ~50%** | **Fighter cards** with portrait + **Age · Ht · Wt · Rank**: **Ttong** \| **Repeul** \| **Ethan** |
+| R2 | Wide ~50% | **1.37** Knockout bounty — Ttong holds **1,000 won** bills · **gently talking** to Ethan · *too soft* · Repeul edge |
 
 **Refs:** `ttong-kim` · `repeul-kim` · `ethan-hyun/gear-front` · style anchor PAGE 5c
+
+### PAGE 6b — Charge & hook kick (panels 1.41–1.43) · **LIVE**
+
+| Row | Shape | Beats |
+|-----|-------|-------|
+| R1 | Wide ~35% | **1.41** **Square** ring blue center · Ttong in **red outline** (outside blue) on chair near Ethan's corner yells *charge forward* · opponent waiting across |
+| R2 | Wide ~35% | **1.41–1.42** Ethan **charges** forward · red opponent **sizing him up** |
+| R3 | Full ~30% | **1.43** **Spinning hook kick** to Ethan's face · generic red opponent · no mouthguard |
+
+**Ring lock:** SQUARE blue center mat · RED border outline **outside** blue bounds · coach chair in red zone NOT on blue mat.
+
+**Refs:** `ethan-hyun/gear-front` · `ttong-kim/casual-front` · style anchor PAGE 6a
 
 ### PAGE 7 — Score, silence & black (panels 1.44–1.45) · **LIVE**
 
