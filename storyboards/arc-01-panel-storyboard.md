@@ -200,7 +200,7 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 |-----|-------|-------|
 | R1 | Tri-cut ~40% | **1.31 FLASH** head kick \| roundhouse \| push kick down |
 | R2 | Wide ~30% | **1.32 FLASH dojang** Ttong arms crossed displeased watching · Repeul chips · Ethan looks back |
-| R3 | Wide ~30% | **1.33 PRESENT** Ethan helmet on in ring · ref hand raised · taller **red hogu** opponent |
+| R3 | Wide ~30% | **1.33 PRESENT** Ethan helmet on in ring · ref hand raised · **same lean tall red opponent as PAGE 6b** (NOT heavyset) |
 
 **Refs:** `dobok-front` · `gear-front` · `ttong-kim` · `repeul-kim` · style anchor PAGE 5b
 
