@@ -87,8 +87,13 @@ function buildRadarSvg(stats, size = 120, cssClass = "radar-chart") {
     return `<text x="${x}" y="${y + 3}" text-anchor="${anchor}" class="radar-label">${short}</text>`;
   }).join("");
 
+  // Labels sit outside the chart radius; pad viewBox so they aren't clipped.
+  const labelPad = 20;
   const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-  svg.setAttribute("viewBox", `0 0 ${size} ${size}`);
+  svg.setAttribute(
+    "viewBox",
+    `${-labelPad} ${-labelPad} ${size + labelPad * 2} ${size + labelPad * 2}`
+  );
   svg.setAttribute("class", cssClass);
   svg.setAttribute("role", "img");
   svg.setAttribute("aria-label", "Combat stat radar chart");
