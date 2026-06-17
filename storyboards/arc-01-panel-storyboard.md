@@ -209,7 +209,7 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 |-----|-------|-------|
 | R1 | Wide ~30% | **1.44a** Scoreboard **RED 6 · BLUE 0** (labels only) · Ethan falling · mouthguard + helmet airborne |
 | R2 | Wide ~40% **4-panel strip** | **1.44b** Ethan **face down** → Ttong unconcerned → one-hand wave → walks away |
-| R3 | Full ~30% | **1.45** Fade to black **from face-down Ethan** on mat · not bedroom |
+| R3 | Full ~30% | **1.45** Zoomed out — Ethan **falling into pitch black water** · drowning metaphor |
 
 **ROW 2 layout (40 / 20 / 20 / 20):**
 
@@ -227,7 +227,7 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 | Row | Shape | Beats |
 |-----|-------|-------|
 | R1 | Tall ~40% | **1.46** Smash cut — bolts upright in bed · gasping |
-| R2 | Medium ~30% | **1.47** Ceiling stare · headphones on nightstand · block hand trembling |
+| R2 | Medium ~30% | **1.47** Lying back · hands at sides · eyes open · sweating · heavy breath |
 | R3 | Medium ~30% | **1.48** Grey sleep tee · breath slowing · dawn birds |
 
 ---
@@ -752,12 +752,12 @@ muted desaturated STYLE: PREMIER
 
 ---
 ### Panel 1.45 — Fade to Black *(PAGE 7 R3)*
-**Scene:** After KO — traumatic fade **from face-down Ethan on mat** dissolving into black. Not bedroom yet.
+**Scene:** After KO — zoomed out **Ethan falling/sinking into pitch black water** · drowning metaphor · soundless void. Smash cut to bedroom on PAGE 8.
 **Dialogue:** ** *(silence)*
 
 **Prompt:**
 ```
-traumatic fade to black Ethan Hyun falling after head kick silhouette disappearing soundless horror muted desaturated vignette closing NOT bedroom yet, STYLE: PREMIER
+zoomed out wide shot Ethan Hyun tiny figure falling sinking into pitch black water abyss drowning metaphor bubbles dark void traumatic horror NOT bedroom, STYLE: PREMIER
 ```
 
 ---
@@ -773,13 +773,12 @@ horror wake up moment, bedroom interior, dramatic upward angle, STYLE: PREMIER f
 
 ---
 ### Panel 1.47 — Aftermath
-**Scene:** ** Ethan staring at ceiling. Gold headphones on nightstand. Hand raised — block position — trembling.
+**Scene:** ** Ethan lying back down in bed. Hands at his sides. Eyes open staring at ceiling. Still sweating, breathing heavily. Gold headphones on nightstand.
 **Dialogue:** ** Ethan (internal): *It wasn't just the kick.*
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, teen lying in bed staring at ceiling, hand raised in taekwondo block pose trembling,
-gold headphones on nightstand, soft morning light, quiet emotional aftermath, close-up,
+Ethan Hyun teen lying back down in bed hands at sides eyes open staring at ceiling still sweating breathing heavily gold headphones on nightstand soft morning light quiet emotional aftermath, close-up,
 ```
 
 ---
