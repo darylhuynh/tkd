@@ -98,6 +98,36 @@ def render_strip_footnote(label: str, panel_ids: list[str], panels_by_id: dict[s
 </section>"""
 
 
+def render_dialogue_prelude(strip: dict) -> str:
+    """Black-page prelude with HTML speech bubbles (exact dialogue, no generated art)."""
+    label = strip.get("label", strip.get("id", "Prelude"))
+    bubbles: list[str] = []
+    for line in strip.get("lines", []):
+        if isinstance(line, str):
+            text = line
+            align = "left"
+            variant = ""
+        else:
+            text = line.get("text", "")
+            align = line.get("align", "left")
+            variant = line.get("variant", "")
+        if not text:
+            continue
+        classes = f"manhwa-prelude-bubble manhwa-prelude-bubble--{html.escape(align)}"
+        if variant:
+            classes += f" manhwa-prelude-bubble--{html.escape(variant)}"
+        bubbles.append(
+            f'<blockquote class="{classes}"><p>{html.escape(text)}</p></blockquote>'
+        )
+    inner = "".join(bubbles)
+    return (
+        f'<figure class="manhwa-page manhwa-page--prelude" id="manhwa-{html.escape(strip["id"])}" '
+        f'aria-label="{html.escape(label)}">'
+        f'<div class="manhwa-prelude-inner">{inner}</div>'
+        f"</figure>"
+    )
+
+
 def build_webtoon_blocks(
     config: dict,
     panels_by_id: dict[str, dict],
@@ -112,6 +142,12 @@ def build_webtoon_blocks(
     for strip in config["strips"]:
         if strip.get("skip"):
             continue
+
+        if strip.get("type") == "dialogue":
+            live += 1
+            image_blocks.append(render_dialogue_prelude(strip))
+            continue
+
         src, ok = strip_image_path(strip_dir, strip["file"])
         label = strip.get("label", strip["id"])
         pending = strip.get("pending", False)

@@ -5,6 +5,12 @@
   "global_negative": "photorealistic, 3d render, western comic style, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless specified",
   "panels": [
     {
+      "id": "1.0",
+      "title": "Voices in the Dark",
+      "prompt": "PAGE 0 prelude black void disembodied voices speech bubbles only no characters no art faces parental pressure Premier guilt before nightmare dream, STYLE: PREMIER void",
+      "output": "gallery/panels/arc-01/1.0.png"
+    },
+    {
       "id": "1.1",
       "title": "Title Card \u2014 Venue",
       "prompt": "empty martial arts tournament venue exterior dawn overcast desaturated wide cinematic establishing shot small Ethan Hyun silhouette approaching entrance oversized black hoodie white undershirt black cargo pants white sneakers gold headphones white backpack NO dobok NO hogu NO gear visible moody banner taekwondo logos STYLE PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",

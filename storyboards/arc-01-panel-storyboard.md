@@ -84,6 +84,7 @@ blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless 
 **Visual arc:** casual kid → dobok → athlete → neglected all day → KO → wake.
 
 **Manhwa pages (for multi-panel generation):**
+- **PAGE 0 — Voices (prelude):** 1.0 · black void · HTML dialogue bubbles only (no PNG art)
 - **PAGE 1a/1b — Arrival & change:** 1.1–1.7
 - **PAGE 2 — Neglect & warmup:** 1.7b–1.8
 - **PAGE 3 — Preparation:** 1.9–1.16 *(skipped in strip reader)*
@@ -100,6 +101,21 @@ blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless 
 ## Chapter 1 — Manhwa page layouts *(optional batch gen)*
 
 Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays in HTML reader — **no text in art**.
+
+### PAGE 0 — Voices in the dark (panel 1.0) · **LIVE (HTML prelude)**
+
+| Row | Shape | Beats |
+|-----|-------|-------|
+| Full | Black page | Disembodied **speech bubbles** only — voices before the dream. Alternating left/right; final line centered. |
+
+**Lines (exact):**
+1. *"You should just accept the training I give him. Stop asking for more."*
+2. *"I feel bad for Ethan. You want him to be good at school AND taekwondo?"*
+3. *"I don't think he has the temperament to compete as a world class black belt."*
+4. *"You skipped all these tournaments. I don't think you are committed to Taekwondo."*
+5. *"You are either with us. Or against us."*
+
+**Note:** Rendered as HTML in strip reader (`type: dialogue` in `strips-arc01-ch01.json`) — not AI-generated PNG.
 
 ### PAGE 1a — Arrival (panels 1.1–1.3)
 **3 rows** · arena → van → crowd walk.
@@ -229,6 +245,15 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 | R1 | Tall ~40% | **1.46** Smash cut — bolts upright in bed · gasping |
 | R2 | Medium ~30% | **1.47** Lying back · hands at sides · eyes open · sweating · heavy breath |
 | R3 | Medium ~30% | **1.48** Grey sleep tee · breath slowing · dawn birds |
+
+---
+
+---
+
+### Panel 1.0 — Voices in the Dark *(PAGE 0 prelude)*
+**Scene:** Pure black. **Speech bubbles only** — disembodied voices (parents, Premier staff, coaches) layering guilt and pressure before Ethan’s nightmare. No faces. No art.
+**Dialogue:** See PAGE 0 layout table above.
+**SFX:** *(silence — or faint underwater muffled quality optional in reader)*
 
 ---
 
