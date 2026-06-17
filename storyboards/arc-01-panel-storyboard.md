@@ -210,7 +210,7 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 |-----|-------|-------|
 | R1 | **33\|33\|33 ~35%** | **Fighter cards** with portrait + **Age · Ht · Wt · Rank** (match pitch site): **Ttong** \| **Repeul** \| **Ethan** |
 | R2 | Wide ~30% | **1.37** Knockout bounty — Ttong holds **1,000 won** bills · **gently talking** to Ethan · *too soft* · Repeul edge |
-| R3 | Wide ~28% **50\|50** | **1.41** Ttong **behind** Ethan in **red corner** chair yells *charge* · Ethan **charges** (no opponent) |
+| R3 | Wide ~28% **50\|50** | **1.41** Octagonal ring · Ttong **behind** Ethan in **red corner** yells *charge* · **red opponent waiting** across · Ethan **charges** |
 | R4 | Full ~20% | **1.43** **Hook kick to head** — generic red opponent only here · no mouthguard |
 
 **Card stat lock (ROW 1 only — readable text allowed on cards):**
