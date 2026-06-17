@@ -315,12 +315,19 @@ def write_index(cfg: dict, arc_num: int, chapters: list[dict], prev_arc: dict | 
     summary = html.escape(arc_summary(ROOT / "arcs" / cfg["arc_md"]))
     cards = []
     for ch in chapters:
+        strip_path = ROOT / "data" / f"strips-arc{cfg['num_label']}-ch{ch['num']:02d}.json"
+        strip_link = ""
+        if strip_path.exists():
+            strip_link = f'<a class="chapter-strip-link" href="{ch["slug"]}-strip.html">Strip mode</a>'
         cards.append(f"""
+        <div class="chapter-card-wrap">
         <a class="chapter-card" href="{ch["slug"]}.html">
           <span class="chapter-num">Chapter {ch["num"]}</span>
           <h2>{html.escape(ch["title"])}</h2>
           <span class="chapter-panels">{len(ch["panels"])} panels</span>
-        </a>""")
+        </a>
+        {strip_link}
+        </div>""")
 
     arc_nav = ""
     if prev_arc:
@@ -385,6 +392,11 @@ def write_chapter(cfg: dict, ch: dict, chapters: list[dict], prev_arc: dict | No
     panels_html = "\n".join(render_panel(p) for p in ch["panels"])
     title = f"Ch {ch['num']} — {ch['title']}"
 
+    strip_config = ROOT / "data" / f"strips-arc{cfg['num_label']}-ch{ch['num']:02d}.json"
+    strip_meta = ""
+    if strip_config.exists():
+        strip_meta = f' · <a href="{ch["slug"]}-strip.html">Strip mode</a>'
+
     page = reader_head(title, depth=2)
     page += f"""
   <header class="reader-header reader-header--chapter">
@@ -392,7 +404,7 @@ def write_chapter(cfg: dict, ch: dict, chapters: list[dict], prev_arc: dict | No
       <a class="reader-back" href="index.html">← Arc {cfg["num_label"]}: {html.escape(cfg["label"])}</a>
       <p class="reader-arc-label">Chapter {ch["num"]}</p>
       <h1>{html.escape(ch["title"])}</h1>
-      <p class="reader-meta">{len(ch["panels"])} panels · vertical webtoon layout</p>
+      <p class="reader-meta">{len(ch["panels"])} panels · vertical webtoon layout{strip_meta}</p>
     </div>
   </header>
   <nav class="chapter-nav">{prev_link}{next_link}</nav>

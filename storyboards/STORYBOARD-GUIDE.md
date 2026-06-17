@@ -10,7 +10,7 @@ Master reference for all panel-by-panel AI prompts across the series.
 
 | Arc | Chapters | File | Panels |
 |-----|----------|------|--------|
-| 1 — New Beginnings | 1–10 | [arc-01-panel-storyboard.md](./arc-01-panel-storyboard.md) | 203 |
+| 1 — New Beginnings | 1–10 | [arc-01-panel-storyboard.md](./arc-01-panel-storyboard.md) | 408 |
 | 2 — The Team | 11–20 | [arc-02-panel-storyboard.md](./arc-02-panel-storyboard.md) | 200 |
 | 3 — First Tournament | 21–35 | [arc-03-panel-storyboard.md](./arc-03-panel-storyboard.md) | 300 |
 | 4 — The Shadow School | 36–50 | [arc-04-panel-storyboard.md](./arc-04-panel-storyboard.md) | 300 |
@@ -30,7 +30,7 @@ Extended dialogue lives in `scripts/` — storyboards below are the **panel atta
 
 | Script | REAL # | Storyboard slots |
 |--------|--------|------------------|
-| [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) | #28 | Arc 1 **1.13b** · Arc 2 **15.2b** · Arc 3 **22.4** (MV contrast) · Arc 4 **39.2** · **40.2** (optional inset) |
+| [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) | #28 | Arc 1 **1.37** · Arc 2 **15.2b** · Arc 3 **22.4** (MV contrast) · Arc 4 **39.2** · **40.2** (optional inset) |
 | [flash-premier-board-break.md](../scripts/flash-premier-board-break.md) | #24, #9, #10 | Arc 3 **§28.1–28.8** · Arc 4 **§36.0–36.2** · Ch 35 eval callback |
 | [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md) | #9, #25–27 | Arc 4 **§37.2–37.6** · Ch 42–43 callbacks |
 
@@ -54,6 +54,7 @@ Extended dialogue lives in `scripts/` — storyboards below are the **panel atta
 6. Tag `[CARD]` panels = fighter stat card(s) before match or intro — see [CHARACTER-CARDS.md](./CHARACTER-CARDS.md).
 7. Add dialogue in post-production — AI text is unreliable.
 8. **Aspect ratio:** `2:3` or `9:16` vertical webtoon panels.
+9. **Manhwa page batch gen (optional):** multi-panel pages live in the storyboard chapter header — e.g. Arc 1 Ch 1 **PAGE 1–3** in [arc-01-panel-storyboard.md](./arc-01-panel-storyboard.md). Single source of truth; no separate strip prompt files.
 
 ---
 
@@ -84,6 +85,23 @@ watermark, speech bubble text, low quality, chibi unless specified
 | `STYLE: KOREA` | Modern Korean dojang, national flags, clean architecture |
 | `STYLE: HAIKYUU` | Warm group lighting, exaggerated friendly expressions, sweat sparkle |
 | `STYLE: CARD` | Fighter profile / VS stat card — empty text boxes for post-production |
+
+---
+
+## Panel Prompt Continuity
+
+**Problem:** Generic words (*instructor*, *teen boy*, *coach*) make each panel look like a different cast.
+
+**Fix — every prompt must include:**
+
+1. **Canon name** — `Ethan Hyun`, `Ttong Kim`, `Master Viet` (not "instructor").
+2. **Locked outfit for the scene** — e.g. Ch 1 tournament = Ethan **full Olympic kyorugi kit**; Ttong **Premier polo + tight black shorts + gold watch**; bedroom = Ethan **grey sleep tee, no dobok**.
+3. **Same hair/build tags** every time — Ethan's **dark blue shadow perm**, Ttong's **underbite**, Repeul's **brown curls + multicolor casual**.
+4. **Reference sheet attach** when batch-generating — see [P0-MANIFEST](../reference-sheets/P0-MANIFEST.md).
+
+**Chapter outfit locks:** Arc 1 Ch 1 table in [arc-01-panel-storyboard.md](./arc-01-panel-storyboard.md#chapter-1--outfit-lock-copy-into-every-ch-1-prompt).
+
+**Regenerate rule:** If you change outfit wording mid-chapter, **delete** old PNGs for that chapter and re-run from panel 1 of the scene block.
 
 ---
 

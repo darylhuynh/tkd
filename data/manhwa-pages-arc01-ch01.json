@@ -3,8 +3,8 @@
   "chapter": 1,
   "title": "Nightmare",
   "strip_dir": "gallery/strips/arc-01",
-  "panels_per_page": 4,
-  "global_negative": "photorealistic, 3d render, western comic style, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, readable text, letters, numbers, low quality, chibi, equal size panel grid, uniform strip of identical boxes, more than 3 panel rows per page, crowded warmup floor, everyone in matching tracksuits, awkward raised paddles, paddle extended toward coach, floating characters, sitting poses, mid-air poses, stretched limo van, double front doors",
+  "panels_per_page": 3,
+  "global_negative": "photorealistic, 3d render, western comic style, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, readable text, letters, numbers, low quality, chibi, equal size panel grid, uniform strip of identical boxes, more than 3 panel rows per page, crowded warmup floor, everyone in matching tracksuits, awkward raised paddles, paddle extended toward coach, floating characters, sitting poses, mid-air poses, stretched limo van, double front doors, wrong ring mat layout, oval ring, circular ring, all blue hogus in same ring, red center mat with blue border",
   "pages": [
     {
       "id": "page1a",
@@ -69,16 +69,68 @@
       "prompt": "Vertical manhwa WEBTOON PAGE thick white gutters NO speech bubbles AT MOST 5 panel rows EXACTLY 4 rows,\n\nMATCH PAGE 2 style anchor. Ethan Hyun SAME face dark blue shadow perm hair. Match reference-sheets/output/ethan-hyun/gear-front.png — full kit white WT dobok black belt blue electronic hogu blue helmet white guards Premier patch ALL panels.\n\nTtong Kim ROW 2 — stocky underbite black polo black shorts gold watch. Match ttong-kim/casual-front.png.\n\nRepeul Kim ROW 2 edge — brown curls multicolor floral casual scowl silent. Match repeul-kim/casual-front.png.\n\nEthan — full kit white WT dobok black belt blue electronic hogu blue helmet ON HEAD all panels 1 3 4 NEVER helmet on bench NEVER helmet beside him. Crumpled snack bag or snack wrapper on bench beside Ethan rows 1 3 4 SAME prop continuity NO helmet prop on bench.\n\nNarrative bridge from PAGE 2: Ethan warmed up alone hours ago morning now evening still waiting for match.\n\nROW 1 wide ~30%: gymnasium bleachers evening Ethan full kit blue helmet ON head slumped alone crumpled snack bag on bench beside him empty seats ANALOG round wall clock hour hand minute hand nearly 7 PM\n\nROW 2 wide ~25%: sparse bleachers mix few athletes hogus AND parents families kids casual mostly empty seats Ttong Kim parents coffee Repeul Kim multicolor floral edge scowl\n\nROW 3 medium ~25%: Ethan alone slumped close-up blue helmet ON head full kit SAME crumpled snack bag on bench beside him empty seats ANALOG clock hour minute hands nearly 7 PM NO helmet on bench\n\nROW 4 medium ~20%: Ethan seated blue helmet ON head leaning forward stretching legs on bleacher feet flat anatomically correct squiggly lines on calves thighs grimacing SAME crumpled snack bag on bench beside him ANALOG clock hands near 7 PM NO helmet on bench NO malformed foot\n\nONLY allowed readable text: clock time near 7 PM. NO bracket text. STYLE PREMIER manhwa cel shading solo leveling ONLY 4 ROWS"
     },
     {
-      "id": "page5",
-      "label": "PAGE 5 — Favoritism & Called (1.27–1.32)",
-      "output": "chapter-01-page-4-favoritism.png",
-      "panel_ids": ["1.27", "1.28", "1.29", "1.31", "1.32"],
+      "id": "page5a",
+      "label": "PAGE 5a — Bleachers & contract (1.27–1.28)",
+      "output": "chapter-01-page-5a-bleachers-contract.png",
+      "panel_ids": ["1.27", "1.28"],
+      "reference_images": [
+        "reference-sheets/output/ethan-hyun/gear-front.png",
+        "reference-sheets/output/ttong-kim/casual-front.png",
+        "reference-sheets/output/repeul-kim/casual-front.png"
+      ],
+      "style_anchor": "gallery/strips/arc-01/chapter-01-page-3-isolation.png",
+      "prompt": "Vertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles NO readable text,\n\nMATCH PAGE 4 isolation style anchor. Ethan Hyun teen 15 SAME face dark blue shadow perm hair full kit white WT dobok black belt blue electronic hogu white guards Premier patch present rows.\n\nTtong Kim stocky underbite black polo black shorts gold watch hands-on coaching. Match ttong-kim/casual-front.png.\n\nRepeul Kim overweight brown curls multicolor floral counting money flash only. Match repeul-kim/casual-front.png.\n\nROW 1 ~40% FULL WIDTH beat 1.27 PRESENT: Ethan sitting alone on tournament bleachers full kit helmet OFF on bench beside him watching across gymnasium Ttong Kim personally warming up young female teen student in dobok hands on shoulders hips spotting too long touchy uncomfortable favoritism unsettling Ethan tight expression empty seats\n\nROW 2 ~35% FULL WIDTH beat 1.28 FLASH inset bordered desaturated: Premier front desk enrollment faceless dark shadow parent silhouette NO facial features handing VIP brochure to Ttong sleazy smile Repeul Kim background counting cash money young Ethan age 5 small child joyous excited grin beside shadow parent ready to join\n\nROW 3 ~25% FULL WIDTH beat 1.27 close-up: Ethan face unsettled watching jaw tight eyes on distant Ttong and female student helmet on bleacher bench foreground\n\nSTYLE PREMIER flash inset desaturated EXACTLY 3 ROWS ONLY"
+    },
+    {
+      "id": "page5b",
+      "label": "PAGE 5b — Called & walk past (1.29–1.30)",
+      "output": "chapter-01-page-5b-called-walk.png",
+      "panel_ids": ["1.29", "1.30"],
       "reference_images": [
         "reference-sheets/output/ethan-hyun/gear-front.png",
         "reference-sheets/output/ttong-kim/casual-front.png"
       ],
-      "style_anchor": "gallery/strips/arc-01/chapter-01-page-3-isolation.png",
-      "prompt": "Vertical manhwa WEBTOON PAGE EXACTLY 4 PANELS varied shapes, thin gutters, NO readable text,\n\nEthan — full blue-hogu kit bleachers staging,\nTtong — polo shorts underbite predatory grin,\n\nPANEL 1 — WIDE with FLASH inset top-left bordered desaturated: inset 1.27 VIP enrollment Ttong check Repeul brochures | present 1.28 Ttong kneeling adjusting favored student helmet wealthy parents\n\nPANEL 2 — WIDE POV: 1.29 from Ethan bleacher seat distant Ttong backs turned Ethan knees foreground empty seats\n\nPANEL 3 — 50|50: LEFT 1.30 stranger parent bad stretch Ethan wincing | RIGHT 1.31 top FLASH head kick scrimmage bottom PRESENT alone bleachers phone\n\nPANEL 4 — WIDE: 1.32 Ethan standing stiff from bleachers staging legs asleep official afternoon\n\nSTYLE PREMIER flash inset desaturated ONLY 4 PANELS"
+      "style_anchor": "gallery/strips/arc-01/chapter-01-page-5a-bleachers-contract.png",
+      "prompt": "Vertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles NO readable text,\n\nMATCH PAGE 5a style. Ethan Hyun teen 15 full competition kit blue hogu white guards Premier patch SAME face hair.\n\nRING MAT: BLUE square center with RED border frame outside. Each ring ONE red hogu athlete ONE blue hogu athlete.\n\nTtong Kim black polo shorts underbite still with young female student ignores Ethan. Match ttong-kim/casual-front.png.\n\nROW 1 ~35% FULL WIDTH beat 1.29 PRESENT: tournament gymnasium wide. REFEREE black dress pants white dress shirt RED TIE — clipboard in one hand reading sheet other arm gesturing toward ring. Blue-box red-border mats background. Ethan on bleachers looks up alert stiff legs.\n\nROW 2 ~35% FULL WIDTH beat 1.29: Ethan standing from bleachers picking up blue helmet from bench legs stiff pins and needles alone\n\nROW 3 ~30% FULL WIDTH beat 1.30 PRESENT: Ethan walking on tournament floor carrying helmet passing Ttong Kim still focused on young female student Ttong does NOT look at Ethan. Background rings blue center red border red vs blue hogu pairs.\n\nSTYLE PREMIER EXACTLY 3 ROWS ONLY"
+    },
+    {
+      "id": "page5c",
+      "label": "PAGE 5c — Dojang montage & ring start (1.31–1.33)",
+      "output": "chapter-01-page-5c-dojang-montage.png",
+      "panel_ids": ["1.31", "1.32", "1.33"],
+      "reference_images": [
+        "reference-sheets/output/ethan-hyun/dobok-front.png",
+        "reference-sheets/output/ethan-hyun/gear-front.png",
+        "reference-sheets/output/ttong-kim/casual-front.png",
+        "reference-sheets/output/repeul-kim/casual-front.png"
+      ],
+      "style_anchor": "gallery/strips/arc-01/chapter-01-page-5b-called-walk.png",
+      "prompt": "Vertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles NO readable text,\n\nROW 1 ~40% beat 1.31 FLASH desaturated tri-cut DOJANG: head kick | roundhouse body | push kick opponent falling. Ethan white dobok black belt NO hogu.\n\nROW 2 ~30% beat 1.32 FLASH desaturated DOJANG NOT tournament: Ttong Kim standing arms crossed WATCHING displeased unsatisfied scowl. Repeul Kim behind eating potato chips. Teen Ethan looks back over shoulder noticing Ttong unhappy. Match ttong and repeul refs.\n\nROW 3 ~30% beat 1.33 PRESENT: BLUE center RED border ring. Ethan small teen BLUE hogu putting blue helmet ON. Taller bigger opponent RED hogu facing opposite few inches taller. Referee black pants white shirt red tie hand raised starting match.\n\nSTYLE PREMIER flash rows desaturated row 3 full color EXACTLY 3 ROWS ONLY"
+    },
+    {
+      "id": "page6",
+      "label": "PAGE 6 — Cards, bounty & the hook (1.35–1.37, 1.41–1.43)",
+      "output": "chapter-01-page-6-cards-hook.png",
+      "panel_ids": ["1.35", "1.36", "1.36b", "1.37", "1.41", "1.43"],
+      "reference_images": [
+        "reference-sheets/output/ethan-hyun/gear-front.png",
+        "reference-sheets/output/ttong-kim/casual-front.png",
+        "reference-sheets/output/repeul-kim/casual-front.png"
+      ],
+      "style_anchor": "gallery/strips/arc-01/chapter-01-page-5c-dojang-montage.png",
+      "prompt": "Vertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles except fighter card stat text ROW 1 ONLY,\n\nROW 1 ~35% THREE EQUAL COLUMNS 33|33|33 fighter profile cards vertical panels readable stat blocks like GitHub roster:\nLEFT TTONG KIM card portrait stocky underbite predatory grin black polo shorts stat text Age 38 Height 5'8 Weight 198 lbs Rank 2nd Dan Premier red accent bar\nCENTER REPEUL KIM card overweight brown curls multicolor floral ugly casual mean scowl stat text Age 37 Height 5'5 Weight 230 lbs Premier staff red-grey accent bar\nRIGHT ETHAN HYUN card teen 15 dark blue hair full kit blue hogu Premier patch stat text Age 15 Height 5'3 Weight 95 lbs Rank 3rd Dan Division Junior -45kg blue accent bar\n\nROW 2 ~30% beat 1.37 FLASH desaturated washed-out sepia DOJANG interior NOT tournament: Ttong Kim holding stack of 1000 won Korean paper BILLS not coin between fingers pointing at young teen Ethan black belt mouth OPEN TALKING speaking stern NOT smiling unsettling too soft. Repeul Kim scowl blurred edge eating chips background silent dojang mirrors trophies flashback tone Match ttong repeul refs\n\nROW 1 Repeul card stat text must fit on ONE line each NO awkward line breaks: Age 37 Height 5'5 Weight 230 lbs Affiliation Premier Staff align stat labels neatly\n\nROW 3 ~35% beat 1.41-1.43 PRESENT ring blue center red border tri-beat wide panel progression:\nLEFT third over-shoulder POV from Ethan blue hogu hesitant facing looming taller bigger RED hogu opponent Ttong Kim at corner yelling aggressive mouth open attack attack dont be soft\nCENTER third Ethan finally steps forward reluctant\nRIGHT third HOOK KICK huryeo chagi NOT spinning NOT cut kick: RED hogu opponent FACING Ethan chest toward target head peeking over shoulder foot swinging curved hook arc HEEL strikes Ethan blue helmet mouthguard flying out impact sparks\n\nMATCH PAGE 5c style anchor. EXACTLY 3 ROWS ONLY"
+    },
+    {
+      "id": "page7",
+      "label": "PAGE 7 — Score, silence & black (1.44–1.45)",
+      "output": "chapter-01-page-7-ko-aftermath.png",
+      "panel_ids": ["1.44", "1.45"],
+      "reference_images": [
+        "reference-sheets/output/ethan-hyun/gear-front.png",
+        "reference-sheets/output/ttong-kim/casual-front.png"
+      ],
+      "style_anchor": "gallery/strips/arc-01/chapter-01-page-6-cards-hook.png",
+      "prompt": "Vertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles. Readable text ONLY scoreboard labels RED BLUE and numbers 6 and 0 NO fighter names,\n\nROW 1 ~30% beat 1.44a: electronic taekwondo scoreboard large display labels RED and BLUE only RED score 6 BLUE score 0. Ethan Hyun teen blue hogu blue helmet falling backward mid-air from head kick BOTH white mouthguard AND blue helmet flying airborne separate objects arena background\n\nROW 2 ~40% beat 1.44b FOUR-PANEL montage left to right muted desaturated silent horror:\nPANEL 1 ~40% Ethan Hyun FACE DOWN prone on blue center red border ring mat knocked out white mouthguard lying on mat NEXT TO his head beside him clearly visible\nPANEL 2 ~20% Ttong Kim coach unconcerned cold flat expression black polo shorts underbite NOT disappointed just indifferent\nPANEL 3 ~20% Ttong Kim ONE hand curved dismissive wave wrist bent palm away shooing NOT salute manga squiggly wavy motion lines near hand showing dismissive waving gesture\nPANEL 4 ~20% Ttong Kim walking away back turned leaving ring\n\nROW 3 ~30% beat 1.45: traumatic fade to black FROM Ethan face down prone mouthguard beside head on mat dissolving into darkness vignette closing edges soundless horror NOT bedroom NOT falling silhouette\n\nSTYLE PREMIER EXACTLY 3 ROWS ONLY"
     }
   ]
 }

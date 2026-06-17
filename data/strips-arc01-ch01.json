@@ -32,11 +32,34 @@
       "panel_ids": ["1.17", "1.19", "1.21", "1.22", "1.26"]
     },
     {
-      "id": "page5",
-      "file": "chapter-01-page-4-favoritism.png",
-      "label": "PAGE 5 — Favoritism & Called (1.27–1.32)",
-      "panel_ids": ["1.27", "1.28", "1.29", "1.30", "1.31", "1.32"],
-      "pending": true
+      "id": "page5a",
+      "file": "chapter-01-page-5a-bleachers-contract.png",
+      "label": "PAGE 5a — Bleachers & contract (1.27–1.28)",
+      "panel_ids": ["1.27", "1.28"]
+    },
+    {
+      "id": "page5b",
+      "file": "chapter-01-page-5b-called-walk.png",
+      "label": "PAGE 5b — Called & walk past (1.29–1.30)",
+      "panel_ids": ["1.29", "1.30"]
+    },
+    {
+      "id": "page5c",
+      "file": "chapter-01-page-5c-dojang-montage.png",
+      "label": "PAGE 5c — Dojang montage & ring start (1.31–1.33)",
+      "panel_ids": ["1.31", "1.32", "1.33"]
+    },
+    {
+      "id": "page6",
+      "file": "chapter-01-page-6-cards-hook.png",
+      "label": "PAGE 6 — Cards, bounty & the hook (1.35–1.43)",
+      "panel_ids": ["1.35", "1.36", "1.36b", "1.37", "1.41", "1.43"]
+    },
+    {
+      "id": "page7",
+      "file": "chapter-01-page-7-ko-aftermath.png",
+      "label": "PAGE 7 — Score, silence & black (1.44–1.45)",
+      "panel_ids": ["1.44", "1.45"]
     }
   ],
   "skipped_strips": [

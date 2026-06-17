@@ -70,13 +70,19 @@
 
 ## Appearance
 
-- Dark blue shadow-perm hair
-- Brown eyes
-- Gold headphones (almost always on off-mat)
-- White gear backpack
-- Silver-letter black belt
+- Dark blue shadow-perm hair (Korean shadow perm, slightly messy)
+- Brown eyes · soft jawline · sharp reserved expression — **K-pop visual**
+- Lean athletic build · 5'3" · long limbs
 
-**Visual note:** "Looks like a K-pop idol" — use for AI prompts; contrasts with quiet personality.
+### Outfits
+
+| Context | Look |
+|---------|------|
+| **Casual** | Oversized **black hoodie** · white undershirt · **black cargo pants** · white sneakers · gold headphones · white gear backpack |
+| **Dobok** | White WT dobok · **black belt with silver 태권도 embroidery** (NO dragon) · Premier patch |
+| **Tournament kit** | Dobok + **blue electronic hogu** · **blue helmet** · white forearm/shin/foot guards |
+
+**Visual note:** "Looks like a K-pop idol" — contrasts with quiet personality.
 
 ---
 

@@ -17,34 +17,26 @@ Ethan arrives alone at Kwon's Taekwondo Academy — quiet, guarded, carrying a s
 
 **Purpose:** Establish Premier's neglect before the violence. The trauma isn't just the kick — it's an entire day of being invisible after your family paid for coaching.
 
-#### Beat 1 — Tournament Morning (Waiting)
-- Premier Taekwondo team bus / venue exterior — tournament banners
-- Kids in full hogus at **7 AM** — but bracket says Ethan's division isn't until **late afternoon**
-- **[REAL #13 setup]** No instructor-led warmup. No strategy talk. No pad work.
-- Ethan sits on metal bleachers for **hours** — legs stiff, gear hot, mouthguard already in too long
-- Other Premier kids scroll phones, eat vending machine snacks — abandoned routine
+#### Beat 1 — Tournament Morning (Arrival → Preparation)
+- **Casual arrival:** venue silhouette → Premier van → walk → **door reflection** (casual outside / gear inside) → hallway **7 AM** still in hoodie
+- **Transformation:** changing room dobok → tie belt → hogu/guards/helmet sequence → **mirror reveal**
+- **Neglect begins:** warmup floor — other kids coached · **Ethan alone** — no warmup
 
 #### Beat 2 — Paid Coaching, Minutes of Attention
-- Flash inserts: parents hand enrollment checks, "VIP training package" brochures, premium gear orders
-- **[REAL #5]** Paying families' kids get pulled aside — instructor laughs with them, adjusts their gear, whispers corner advice
-- Ethan watches from the bleachers — same dobok, same school patch, different treatment
-- A parent from another kid's family "helps" Ethan stretch wrong — instructor doesn't look over
-- **[REAL #6]** Ethan won every internal school scrimmage last month — still sitting alone today
+- Ethan on bleachers watches **Ttong** give touchy, hands-on warmup to a **young female student** — favoritism reads uncomfortable
+- Flash: enrollment day — shadow parent, VIP brochure, **young Ethan (~5)** excited; Repeul counts money; *"We'll take good care of him."*
+- PA calls **Ring 4** — Ethan picks up helmet, walks past Ttong (ignored)
+- Flash montage: Ethan lands head kick, roundhouse body, cut/push kick — **Ttong bored on sidelines**, never watching
 
 #### Beat 3 — The Only Minutes That Count
-- Hours later — finally called to staging area
-- **[REAL #28]** Instructor holds up **1,000 won** — offers class money if their student **knocks out** an opponent; says **black belts must finish opponents**, **Ethan too nice / too soft** — called out in staging
-- Instructor appears for the **first time all day** — 90 seconds max
-- No name. No plan. No "how's your body feel after waiting eight hours."
-- Points at ring: **"Go fight."** [REAL #13]
-- Ethan steps in **cold** — stiff legs, no sweat broken, heart rate wrong
-- Corner: instructor already turned toward another parent's kid — next match, next check
+- Fighter cards (Ttong · Repeul · Ethan) with roster stats
+- **[REAL #28]** Knockout bounty — 1,000 won — *too soft*
+- Ttong yells *attack, don't be soft* — Ethan hesitant vs looming opponent — **spinning hook** — mouthguard out
 
 #### Beat 4 — The Kick
-- Opponent older, taller — exhibition / open bracket energy
-- Spinning hook kick to head — electronic sensor flash
-- Ethan's legs buckle — sound drops out
-- Instructor face in background — **disappointed**, not concerned
+- Scoreboard **6–0** — Ethan falls
+- Sound dies — Ttong **disappointed**, not concerned
+- Fade to black → wake in bed
 
 #### Beat 5 — Wake Up
 - Smash cut: Ethan jolts upright in bed — sweat, gasping
@@ -149,7 +141,7 @@ Ethan arrives alone at Kwon's Taekwondo Academy — quiet, guarded, carrying a s
 
 ## Panel Storyboard
 
-Full panel-by-panel AI prompts: **[arc-01-panel-storyboard.md](../storyboards/arc-01-panel-storyboard.md)** (203 panels, ~20 per chapter, Chapters 1–10)
+Full panel-by-panel AI prompts: **[arc-01-panel-storyboard.md](../storyboards/arc-01-panel-storyboard.md)** (408 panels · Ch 1 has 48 · Ch 2–10 have 40 each)
 
 **Scene scripts:** [Ch 1 nightmare](../scripts/arc-01-ch01-nightmare.md) · [Ch 2–10 Welcome to Kwon's](../scripts/arc-01-ch02-10-welcome-kwons.md)
 

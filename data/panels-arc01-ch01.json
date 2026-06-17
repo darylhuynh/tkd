@@ -162,44 +162,44 @@
     },
     {
       "id": "1.27",
-      "title": "VIP Flash Insert [FLASH \u2014 dojang enrollment]",
-      "prompt": "flashback inset border taekwondo school front desk check payment VIP brochure,\nfavored student partial figure edge of frame NOT protagonist, overweight woman ugly clothes silent behind instructor,\nsleazy enrollment atmosphere, STYLE: PREMIER flashback\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "title": "Bleachers Watch [PRESENT \u2014 tournament venue]",
+      "prompt": "Ethan Hyun teen 15 full competition kit blue hogu helmet off on bleacher bench sitting alone watching across gymnasium,\ndistant Ttong Kim instructor hands-on warming up young female teen athlete spotting stretch hands on shoulders hips too long uncomfortable favoritism,\nEthan unsettled tight expression empty seats beside him tournament fluorescents, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.27.png"
     },
     {
       "id": "1.28",
-      "title": "Favoritism [PRESENT \u2014 tournament venue]",
-      "prompt": "taekwondo instructor kneeling adjusting favored student blue helmet tournament venue,\nwealthy parents watching proudly personal coaching, warm light on favored student NOT small dark blue hair boy,\nSTYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "title": "The Contract [FLASH \u2014 enrollment day]",
+      "prompt": "flashback inset border desaturated Premier taekwondo front desk enrollment,\nfaceless dark shadow parent silhouette no facial features handing VIP brochure to Ttong Kim sleazy smile,\nRepeul Kim background counting cash money stack,\nyoung boy Ethan age 5 small child dark hair joyous excited grin beside shadow parent ready to join taekwondo,\nSTYLE: PREMIER flashback sleazy contract\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.28.png"
     },
     {
       "id": "1.29",
-      "title": "Ethan's View [PRESENT \u2014 bleachers ANCHOR]",
-      "prompt": "POV from bleachers looking across gymnasium at distant coach helping another student,\nblurred foreground lonely knees in hogu gear empty seats beside him, emotional isolation,\nSTYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "title": "Called to Ring [PRESENT \u2014 tournament venue]",
+      "prompt": "tournament gymnasium referee or PA announcement wide shot competition rings,\nEthan Hyun teen full kit on bleachers looking up alert stiff legs afternoon harsh fluorescents,\nRing 4 staging visible background, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.29.png"
     },
     {
       "id": "1.30",
-      "title": "Wrong Stretch [PRESENT \u2014 bleachers]",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, well-meaning stranger parent stretching teen athlete arm awkwardly on bleachers,\nteen wincing coach far background turned away not watching neglect,\nSTYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "title": "Walk Past [PRESENT \u2014 tournament floor]",
+      "prompt": "Ethan Hyun teen full competition kit carrying blue helmet walking past Ttong Kim instructor,\nTtong still hands-on with young female student ignoring Ethan completely,\nEthan alone walking toward distant competition ring tournament floor tracking shot neglect,\nSTYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.30.png"
     },
     {
       "id": "1.31",
-      "title": "Skill vs Silence [FLASH inset + PRESENT split]",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, split panel top FLASH inset dojang scrimmage teen landing head kick smirking weeks ago,\nbottom PRESENT same teen alone bleachers phone 2 47 PM contrast best fighter still ignored,\nSTYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "title": "Dojang Montage [FLASH \u2014 training cuts]",
+      "prompt": "FLASH montage tri-cut Premier dojang sparring teen Ethan dark blue hair white dobok black belt,\npanel A clean head kick landing on teammate,\npanel B roundhouse kick to body,\npanel C cut kick push kick opponent falling to mat,\ndynamic action sharp linework, STYLE: PREMIER flashback\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.31.png"
     },
     {
       "id": "1.32",
-      "title": "Finally Called",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, teen taekwondo fighter standing stiffly from bleachers, legs asleep expression,\ncompetition staging area, referee in background, afternoon harsh light, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "title": "Displeased Coach [FLASH \u2014 dojang]",
+      "prompt": "FLASH Premier dojang Ttong Kim standing arms crossed watching sparring displeased unsatisfied scowl,\nRepeul Kim behind eating potato chips bag multicolor casual,\nteen Ethan white dobok black belt looking back over shoulder noticing coach unhappy expression,\ndesaturated flashback NOT tournament, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.32.png"
     },
     {
       "id": "1.33",
-      "title": "Corridor to Staging",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Premier school patch black belt walking crowded tournament corridor toward staging area athletes passing tense shoulders afternoon harsh light tracking shot, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "title": "Ring Start [PRESENT \u2014 competition ring]",
+      "prompt": "tournament ring blue center mat red border Ethan Hyun teen small 5 foot 3 blue hogu fastening blue helmet on,\ntaller bigger teen opponent red hogu facing opposite standoff few inches taller,\nreferee black pants white dress shirt red tie hand raised starting match,\ncrowd arena background, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.33.png"
     },
     {
@@ -258,14 +258,14 @@
     },
     {
       "id": "1.43",
-      "title": "The Spinning Hook",
-      "prompt": "dynamic action shot taekwondo spinning hook kick impact on blue helmet,\nboth fighters white dobok full olympic kyorugi gear blue electronic hogu blue helmet forearm shin foot guards,\nmotion blur on kicking leg, electronic score sensor flash, dramatic speed lines, impact frame, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "title": "The Hook Kick",
+      "prompt": "taekwondo hook kick huryeo chagi heel strike impact on blue helmet,\nred hogu opponent facing Ethan head peeking over shoulder curved hooking leg arc,\nEthan blue hogu mouthguard flying out sensor flash, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.43.png"
     },
     {
       "id": "1.44",
-      "title": "Sound Dies",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, teen taekwondo fighter falling after head kick impact,\nwhite dobok full olympic kyorugi gear blue electronic hogu blue helmet forearm shin foot guards,\nsilent horror moment, muted desaturated colors,\ndisappointed coach arms crossed background, crowd blurred, soundless atmosphere visual,\nSTYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "title": "Score & Silence [four-panel strip]",
+      "prompt": "PAGE 7 row 2 four-panel 40-20-20-20:\nEthan face down prone on mat silent horror desaturated,\nTtong unconcerned indifferent,\nTtong one hand dismissive wave,\nTtong walking away back turned,\nROW 3 fade to black from face-down Ethan on mat,\nSTYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.44.png"
     },
     {
