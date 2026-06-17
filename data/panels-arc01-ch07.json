@@ -1,0 +1,248 @@
+{
+  "arc": 1,
+  "chapter": 7,
+  "global_style": "manhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+  "global_negative": "photorealistic, 3d render, western comic style, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless specified",
+  "panels": [
+    {
+      "id": "7.1",
+      "title": "Young Ethan Doorway Flash",
+      "prompt": "FLASH young Ethan Hyun excited smaller frame Premier dojang doorway enrollment day bright hopeful, STYLE: PREMIER flashback\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.1.png"
+    },
+    {
+      "id": "7.2",
+      "title": "Opening Day (Warm)",
+      "prompt": "flashback small new taekwondo dojang, young white belt boy bowing, warm smiling instructor,\nhopeful beginning, soft warm memory filter, STYLE: PREMIER lighter\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.2.png"
+    },
+    {
+      "id": "7.3",
+      "title": "Present Flinch",
+      "prompt": "PRESENT Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt micro flinch at doorway memory Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes steady beside grounding present, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.3.png"
+    },
+    {
+      "id": "7.4",
+      "title": "Growth",
+      "prompt": "montage three panels taekwondo school growing more students more trophies,\ninstructor smile fading each panel, time passage, STYLE: PREMIER cooling\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.4.png"
+    },
+    {
+      "id": "7.5",
+      "title": "MV Breathing Demo",
+      "prompt": "Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes demonstrating slow breathing hand on chest coaching calm Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt watching, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.5.png"
+    },
+    {
+      "id": "7.6",
+      "title": "Favoritism Montage",
+      "prompt": "taekwondo instructor praising student with expensive gear, another talented teen in worn gear ignored corner,\nfavoritism visual, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.6.png"
+    },
+    {
+      "id": "7.7",
+      "title": "Ethan Copying Inhale",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt copying breathing inhale eyes closed shoulders dropping release exercise, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.7.png"
+    },
+    {
+      "id": "7.8",
+      "title": "Sidelined",
+      "prompt": "teen winning sparring drill but coach pointing to bench telling him to sit,\nless skilled wealthy student called forward instead, injustice panel, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.8.png"
+    },
+    {
+      "id": "7.9",
+      "title": "One-Step Slide Foot",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt one-step sparring drill sliding foot precise present focus Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes guiding, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.9.png"
+    },
+    {
+      "id": "7.10",
+      "title": "Present Anchor",
+      "prompt": "present day teen frozen in fighting stance on dojang mats alone, dissociating,\nwarm dojang, concerned coach voice off panel, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.10.png"
+    },
+    {
+      "id": "7.11",
+      "title": "Partner Shadow Imaginary",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt practicing footwork shadow partner on wooden mat focused solitary drill, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.11.png"
+    },
+    {
+      "id": "7.12",
+      "title": "MV Enters Frame",
+      "prompt": "master stepping into view careful not to startle dissociating teen,\ngentle check-in, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.12.png"
+    },
+    {
+      "id": "7.13",
+      "title": "Flash Trophy Shelf Premier",
+      "prompt": "FLASH Premier dojang trophy shelf young Ethan Hyun reflection in glass early pride before neglect, STYLE: PREMIER flashback\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.13.png"
+    },
+    {
+      "id": "7.14",
+      "title": "Ethan Returns",
+      "prompt": "teen returning to present embarrassed exhale master half-smile not calling lie,\nrecovery moment, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.14.png"
+    },
+    {
+      "id": "7.15",
+      "title": "Present Fist Unclench Mat",
+      "prompt": "PRESENT Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt fist unclenching on mat ghost memory fading warm light winning, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.15.png"
+    },
+    {
+      "id": "7.16",
+      "title": "Opening Day Detail [FLASH]",
+      "prompt": "flashback brand new small taekwondo dojang empty fresh mats younger instructor genuine smile,\nhopeful memory filter, STYLE: PREMIER lighter\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.16.png"
+    },
+    {
+      "id": "7.17",
+      "title": "Window Ledge Walk",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt walking to dojang window ledge city traffic below contemplative wide shot, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.17.png"
+    },
+    {
+      "id": "7.18",
+      "title": "Young Ethan Excited [FLASH]",
+      "prompt": "flashback young white belt boy first taekwondo uniform excited parents blurred proud,\nchildhood hope, STYLE: PREMIER lighter\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.18.png"
+    },
+    {
+      "id": "7.19",
+      "title": "City Traffic Below",
+      "prompt": "POV city traffic below dojang window small teen reflection in glass contemplative scale shot, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.19.png"
+    },
+    {
+      "id": "7.20",
+      "title": "Enrollment Line [FLASH]",
+      "prompt": "flashback montage enrollment line growing VIP brochures multiplying silent woman background,\ncommercialization creeping in, STYLE: PREMIER cooling\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.20.png"
+    },
+    {
+      "id": "7.21",
+      "title": "MV Hand on Shoulder",
+      "prompt": "Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes hand on shoulder brief supportive gesture Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt accepting not shrugging off, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.21.png"
+    },
+    {
+      "id": "7.22",
+      "title": "First Trophy [FLASH]",
+      "prompt": "flashback teen winning medal instructor hugging different student in background for photo,\nbetrayal seed memory, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.22.png"
+    },
+    {
+      "id": "7.23",
+      "title": "Ethan Minimal Nod",
+      "prompt": "close-up Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt minimal nod quiet gratitude no words emotional beat, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.23.png"
+    },
+    {
+      "id": "7.24",
+      "title": "Scrimmage King [FLASH]",
+      "prompt": "flashback sparring teen dominating coach applauding weaker wealthy student instead,\ninjustice montage cell, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.24.png"
+    },
+    {
+      "id": "7.25",
+      "title": "Bow Together",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt and Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes bowing together matched depth mutual respect flashback session close, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.25.png"
+    },
+    {
+      "id": "7.26",
+      "title": "Demo Team Pick [FLASH]",
+      "prompt": "flashback clipboard names crossed out favored student circled demo team selection,\nexplicit sideline panel, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.26.png"
+    },
+    {
+      "id": "7.27",
+      "title": "Ghost Flash Fade",
+      "prompt": "Premier trophy flash dissolving into warm Kwon's wooden floor ghost memory fading transition, STYLE: PREMIER to KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.27.png"
+    },
+    {
+      "id": "7.28",
+      "title": "Gear Gap [FLASH]",
+      "prompt": "flashback split panel expensive new taekwondo gear vs worn gear same school patch,\neconomic favoritism visual, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.28.png"
+    },
+    {
+      "id": "7.29",
+      "title": "Present Color Warmer",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt present frame warming amber light returning exhale relief after flashback, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.29.png"
+    },
+    {
+      "id": "7.30",
+      "title": "Ttong Smile Thin [FLASH]",
+      "prompt": "flashback instructor portrait smile not reaching eyes predatory undertone,\nunsettling promo photo aesthetic, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.30.png"
+    },
+    {
+      "id": "7.31",
+      "title": "Class Joins Wide",
+      "prompt": "wide shot class training line Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt included not sidelined warm dojang community, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.31.png"
+    },
+    {
+      "id": "7.32",
+      "title": "Present \u2014 Ethan Fists",
+      "prompt": "present teen unclenching fists on mat master coaching breathing,\ngrounding exercise, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.32.png"
+    },
+    {
+      "id": "7.33",
+      "title": "Partner Bow Exchange",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt bowing with training partner included exchange respectful class rhythm, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.33.png"
+    },
+    {
+      "id": "7.34",
+      "title": "One Step Drill",
+      "prompt": "master running one step self defense drill teen flowing through movements,\ntherapeutic movement panel, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.34.png"
+    },
+    {
+      "id": "7.35",
+      "title": "MV Counts Combo",
+      "prompt": "Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes counting combination Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt keeping pace focused training flow, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.35.png"
+    },
+    {
+      "id": "7.36",
+      "title": "Kind When Empty [V.O.]",
+      "prompt": "present kick with faint ghost overlay flash empty dojang opening day double exposure,\npoetic memory blend, STYLE: KWONS with PREMIER ghost\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.36.png"
+    },
+    {
+      "id": "7.37",
+      "title": "Sunset Bow Out",
+      "prompt": "sunset class bow out Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt last to rise slower not excluded warm light, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.37.png"
+    },
+    {
+      "id": "7.38",
+      "title": "MV Sees Ghost Too",
+      "prompt": "master watching teen train recognizing trauma behind eyes compassionate observation,\nmentor POV panel, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.38.png"
+    },
+    {
+      "id": "7.39",
+      "title": "Street Peace After Flash",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants walking evening street peaceful expression after heavy flashback session, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.39.png"
+    },
+    {
+      "id": "7.40",
+      "title": "Bow Out \u2014 Present Wins",
+      "prompt": "teen bowing on kwons mat present tense choosing forward golden light,\narc closure beat chapter 7, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/7.40.png"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "arc": 1,
+  "chapter": 9,
+  "global_style": "manhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+  "global_negative": "photorealistic, 3d render, western comic style, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless specified",
+  "panels": [
+    {
+      "id": "9.1",
+      "title": "MV Answer Gentle",
+      "prompt": "Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes answering gently open hands kind expression Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt listening hopeful, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.1.png"
+    },
+    {
+      "id": "9.2",
+      "title": "The Ask",
+      "prompt": "nervous teen fidgeting with black belt asking question, taekwondo master listening after class,\nempty dojang, hopeful anxiety, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.2.png"
+    },
+    {
+      "id": "9.3",
+      "title": "Phone Unlock",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt unlocking smartphone beginning contact scroll nervous hope, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.3.png"
+    },
+    {
+      "id": "9.4",
+      "title": "MV Answer",
+      "prompt": "taekwondo master simple kind nod, warm expression, short powerful dialogue moment,\nteen visible relief, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.4.png"
+    },
+    {
+      "id": "9.5",
+      "title": "Premier Names Scroll",
+      "prompt": "smartphone contact list scrolling Premier taekwondo team names old connections emotional weight, STYLE: PREMIER soft\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.5.png"
+    },
+    {
+      "id": "9.6",
+      "title": "The Text",
+      "prompt": "close-up smartphone group chat typing message, contact names visible,\nteen thumbs typing, golden hour through window on hands, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.6.png"
+    },
+    {
+      "id": "9.7",
+      "title": "Group Chat Icon",
+      "prompt": "smartphone group chat icon hover Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes nodding background Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt nervous invitation moment, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.7.png"
+    },
+    {
+      "id": "9.8",
+      "title": "Replies Flood",
+      "prompt": "smartphone screen flooding with reply notifications excited messages,\ncomic relief energy, warm lighting, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.8.png"
+    },
+    {
+      "id": "9.9",
+      "title": "Typing Bubble",
+      "prompt": "smartphone typing message bubble draft invitation Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt focused screen glow, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.9.png"
+    },
+    {
+      "id": "9.10",
+      "title": "TJ First Reply",
+      "prompt": "smartphone group chat TJ message confident tone address request,\ntext UI panel comic energy, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.10.png"
+    },
+    {
+      "id": "9.11",
+      "title": "Send Arrow Tap",
+      "prompt": "close-up send arrow tap smartphone message sent Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt holding breath anticipation, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.11.png"
+    },
+    {
+      "id": "9.12",
+      "title": "Kieryn Sarcasm",
+      "prompt": "smartphone chat kieryn sarcastic reply typing bubble energy,\ncharacter voice through text, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.12.png"
+    },
+    {
+      "id": "9.13",
+      "title": "Waiting Clock Wall",
+      "prompt": "dojang wall clock waiting Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt phone face up no replies yet anxious patience, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.13.png"
+    },
+    {
+      "id": "9.14",
+      "title": "Logan Sticker Flood",
+      "prompt": "smartphone chat logan food emoji stickers flood comic relief,\ncharacter personality text only, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.14.png"
+    },
+    {
+      "id": "9.15",
+      "title": "MV Preparing Mats Early",
+      "prompt": "Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes preparing training mats early morning alone dawn light through windows dedication, STYLE: KWONS dawn\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.15.png"
+    },
+    {
+      "id": "9.16",
+      "title": "Kian Short",
+      "prompt": "smartphone chat kian short blunt message rematch energy,\nminimal text panel, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.16.png"
+    },
+    {
+      "id": "9.17",
+      "title": "Ethan Early Street Walk",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants early morning street walk to dojang lighter step anticipation, STYLE: KWONS dawn\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.17.png"
+    },
+    {
+      "id": "9.18",
+      "title": "Ariana Read Receipt",
+      "prompt": "smartphone chat ariana read receipt no reply typing stopped mystery,\nquiet character tease, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.18.png"
+    },
+    {
+      "id": "9.19",
+      "title": "Key Turn Door",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants turning key opening dojang door early arrival first inside dawn, STYLE: KWONS dawn\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.19.png"
+    },
+    {
+      "id": "9.20",
+      "title": "Ethan Stares At Screen",
+      "prompt": "teen sitting on dojang steps phone glow face almost smiling internal relief,\ngolden evening, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.20.png"
+    },
+    {
+      "id": "9.21",
+      "title": "Lights Flip On",
+      "prompt": "dojang lights flipping on empty training mat team day approaching wide dawn shot, STYLE: KWONS dawn\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.21.png"
+    },
+    {
+      "id": "9.22",
+      "title": "MV Over Shoulder",
+      "prompt": "master locking dojang door seeing teen on steps simple question,\nwarm evening two-shot, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.22.png"
+    },
+    {
+      "id": "9.23",
+      "title": "Mat Layout Straighten",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt straightening mat layout parallel lines responsible preparation team day, STYLE: KWONS dawn\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.23.png"
+    },
+    {
+      "id": "9.24",
+      "title": "Ethan Nods",
+      "prompt": "teen nodding not hiding phone hopeful maybe answer,\ntrust micro-moment, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.24.png"
+    },
+    {
+      "id": "9.25",
+      "title": "Text Reply Vibration",
+      "prompt": "smartphone vibration reply notification Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt eyes widening micro hope team response, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.25.png"
+    },
+    {
+      "id": "9.26",
+      "title": "Everyone Deserves Home (Repeat Weight)",
+      "prompt": "master repeating kind policy line teen listening full meaning landing,\nmentor wisdom evening light, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.26.png"
+    },
+    {
+      "id": "9.27",
+      "title": "Ariana Typing Finally",
+      "prompt": "smartphone screen Ariana typing indicator finally appearing group chat hope beat, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.27.png"
+    },
+    {
+      "id": "9.28",
+      "title": "Schedule Check",
+      "prompt": "teen screenshotting class schedule sending group chat taking charge,\nleadership seed panel, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.28.png"
+    },
+    {
+      "id": "9.29",
+      "title": "Ethan Small Exhale",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt small exhale shoulders dropping relief not alone anymore emotional beat, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.29.png"
+    },
+    {
+      "id": "9.30",
+      "title": "Premier Group Chat Muted",
+      "prompt": "smartphone muting old premier group chat notification badge ignored,\nbreaking away panel, STYLE: PREMIER cold on KWONS present\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.30.png"
+    },
+    {
+      "id": "9.31",
+      "title": "Replies Flood Montage",
+      "prompt": "smartphone montage multiple reply bubbles stacking team responses warming screen glow, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.31.png"
+    },
+    {
+      "id": "9.32",
+      "title": "Ariana Finally Replies",
+      "prompt": "smartphone single word reply ariana okay minimal emotional weight,\nquiet character text beat, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.32.png"
+    },
+    {
+      "id": "9.33",
+      "title": "MV Over Shoulder Check",
+      "prompt": "Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes over shoulder checking Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt face small proud nod mentor approval, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.33.png"
+    },
+    {
+      "id": "9.34",
+      "title": "Night Before \u2014 Ethan Prepares",
+      "prompt": "teen preparing guest enrollment forms on dojang desk night before arrivals,\nanticipation detail shot, STYLE: KWONS night\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.34.png"
+    },
+    {
+      "id": "9.35",
+      "title": "Evening Gear Prep",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt laying out extra guest training gear evening anticipation team visit prep, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.35.png"
+    },
+    {
+      "id": "9.36",
+      "title": "MV Early Light",
+      "prompt": "master opening dojang early morning turning on lights extra mats prepared,\nmentor preparation wide shot, STYLE: KWONS dawn\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.36.png"
+    },
+    {
+      "id": "9.37",
+      "title": "Night Before Window",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants at apartment window night before team day quiet street reflective hope, STYLE: KWONS soft\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.37.png"
+    },
+    {
+      "id": "9.38",
+      "title": "Ethan Early Arrival",
+      "prompt": "teen waiting outside dojang early morning bag packed no headphones nervous excited,\ndawn arrival, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.38.png"
+    },
+    {
+      "id": "9.39",
+      "title": "Dawn Team Day Hint Wide",
+      "prompt": "wide shot Kwon's dojang exterior dawn team day approaching hopeful golden light caption space, STYLE: KWONS dawn\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.39.png"
+    },
+    {
+      "id": "9.40",
+      "title": "Door Unlock",
+      "prompt": "master unlocking dojang door teen following inside empty mat morning light ready,\nchapter transition to team arrival, STYLE: KWONS dawn\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/9.40.png"
+    }
+  ]
+}

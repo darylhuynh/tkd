@@ -1,0 +1,248 @@
+{
+  "arc": 1,
+  "chapter": 4,
+  "global_style": "manhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+  "global_negative": "photorealistic, 3d render, western comic style, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless specified",
+  "panels": [
+    {
+      "id": "4.1",
+      "title": "Glove Wrap Hands",
+      "prompt": "close-up wrapping hands for pad work tape Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt focused expression preparation beat, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.1.png"
+    },
+    {
+      "id": "4.2",
+      "title": "Pad Work Begins [TEACH]",
+      "prompt": "taekwondo training teen chambering roundhouse kick labeled hip rotation,\nmaster holding kicking shield instructional sports manga, STYLE: KWONS TEACH\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.2.png"
+    },
+    {
+      "id": "4.3",
+      "title": "Walking to Pad Lane",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt walking to pad training lane Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes turning with focus mitts ready coaching setup, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.3.png"
+    },
+    {
+      "id": "4.4",
+      "title": "Roundhouse [TEACH]",
+      "prompt": "action taekwondo roundhouse kick hitting chest hogu target zone highlight,\ninstructional inset, master bracing shield, STYLE: KWONS TEACH\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.4.png"
+    },
+    {
+      "id": "4.5",
+      "title": "MV Holding Pads Approach",
+      "prompt": "Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes holding focus mitts at proper height Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt squaring shoulders ready stance coaching intimacy, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.5.png"
+    },
+    {
+      "id": "4.6",
+      "title": "Back Kick [TEACH]",
+      "prompt": "teen executing taekwondo back kick looking over shoulder foot path diagram space,\ninstructional side view, STYLE: KWONS TEACH\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.6.png"
+    },
+    {
+      "id": "4.7",
+      "title": "Reset Walk Between Combos",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt stepping back between combo resets controlled breathing Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes waiting patient pads down, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.7.png"
+    },
+    {
+      "id": "4.8",
+      "title": "Cut Kick [TEACH]",
+      "prompt": "taekwondo cut kick low line striking focus paddle, leg chamber diagram inset,\ninstructional sports manga, STYLE: KWONS TEACH\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.8.png"
+    },
+    {
+      "id": "4.9",
+      "title": "Shield Pickup",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt picking up large kicking shield familiar weight new peaceful dojang context, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.9.png"
+    },
+    {
+      "id": "4.10",
+      "title": "Perfect Form",
+      "prompt": "taekwondo master studying teen fighter with serious impressed expression,\nteen sweating breathing hard, quiet tension, medium two-shot, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.10.png"
+    },
+    {
+      "id": "4.11",
+      "title": "Rotation Wait Turn",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt waiting against wall during class rotation watching senior student train attentive, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.11.png"
+    },
+    {
+      "id": "4.12",
+      "title": "No Answer",
+      "prompt": "teen athlete looking away unable to answer, jaw clenched, master waiting patiently background,\nemotional silence panel, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.12.png"
+    },
+    {
+      "id": "4.13",
+      "title": "Watching Senior Kick",
+      "prompt": "senior student clean snapping kick demo Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt watching from sideline studying form, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.13.png"
+    },
+    {
+      "id": "4.14",
+      "title": "They Didn't Have Me",
+      "prompt": "teen speaking difficult truth looking away master listening still not pushing,\nemotional honesty panel medium shot, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.14.png"
+    },
+    {
+      "id": "4.15",
+      "title": "Back to Pads Focus",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt returning to focus mitts intense eyes narrow ready stance Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes holding pads, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.15.png"
+    },
+    {
+      "id": "4.16",
+      "title": "MV Adjusts Shield",
+      "prompt": "master resetting kicking shield professional calm after emotional beat,\nback to training transition, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.16.png"
+    },
+    {
+      "id": "4.17",
+      "title": "Mat Scuff Detail",
+      "prompt": "close-up wooden dojang mat scuff mark from pivot foot training wear detail authentic practice, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.17.png"
+    },
+    {
+      "id": "4.18",
+      "title": "Chamber Speed [TEACH]",
+      "prompt": "teen chambering fast roundhouse kick master observing hip alignment,\ninstructional speed vs form panel, STYLE: KWONS TEACH\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.18.png"
+    },
+    {
+      "id": "4.19",
+      "title": "MV Nod Continue",
+      "prompt": "Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes nodding continue gesture Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt chambering kick again coaching rhythm trust building, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.19.png"
+    },
+    {
+      "id": "4.20",
+      "title": "Combo Flow",
+      "prompt": "dynamic taekwondo combo roundhouse into cut kick on focus mitts,\nbackground students pausing to watch impressed, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.20.png"
+    },
+    {
+      "id": "4.21",
+      "title": "Electronic Hogu Door Peek",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt peeking into electronic hogu training room sensors on wall curious respectful, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.21.png"
+    },
+    {
+      "id": "4.22",
+      "title": "Breathing Control",
+      "prompt": "teen fighter controlled breathing after combo sweat on brow steady,\nmaster noting endurance detail observation panel, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.22.png"
+    },
+    {
+      "id": "4.23",
+      "title": "Walking to Sensor Zone",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt walking to electronic scoring sensor zone practice kick light registering sport training, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.23.png"
+    },
+    {
+      "id": "4.24",
+      "title": "Back Kick Distance [TEACH]",
+      "prompt": "precise taekwondo back kick stopping inches from master chest perfect distance control,\ninstructional trust drill, STYLE: KWONS TEACH\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.24.png"
+    },
+    {
+      "id": "4.25",
+      "title": "Return to Main Mat",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt walking back to main mat Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes resetting kicking shields background routine coaching, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.25.png"
+    },
+    {
+      "id": "4.26",
+      "title": "Class Resumes Watching",
+      "prompt": "taekwondo class on water break watching talented newcomer train sideline whispers,\npeer assessment wide shot, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.26.png"
+    },
+    {
+      "id": "4.27",
+      "title": "Cool Down Perimeter Walk",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt cool down walking dojang mat perimeter slow steps relaxed shoulders, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.27.png"
+    },
+    {
+      "id": "4.28",
+      "title": "MV Correction Micro",
+      "prompt": "master correcting teen foot angle tiny adjustment instant compliance,\ndetail instructional panel feet and mat, STYLE: KWONS TEACH\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.28.png"
+    },
+    {
+      "id": "4.29",
+      "title": "Bow to MV Close",
+      "prompt": "close-up mutual bow Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt and Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes respectful deep formal gratitude moment, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.29.png"
+    },
+    {
+      "id": "4.30",
+      "title": "Electronic Hogu Mention [TEACH]",
+      "prompt": "master holding electronic chest hogu explaining sensor zone diagram inset,\nolympic taekwondo education panel, STYLE: KWONS TEACH\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.30.png"
+    },
+    {
+      "id": "4.31",
+      "title": "Gear Bag Zip",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants zipping white gear backpack satisfied tired expression locker area end of training, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.31.png"
+    },
+    {
+      "id": "4.32",
+      "title": "Ethan Nods \u2014 Sport Mind",
+      "prompt": "teen touching electronic hogu chest sensor familiar tournament gear,\nconfident quiet knowledge, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.32.png"
+    },
+    {
+      "id": "4.33",
+      "title": "Exit Mat Backward Bow",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt exiting mat backward bow tradition Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes watching approving small smile warm light, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.33.png"
+    },
+    {
+      "id": "4.34",
+      "title": "Sweat On Mat",
+      "prompt": "close-up sweat drop on taekwondo mat after training symbolic first real work,\ndetail shot warm lighting, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.34.png"
+    },
+    {
+      "id": "4.35",
+      "title": "Water Bottle Break",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt water bottle break drinking Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes resetting kicking shields background end of pad session, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.35.png"
+    },
+    {
+      "id": "4.36",
+      "title": "Other Students Bow Out",
+      "prompt": "taekwondo class bowing out teen newcomer copying bow half beat late learning ritual,\ngroup etiquette wide shot, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.36.png"
+    },
+    {
+      "id": "4.37",
+      "title": "MV Resetting Shields",
+      "prompt": "Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes stacking kicking shields against wall class winding down Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt toweling off background, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.37.png"
+    },
+    {
+      "id": "4.38",
+      "title": "MV Quiet Praise",
+      "prompt": "master quiet private praise to teen after class not performative,\nintimate mentor moment two-shot, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.38.png"
+    },
+    {
+      "id": "4.39",
+      "title": "Hallway Bow Exit",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants bowing toward training mat from hallway doorway last look respectful habit forming, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.39.png"
+    },
+    {
+      "id": "4.40",
+      "title": "Ethan Doesn't Know What To Do",
+      "prompt": "teen awkward grateful bow instead of words master accepting bow warm,\ncharacter beat silence, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/4.40.png"
+    }
+  ]
+}

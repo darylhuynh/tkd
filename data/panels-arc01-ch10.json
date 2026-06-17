@@ -1,0 +1,248 @@
+{
+  "arc": 1,
+  "chapter": 10,
+  "global_style": "manhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+  "global_negative": "photorealistic, 3d render, western comic style, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless specified",
+  "panels": [
+    {
+      "id": "10.1",
+      "title": "Parking Lot Arrivals Montage",
+      "prompt": "suburban dojang parking lot Saturday morning multiple arrivals montage teens approaching warm light, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.1.png"
+    },
+    {
+      "id": "10.2",
+      "title": "Arrivals Begin",
+      "prompt": "taekwondo dojang entrance multiple teen silhouettes arriving different colored hair shapes,\nhero team arrival composition backlit, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.2.png"
+    },
+    {
+      "id": "10.3",
+      "title": "TJ Door Open Grin",
+      "prompt": "TJ Lim teen boy teal headband cheerful grin opening dojang door energetic entrance, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.3.png"
+    },
+    {
+      "id": "10.4",
+      "title": "TJ Lim",
+      "prompt": "teen boy 15 teal hair headband muscular build confident grin entering dojang,\ntaekwondo gear bag, champion presence, character reveal, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.4.png"
+    },
+    {
+      "id": "10.5",
+      "title": "Kieryn Mat Toe Test",
+      "prompt": "Kieryn Lim teen girl teal purple bob hair testing wooden mat with toe critical expression, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.5.png"
+    },
+    {
+      "id": "10.6",
+      "title": "Kieryn Lim",
+      "prompt": "tall teen girl 13 teal hair purple streaks asymmetrical bob arms crossed smirk,\nsassy entrance, taekwondo dobok, character reveal, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.6.png"
+    },
+    {
+      "id": "10.7",
+      "title": "Logan Snack Bag",
+      "prompt": "Logan Hyun teen boy bowl cut hair snack bag open cheerful hungry expression dojang entrance, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.7.png"
+    },
+    {
+      "id": "10.8",
+      "title": "Logan Hyun",
+      "prompt": "cheerful teen boy 13 dark blue bowl cut big eyes waving enthusiastically oversized backpack,\nfriendly energy character reveal, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.8.png"
+    },
+    {
+      "id": "10.9",
+      "title": "Kian Shadow Box Air",
+      "prompt": "Kian Sang teen boy silver white hair shadow boxing air confident entrance athletic, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.9.png"
+    },
+    {
+      "id": "10.10",
+      "title": "Kian Sang",
+      "prompt": "teen boy 15 white silver hair low taper fade dark brown skin lean athletic,\nhands in pockets challenging smirk looking at another fighter, character reveal, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.10.png"
+    },
+    {
+      "id": "10.11",
+      "title": "Ariana Last Through Door",
+      "prompt": "Ariana Yang teen girl red streak bob hair last through dojang door scanning room guarded expression, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.11.png"
+    },
+    {
+      "id": "10.12",
+      "title": "Ethan & Kian Eye Lock",
+      "prompt": "two teen taekwondo fighters eye contact moment, dark blue hair vs white silver hair,\nfriendly rivalry spark not hatred, medium shot, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.12.png"
+    },
+    {
+      "id": "10.13",
+      "title": "Ethan Introducing MV",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt introducing Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes to arriving Premier teens team bridge gesture warm dojang, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.13.png"
+    },
+    {
+      "id": "10.14",
+      "title": "Ariana Yang",
+      "prompt": "quiet teen girl 15 black hair red streaks chin bob blunt bangs dark brown skin,\nextra arm bandages stretching alone in corner silently, stoic character reveal, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.14.png"
+    },
+    {
+      "id": "10.15",
+      "title": "Team Shoe Line",
+      "prompt": "teen taekwondo team shoes lined at cubby wall chaotic polite arrivals Saturday morning, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.15.png"
+    },
+    {
+      "id": "10.16",
+      "title": "MV Addresses All",
+      "prompt": "taekwondo master addressing group of six diverse teen students on dojang mats,\nteam assembly wide shot, mentor speech moment, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.16.png"
+    },
+    {
+      "id": "10.17",
+      "title": "Stretch Row Formation",
+      "prompt": "team stretch row formation uneven spacing Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes correcting one arm warm dojang group, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.17.png"
+    },
+    {
+      "id": "10.18",
+      "title": "Ethan Looks Around",
+      "prompt": "POV looking at group of teammates smiling talking on taekwondo mats,\nwarm golden dojang light, emotional found family moment, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.18.png"
+    },
+    {
+      "id": "10.19",
+      "title": "MV Center Circle",
+      "prompt": "Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes center of team circle seven teens around Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt opposite mentor group formation, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.19.png"
+    },
+    {
+      "id": "10.20",
+      "title": "Final Wide",
+      "prompt": "epic wide shot seven taekwondo fighters and master on dojang mats team formation,\ngolden hour light through windows, found family anime poster composition,\nemotional finale, caption space at bottom, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.20.png"
+    },
+    {
+      "id": "10.21",
+      "title": "Group Bow Low",
+      "prompt": "seven teen taekwondo students group bow low synchronized enough found family chemistry, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.21.png"
+    },
+    {
+      "id": "10.22",
+      "title": "Team Stretch Circle",
+      "prompt": "taekwondo team stretch circle seven students master leading ethan included in ring,\nteam chemistry haikyuu warmth, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.22.png"
+    },
+    {
+      "id": "10.23",
+      "title": "TJ Joke Whisper",
+      "prompt": "TJ Lim whispering joke to teammate Kieryn Lim eye roll incoming comic beat team dynamic, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.23.png"
+    },
+    {
+      "id": "10.24",
+      "title": "TJ Windows Line",
+      "prompt": "confident teen teal headband grinning at ethan team banter dojang,\ncharacter voice panel HAIKYUU warmth, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.24.png"
+    },
+    {
+      "id": "10.25",
+      "title": "Kieryn Eye Roll",
+      "prompt": "Kieryn Lim eye roll trying not to smile sibling dynamic team stretch background, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.25.png"
+    },
+    {
+      "id": "10.26",
+      "title": "Kieryn Mat Test",
+      "prompt": "sarcastic teen girl testing dojang mat with foot dramatic expression,\ncomic team intro, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.26.png"
+    },
+    {
+      "id": "10.27",
+      "title": "Logan Stretch Wrong",
+      "prompt": "Logan Hyun stretching incorrectly Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes gentle correction hand on shoulder comic team moment, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.27.png"
+    },
+    {
+      "id": "10.28",
+      "title": "Logan Food Question",
+      "prompt": "cheerful small teen bowl cut raising hand asking about food oversized backpack,\ncomic relief character intro, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.28.png"
+    },
+    {
+      "id": "10.29",
+      "title": "Kian Ethan Stare",
+      "prompt": "Kian Sang and Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt eye lock rematch energy mutual respect team circle, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.29.png"
+    },
+    {
+      "id": "10.30",
+      "title": "Kian Rematch",
+      "prompt": "silver hair teen challenging smirk hands in pockets facing ethan rivalry spark,\ncharacter intro tension friendly, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.30.png"
+    },
+    {
+      "id": "10.31",
+      "title": "Ariana Corner Stretch",
+      "prompt": "Ariana Yang stretching alone in corner guarded Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt noticing team wide shot, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.31.png"
+    },
+    {
+      "id": "10.32",
+      "title": "Ariana Silent Stretch",
+      "prompt": "quiet teen girl red hair streak stretching alone extra ankle bandages not looking up,\nintroverted character intro, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.32.png"
+    },
+    {
+      "id": "10.33",
+      "title": "MV Team Speech Wide",
+      "prompt": "Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes team speech wide shot hands open everyone listening Saturday welcome energy, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.33.png"
+    },
+    {
+      "id": "10.34",
+      "title": "MV Team Speech",
+      "prompt": "master addressing semicircle team speech ethan visible among peers not spotlight,\nmentor team speech wide, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.34.png"
+    },
+    {
+      "id": "10.35",
+      "title": "Team First Unified Bow",
+      "prompt": "team first unified bow Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt slightly late Logan Hyun stifling laugh group sync, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.35.png"
+    },
+    {
+      "id": "10.36",
+      "title": "Curiosity Not Pity",
+      "prompt": "team glancing at ethan curious not pitying whispered comment,\ngroup reaction panel, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.36.png"
+    },
+    {
+      "id": "10.37",
+      "title": "Curiosity Not Pity Beat",
+      "prompt": "team teen faces curious not pitying Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt reading expressions found family seed, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.37.png"
+    },
+    {
+      "id": "10.38",
+      "title": "First Group Bow",
+      "prompt": "seven students bowing together ethan slightly late logan stifling laugh team sync,\nfound family chemistry, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.38.png"
+    },
+    {
+      "id": "10.39",
+      "title": "Caption Wide Hero",
+      "prompt": "wide hero shot full team on dojang mat caption space arc finale crescendo warm golden light, STYLE: KWONS HAIKYUU\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.39.png"
+    },
+    {
+      "id": "10.40",
+      "title": "Caption Card",
+      "prompt": "title card black background white caption space welcome to kwons text added in post,\narc finale card minimal, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "output": "gallery/panels/arc-01/10.40.png"
+    }
+  ]
+}
