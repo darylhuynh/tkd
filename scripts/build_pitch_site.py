@@ -330,7 +330,7 @@ def main() -> None:
         "story_premise": (
             "Ethan walks into Kwon's Taekwondo Academy with elite technique, a silver letter black "
             "belt and scars from an old school. Master Viet doesn't promise miracles - he promises "
-            "attention. One by one, five friends leave Prime Taekwondo Sports Dynasty's Shadow "
+            "attention. One by one, five friends leave Prime Taekwondo Sports Dynasty's shadow "
             "to follow Ethan."
         ),
         "story_premise_2": (
