@@ -833,7 +833,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 | Phase | Panels | Look |
 |-------|--------|------|
 | **Ethan casual** | 2.1–2.7 | Dark **navy hoodie** · white tee · black joggers · white sneakers · **gold headphones** · **white gear backpack** · **no dobok** |
-| **MV coaching** | 2.5–2.6 | **Kwon's vest** or white dobok · black neck stripes |
+| **MV coaching** | 2.5–2.6 | **Casual only:** white tee · **Kwon's black sleeveless vest** · black track pants white stripe · **NO dobok** |
 | **Yellow belt student** | 2.5 | Child cadet · **yellow belt** · white dobok · young (~8–10) |
 | **Team casual** | 2.9–2.10 | Per [CANON-LABELS.md](../reference-sheets/CANON-LABELS.md) — distinct palettes, no dobok |
 
@@ -843,7 +843,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 | **TJ Lim** | Hatsune Miku graphic tee · grey baggy sweatpants · white headband |
 | **Kieryn Lim** | Purple/magenta streetwear · black layers |
 | **Kian Sang** | Deep emerald green hoodie · cream joggers |
-| **Ariana Yang** | Muted black athleisure · quiet posture · shortest girl |
+| **Ariana Yang** | Olive green zip hoodie · cream joggers · black backpack · shortest girl · red-streak bob |
 | **Logan Hyun** | **Orange** warm hoodie · noodle charm on bag |
 | **Master Viet** | Chubby 5'8" · kind small eyes · Kwon's vest |
 
@@ -860,7 +860,8 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 - **PAGE 2f — Ethan texts:** 2.10 · solo frame
 - **PAGE 2g — Smirk & door:** 2.11–2.12
 - **PAGE 2h — Team enters:** 2.13
-- **PAGE 2i — Hero lineup:** 2.14 · **single full-page splash**
+- **PAGE 2i — Hero lineup:** 2.14 · team splash (no MV)
+- **PAGE 2j — MV welcome:** 2.14b · MV arms wide open solo splash
 
 **Door motif:** Small **inset panel top corner** — dojang door opening (warm light leak). Reuse on **2.4** and **2.12**.
 
@@ -951,14 +952,23 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 
 **Refs:** team casual per outfit lock table
 
-### PAGE 2i — Hero lineup (panel 2.14) · **SINGLE FULL PAGE**
+### PAGE 2i — Hero lineup team (panel 2.14) · **SINGLE FULL PAGE**
 **1 row only** — full bleed splash · no gutters.
 
 | Row | Shape | Beats |
 |-----|-------|-------|
-| Full | **100% splash** | **2.14** **Ethan + TJ + Kieryn + Ariana + Logan + Kian** stand **together in a line** facing **Master Viet** · foyer/mat edge · Ethan among teammates · MV welcoming center · **Haikyuu team reveal** energy · warm amber light |
+| Full | **100% splash** | **2.14** **Ethan + TJ + Kieryn + Ariana + Logan + Kian** stand **together in a line** · **no MV** · **Haikyuu team reveal** · warm amber light |
 
-**Refs:** all team casual refs · MV · `STYLE: KWONS HAIKYUU`
+**Refs:** all team casual refs · `STYLE: KWONS HAIKYUU`
+
+### PAGE 2j — MV welcomes (panel 2.14b) · **SINGLE FULL PAGE**
+**1 row only** — full bleed splash · no gutters.
+
+| Row | Shape | Beats |
+|-----|-------|-------|
+| Full | **100% splash** | **2.14b** **Master Viet alone** · **arms wide open** welcoming · warm dojang · golden hour |
+
+**Refs:** `master-viet` casual + vest · `STYLE: KWONS HAIKYUU`
 
 ---
 

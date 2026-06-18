@@ -7,6 +7,8 @@ const FACTION_LABELS = {
   rival: "Rivals",
 };
 
+const HIDDEN_FACTIONS = new Set(["rival"]);
+
 const GRADE_VALUES = {
   "A+": 97, A: 92, "A-": 87,
   "B+": 82, B: 77, "B-": 72,
@@ -142,7 +144,8 @@ function renderArcs() {
 }
 
 function renderFilters() {
-  const factions = ["all", ...new Set(siteData.characters.map((c) => c.faction))];
+  const visible = siteData.characters.filter((c) => !HIDDEN_FACTIONS.has(c.faction));
+  const factions = ["all", ...new Set(visible.map((c) => c.faction))];
   const container = document.getElementById("roster-filters");
   container.replaceChildren(
     ...factions.map((f) =>
@@ -169,7 +172,7 @@ function statChip(label, value) {
 function renderCards() {
   const grid = document.getElementById("card-grid");
   const chars = siteData.characters.filter(
-    (c) => activeFilter === "all" || c.faction === activeFilter
+    (c) => !HIDDEN_FACTIONS.has(c.faction) && (activeFilter === "all" || c.faction === activeFilter)
   );
 
   grid.replaceChildren(

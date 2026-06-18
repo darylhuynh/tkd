@@ -2,6 +2,8 @@
   "arc": 1,
   "chapter": 2,
   "title": "Arrival at Kwon's",
+  "reader": "chapter-02.html",
+  "script_reader": "chapter-02-script.html",
   "strip_dir": "gallery/strips/arc-01",
   "layout": "dynamic-manhwa",
   "strips": [
@@ -77,9 +79,17 @@
     {
       "id": "page2i",
       "file": "chapter-02-page-2i-hero-lineup.png",
-      "label": "PAGE 2i \u2014 Hero lineup (2.14) SINGLE SPLASH",
+      "label": "PAGE 2i \u2014 Hero lineup team (2.14)",
       "panel_ids": [
         "2.14"
+      ]
+    },
+    {
+      "id": "page2j",
+      "file": "chapter-02-page-2j-mv-welcome.png",
+      "label": "PAGE 2j \u2014 MV welcomes team (2.14b)",
+      "panel_ids": [
+        "2.14b"
       ]
     }
   ]

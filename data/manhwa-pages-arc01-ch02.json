@@ -4,7 +4,9 @@
   "title": "Arrival at Kwon's",
   "strip_dir": "gallery/strips/arc-01",
   "panels_per_page": 3,
-  "global_negative": "photorealistic, 3d render, western comic style, soft anime, painterly, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, readable text, letters, numbers, low quality, chibi, equal size panel grid, uniform strip of identical boxes, more than 3 panel rows per page except page2i, STYLE PRIME cold fluorescent, Ethan jet black hair, Ethan pure black hair, readable phone screen text",
+  "global_negative": "photorealistic, 3d render, western comic style, soft anime, painterly, watercolor, airbrush, soft shading, blurry, soft focus, low detail, extra limbs, deformed hands, fused fingers, watermark, logo, text overlay, speech bubble, readable text, letters, numbers, low quality, chibi, equal size panel grid, uniform strip of identical boxes, more than 3 panel rows per page except page2i, STYLE PRIME cold fluorescent, Ethan jet black hair, Ethan pure black hair, readable phone screen text, cinematic film grain, hyperrealistic skin",
+  "style_lock": "STYLE LOCK: Korean webtoon manhwa cel shading EXACTLY like Solo Leveling — CRISP SHARP ink outlines hard cel shadows clean lineart high contrast edges NOT painterly NOT soft anime NOT photorealistic NOT 3D render NOT blurry NOT soft focus",
+  "kwons_palette": "PALETTE LOCK: Kwon's warm amber golden suburban morning wood trim cozy golden dojang interior friendly Haikyuu energy NOT Prime cold blue-grey desaturated",
   "ethan_hair_lock": "ETHAN HAIR LOCK: Korean shadow perm messy volume; hair color NAVY BLUE and cobalt blue-black with CLEAR BLUE visible in strands and highlight edges; blue undertone must read as BLUE in cel shading; NOT jet black NOT pure black NOT brown-black hair",
   "pages": [
     {
@@ -15,8 +17,8 @@
       "reference_images": [
         "reference-sheets/output/ethan-hyun/casual-front.png"
       ],
-      "style_anchor": null,
-      "prompt": "ETHAN HAIR LOCK: Korean shadow perm messy volume; hair color NAVY BLUE and cobalt blue-black with CLEAR BLUE visible in strands; NOT jet black\n\nVertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles STYLE KWONS warm amber suburban morning,\n\nEthan Hyun 15 dark blue shadow perm navy hoodie white tee black joggers gold headphones white gear backpack match casual-front reference ALL rows.\n\nROW 1 ~30% Panel 2.1: suburban crosswalk Ethan waiting headphones around neck morning light\n\nROW 2 ~35% Panel 2.2: Ethan walking sidewalk headphones on gear backpack suburban street\n\nROW 3 ~35% LOW ANGLE Panel 2.3: Ethan looking UP at Kwon's Taekwondo Academy building exterior clean sign warm wood trim logo shape NO readable text\n\nEXACTLY 3 ROWS ONLY"
+      "style_anchor": "gallery/strips/arc-01/chapter-01-page-2-neglect-warmup.png",
+      "prompt": "STYLE LOCK: Korean webtoon manhwa cel shading EXACTLY like Solo Leveling — CRISP SHARP ink outlines hard cel shadows clean lineart NOT painterly NOT soft anime NOT photorealistic NOT 3D\n\nPALETTE LOCK: Kwon's warm amber golden suburban morning wood trim friendly NOT Prime cold blue-grey\n\nETHAN HAIR LOCK: Korean shadow perm messy volume; hair color NAVY BLUE and cobalt blue-black with CLEAR BLUE visible in strands; NOT jet black\n\nVertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles match style anchor line quality,\n\nEthan Hyun 15 dark blue shadow perm navy hoodie white tee black joggers gold headphones white gear backpack match casual-front reference ALL rows.\n\nROW 1 ~30% Panel 2.1: suburban crosswalk Ethan waiting headphones around neck morning light sharp cel shading\n\nROW 2 ~35% Panel 2.2: Ethan walking sidewalk headphones on gear backpack suburban street crisp outlines\n\nROW 3 ~35% LOW ANGLE Panel 2.3: Ethan looking UP at Kwon's Taekwondo Academy building exterior clean sign warm wood trim logo shape NO readable text\n\nEXACTLY 3 ROWS ONLY"
     },
     {
       "id": "page2b",
@@ -35,10 +37,11 @@
       "output": "chapter-02-page-2c-mv-coaching.png",
       "panel_ids": ["2.5"],
       "reference_images": [
-        "reference-sheets/output/master-viet/casual-front.png"
+        "reference-sheets/output/master-viet/casual-front.png",
+        "reference-sheets/output/master-viet/vest-front.png"
       ],
       "style_anchor": "gallery/strips/arc-01/chapter-02-page-2b-enter-sit.png",
-      "prompt": "Vertical manhwa WEBTOON PAGE 2-3 panel rows 1536x1024 FULL BLEED STYLE KWONS golden dojang interior match page2b,\n\nMaster Viet chubby 5 foot 8 kind small eyes Kwon's vest or white dobok black neck stripes.\n\nYoung yellow belt child student ~8-10 white dobok NOT teen.\n\nROW 1 ~50% WIDE Panel 2.5: MV holding focus mitts OR large kicking shield coaching ONE young yellow belt student roundhouse kick individual eye contact patient correction warm light\n\nROW 2 ~30% Ethan's POV from chair MV and student mid-drill soft depth\n\nROW 3 ~20% optional close MV adjusting student foot angle hands-on coaching\n\nNO readable text"
+      "prompt": "STYLE LOCK: Solo Leveling manhwa cel shading CRISP SHARP ink outlines hard cel shadows NOT painterly. PALETTE: Kwon's warm amber golden dojang interior match page2b and page2d.\n\nMASTER VIET CASUAL LOCK ONLY — MATCH master-viet/casual-front.png and vest-front.png EXACT outfit ALL rows:\nwhite short-sleeve t-shirt + black sleeveless zip Kwon's vest with grey shield chest patches + black track pants white side stripe + grey sneakers.\nChubby kind face small warm eyes short black wavy hair.\n\nFORBIDDEN on Master Viet: white dobok NO martial arts uniform NO black belt NO training gi NO dobok collar stripes.\n\nYoung yellow belt child student ~8-10 white dobok yellow belt ONLY student wears dobok NOT teen.\n\nVertical manhwa WEBTOON PAGE 2-3 panel rows 1536x1024 FULL BLEED thin gutters NO speech bubbles.\n\nROW 1 ~50% WIDE Panel 2.5: MV in CASUAL vest outfit holding focus mitts OR kicking shield coaching ONE young yellow belt child roundhouse kick eye contact patient correction warm golden light\n\nROW 2 ~30% Ethan's POV from waiting chair MV in SAME casual vest outfit and student mid-drill\n\nROW 3 ~20% close-up Panel 2.5 foot correction: MV in SAME casual vest BOTH hands gently holding child's SMALL BARE FOOT and ankle adjusting roundhouse chamber angle. CLEAR anatomy — tiny child foot with visible toes arch heel ankle NOT a nub NOT a stump NOT fused fingers NOT ambiguous hand-or-foot. White dobok pant leg pulled up or ankle exposed. MV kind face partial frame student small leg foot in focus sharp detail.\n\nNO readable text"
     },
     {
       "id": "page2d",
@@ -91,18 +94,50 @@
       "label": "PAGE 2h — Team enters (2.13)",
       "output": "chapter-02-page-2h-team-enters.png",
       "panel_ids": ["2.13"],
-      "reference_images": [],
+      "reference_images": [
+        "reference-sheets/output/tj-lim/casual-front.png",
+        "reference-sheets/output/kieryn-lim/casual-front.png",
+        "reference-sheets/output/kian-sang/casual-front.png",
+        "reference-sheets/output/ariana-yang/casual-front.png",
+        "reference-sheets/output/logan-hyun/casual-front.png"
+      ],
       "style_anchor": "gallery/strips/arc-01/chapter-02-page-2g-smirk-door.png",
-      "prompt": "Vertical manhwa WEBTOON PAGE 1-2 panel rows 1536x1024 FULL BLEED STYLE KWONS HAIKYUU warm backlit entrance,\n\nFIVE teens walk through dojang door TOGETHER all CASUAL distinct outfits:\nTJ Lim tall muscular Miku graphic tee grey sweatpants white headband\nKieryn Lim purple magenta streetwear black layers\nKian Sang deep emerald green hoodie cream joggers\nAriana Yang shortest girl muted black athleisure quiet\nLogan Hyun small orange hoodie noodle charm on bag\n\nROW 1 ~65% WIDE SPLASH Panel 2.13: full group mid-stride through doorway gear bags Saturday energy\n\nROW 2 optional ~35% foyer wide feet entering shoe area\n\nNO readable text NO dobok"
+      "prompt": "STYLE LOCK: Solo Leveling manhwa cel shading CRISP SHARP ink outlines hard cel shadows NOT painterly NOT soft anime. PALETTE: Kwon's warm amber golden backlit entrance.\n\nMATCH EACH CHARACTER EXACTLY to attached reference sheet casual-front.png — SAME face hair skin outfit colors. NO generic teens NO invented outfits NO dobok.\n\nTJ LIM LOCK (ref tj-lim/casual-front): tallest male 5'11 muscular tan skin TEAL spiky hair WHITE headband white oversized tee with Hatsune Miku teal twintails graphic grey baggy sweatpants teal-white sneakers hands in pockets confident grin.\n\nKIERYN LIM LOCK (ref kieryn-lim/casual-front): tall slim girl 13 teal-blue hair MAGENTA purple streak tips asymmetrical bob lavender eyes black crop top purple-black techwear windbreaker magenta straps black cargo pants purple sneakers hands in pockets smirk.\n\nKIAN SANG LOCK (ref kian-sang/casual-front): lean 5'10 dark brown skin SILVER-WHITE messy spiky hair deep EMERALD GREEN oversized hoodie gold zipper cream off-white joggers white chunky sneakers gold chain hands in hoodie pocket — NOT orange NOT navy primary.\n\nARIANA YANG LOCK (ref ariana-yang/casual-front): SHORTEST girl 4'11 dark brown skin black chin bob blunt bangs RED streak highlights OLIVE GREEN zip hoodie cream joggers white sneakers black backpack quiet serious expression — NOT tallest NOT white skin.\n\nLOGAN HYUN LOCK (ref logan-hyun/casual-front): SMALLEST boy 4'10 dark NAVY BLUE bowl cut big brown eyes bright ORANGE oversized hoodie black shorts white-orange sneakers holding tablet black backpack with NOODLE RAMEN food charms on strap cheerful smile — NOT shadow perm NOT Ethan's hair.\n\nVertical manhwa WEBTOON PAGE 1-2 rows 1536x1024 thin gutters NO speech bubbles NO readable text.\n\nROW 1 ~65% WIDE SPLASH Panel 2.13: ALL FIVE characters above walk through dojang door together mid-stride Saturday energy warm backlit distinct silhouettes height order TJ tallest Kieryn tall girl Kian lean tall Ariana shortest girl Logan smallest boy.\n\nROW 2 ~35% foyer wide feet entering shoe rack area same five characters same outfits.\n\nNO Ethan in this page — team only."
     },
     {
       "id": "page2i",
-      "label": "PAGE 2i — Hero lineup (2.14) SINGLE SPLASH",
+      "label": "PAGE 2i — Hero lineup team (2.14)",
       "output": "chapter-02-page-2i-hero-lineup.png",
       "panel_ids": ["2.14"],
-      "reference_images": [],
+      "reference_images": [
+        "reference-sheets/output/ethan-hyun/casual-front.png",
+        "reference-sheets/output/tj-lim/casual-front.png",
+        "reference-sheets/output/kieryn-lim/casual-front.png",
+        "reference-sheets/output/kian-sang/casual-front.png",
+        "reference-sheets/output/ariana-yang/casual-front.png",
+        "reference-sheets/output/logan-hyun/casual-front.png"
+      ],
       "style_anchor": "gallery/strips/arc-01/chapter-02-page-2h-team-enters.png",
-      "prompt": "Vertical manhwa WEBTOON PAGE SINGLE FULL BLEED SPLASH 1536x1024 ONE panel only NO gutters NO rows divide,\n\nHERO TEAM REVEAL Panel 2.14: Ethan Hyun navy hoodie gold headphones white gear backpack standing IN LINE with teammates TJ Kieryn Ariana Logan Kian all casual distinct colors from page2h facing Master Viet center welcoming open posture warm amber golden hour wood dojang floors wide cinematic composition empty lower area for caption card NO readable text,\n\nSTYLE KWONS HAIKYUU sweat sparkle friendly energy"
+      "prompt": "STYLE LOCK: Solo Leveling manhwa cel shading CRISP SHARP ink outlines hard cel shadows NOT painterly. Haikyuu team reveal warm amber golden hour wood dojang.\n\nSINGLE FULL BLEED SPLASH 1536x1024 ONE panel NO gutters NO Master Viet NO coach in frame.\n\nTEAM ONLY — six teens standing TOGETHER in one line shoulder to shoulder facing camera slight three-quarter angle Haikyuu hero group energy warm wood dojang golden light empty lower third for caption.\n\nMATCH reference sheets SAME faces hair skin outfits as page2h:\n\nETHAN HYUN: navy blue shadow perm navy hoodie white gear backpack gold headphones 5'3\nTJ LIM: tallest teal hair white headband Miku white tee grey sweatpants muscular grin\nKIERYN LIM: tall slim girl teal-magenta hair purple techwear jacket black cargos\nKIAN SANG: silver-white hair dark brown skin emerald green hoodie cream joggers\nARIANA YANG: shortest girl olive green hoodie cream joggers black-red streak bob dark brown skin backpack\nLOGAN HYUN: smallest boy navy bowl cut orange hoodie tablet ramen charms\n\nHeight order visible TJ tallest Kieryn tall girl Kian lean tall Ethan shorter Ariana shortest girl Logan smallest boy.\n\nNO readable text NO dobok all casual NO Master Viet NO other adults."
+    },
+    {
+      "id": "page2j",
+      "label": "PAGE 2j — MV welcomes team (2.14b)",
+      "output": "chapter-02-page-2j-mv-welcome.png",
+      "panel_ids": ["2.14b"],
+      "reference_images": [
+        "reference-sheets/output/master-viet/casual-front.png",
+        "reference-sheets/output/master-viet/vest-front.png"
+      ],
+      "style_anchor": "gallery/strips/arc-01/chapter-02-page-2i-hero-lineup.png",
+      "prompt": "STYLE LOCK: Solo Leveling manhwa cel shading CRISP SHARP ink outlines hard cel shadows NOT painterly. Kwon's warm amber golden hour wood dojang MATCH page2i palette.\n\nSINGLE FULL BLEED SPLASH 1536x1024 ONE panel NO gutters.\n\nMASTER VIET ONLY — NO students NO team NO Ethan in frame.\n\nMATCH master-viet/casual-front and vest-front refs: chubby kind face small warm eyes short black hair welcoming joyful smile.\n\nPanel 2.14b: Master Viet standing alone center dojang foyer BOTH ARMS spread WIDE OPEN welcoming gesture palms open inviting warm mentor energy Kwon's black vest over white tee or coach casual golden hour light wood floors trophies soft blur background.\n\nNO readable text NO speech bubbles NO other characters."
     }
-  ]
+  ],
+  "team_casual_locks": {
+    "tj_lim": "TEAL spiky hair white headband Miku graphic white tee grey sweatpants muscular 5'11",
+    "kieryn_lim": "teal hair magenta streaks purple techwear windbreaker black cargos tall slim girl 13",
+    "kian_sang": "silver-white hair dark brown skin emerald green hoodie cream joggers lean 5'10",
+    "ariana_yang": "shortest 4'11 dark brown skin black bob red streaks olive green hoodie cream joggers",
+    "logan_hyun": "smallest 4'10 navy bowl cut orange hoodie tablet noodle charms on backpack"
+  }
 }

@@ -1,89 +1,28 @@
 {
   "arc": 1,
   "chapter": 1,
-  "title": "Nightmare",
+  "title": "Nightmare leads to New Beginnings.",
   "reader": "chapter-01.html",
   "strip_dir": "gallery/strips/arc-01",
   "layout": "webtoon",
   "strips": [
     {
-      "id": "page0",
-      "file": "chapter-01-page-0-prelude-voices.png",
-      "label": "PAGE 0 — Voices in the dark (prelude)",
-      "panel_ids": ["1.0"]
-    },
-    {
-      "id": "page1a",
-      "file": "chapter-01-page-1a-arrival.png",
-      "label": "PAGE 1a — Arrival (1.1–1.3)",
-      "panel_ids": ["1.1", "1.2", "1.3"]
-    },
-    {
-      "id": "page1b",
-      "file": "chapter-01-page-1b-change.png",
-      "label": "PAGE 1b — Change (1.4, 1.6–1.7)",
-      "panel_ids": ["1.4", "1.6", "1.7"]
+      "id": "page1",
+      "file": "arc1-chapter1-1.png",
+      "label": "Chapter 1 — Part 1",
+      "panel_ids": []
     },
     {
       "id": "page2",
-      "file": "chapter-01-page-2-neglect-warmup.png",
-      "label": "PAGE 2 — Neglect & Warmup (1.7b–1.8)",
-      "panel_ids": ["1.7b", "1.8"]
+      "file": "arc1-chapter1-2.png",
+      "label": "Chapter 1 — Part 2",
+      "panel_ids": []
     },
-    {
-      "id": "page4",
-      "file": "chapter-01-page-3-isolation.png",
-      "label": "PAGE 4 — Isolation & Wait (1.17–1.26)",
-      "panel_ids": ["1.17", "1.19", "1.21", "1.22", "1.26"]
-    },
-    {
-      "id": "page5a",
-      "file": "chapter-01-page-5a-bleachers-contract.png",
-      "label": "PAGE 5a — Bleachers & contract (1.27–1.28)",
-      "panel_ids": ["1.27", "1.28"]
-    },
-    {
-      "id": "page5b",
-      "file": "chapter-01-page-5b-called-walk.png",
-      "label": "PAGE 5b — Called & walk past (1.29–1.30)",
-      "panel_ids": ["1.29", "1.30"]
-    },
-    {
-      "id": "page5c",
-      "file": "chapter-01-page-5c-dojang-montage.png",
-      "label": "PAGE 5c — Dojang montage & ring start (1.31–1.33)",
-      "panel_ids": ["1.31", "1.32", "1.33"]
-    },
-    {
-      "id": "page6a",
-      "file": "chapter-01-page-6a-cards-bounty.png",
-      "label": "PAGE 6a — Fighter cards & bounty (1.35–1.37)",
-      "panel_ids": ["1.35", "1.36", "1.36b", "1.37"]
-    },
-    {
-      "id": "page6b",
-      "file": "chapter-01-page-6b-charge-hook.png",
-      "label": "PAGE 6b — Charge & hook kick (1.41–1.43)",
-      "panel_ids": ["1.41", "1.43"]
-    },
-    {
-      "id": "page7",
-      "file": "chapter-01-page-7-ko-aftermath.png",
-      "label": "PAGE 7 — Score, silence & black (1.44–1.45)",
-      "panel_ids": ["1.44", "1.45"]
-    },
-    {
-      "id": "page8",
-      "file": "chapter-01-page-8-wake.png",
-      "label": "PAGE 8 — Wake (1.46–1.48)",
-      "panel_ids": ["1.46", "1.47", "1.48"]
-    }
-  ],
-  "skipped_strips": [
     {
       "id": "page3",
-      "label": "PAGE 3 — Preparation (1.9–1.16)",
-      "note": "Skipped in continuity — gear-up implied between Page 2 and Page 4."
+      "file": "arc1-chapter1-3.png",
+      "label": "Chapter 1 — Part 3",
+      "panel_ids": []
     }
   ]
 }

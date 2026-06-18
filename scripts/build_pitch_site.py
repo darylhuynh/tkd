@@ -167,18 +167,11 @@ ARCS = [
     {
         "num": 1,
         "title": "New Beginnings",
-        "chapters": "1–10",
-        "tagline": "Nightmare at Prime. Hope at Kwon's.",
-        "href": "arcs/new-beginnings/index.html",
+        "chapters": "1",
+        "tagline": "Nightmare leads to New Beginnings.",
+        "href": "arcs/new-beginnings/chapter-01.html",
         "available": True,
     },
-    {"num": 2, "title": "The Team", "chapters": "11–20", "tagline": "Six friends become a family.", "href": "arcs/the-team/index.html", "available": True},
-    {"num": 3, "title": "First Tournament", "chapters": "21–35", "tagline": "First blood on the mat.", "href": "arcs/first-tournament/index.html", "available": True},
-    {"num": 4, "title": "Shadow School", "chapters": "36–50", "tagline": "Prime doesn't let go easily.", "href": "arcs/shadow-school/index.html", "available": True},
-    {"num": 5, "title": "Road to Korea", "chapters": "51–70", "tagline": "The impossible dream takes shape.", "href": "arcs/road-to-korea/index.html", "available": True},
-    {"num": 6, "title": "Korea Regionals", "chapters": "71–90", "tagline": "Prove it on foreign soil.", "href": "arcs/korea-regionals/index.html", "available": True},
-    {"num": 7, "title": "Legends", "chapters": "91–110", "tagline": "U20 National Team selection.", "href": "arcs/legends/index.html", "available": True},
-    {"num": 8, "title": "Closure", "chapters": "111–120", "tagline": "Growth, loss, and what remains.", "href": "arcs/closure/index.html", "available": True},
 ]
 
 
@@ -313,28 +306,15 @@ def main() -> None:
 
     for canon_path in sorted(OUTPUT_DIR.glob("*/canon.json")):
         entry = load_canon_character(canon_path)
+        if entry["character_id"] in OPPONENT_IDS:
+            continue
         characters.append(entry)
         loaded_ids.add(entry["character_id"])
-
-    for opp in OPPONENTS_FALLBACK:
-        cid = opp["character_id"]
-        if cid in loaded_ids:
-            continue
-        opp["skills"] = parse_skills_from_md(cid)
-        opp["stats"] = parse_stats_from_md(cid)
-        opp["display_name"] = opp["canon_name"]
-        opp["faction"] = FACTION.get(cid, "rival")
-        opp["role"] = ROLE.get(cid, "")
-        char_dir = OUTPUT_DIR / cid
-        if char_dir.is_dir():
-            opp["portrait"] = resolve_portrait(char_dir)
-        characters.append(opp)
 
     order = [
         "ethan-hyun", "tj-lim", "kieryn-lim", "logan-hyun", "kian-sang", "ariana-yang",
         "master-viet", "yuna-park",
         "ttong-kim", "repeul-kim",
-        "derek-cole", "maya-ortiz", "lee-ji-woo", "kim-min-ho", "han-do-won", "park-sung-min",
     ]
     rank = {cid: i for i, cid in enumerate(order)}
     characters.sort(key=lambda c: rank.get(c["character_id"], 99))
