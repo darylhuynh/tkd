@@ -1,6 +1,6 @@
 # Arc 1 — New Beginnings
 
-**Chapters:** 1–10  
+**Chapters:** 1–10 
 **Purpose:** Introduce Ethan, trauma seeds, Master Viet, and the team. Establish Kwon's as sanctuary.
 
 ---

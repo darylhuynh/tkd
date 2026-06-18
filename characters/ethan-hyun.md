@@ -1,6 +1,6 @@
 # Ethan Hyun
 
-**Role:** Main Character · The Gifted Broken Protagonist  
+**Role:** Main Character · The Gifted Broken Protagonist 
 **Team Function:** Protagonist — learns to trust and lead by example
 
 ---
@@ -79,7 +79,7 @@
 | Context | Look |
 |---------|------|
 | **Casual** | Oversized **black hoodie** · white undershirt · **black cargo pants** · white sneakers · gold headphones · white gear backpack |
-| **Dobok** | White WT dobok · **black belt with silver 태권도 embroidery** (NO dragon) · Prime patch |
+| **Dobok** | White WT dobok · **black belt with silver 태권도 embroidery** (NO dragon) · **plain sleeves — NO arm/school patch** |
 | **Tournament kit** | Dobok + **blue electronic hogu** · **blue helmet** · white forearm/shin/foot guards |
 
 **Visual note:** "Looks like a K-pop idol" — contrasts with quiet personality.

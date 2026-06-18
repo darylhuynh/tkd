@@ -2,7 +2,7 @@
   "arc": 1,
   "chapter": 1,
   "global_style": "manhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
-  "global_negative": "photorealistic, 3d render, western comic style, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless specified",
+  "global_negative": "photorealistic, 3d render, western comic style, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless specified, Ethan arm patch, sleeve patch, school patch on dobok, dobok chest patch, Prime patch text, Premier patch text",
   "panels": [
     {
       "id": "1.0",
@@ -49,13 +49,13 @@
     {
       "id": "1.7",
       "title": "Tying the Belt",
-      "prompt": "close-up hands tying black belt with silver embroidery over white WT dobok Prime patch Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression changing area tight detail panel STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "close-up hands tying black belt with silver embroidery over white WT dobok Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression changing area tight detail panel STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.7.png"
     },
     {
       "id": "1.8",
       "title": "Kit Reveal \u2014 Toward Warmup",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu under arm blue helmet in hand walking toward warmup area full kit reveal wide cinematic first athlete transformation Prime patch STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu under arm blue helmet in hand walking toward warmup area full kit reveal wide cinematic first athlete transformation STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.8.png"
     },
     {
@@ -67,67 +67,67 @@
     {
       "id": "1.10",
       "title": "Forearm Guards",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression strapping white forearm guards white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit preparation sequence close-up STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression strapping white forearm guards white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit preparation sequence close-up STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.10.png"
     },
     {
       "id": "1.11",
       "title": "Shin Guards",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression securing white shin guards sitting bench white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit preparation detail STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression securing white shin guards sitting bench white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit preparation detail STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.11.png"
     },
     {
       "id": "1.12",
       "title": "Foot Sensors",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression fitting white foot protectors sensors white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit preparation close-up feet hands STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression fitting white foot protectors sensors white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit preparation close-up feet hands STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.12.png"
     },
     {
       "id": "1.13",
       "title": "Helmet Clipped",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression clipping blue helmet face shield white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit preparation profile close-up STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression clipping blue helmet face shield white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit preparation profile close-up STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.13.png"
     },
     {
       "id": "1.14",
       "title": "Mirror \u2014 Full Reveal",
-      "prompt": "mirror reflection Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit full competition reveal first time complete kit sharp eyes reserved expression changing room mirror shot STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "mirror reflection Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit full competition reveal first time complete kit sharp eyes reserved expression changing room mirror shot STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.14.png"
     },
     {
       "id": "1.15",
       "title": "Warmup Floor \u2014 Others Coached",
-      "prompt": "warmup area wide shot athletes in blue hogu kyorugi kit with coaches pad work advice stretching Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit background entering neglectful contrast STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "warmup area wide shot athletes in blue hogu kyorugi kit with coaches pad work advice stretching Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit background entering neglectful contrast STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.15.png"
     },
     {
       "id": "1.16",
       "title": "Ethan Alone \u2014 No Warmup",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit standing alone empty warmup mat no coach no instructor nearby other athletes coached in far background isolated neglectful atmosphere wide shot STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit standing alone empty warmup mat no coach no instructor nearby other athletes coached in far background isolated neglectful atmosphere wide shot STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.16.png"
     },
     {
       "id": "1.17",
       "title": "Gear Check Line",
-      "prompt": "tournament gear check wristband table official scanning athletes queue Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt waiting adjusting forearm guard strap fluorescent hallway, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "tournament gear check wristband table official scanning athletes queue Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt waiting adjusting forearm guard strap fluorescent hallway, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.17.png"
     },
     {
       "id": "1.18",
       "title": "Empty Warmup Floor",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt walking past empty warmup mats no coach teens sitting on gym floor in kyorugi gear on phones neglectful atmosphere wide shot, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt walking past empty warmup mats no coach teens sitting on gym floor in kyorugi gear on phones neglectful atmosphere wide shot, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.18.png"
     },
     {
       "id": "1.19",
       "title": "Bracket Shock",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, teen boy dark blue shadow perm hair staring at tournament bracket board, finger on paper bracket,\nshocked quiet expression, taekwondo uniform with school patch, crowded gymnasium background,\nclose-up on face and bracket, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, teen boy dark blue shadow perm hair staring at tournament bracket board, finger on paper bracket,\nshocked quiet expression, taekwondo uniform plain white dobok no sleeve patch, crowded gymnasium background,\nclose-up on face and bracket, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.19.png"
     },
     {
       "id": "1.20",
       "title": "Walking to Bleachers",
-      "prompt": "POV climbing metal bleacher steps Olympic blue electronic hogu forearm shin guards in frame tournament gymnasium crowd above Ethan Hyun teen 15 dark blue shadow perm hair full Olympic kyorugi kit white dobok Prime patch perspective immersive shot, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "POV climbing metal bleacher steps Olympic blue electronic hogu forearm shin guards in frame tournament gymnasium crowd above Ethan Hyun teen 15 dark blue shadow perm hair full Olympic kyorugi kit white dobok perspective immersive shot, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.20.png"
     },
     {
@@ -151,7 +151,7 @@
     {
       "id": "1.24",
       "title": "Vending Run",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt walking tournament concourse vending machines returning to bleachers crumpled snack wrapper in hand empty corridor afternoon, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt walking tournament concourse vending machines returning to bleachers crumpled snack wrapper in hand empty corridor afternoon, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.24.png"
     },
     {
@@ -163,7 +163,7 @@
     {
       "id": "1.26",
       "title": "Legs Asleep",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt sitting on bleachers shaking stiff leg pins and needles grimacing afternoon wall clock background bored exhausted, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt sitting on bleachers shaking stiff leg pins and needles grimacing afternoon wall clock background bored exhausted, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.26.png"
     },
     {
@@ -211,7 +211,7 @@
     {
       "id": "1.34",
       "title": "Staging Line",
-      "prompt": "tournament staging line officials checking electronic hogu blue helmet Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt waiting in queue tense expression gear inspection, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "tournament staging line officials checking electronic hogu blue helmet Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt waiting in queue tense expression gear inspection, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.34.png"
     },
     {
@@ -241,13 +241,13 @@
     {
       "id": "1.39",
       "title": "Walk to Ring",
-      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt walking corridor toward competition floor distant referee whistle stiff gait overhead arena lights dramatic depth, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt walking corridor toward competition floor distant referee whistle stiff gait overhead arena lights dramatic depth, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.39.png"
     },
     {
       "id": "1.40",
       "title": "Ring Threshold",
-      "prompt": "close-up feet stepping over competition ring boundary tape onto mat Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt entering ring opponent warming up background low angle threshold moment, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "close-up feet stepping over competition ring boundary tape onto mat Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt entering ring opponent warming up background low angle threshold moment, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.40.png"
     },
     {
@@ -299,4 +299,4 @@
       "output": "gallery/panels/arc-01/1.48.png"
     }
   ]
-}
+}\n

@@ -1,6 +1,6 @@
 # Ethan Hyun — Reference Sheet
 
-**Role:** Protagonist · The Gifted Broken Protagonist  
+**Role:** Protagonist · The Gifted Broken Protagonist 
 **Sources:** Google Sheet tab **Ethan Hyun** · [`source-csv/Ethan-Hyun.csv`](./source-csv/Ethan-Hyun.csv) · [`characters/ethan-hyun.md`](../characters/ethan-hyun.md)
 
 ---
@@ -116,7 +116,7 @@ full body back view, character reference sheet, white background, manhwa
 ```
 teen boy 15 korean-american 5'3 dark blue shadow perm hair brown eyes,
 standard white taekwondo dobok full coverage arm and leg guards hidden underneath dobok fabric,
-plain black belt no readable embroidery, blank empty chest patch,
+plain black belt no readable embroidery, plain white dobok NO arm patch NO sleeve patch,
 full body front turnaround front side back plain white background solo leveling manhwa,
 NO TEXT NO LETTERS NO NAME TAGS NO STAT BLOCKS
 ```
@@ -136,7 +136,7 @@ NO TEXT NO LETTERS
 ### Gear — Front
 ```
 teen boy 5'3 dark blue shadow perm hair, white electronic taekwondo hogu chest guard,
-arm guards leg guards headgear, prime school patch or neutral patch no text,
+arm guards leg guards headgear, plain white dobok sleeves NO school patch NO arm patch,
 silver black belt, full body front guard stance, character reference sheet,
 STYLE: TOURNAMENT manhwa
 ```

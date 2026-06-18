@@ -2,7 +2,7 @@
   "arc": 1,
   "chapter": 5,
   "global_style": "manhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
-  "global_negative": "photorealistic, 3d render, western comic style, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless specified",
+  "global_negative": "photorealistic, 3d render, western comic style, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless specified, Ethan arm patch, sleeve patch, school patch on dobok, dobok chest patch, Prime patch text, Premier patch text",
   "panels": [
     {
       "id": "5.1",
@@ -245,4 +245,4 @@
       "output": "gallery/panels/arc-01/5.40.png"
     }
   ]
-}
+}\n

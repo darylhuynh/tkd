@@ -1,10 +1,10 @@
 # Arc 1 — Chapter 1: Scene Script
 ## *Nightmare*
 
-**Purpose:** Prime neglect before violence — the wait is the trauma. KO bounty. **"Go fight."** Spinning hook. Wake up.  
-**Tone:** Desaturated horror-adjacent sports trauma · no Kwon's warmth yet  
-**Tie-in panels:** [arc-01-panel-storyboard.md](../storyboards/arc-01-panel-storyboard.md) §1.1–1.16  
-**Real events:** [REAL-EVENTS-INDEX.md](../REAL-EVENTS-INDEX.md) #13 · #28 · #6 · #5  
+**Purpose:** Prime neglect before violence — the wait is the trauma. KO bounty. **"Go fight."** Spinning hook. Wake up. 
+**Tone:** Desaturated horror-adjacent sports trauma · no Kwon's warmth yet 
+**Tie-in panels:** [arc-01-panel-storyboard.md](../storyboards/arc-01-panel-storyboard.md) §1.1–1.16 
+**Real events:** [REAL-EVENTS-INDEX.md](../REAL-EVENTS-INDEX.md) #13 · #28 · #6 · #5 
 **Related:** [flash-prime-knockout-bounty.md](./flash-prime-knockout-bounty.md)
 
 ---
@@ -13,7 +13,7 @@
 
 | Character | Notes |
 |-----------|--------|
-| **Ethan Hyun** | 15 — dark blue shadow perm — Prime patch — black belt |
+| **Ethan Hyun** | 15 — dark blue shadow perm — — black belt |
 | **Ttong Kim** | Instructor — tight shorts — predatory grin — **Repeul Kim** silent in background (ugly multicolor, mean scowl) |
 | **Prime kids / parents** | Crowd — favored students get warmth |
 | **Opponent** | Older, taller — open bracket energy |
@@ -28,12 +28,12 @@
 ### SCENE 1 — TOURNAMENT VENUE · 7:04 AM
 **Panels:** 1.1 · 1.2
 
-**ACTION:**  
+**ACTION:** 
 Exterior — *Prime Taekwondo Sports Dynasty — Regional Open*. Overcast. Fluorescents inside.
 
 Kids in full hogus shuffle in. Clock: **7:04 AM**.
 
-**KID A**  
+**KID A** 
 Why are we here so early?
 
 No answer from staff.
@@ -45,12 +45,12 @@ No answer from staff.
 ### SCENE 2 — THE WAIT
 **Panels:** 1.3 · 1.4 · 1.5 · 1.6 · 1.7
 
-**ACTION:**  
+**ACTION:** 
 Bracket board: **Hyun, Ethan — −45kg — Ring 4 — 3:12 PM**.
 
 Ethan's finger on his name. Internal clock starts.
 
-**ETHAN (V.O.)**  
+**ETHAN (V.O.)** 
 Seven hours.
 
 Wide shot: twenty-plus Prime kids in gear. **Ttong Kim** at far end — coffee with parents — **Repeul Kim** at the edge of the cluster, arms folded, sour face — silent.
@@ -60,11 +60,11 @@ No mats in use. No warmup. No instructor eyes on fighters.
 Ethan alone on bleachers. Empty seats both sides. Mouthguard case open. Legs in hogu.
 
 Montage — same seat:
-- Phone: **10:23 AM** — vending wrapper  
-- Clock: **1:47 PM** — other kids on phones — Ethan staring at distant ring  
+- Phone: **10:23 AM** — vending wrapper 
+- Clock: **1:47 PM** — other kids on phones — Ethan staring at distant ring 
 
-**ETHAN (V.O.)**  
-Same dobok. Same patch.
+**ETHAN (V.O.)** 
+Same dojang. Different price tag.
 
 **[END SCENE 2]**
 
@@ -75,32 +75,32 @@ Same dobok. Same patch.
 
 **Montage logic:** One **PRESENT** tournament day on bleachers, interrupted by **FLASH** inserts that explain *why* Ethan is ignored. See [STORYBOARD-CLARITY-GUIDE.md](../storyboards/STORYBOARD-CLARITY-GUIDE.md) § Nightmare Montage.
 
-**ACTION — 1.8 [FLASH — dojang enrollment]:**  
+**ACTION — 1.8 [FLASH — dojang enrollment]:** 
 Check to **Ttong Kim**. VIP brochure. **Repeul Kim** behind him — brochure stack — blank mean stare. **Favored kid** at frame edge (not Ethan).
 
-**TTONG KIM** *(to VIP parent)*  
+**TTONG KIM** *(to VIP parent)* 
 We'll take good care of **him**.
 
-**ACTION — 1.9 [PRESENT — tournament venue]:**  
+**ACTION — 1.9 [PRESENT — tournament venue]:** 
 Cut — **same nightmare day** — Ttong kneels — adjusts **another kid's** headgear — laughing. Parents proud.
 
-**ACTION — 1.10 [PRESENT — bleachers ANCHOR]:**  
+**ACTION — 1.10 [PRESENT — bleachers ANCHOR]:** 
 Ethan's POV — far away — backs turned.
 
-**ETHAN (V.O.)**  
-Same dobok. Same patch.
+**ETHAN (V.O.)** 
+Same dojang. Different price tag.
 
-**ACTION — 1.11 [PRESENT — bleachers]:**  
+**ACTION — 1.11 [PRESENT — bleachers]:** 
 Random parent **yanks Ethan's arm** into a bad stretch. Ethan winces. Ttong doesn't look.
 
-**PARENT (O.S.)**  
+**PARENT (O.S.)** 
 Loosen up, kid.
 
-**ACTION — 1.12 [FLASH inset + PRESENT split]:**  
-**FLASH** — dojang scrimmage weeks ago — Ethan lands clean head kick — smirks.  
+**ACTION — 1.12 [FLASH inset + PRESENT split]:** 
+**FLASH** — dojang scrimmage weeks ago — Ethan lands clean head kick — smirks. 
 **PRESENT** — phone **2:47 PM**. Alone on bleachers.
 
-**ETHAN (V.O.)**  
+**ETHAN (V.O.)** 
 Won every scrimmage last month.
 
 **[END SCENE 3]**
@@ -110,7 +110,7 @@ Won every scrimmage last month.
 ### SCENE 4 — STAT CARDS · TTONG & REPEUL
 **Panels:** 1.13a-T · 1.13a-R
 
-**ACTION:**  
+**ACTION:** 
 *(Post-production stat cards — no AI text.)*
 
 **TTONG KIM · Age 38 · 5'8" · 198 lbs · 2nd Dan · Prime**
@@ -124,18 +124,18 @@ Won every scrimmage last month.
 ### SCENE 5 — KO BOUNTY [REAL #28]
 **Panels:** 1.13b
 
-**ACTION:**  
+**ACTION:** 
 Staging area. **Ttong Kim** holds **1,000 won** up for Prime black belts.
 
 **Repeul Kim** blurred at his shoulder — multicolor disaster — scowl.
 
-**TTONG KIM**  
+**TTONG KIM** 
 One thousand won if you knock them out. Black belt doesn't mean nice — it means you finish them.
 
 Eyes find Ethan.
 
-**TTONG KIM**  
-*(lower)*  
+**TTONG KIM** 
+*(lower)* 
 Too soft. Too nice to be a real black belt.
 
 Ethan's jaw tight. Doesn't take the coin.
@@ -147,10 +147,10 @@ Ethan's jaw tight. Doesn't take the coin.
 ### SCENE 6 — GO FIGHT [REAL #13]
 **Panels:** 1.14 · 1.15
 
-**ACTION:**  
+**ACTION:** 
 First time all day **Ttong Kim** stands close to Ethan. Glances at watch. Points at ring.
 
-**TTONG KIM**  
+**TTONG KIM** 
 Go fight.
 
 No name. No plan. No *how's your body after eight hours*.
@@ -164,7 +164,7 @@ Ethan steps in **cold** — stiff legs — corner empty — instructor already t
 ### SCENE 7 — THE KICK
 **Panels:** 1.15 · 1.16
 
-**ACTION:**  
+**ACTION:** 
 Ring. Opponent older — feint — **spinning hook kick** — head sensor **BEEP**.
 
 Ethan's legs buckle. Sound **drops out**.
@@ -180,15 +180,15 @@ Background: **Ttong Kim** — disappointed. Not concerned.
 ### SCENE 8 — WAKE UP
 **Panels:** 1.16 cont.
 
-**ACTION:**  
+**ACTION:** 
 **SMASH CUT** — Ethan jolts upright in bed. Sweat. Gasping.
 
 Dawn light. Gold headphones on nightstand.
 
 Hand raised — blocking a kick that isn't there.
 
-**ETHAN (V.O.)**  
-*(breathing)*  
+**ETHAN (V.O.)** 
+*(breathing)* 
 Not again.
 
 **FADE OUT.**

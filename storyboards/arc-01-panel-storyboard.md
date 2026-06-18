@@ -69,7 +69,7 @@ blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless 
 | **Dobok change** | 1.6–1.7 | **1.6** shirtless black short tights → white dobok pants · **1.7** dobok top over head abs visible · belt off-page |
 | **Dobok warmup** | 1.8 | White **WT dobok** · black belt silver **태권도** · **NO hogu / NO helmet / NO guards** — stretching only |
 | **First full kit** | 1.9–1.14 | Gear donning on PAGE 2 · mirror **1.14** |
-| **Full kit (present)** | 1.15–1.46 | Same tournament kit as above — **SAME face/hair/kit** every panel |
+| **Full kit (present)** | 1.15–1.46 | Same tournament kit — **plain white dobok NO arm/sleeve patch** — **SAME face/hair/kit** every panel |
 | **Flash enrollment** | 1.28 | Young Ethan ~5 · shadow parent · Ttong + Repeul counting money |
 | **Flash scrimmage** | 1.31 | White dobok · black belt · **no headgear** · Prime dojang kick montage |
 | **Flash sidelines** | 1.32 | Ttong displeased watching · arms crossed · Repeul chips · dojang |
@@ -80,7 +80,7 @@ blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless 
 | **Ttong Kim** | 38 · 5'8" stocky · underbite · **Prime polo + tight black shorts + gold watch** |
 | **Repeul Kim** | 37 · 5'5" · brown curly hair · **ugly multicolor casual** · scowl · silent edge of frame |
 | **Ethan Hyun** | 15 · 5'3" lean · **navy blue shadow perm** (visible blue tint in hair, not jet black) · brown eyes · kit per phase |
-| **Ring opponent** | Taller external-school teen · red hogu · **plain dobok NO Prime patch** |
+| **Ring opponent** | Taller external-school teen · red hogu · **plain dobok NO** |
 
 **Visual arc:** casual kid → dobok → athlete → neglected all day → KO → wake.
 
@@ -376,7 +376,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression strapping white forearm guards white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit preparation sequence close-up STYLE PRIME
+Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression strapping white forearm guards white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit preparation sequence close-up STYLE PRIME
 ```
 
 ---
@@ -385,7 +385,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression securing white shin guards sitting bench white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit preparation detail STYLE PRIME
+Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression securing white shin guards sitting bench white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit preparation detail STYLE PRIME
 ```
 
 ---
@@ -394,7 +394,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression fitting white foot protectors sensors white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit preparation close-up feet hands STYLE PRIME
+Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression fitting white foot protectors sensors white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit preparation close-up feet hands STYLE PRIME
 ```
 
 ---
@@ -403,7 +403,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression clipping blue helmet face shield white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit preparation profile close-up STYLE PRIME
+Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression clipping blue helmet face shield white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit preparation profile close-up STYLE PRIME
 ```
 
 ---
@@ -412,7 +412,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean
 
 **Prompt:**
 ```
-mirror reflection Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit full competition reveal first time complete kit sharp eyes reserved expression changing room mirror shot STYLE PRIME
+mirror reflection Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit full competition reveal first time complete kit sharp eyes reserved expression changing room mirror shot STYLE PRIME
 ```
 
 ---
@@ -430,7 +430,7 @@ warmup area wide shot Ttong Kim adult man 38 slightly stocky 5 foot 8 square fac
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit standing alone empty warmup mat no coach no instructor nearby other athletes coached in far background isolated neglectful atmosphere wide shot STYLE PRIME
+Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors full Olympic kyorugi kit standing alone empty warmup mat no coach no instructor nearby other athletes coached in far background isolated neglectful atmosphere wide shot STYLE PRIME
 ```
 
 ---
@@ -440,7 +440,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean
 
 **Prompt:**
 ```
-tournament gear check wristband table official scanning athletes queue Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt waiting adjusting forearm guard strap fluorescent hallway, STYLE: PRIME
+tournament gear check wristband table official scanning athletes queue Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt waiting adjusting forearm guard strap fluorescent hallway, STYLE: PRIME
 ```
 
 ---
@@ -450,7 +450,7 @@ tournament gear check wristband table official scanning athletes queue Ethan Hyu
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt walking past empty warmup mats no coach teens sitting on gym floor in kyorugi gear on phones neglectful atmosphere wide shot, STYLE: PRIME
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt walking past empty warmup mats no coach teens sitting on gym floor in kyorugi gear on phones neglectful atmosphere wide shot, STYLE: PRIME
 ```
 
 ---
@@ -461,7 +461,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, teen boy dark blue shadow perm hair staring at tournament bracket board, finger on paper bracket,
-shocked quiet expression, taekwondo uniform with school patch, crowded gymnasium background,
+shocked quiet expression, taekwondo uniform plain white dobok no sleeve patch, crowded gymnasium background,
 close-up on face and bracket, STYLE: PRIME
 ```
 
@@ -472,7 +472,7 @@ close-up on face and bracket, STYLE: PRIME
 
 **Prompt:**
 ```
-POV climbing metal bleacher steps Olympic blue electronic hogu forearm shin guards in frame tournament gymnasium crowd above Ethan Hyun teen 15 dark blue shadow perm hair full Olympic kyorugi kit white dobok Prime patch perspective immersive shot, STYLE: PRIME
+POV climbing metal bleacher steps Olympic blue electronic hogu forearm shin guards in frame tournament gymnasium crowd above Ethan Hyun teen 15 dark blue shadow perm hair full Olympic kyorugi kit white dobok perspective immersive shot, STYLE: PRIME
 ```
 
 ---
@@ -516,7 +516,7 @@ legs still in gear, bored exhausted expression, STYLE: PRIME
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt walking tournament concourse vending machines returning to bleachers crumpled snack wrapper in hand empty corridor afternoon, STYLE: PRIME
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt walking tournament concourse vending machines returning to bleachers crumpled snack wrapper in hand empty corridor afternoon, STYLE: PRIME
 ```
 
 ---
@@ -536,7 +536,7 @@ one small dark blue hair boy staring forward at distant competition ring, STYLE:
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt sitting on bleachers shaking stiff leg pins and needles grimacing afternoon wall clock background bored exhausted, STYLE: PRIME
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt sitting on bleachers shaking stiff leg pins and needles grimacing afternoon wall clock background bored exhausted, STYLE: PRIME
 ```
 
 ---
@@ -644,7 +644,7 @@ crowd arena background, STYLE: PRIME
 
 **Prompt:**
 ```
-tournament staging line officials checking electronic hogu blue helmet Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt waiting in queue tense expression gear inspection, STYLE: PRIME
+tournament staging line officials checking electronic hogu blue helmet Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt waiting in queue tense expression gear inspection, STYLE: PRIME
 ```
 
 ---
@@ -676,7 +676,7 @@ red-grey accent bar STYLE CARD STYLE PRIME
 
 **Prompt:**
 ```
-manhwa fighter profile card Ethan Hyun teen 15 dark blue hair full kit blue hogu Prime patch,
+manhwa fighter profile card Ethan Hyun teen 15 dark blue hair full kit blue hogu,
 stat block Age 15 Height 5'3 Weight 95 lbs Rank 3rd Dan Division Junior -45kg,
 blue accent bar STYLE CARD STYLE PRIME
 ```
@@ -714,7 +714,7 @@ dramatic low angle, STYLE: PRIME
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt walking corridor toward competition floor distant referee whistle stiff gait overhead arena lights dramatic depth, STYLE: PRIME
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt walking corridor toward competition floor distant referee whistle stiff gait overhead arena lights dramatic depth, STYLE: PRIME
 ```
 
 ---
@@ -724,7 +724,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 
 **Prompt:**
 ```
-close-up feet stepping over competition ring boundary tape onto mat Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt entering ring opponent warming up background low angle threshold moment, STYLE: PRIME
+close-up feet stepping over competition ring boundary tape onto mat Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards plain white dobok NO arm patch black belt entering ring opponent warming up background low angle threshold moment, STYLE: PRIME
 ```
 
 ---
@@ -2993,11 +2993,11 @@ Prime trophy flash dissolving into warm Kwon's wooden floor ghost memory fading 
 ---
 ### Panel 7.28 — Gear Gap [FLASH]
 **Scene:** **FLASH split** — new electronic hogus on paying kid — Ethan's worn straps.
-**Dialogue:** Ethan (V.O.): *Same patch. Different price tag.*
+**Dialogue:** Ethan (V.O.): *Same dojang. Different price tag.*
 
 **Prompt:**
 ```
-flashback split panel expensive new taekwondo gear vs worn gear same school patch,
+flashback split panel expensive new taekwondo gear vs worn gear same plain white dobok,
 economic favoritism visual, STYLE: PRIME
 ```
 
