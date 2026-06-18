@@ -1,8 +1,8 @@
-# Flashback — Girl Favoritism at Premier
+# Flashback — Girl Favoritism at Prime
 ## *REAL #9 · #25 · #26 · #27 · Ttong Kim*
 
-**Purpose:** Document the **implied inappropriate friendliness** and **blatant gender favoritism** at Premier — through what Ethan **saw and heard**, not exposition.  
-**Woven into main scripts:** [arc-04-ch36-37-shadow-archive.md](./arc-04-ch36-37-shadow-archive.md) · Ch 37 beats also in [flash-premier-girl-favoritism.md](./flash-premier-girl-favoritism.md)  
+**Purpose:** Document the **implied inappropriate friendliness** and **blatant gender favoritism** at Prime — through what Ethan **saw and heard**, not exposition.  
+**Woven into main scripts:** [arc-04-ch36-37-shadow-archive.md](./arc-04-ch36-37-shadow-archive.md) · Ch 37 beats also in [flash-prime-girl-favoritism.md](./flash-prime-girl-favoritism.md)  
 **Panels:** [arc-04-panel-storyboard.md](../storyboards/arc-04-panel-storyboard.md) §37.1–37.7 · **PRESENT snap** §37.7  
 **Composite character:** **Ha-eun Park** — favored student; may overlap with bully readmitted [#26] — same inner circle, not a main cast member.
 
@@ -14,7 +14,7 @@
 
 | Beat | Status |
 |------|--------|
-| Bonus points on belt test → Ethan 2nd | ✅ Arc 3 Ch 28.7 · script [flash-premier-board-break.md](./flash-premier-board-break.md) |
+| Bonus points on belt test → Ethan 2nd | ✅ Arc 3 Ch 28.7 · script [flash-prime-board-break.md](./flash-prime-board-break.md) |
 | "Creepy favoritism" mentioned vaguely | ✅ REAL #9 one-liner · Arc 4 Ch 37 note |
 | Generic bully protected | ✅ Arc 4 Ch 42.1 — **now specified as girl readmitted [#26]** |
 | New Year's sleepover brag | ❌ **Added below** |
@@ -30,7 +30,7 @@
 **Panels:** 37.3
 
 **ACTION:**  
-Premier dojang — **belt promotion chart** on wall — names + dates.
+Prime dojang — **belt promotion chart** on wall — names + dates.
 
 Ethan (13–14 in flashback) scans:
 
@@ -123,7 +123,7 @@ Ha-eun hugs his arm. Ethan watches with bruised hand in pocket.
 **Panels:** 42.1–42.2
 
 **ACTION:**  
-Months later — or same year — Premier lobby.
+Months later — or same year — Prime lobby.
 
 **Ha-eun** — or **same inner-circle girl** — walks in with mother. Younger kid from summer camp **flinches** by water fountain.
 
@@ -182,7 +182,7 @@ Room cold. Ethan nods. Doesn't ask again.
 
 ### Ha-eun Park (composite)
 
-- **Not** a recurring villain — **system** is the antagonist (Ttong Kim + Premier)
+- **Not** a recurring villain — **system** is the antagonist (Ttong Kim + Prime)
 - Overly friendly with instructor — laughs, sits near him, arm hugs
 - Belt test bonus [#24] · New Year's brag [#25] · possible bully return [#26]
 - If same character: favoritism **explains** why bully returns
@@ -191,7 +191,7 @@ Room cold. Ethan nods. Doesn't ask again.
 
 | File | Link |
 |------|------|
-| Board break | [flash-premier-board-break.md](./flash-premier-board-break.md) |
+| Board break | [flash-prime-board-break.md](./flash-prime-board-break.md) |
 | Ttong Kim profile | [ttong-kim.md](../characters/ttong-kim.md) |
 | Arc 4 breakdown | [arc-04-shadow-school.md](../arcs/arc-04-shadow-school.md) |
 
@@ -201,7 +201,7 @@ Room cold. Ethan nods. Doesn't ask again.
 At Kwon's, promotion is **timestamped**. Same criteria. Boys and girls.
 
 **ETHAN**  
-Ha-eun would've had three belts by then at Premier.
+Ha-eun would've had three belts by then at Prime.
 
 **MV**  
 And you would've had **none** of the trust that came with them.

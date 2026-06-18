@@ -105,7 +105,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `team feet hitting floor dawn alarm national camp unity, STYLE: KOREA HAIKYUU`
 
 ### 92.1 — Board Remedial Contrast [REAL #24 echo] ★ [PRESENT Korea + FLASH echo]
-**Scene:** Korean staff lowers board in one sentence — cadet breaks in five tries — Ethan watches (**FLASH inset** Premier silent hour optional).
+**Scene:** Korean staff lowers board in one sentence — cadet breaks in five tries — Ethan watches (**FLASH inset** Prime silent hour optional).
 **Dialogue:** MV: "Different country. Same lesson you deserved at twelve."
 **Prompt:** `coach adjusts board height immediately young athlete contrast flashback echo, STYLE: KOREA TEACH`
 
@@ -688,9 +688,9 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 **Scene:** TJ cut **+2** — awkward landing — micro-limp — Ethan corners — *Don't hero the spin.*
 **Prompt:** `injured fighter micro limp corner advice role reversal, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU TEACH ACTION`
 
-### 98.2 — Round 1 Flash — Premier Empty Corner
+### 98.2 — Round 1 Flash — Prime Empty Corner
 **Scene:** Young Ethan alone — *Go fight.* — Present Ethan voice **full**.
-**Prompt:** `flashback empty corner vs present full corner support, STYLE: KOREA HAIKYUU PREMIER`
+**Prompt:** `flashback empty corner vs present full corner support, STYLE: KOREA HAIKYUU PRIME`
 
 ### 98.3 — Round 2 Mountain Strike [TEACH + ACTION] ★
 **Scene:** Ethan + Logan **STOMP! CUT!** — mat stomp — cut head **+3** — **6–4** — Logan *felt it in my teeth*.
@@ -713,7 +713,7 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 **Prompt:** `injured fighter awkward landing micro limp opponent scores, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION HAIKYUU`
 
 ### 98.9 — Ethan Corner Steady [ACTION]
-**Scene:** Ethan steps to corner stool — full voice — not Premier empty.
+**Scene:** Ethan steps to corner stool — full voice — not Prime empty.
 **Dialogue:** Ethan: "Cut when he steps. Don't hero the spin until I call it."
 **Prompt:** `teammate corner stool advice role reversal steady, STYLE: KOREA ACTION HAIKYUU`
 
@@ -830,7 +830,7 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 **Prompt:** `fighter slides inside spinning hook arc guard high epic, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA ACTION SOLO LEVELING`
 
 ### 99.13 — Flash Stack Intercut [ACTION]
-**Scene:** Arc 3 Derek · Arc 1 nightmare · Premier drop · Arc 5 STOP — four insets one kick.
+**Scene:** Arc 3 Derek · Arc 1 nightmare · Prime drop · Arc 5 STOP — four insets one kick.
 **Prompt:** `flashback intercut stack spinning hook trauma redemption panels, STYLE: KOREA ACTION FLASH`
 
 ### 99.14 — Ultimate Counter +5 Impact [ACTION] ★
@@ -1164,9 +1164,9 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 **Dialogue:** TJ: "Stand with me at ceremony?" · Ethan: "Yeah."
 **Prompt:** `teammate promise ceremony injured captain ice room, STYLE: KOREA HAIKYUU`
 
-### 103.4 — Premier Flash Empty [FLASH inset vs PRESENT]
+### 103.4 — Prime Flash Empty [FLASH inset vs PRESENT]
 **Scene:** Young Ethan alone ceremony — empty bleachers — *Go fight.*
-**Prompt:** `flashback empty ceremony alone vs present full team, STYLE: PREMIER KOREA HAIKYUU`
+**Prompt:** `flashback empty ceremony alone vs present full team, STYLE: PRIME KOREA HAIKYUU`
 
 ### 103.5 — Present Full Corner [HAIKYUU]
 **Scene:** Present — six behind TJ — Logan filming until MV **glares** — phone down.
@@ -1200,7 +1200,7 @@ Each competitor gets a **dedicated chapter** for how they fight and how they **e
 
 ### 103.12 — Ethan Notes iPad [TEACH]
 **Scene:** Ethan adds **ceremony stance** note — corner forever.
-**Dialogue:** Ethan (internal): *Full corner. Not Premier empty.*
+**Dialogue:** Ethan (internal): *Full corner. Not Prime empty.*
 **Prompt:** `teen adding corner notes tablet ceremony prep, STYLE: KOREA TEACH HAIKYUU`
 
 ### 103.13 — MV One Nod [SOLO LEVELING]

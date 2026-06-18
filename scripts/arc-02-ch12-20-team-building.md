@@ -1,8 +1,8 @@
 # Arc 2 — Chapters 12–20: Scene Script
 ## *Rules, Dinner, Shadow, Announcement*
 
-**Purpose:** Olympic rules voice · team dinner · Premier flash woven into present · tournament cliff  
-**Tone:** [HAIKYUU] study chaos → warm ramen → PREMIER sting → KWONS hope  
+**Purpose:** Olympic rules voice · team dinner · Prime flash woven into present · tournament cliff  
+**Tone:** [HAIKYUU] study chaos → warm ramen → PRIME sting → KWONS hope  
 **Tie-in panels:** [arc-02-panel-storyboard.md](../storyboards/arc-02-panel-storyboard.md) §12–20
 
 ---
@@ -93,7 +93,7 @@ Six silhouettes + MV under streetlights — warm silence.
 
 ---
 
-# CHAPTER 15 — PREMIER FLASH IN PRESENT ★
+# CHAPTER 15 — PRIME FLASH IN PRESENT ★
 
 ### SCENE 3 — DISSOCIATION ON MATS
 **Panels:** 15.1–15.4
@@ -101,7 +101,7 @@ Six silhouettes + MV under streetlights — warm silence.
 **ACTION:**  
 Footwork drill. Ethan sharp — then **blank** mid-step.
 
-**FLASH — PREMIER [REAL #5 · #6 · #28]** *(STYLE: PREMIER — intercut, not chapter break)*
+**FLASH — PRIME [REAL #5 · #6 · #28]** *(STYLE: PRIME — intercut, not chapter break)*
 
 Young colored-belt Ethan **wins drill** — instructor **used to** smile here.
 

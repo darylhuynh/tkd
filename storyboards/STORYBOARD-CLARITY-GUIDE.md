@@ -9,7 +9,7 @@ How to read montages, flash cuts, and chapter order across all arc panel files. 
 | Tag | Meaning | Visual cue for artists |
 |-----|---------|------------------------|
 | **PRESENT** | Main story timeline in this chapter | Full saturation; location matches chapter header |
-| **FLASH — dojang** | Memory at Premier enrollment / training | Slight blur border, warmer or colder than present |
+| **FLASH — dojang** | Memory at Prime enrollment / training | Slight blur border, warmer or colder than present |
 | **FLASH — tournament** | Memory at a past or parallel tournament | Clock or bracket visible if same venue |
 | **FLASH inset** | Brief memory inside a present panel | Small panel or desaturated overlay |
 | **ANCHOR** | Return shot that reorients reader (Ethan on bleachers, on Kwon's mat, etc.) | Same seat/pose as prior anchor panel |
@@ -41,7 +41,7 @@ PRESENT anchor: Ethan alone on bleachers (clock advances)
 
 ## Favoritism Archive Montage (Arc 4 Ch 36–37)
 
-Ethan's **insomnia memory cascade** at Kwon's — not a single Premier day.
+Ethan's **insomnia memory cascade** at Kwon's — not a single Prime day.
 
 ```text
 PRESENT ANCHOR: 36.0 — empty mat, can't sleep, phone down
@@ -56,7 +56,7 @@ PRESENT ANCHOR: 36.0 — empty mat, can't sleep, phone down
   → PRESENT SNAP: 37.7 — MV finds him — "learn where it lives"
 ```
 
-**Ch 38 onward:** separate present-day beats (Premier visit, water fountain, etc.) — not the same cascade night unless noted.
+**Ch 38 onward:** separate present-day beats (Prime visit, water fountain, etc.) — not the same cascade night unless noted.
 
 ---
 
@@ -64,7 +64,7 @@ PRESENT ANCHOR: 36.0 — empty mat, can't sleep, phone down
 
 | Beat | First full arc | Echo / detail |
 |------|----------------|---------------|
-| Board break hour [REAL #24] | Arc 3 **§28.1–28.8** (after Ch 25 loss) | Arc 4 **§36.0** (Premier archive) — same trauma, second angle |
+| Board break hour [REAL #24] | Arc 3 **§28.1–28.8** (after Ch 25 loss) | Arc 4 **§36.0** (Prime archive) — same trauma, second angle |
 | KO bounty [REAL #28] | Arc 1 **1.13b** | Arc 2 **15.2b**, Arc 3 **22.4**, Arc 4 **39.2–40.2** |
 | "Go fight" [REAL #13] | Arc 1 **1.14** | Arc 3 **29.1**, Arc 6 **83.2** (contrast: full corner) |
 | Spinning hook trauma | Arc 1 **1.17–1.18** | Arc 3 **25.6–25.10** (rhyme), Arc 7 **98.4** (counter payoff) |
@@ -80,7 +80,7 @@ When a beat repeats, panels should label **callback** or **FLASH inset** so read
 | Location | Read order | Why |
 |----------|------------|-----|
 | Arc 3 **Ch 34b** (Pineapple Fanta) | **Before** Ch 34.1–34.3 | Same tournament day as Ch 25 loss; emotional B-plot |
-| Arc 3 **§26–30** | Flash block after Ch 25 | No present anchor until **31.1** — entire block is **FLASH Premier** |
+| Arc 3 **§26–30** | Flash block after Ch 25 | No present anchor until **31.1** — entire block is **FLASH Prime** |
 | Arc 5 **Ch 60** (Logan) | **Before** Ch 58–59 | Mock tourney is pre-grief; Ch 58–59 is grandmother + berserker |
 | Arc 7 **Ch 94–100** | Strict sequential | One chapter per fighter; do not interleave |
 | Arc 8 **Ch 111–120** | Sequential | Table at top of [arc-08-panel-storyboard.md](./arc-08-panel-storyboard.md) |
@@ -92,28 +92,28 @@ When a beat repeats, panels should label **callback** or **FLASH inset** so read
 ### Arc 1 — New Beginnings (Ch 1–10)
 - **Ch 1:** Nightmare = tournament neglect + wake (no Kwon's warmth).
 - **Ch 2–6:** Present Kwon's — Ethan trusts MV slowly.
-- **Ch 7:** FLASH Premier montage (opening day → favoritism) → **ANCHOR** Kwon's mat.
+- **Ch 7:** FLASH Prime montage (opening day → favoritism) → **ANCHOR** Kwon's mat.
 - **Ch 8–9:** Present hospital threats + team invite.
 - **Ch 10:** Team arrives — found family.
 
 ### Arc 2 — The Team (Ch 11–20)
 - **Ch 11:** Each teammate FLASH reason → **PRESENT** circle.
-- **Ch 15:** FLASH Premier favoritism + KO bounty → **15.4 PRESENT snap** on Kwon's mat.
+- **Ch 15:** FLASH Prime favoritism + KO bounty → **15.4 PRESENT snap** on Kwon's mat.
 - **Ch 20:** Tournament flyer — setup Arc 3.
 
 ### Arc 3 — First Tournament (Ch 21–35)
 - **Ch 21–25:** PRESENT Kwon's tournament — Ch 25 loss triggers trauma rhyme.
 - **Ch 34b → 34:** Fanta thread then results (see table above).
-- **§26–30:** FLASH Premier origin stack (no present until Ch 31).
+- **§26–30:** FLASH Prime origin stack (no present until Ch 31).
 - **Ch 31–35:** PRESENT recovery + team fights + MV eval.
 
 ### Arc 4 — Shadow School (Ch 36–50)
 - **Ch 36–37:** **PRESENT** insomnia anchor **36.0** → **FLASH cascade** (board → ceremony → favoritism montage) → **PRESENT snap 37.7** (MV).
-- **Ch 38:** **PRESENT** — Ethan at Premier picking up gear — overhears live.
+- **Ch 38:** **PRESENT** — Ethan at Prime picking up gear — overhears live.
 - **Ch 39:** **PRESENT** water fountain + **FLASH overlays** (temperament + bounty inset).
-- **Ch 40–42:** **FLASH** Premier archive (lies, loyalty, bully readmit).
+- **Ch 40–42:** **FLASH** Prime archive (lies, loyalty, bully readmit).
 - **Ch 43:** **FLASH** ultimatum → **PRESENT** Kwon's hallway echo (text to MV).
-- **Ch 44:** **FLASH** Premier cut vs **PRESENT** Kwon's tape + ramen (same evening).
+- **Ch 44:** **FLASH** Prime cut vs **PRESENT** Kwon's tape + ramen (same evening).
 - **Ch 45–46:** **PRESENT** hospital + threats.
 - **Ch 47–50:** **PRESENT** rank discovery comedy → letting go.
 

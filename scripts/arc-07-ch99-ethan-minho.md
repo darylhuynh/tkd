@@ -32,7 +32,7 @@ I see it.
 **FLASH STACK (preview):**
 - Arc 3 Ch 25 Derek chamber  
 - Arc 1 nightmare  
-- Premier young Ethan drop  
+- Prime young Ethan drop  
 
 **ETHAN (V.O.)**  
 Read it. Don't rage. **Winning the room isn't the same as making the board.**
@@ -79,7 +79,7 @@ Round 2. Cut exchange — Ethan doesn't retreat.
 **MV**  
 Now—**Ultimate Counter**—**FIVE!** Guard **UP**!
 
-**FLASH STACK** *(intercut)* — Arc 3 · Arc 1 · Premier · Arc 5 STOP
+**FLASH STACK** *(intercut)* — Arc 3 · Arc 1 · Prime · Arc 5 STOP
 
 Ethan **slides inside spin arc** — **spinning hook to head** — PSS **+5** — **guard up**.
 

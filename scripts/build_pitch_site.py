@@ -30,8 +30,8 @@ FACTION = {
     "ariana-yang": "kwons",
     "master-viet": "coach",
     "yuna-park": "ally",
-    "ttong-kim": "premier",
-    "repeul-kim": "premier",
+    "ttong-kim": "prime",
+    "repeul-kim": "prime",
     "derek-cole": "rival",
     "maya-ortiz": "rival",
     "lee-ji-woo": "rival",
@@ -49,7 +49,7 @@ ROLE = {
     "ariana-yang": "Workhorse · The Unbreakable Daughter",
     "master-viet": "Head Instructor · Kwon's Taekwondo Academy",
     "yuna-park": "Poomsae Athlete · Ethan's Love Interest",
-    "ttong-kim": "Antagonist · Premier Taekwondo Sports Dynasty",
+    "ttong-kim": "Antagonist · Prime Taekwondo Sports Dynasty",
     "repeul-kim": "Background · Ttong's wife (never speaks)",
     "derek-cole": "Arc 3 · Ch 25 opponent",
     "maya-ortiz": "Arc 3 · Ch 33 opponent",
@@ -168,13 +168,13 @@ ARCS = [
         "num": 1,
         "title": "New Beginnings",
         "chapters": "1–10",
-        "tagline": "Nightmare at Premier. Hope at Kwon's.",
+        "tagline": "Nightmare at Prime. Hope at Kwon's.",
         "href": "arcs/new-beginnings/index.html",
         "available": True,
     },
     {"num": 2, "title": "The Team", "chapters": "11–20", "tagline": "Six friends become a family.", "href": "arcs/the-team/index.html", "available": True},
     {"num": 3, "title": "First Tournament", "chapters": "21–35", "tagline": "First blood on the mat.", "href": "arcs/first-tournament/index.html", "available": True},
-    {"num": 4, "title": "Shadow School", "chapters": "36–50", "tagline": "Premier doesn't let go easily.", "href": "arcs/shadow-school/index.html", "available": True},
+    {"num": 4, "title": "Shadow School", "chapters": "36–50", "tagline": "Prime doesn't let go easily.", "href": "arcs/shadow-school/index.html", "available": True},
     {"num": 5, "title": "Road to Korea", "chapters": "51–70", "tagline": "The impossible dream takes shape.", "href": "arcs/road-to-korea/index.html", "available": True},
     {"num": 6, "title": "Korea Regionals", "chapters": "71–90", "tagline": "Prove it on foreign soil.", "href": "arcs/korea-regionals/index.html", "available": True},
     {"num": 7, "title": "Legends", "chapters": "91–110", "tagline": "U20 National Team selection.", "href": "arcs/legends/index.html", "available": True},
@@ -350,7 +350,7 @@ def main() -> None:
         "story_premise": (
             "Ethan walks into Kwon's Taekwondo Academy with elite technique, a silver letter black "
             "belt and scars from an old school. Master Viet doesn't promise miracles - he promises "
-            "attention. One by one, five friends leave Premier Taekwondo Sports Dynasty's Shadow "
+            "attention. One by one, five friends leave Prime Taekwondo Sports Dynasty's Shadow "
             "to follow Ethan."
         ),
         "story_premise_2": (

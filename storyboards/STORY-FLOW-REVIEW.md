@@ -26,7 +26,7 @@
 | **1** New Beginnings | Team arrives Ch 10 — wide welcome | — | Nightmare palette, trauma snap, silver belt “kept power” |
 | **2** The Team | Six reasons circle, rules class, ramen, huddle | Ethan/Kian mirror rivalry (push, not hate) | Training montage collapse, bio cards |
 | **3** First Tournament | Travel banter, post-loss team (no blame) | Bracket shock, public loss, Derek respect | Black belt flash Ch 26–30, slow-mo hook |
-| **4** Shadow School | Tape study + ramen vs Premier cold | “With us or against us,” rank discovery | Confrontation intensity, board-break hour |
+| **4** Shadow School | Tape study + ramen vs Prime cold | “With us or against us,” rank discovery | Confrontation intensity, board-break hour |
 | **5** Road to Korea | Hallway wait at death [HAIKYUU] | Weight room individual grind | Berserker seed, post-grief training |
 | **6** Korea Regionals | Corner protocol, team placement | Elimination board, ADVANCE/WAIT/OUT | Lee Ji-woo endurance fight, pro dojang scale |
 | **7** Legends | Ch 106 huddle, Ch 110 van hug | Ch 94–100 gauntlet · **Ch 98 TJ selected · Ch 99 Ethan last** | U20 signatures, Ultimate Counter +5 still out |
@@ -37,13 +37,13 @@
 ## Arc-by-Arc Flow Notes
 
 ### Arc 1 — New Beginnings (Ch 1–10) ✅
-- **Hook:** Premier neglect → KO bounty → hook kick → wake (strong Solo Leveling dread).
+- **Hook:** Prime neglect → KO bounty → hook kick → wake (strong Solo Leveling dread).
 - **Turn:** Kwon's window contrast [REAL #20] → MV patience → Korea U20 ask.
 - **Payoff:** Team text → six arrivals → *Welcome to Kwon's.*
 - **Flow check:** FLASH/PRESENT tags on Ch 1 montage prevent confusion. Hospital + threats seed Arc 4–6.
 
 ### Arc 2 — The Team (Ch 11–20) ✅
-- **Structure:** One reason per member → rules → footwork → dinner → Premier flash → montage → evals → flyer.
+- **Structure:** One reason per member → rules → footwork → dinner → Prime flash → montage → evals → flyer.
 - **Haikyuu:** Ch 12 quiz, Ch 14 ramen, Ch 17 sync reset, Ch 20 huddle.
 - **Blue Lock:** Kian/Ethan mirror without betrayal; MV “fight like color belts.”
 - **Bridge to Arc 3:** Tournament flyer — emotional bookend to Ch 1 tournament trauma.
@@ -55,7 +55,7 @@
 - **Pineapple Fanta:** Ch 34 thread seeds Yuna Arc 5–7.
 
 ### Arc 4 — The Shadow School (Ch 36–50) ✅
-- **Function:** Premier rot catalogued — not a single villain fight.
+- **Function:** Prime rot catalogued — not a single villain fight.
 - **Peak:** Ch 43 ultimatum, Ch 45 hospital ribbon, Ch 50 letting go on mat.
 - **Tone balance:** Ch 49 comedy relief before Arc 5 grief (essential pacing).
 
@@ -87,7 +87,7 @@
 
 | Thread | Plant | Payoff | Status |
 |--------|-------|--------|--------|
-| Premier favoritism | Arc 1, 3 flash | Arc 4 archive | ✅ |
+| Prime favoritism | Arc 1, 3 flash | Arc 4 archive | ✅ |
 | Knockout bounty REAL #28 | Arc 1, 2, 3 | Arc 4 temperament | ✅ |
 | Silver-letter belt | Arc 1 | Arc 2 reason / rank subtext | ✅ |
 | Ttong threats | Arc 1 Ch 8 | Arc 4, 8 Ch 114 delete | ✅ |

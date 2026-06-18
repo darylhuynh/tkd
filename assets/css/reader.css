@@ -277,7 +277,7 @@
   border: 1px solid var(--border);
 }
 
-.panel-tag.style-premier { color: #8b9cb8; border-color: rgba(139, 156, 184, 0.3); }
+.panel-tag.style-prime { color: #8b9cb8; border-color: rgba(139, 156, 184, 0.3); }
 .panel-tag.style-kwons { color: var(--gold); border-color: rgba(245, 196, 81, 0.3); }
 .panel-tag.flash { color: var(--red); border-color: rgba(255, 61, 90, 0.3); }
 .panel-tag.card { color: var(--purple); border-color: rgba(167, 139, 250, 0.3); }

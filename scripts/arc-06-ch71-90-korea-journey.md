@@ -43,7 +43,7 @@ Ninety seconds is **three stories**. Beginning. Middle. End.
 *(quiet)*  
 We weren't even close before.
 
-**[FLASH — PREMIER — brochure "elite" — same word — empty mat — STYLE: PREMIER]**
+**[FLASH — PRIME — brochure "elite" — same word — empty mat — STYLE: PRIME]**
 
 **PRESENT — STYLE: KOREA**
 

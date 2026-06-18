@@ -88,7 +88,7 @@
 
 Recovering from injuries before the most important tournament of his career (Korea Regionals).
 
-**Why he left Premier:** Ttong Kim **always singled him out**; TJ **regressed** after transferring from another school; wanted to train with **Ethan** (best friend).
+**Why he left Prime:** Ttong Kim **always singled him out**; TJ **regressed** after transferring from another school; wanted to train with **Ethan** (best friend).
 
 **U20 result:** **Only Kwon's athlete to make the national team.**
 

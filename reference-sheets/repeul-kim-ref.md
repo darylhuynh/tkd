@@ -77,7 +77,7 @@ NO TEXT NO LETTERS NO NAME TAGS NO SPEECH BUBBLE
 
 ## Panel Use
 
-- Attach **`casual-front.png`** when Ttong Kim appears at Premier tournaments, VIP payments, parent meetings.
+- Attach **`casual-front.png`** when Ttong Kim appears at Prime tournaments, VIP payments, parent meetings.
 - Keep her **peripheral** — img2img at low weight or describe as background blur.
 - **Never** generate dialogue for this character.
 

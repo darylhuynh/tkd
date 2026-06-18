@@ -4,7 +4,7 @@
 
 Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) to all prompts.
 
-**Premier flash (extended):** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 1 → **15.2b** · § Scene 2 body memory → **15.3** internal.
+**Prime flash (extended):** [flash-prime-knockout-bounty.md](../scripts/flash-prime-knockout-bounty.md) § Scene 1 → **15.2b** · § Scene 2 body memory → **15.3** internal.
 
 **Kyorugi gear:** Full kit for spar/match panels — [STORYBOARD-GUIDE § Kyorugi Sparring Gear](../storyboards/STORYBOARD-GUIDE.md#kyorugi-sparring-gear-required).
 
@@ -18,30 +18,30 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 **Prompt:** `team circle sitting on taekwondo mats, diverse teen athletes listening to coach, evening dojang, STYLE: KWONS STYLE: HAIKYUU`
 
 ### 11.2 — Kian's Reason [FLASH inset]
-**Timeline:** **FLASH** — Premier humiliation. **PRESENT** — Kian speaking in circle (Kwon's).
+**Timeline:** **FLASH** — Prime humiliation. **PRESENT** — Kian speaking in circle (Kwon's).
 **Scene:** Flash inset — Ttong Kim berates Kian center mat. **Entire class watching.** Kian humiliated for "acting like a clown."
 **Dialogue:** Ttong Kim: "You think this is a joke?" · Kian (present): "I wasn't laughing after that."
-**Prompt:** `flashback instructor yelling at teen in front of whole taekwondo class humiliation, STYLE: PREMIER`
+**Prompt:** `flashback instructor yelling at teen in front of whole taekwondo class humiliation, STYLE: PRIME`
 
 ### 11.3 — Kieryn's Reason
 **Scene:** Friends wave from mat — Kieryn at door with bag. Looks back once.
-**Dialogue:** Kieryn: "My friends were there. But I'd never get better. Not at Premier."
-**Prompt:** `teen girl leaving dojang friends visible on mat looking back decision, STYLE: PREMIER`
+**Dialogue:** Kieryn: "My friends were there. But I'd never get better. Not at Prime."
+**Prompt:** `teen girl leaving dojang friends visible on mat looking back decision, STYLE: PRIME`
 
 ### 11.4 — Ariana's Reason
 **Scene:** Father and Ttong Kim handshake — Ariana ignored in corner. Father's face hardens.
 **Dialogue:** Father: "She needs a coach who sees her." · Ariana: "He listened when they didn't."
-**Prompt:** `father pulling daughter from inattentive coach taekwondo school, STYLE: PREMIER`
+**Prompt:** `father pulling daughter from inattentive coach taekwondo school, STYLE: PRIME`
 
 ### 11.5 — Logan's Reason
-**Scene:** Logan grabs Ethan's arm at Premier door — both walking out. Gear bag too big for him.
+**Scene:** Logan grabs Ethan's arm at Prime door — both walking out. Gear bag too big for him.
 **Dialogue:** Logan: "Where you go, I go. I don't need to compete. I need my brother."
-**Prompt:** `small cheerful teen grabbing brother arm leaving dojang together, STYLE: PREMIER`
+**Prompt:** `small cheerful teen grabbing brother arm leaving dojang together, STYLE: PRIME`
 
 ### 11.6 — TJ's Reason
 **Scene:** Ttong Kim points at TJ alone — other students watch. TJ's form worse than flashback from old school.
 **Dialogue:** TJ: "He singled me out every day. I was getting worse. Ethan was at Kwon's. I followed my friend."
-**Prompt:** `coach singling out muscular teen athlete student watching regression, STYLE: PREMIER`
+**Prompt:** `coach singling out muscular teen athlete student watching regression, STYLE: PRIME`
 
 ### 11.7 — Ethan Last [HAIKYUU]
 **Scene:** Ethan speaks one line. Team doesn't pity — nods like Karasuno hearing Hinata's backstory.
@@ -56,7 +56,7 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 ### 11.9 — Kieryn's Refusal
 **Scene:** Kieryn clarifies — fist on knee, steady. Flash inset: friends waving fades to Kwon's faces.
 **Dialogue:** Kieryn: "I wasn't abandoning them. I was refusing to rot."
-**Prompt:** `teen girl explaining decision with flash inset friends on mat fading to new team, STYLE: PREMIER inset STYLE: KWONS`
+**Prompt:** `teen girl explaining decision with flash inset friends on mat fading to new team, STYLE: PRIME inset STYLE: KWONS`
 
 ### 11.10 — TJ Counts Them In
 **Scene:** TJ looks around circle — counts teammates like headcount on a bus.
@@ -380,10 +380,10 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 **Dialogue:** TJ: "To Kwon's." · All: "To Kwon's!" · Logan: "To ramen!"
 **Prompt:** `team soda cup toast cramming ramen booth celebration, warm group energy, STYLE: HAIKYUU`
 
-### 14.12 — Premier Cafeteria [FLASH inset]
-**Scene:** Small desaturated inset — Ethan alone at Premier plastic tray. Cut back to steam and neon.
+### 14.12 — Prime Cafeteria [FLASH inset]
+**Scene:** Small desaturated inset — Ethan alone at Prime plastic tray. Cut back to steam and neon.
 **Dialogue:** Ethan (internal): *Different table.*
-**Prompt:** `small flashback inset lonely cafeteria tray desaturated, cut to warm ramen steam neon, STYLE: PREMIER inset STYLE: HAIKYUU`
+**Prompt:** `small flashback inset lonely cafeteria tray desaturated, cut to warm ramen steam neon, STYLE: PRIME inset STYLE: HAIKYUU`
 
 ### 14.13 — Warm Booth Contrast
 **Scene:** Wide — whole team laughing, MV at end of booth. Steam fills frame like warmth.
@@ -427,29 +427,29 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 
 ---
 
-## Chapter 15 — Premier Flashback: The Favor
+## Chapter 15 — Prime Flashback: The Favor
 
-**Timeline:** Entire chapter is **FLASH Premier** until **15.4 PRESENT snap** on Kwon's mats.
+**Timeline:** Entire chapter is **FLASH Prime** until **15.4 PRESENT snap** on Kwon's mats.
 
 ### 15.1 — Young Ethan Hopeful [FLASH — dojang, earlier]
 **Scene:** Colored belt Ethan wins drill — instructor used to smile here.
-**Prompt:** `younger taekwondo student winning drill hopeful expression, STYLE: PREMIER lighter`
+**Prompt:** `younger taekwondo student winning drill hopeful expression, STYLE: PRIME lighter`
 
 ### 15.2 — VIP Lesson [FLASH — dojang]
 **Scene:** Paying family private lesson — instructor hands on kid's stance.
-**Prompt:** `private coaching paid student, instructor attentive, STYLE: PREMIER`
+**Prompt:** `private coaching paid student, instructor attentive, STYLE: PRIME`
 
 ### 15.2b — Knockout Bounty [REAL #28] ★ [FLASH — tournament staging]
 **Scene:** Tournament staging — Ttong Kim holds **1,000 won** (천 원) — **class bounty if their student KOs another** — black belts **finish / put out** opponents — **eyes Ethan** — *too soft for black belt* — classmates watching (some grin, some shoes).
 **Dialogue:** Ttong Kim: **"One thousand won — 천 원 — if your student knocks the other kid out. Not points. Out."** · **"Black belt doesn't mean nice. Black belt means you finish them."** · *(quieter, to Ethan)* **"Too soft. Too nice to be a real black belt."**
-**Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 1
-**Prompt:** `coach holding 1000 won coin knockout bounty speech black belt finish philosophy teen called too soft public humiliation classmates watching, STYLE: PREMIER`
+**Script:** [flash-prime-knockout-bounty.md](../scripts/flash-prime-knockout-bounty.md) § Scene 1
+**Prompt:** `coach holding 1000 won coin knockout bounty speech black belt finish philosophy teen called too soft public humiliation classmates watching, STYLE: PRIME`
 
 ### 15.3 — Ethan in Corner [FLASH — dojang]
 **Scene:** Ethan alone stretching — watches favored students from mirror reflection — **two voices**: *knock them out* / *you're too nice*.
 **Dialogue:** Ethan (internal): *Same floor. Different world.* · *I didn't want to knock anyone out. He said that meant I didn't belong.*
-**Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 2
-**Prompt:** `lonely teen stretching alone watching favored students in mirror reflection cautious not hunter, STYLE: PREMIER`
+**Script:** [flash-prime-knockout-bounty.md](../scripts/flash-prime-knockout-bounty.md) § Scene 2
+**Prompt:** `lonely teen stretching alone watching favored students in mirror reflection cautious not hunter, STYLE: PRIME`
 
 ### 15.4 — Present Snap [PRESENT — Kwon's mats ANCHOR]
 **Scene:** Ethan blinks — back on Kwon's mats. Kian: "You with us?"
@@ -459,47 +459,47 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 ### 15.5 — Instructor Smile Fades [FLASH]
 **Scene:** Same drill win as 15.1 — instructor's smile turns off when paying parent enters frame.
 **Dialogue:** Ttong Kim: "Back in line. The adults are talking."
-**Prompt:** `instructor smile fading turning away from student toward paying parents, subtle favoritism, STYLE: PREMIER`
+**Prompt:** `instructor smile fading turning away from student toward paying parents, subtle favoritism, STYLE: PRIME`
 
 ### 15.6 — VIP Hands [FLASH]
 **Scene:** Private lesson — instructor adjusts paying kid's stance. Hands linger too long. **Handled subtly — frame crops at shoulders.**
 **Dialogue:** *(none — uncomfortable silence)*
-**Prompt:** `private coaching paid student instructor hands on stance cropped subtle unease, STYLE: PREMIER`
+**Prompt:** `private coaching paid student instructor hands on stance cropped subtle unease, STYLE: PRIME`
 
 ### 15.7 — Parents Watching [FLASH]
 **Scene:** Waiting area — paying families with clipboards. Non-paying parents on plastic chairs farther back.
 **Dialogue:** Parent (O.S.): "We pay for attention. That's the arrangement."
-**Prompt:** `two tier waiting area paying families vs others premier dojang, money culture, STYLE: PREMIER`
+**Prompt:** `two tier waiting area paying families vs others prime dojang, money culture, STYLE: PRIME`
 
 ### 15.8 — Ethan on Bleachers [FLASH]
 **Scene:** Young Ethan sits alone on bleachers — dobok crisp, watching VIP floor through glass.
 **Dialogue:** Ethan (internal): *Same building. Different door.*
-**Prompt:** `young teen alone bleachers watching private lesson through glass, lonely, STYLE: PREMIER`
+**Prompt:** `young teen alone bleachers watching private lesson through glass, lonely, STYLE: PRIME`
 
 ### 15.9 — Favored Corner [FLASH]
 **Scene:** Senior students stretch in prime mat space — younger Ethan assigned edge near storage.
 **Dialogue:** Ttong Kim: "You — corner. Watch. Maybe you'll learn."
-**Prompt:** `favored students prime mat space teen relegated corner storage, favoritism, STYLE: PREMIER`
+**Prompt:** `favored students prime mat space teen relegated corner storage, favoritism, STYLE: PRIME`
 
 ### 15.10 — Bounty Grin [FLASH]
 **Scene:** Classmate grins hearing knockout bounty — elbow nudges friend. Ethan in background doesn't smile.
 **Dialogue:** Student: "Free money if you drop someone." · Ethan (internal): *That's not why we're here.*
-**Prompt:** `student grinning at knockout bounty speech teen in background uncomfortable, STYLE: PREMIER`
+**Prompt:** `student grinning at knockout bounty speech teen in background uncomfortable, STYLE: PRIME`
 
 ### 15.11 — Shoes Student [FLASH]
 **Scene:** Another classmate looks at floor — uncomfortable. **Shoes** detail from script — moral unease in crowd.
 **Dialogue:** *(none — student staring at own shoes)*
-**Prompt:** `teen student uncomfortable looking at shoes during coach speech classmates watching, STYLE: PREMIER`
+**Prompt:** `teen student uncomfortable looking at shoes during coach speech classmates watching, STYLE: PRIME`
 
 ### 15.12 — Too Soft Close-Up [FLASH]
 **Scene:** Ttong Kim's mouth — "too soft" — young Ethan's eyes in same frame, not blinking.
 **Dialogue:** Ttong Kim: "Too soft. Too nice to be a real black belt."
-**Prompt:** `close up coach mouth saying too soft teen eyes not blinking humiliation, STYLE: PREMIER`
+**Prompt:** `close up coach mouth saying too soft teen eyes not blinking humiliation, STYLE: PRIME`
 
 ### 15.13 — Breath Between Worlds [PRESENT]
 **Scene:** PRESENT — mid-drill — Ethan's vision half flash/half Kwon's. One blink splits them.
 **Dialogue:** Ethan (internal): *Same footwork. Different floor.*
-**Prompt:** `teen split vision flash dojang overlay present kwons footwork drill dissociation edge, STYLE: PREMIER inset STYLE: KWONS`
+**Prompt:** `teen split vision flash dojang overlay present kwons footwork drill dissociation edge, STYLE: PRIME inset STYLE: KWONS`
 
 ### 15.14 — Present Footwork Stumble
 **Scene:** PRESENT — Ethan's foot catches on mat edge mid-drill — flash ends. Kian reaches out.
@@ -893,7 +893,7 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 
 ### 19.12 — Tenacity Flag Extended
 **Scene:** MV circles **Courage** on clipboard — not cruel, precise.
-**Dialogue:** MV: "Technique is A. Courage is still hiding. Premier taught you to survive, not finish."
+**Dialogue:** MV: "Technique is A. Courage is still hiding. Prime taught you to survive, not finish."
 **Prompt:** `coach clipboard circling courage grade mentoring serious not cruel, STYLE: KWONS`
 
 ### 19.13 — Ethan Almost Argues
@@ -980,7 +980,7 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 
 ### 20.9 — Kieryn Knuckle Crack
 **Scene:** Kieryn cracks knuckles — methodical, one by one. Focused not scared.
-**Dialogue:** Kieryn: "I've been waiting for official lights since Premier." · Ariana: "Same."
+**Dialogue:** Kieryn: "I've been waiting for official lights since Prime." · Ariana: "Same."
 **Prompt:** `teen girl cracking knuckles methodical focused pre tournament, STYLE: KWONS`
 
 ### 20.10 — Ariana Bandages Tight
@@ -1048,7 +1048,7 @@ Append [Global Style from STORYBOARD-GUIDE](../storyboards/STORYBOARD-GUIDE.md) 
 | 12 | Olympic Sparring 101 | 20 |
 | 13 | Stances & Footwork | 20 |
 | 14 | Team Dinner | 20 |
-| 15 | Premier Flashback | 20 |
+| 15 | Prime Flashback | 20 |
 | 16 | Training Montage | 20 |
 | 17 | Fighting Like Colored Belts | 20 |
 | 18 | Character Bio Cards | 20 |

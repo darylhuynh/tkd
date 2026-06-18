@@ -22,7 +22,7 @@ Ethan · TJ · Kieryn · Kian · Ariana · Logan · **MV** · food-court friend 
 **Panels:** 47.1
 
 **ACTION:**  
-Neutral ground. Former Premier classmate — not hostile — tired.
+Neutral ground. Former Prime classmate — not hostile — tired.
 
 **FRIEND**  
 Did you hear? He's not even a real **master**.
@@ -54,7 +54,7 @@ I'll send the link. Don't start a war. I just thought you should know you're not
 Ethan's room — credential database — official registry.
 
 **ON SCREEN:**  
-**Kim, Ttong — 2nd Dan — Instructor Level — Premier Taekwondo Sports Dynasty**
+**Kim, Ttong — 2nd Dan — Instructor Level — Prime Taekwondo Sports Dynasty**
 
 Ethan stares. Scrolls again. Same.
 

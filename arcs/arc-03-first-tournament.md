@@ -7,7 +7,7 @@
 
 ## Arc Summary
 
-The team's first official tournament under Kwon's. Travel, gear, banter — then violence on the mat. Ethan draws a bad bracket (heavier division), loses Round 1 to a spinning hook kick, and **the past consumes him**. Intercut: his first black belt match at Premier — no warmup, no advice, twenty minutes of screaming. Everyone else fights; TJ dominates; Logan surprises. MV delivers honest evaluations.
+The team's first official tournament under Kwon's. Travel, gear, banter — then violence on the mat. Ethan draws a bad bracket (heavier division), loses Round 1 to a spinning hook kick, and **the past consumes him**. Intercut: his first black belt match at Prime — no warmup, no advice, twenty minutes of screaming. Everyone else fights; TJ dominates; Logan surprises. MV delivers honest evaluations.
 
 ---
 
@@ -41,7 +41,7 @@ The team's first official tournament under Kwon's. Travel, gear, banter — then
 - **SLOW MOTION** — silence
 
 ### Chapters 26–30 — Black Belt Flashback [REAL #10–13, #24]
-- **Chapter 26:** Premier opening day — instructor warm, Ethan first white belt
+- **Chapter 26:** Prime opening day — instructor warm, Ethan first white belt
 - **Chapter 27:** School grows — money, lies to parents [REAL #8], cold instructor
 - **Chapter 28:** **[REAL #10, #24]** Black belt **testing day** — board break (~1 hr, swollen hand, 1/5); highest pass score but **2nd** after favored girl's bonus [REAL #9]; hollow ceremony
 - **Chapter 29:** Black belt exhibition match — heavier seasoned athlete; **no warmup, no strategy**; instructor: **"Go fight."**
@@ -63,7 +63,7 @@ The team's first official tournament under Kwon's. Travel, gear, banter — then
 
 ### Chapter 34 — Tournament Continues / Results Board
 - Kwon's places respectably — not champions yet, but real
-- Premier students in crowd — stare at Ethan
+- Prime students in crowd — stare at Ethan
 
 ### Chapter 35 — Master Viet's Evaluations
 - **Scene script (Ch 32–35):** [arc-03-ch32-35-tournament-close.md](../scripts/arc-03-ch32-35-tournament-close.md)
@@ -80,7 +80,7 @@ The team's first official tournament under Kwon's. Travel, gear, banter — then
 |-------|----------|
 | First white belt → black belt | 28 |
 | **Board break hour / 1/5 / 2nd place** | **28** |
-| Spinning hook kick (Premier) | 29–30 |
+| Spinning hook kick (Prime) | 29–30 |
 | "Go fight." / no prep | 29 |
 | 20-minute scolding | 30 |
 | Coach lying to parents (flashback) | 27 |
@@ -99,13 +99,13 @@ The team's first official tournament under Kwon's. Travel, gear, banter — then
 ## Visual Notes for AI
 
 - **Present tournament:** bright venue, electronic scoreboard
-- **Flashback Premier:** desaturated, crowded, instructor large in foreground
+- **Flashback Prime:** desaturated, crowded, instructor large in foreground
 - **Chapter 30 scolding:** instructor mouth moving, Ethan small, clock on wall — time passage
 
 ---
 
 ## Hooks to Arc 4
 
-- Ethan begins talking about Premier openly
+- Ethan begins talking about Prime openly
 - Threatening messages escalate
 - Rank rumor incoming

@@ -42,7 +42,7 @@ Append **Global Style** from [STORYBOARD-GUIDE.md](./STORYBOARD-GUIDE.md). Add d
 | Trigger | Format | Example |
 |---------|--------|---------|
 | **First major appearance** | Single card | Arc 1 Ch 3 — Ethan at Kwon's |
-| **Premier staff intro** | Single ×2 (stacked) | Arc 1 **1.13a-T** Ttong → **1.13a-R** Repeul (Repeul **never speaks** after) |
+| **Prime staff intro** | Single ×2 (stacked) | Arc 1 **1.13a-T** Ttong → **1.13a-R** Repeul (Repeul **never speaks** after) |
 | **Before P0/P1 fight** | Dual VS card | Ch 25, **98**, 77, 118 |
 | **Before team member fight** | Single card on walk to ring | Ch 32 TJ, Ch 33 Kieryn |
 | **Poomsae intro** | Single — discipline line | Yuna Arc 3 Ch 34 |
@@ -98,7 +98,7 @@ Tag in storyboard: `[CARD]` · Panel ID `XX.0` or `XX.C1` / `XX.C2`.
 
 | Ch | Panel | Who | Type |
 |----|-------|-----|------|
-| 1 | 1.13a-T | Ttong Kim | Premier intro ★ |
+| 1 | 1.13a-T | Ttong Kim | Prime intro ★ |
 | 1 | 1.13a-R | Repeul Kim | Background intro ★ (no dan) |
 | 1 | 3.4 | Ethan | Intro (optional — nightmare first) |
 | 3 | 3.4 | Ethan | First Kwon's intro ★ |
@@ -149,8 +149,8 @@ Use **single card** with Role instead of Division/Dan when the character does no
 
 | Name | Age | Height | Weight | Role | School |
 |------|-----|--------|--------|------|--------|
-| **Ttong Kim** | 38 | 5'8" (173 cm) | 198 lb (90 kg) | 2nd Dan instructor | Premier |
-| **Repeul Kim** | 37 | 5'5" (165 cm) | 230 lb (104 kg) | Background (spouse) | Premier |
+| **Ttong Kim** | 38 | 5'8" (173 cm) | 198 lb (90 kg) | 2nd Dan instructor | Prime |
+| **Repeul Kim** | 37 | 5'5" (165 cm) | 230 lb (104 kg) | Background (spouse) | Prime |
 
 **Repeul Kim:** Post-production only — **no dialogue bubbles ever.**
 
@@ -197,13 +197,13 @@ Collegiate −68 kg · 4th Dan · Yonsei University
 ### Ttong Kim — Ch 1 (1.13a-T)
 ```
 TTONG KIM · Age 38 · 5'8" · 198 lbs
-2nd Dan · Premier Taekwondo Sports Dynasty
+2nd Dan · Prime Taekwondo Sports Dynasty
 ```
 
 ### Repeul Kim — Ch 1 (1.13a-R)
 ```
 REPEUL KIM · Age 37 · 5'5" · 230 lbs
-Premier (background)
+Prime (background)
 ```
 
 ---

@@ -48,10 +48,10 @@ Sit or plan.
 Plan. **Ethan** — talk.
 
 **ETHAN**  
-*(steps forward — steady — not Premier empty corner)*  
+*(steps forward — steady — not Prime empty corner)*  
 Cut when he steps. **Don't hero** the spin until I call it.
 
-**FLASH — Premier** — young Ethan alone — *Go fight.*
+**FLASH — Prime** — young Ethan alone — *Go fight.*
 
 Present — Ethan's voice **full**.
 

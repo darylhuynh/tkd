@@ -1,0 +1,86 @@
+{
+  "arc": 1,
+  "chapter": 2,
+  "title": "Arrival at Kwon's",
+  "strip_dir": "gallery/strips/arc-01",
+  "layout": "dynamic-manhwa",
+  "strips": [
+    {
+      "id": "page2a",
+      "file": "chapter-02-page-2a-approach.png",
+      "label": "PAGE 2a \u2014 Approach (2.1\u20132.3)",
+      "panel_ids": [
+        "2.1",
+        "2.2",
+        "2.3"
+      ]
+    },
+    {
+      "id": "page2b",
+      "file": "chapter-02-page-2b-enter-sit.png",
+      "label": "PAGE 2b \u2014 Enter & sit (2.4)",
+      "panel_ids": [
+        "2.4"
+      ]
+    },
+    {
+      "id": "page2c",
+      "file": "chapter-02-page-2c-mv-coaching.png",
+      "label": "PAGE 2c \u2014 MV coaches (2.5)",
+      "panel_ids": [
+        "2.5"
+      ]
+    },
+    {
+      "id": "page2d",
+      "file": "chapter-02-page-2d-mv-ethan-talk.png",
+      "label": "PAGE 2d \u2014 MV & Ethan talk (2.6)",
+      "panel_ids": [
+        "2.6"
+      ]
+    },
+    {
+      "id": "page2e",
+      "file": "chapter-02-page-2e-conversation-solos.png",
+      "label": "PAGE 2e \u2014 Conversation solos (2.7\u20132.9)",
+      "panel_ids": [
+        "2.7",
+        "2.8",
+        "2.9"
+      ]
+    },
+    {
+      "id": "page2f",
+      "file": "chapter-02-page-2f-ethan-texting.png",
+      "label": "PAGE 2f \u2014 Ethan texts (2.10)",
+      "panel_ids": [
+        "2.10"
+      ]
+    },
+    {
+      "id": "page2g",
+      "file": "chapter-02-page-2g-smirk-door.png",
+      "label": "PAGE 2g \u2014 Smirk & door (2.11\u20132.12)",
+      "panel_ids": [
+        "2.11",
+        "2.12"
+      ]
+    },
+    {
+      "id": "page2h",
+      "file": "chapter-02-page-2h-team-enters.png",
+      "label": "PAGE 2h \u2014 Team enters (2.13)",
+      "panel_ids": [
+        "2.13"
+      ]
+    },
+    {
+      "id": "page2i",
+      "file": "chapter-02-page-2i-hero-lineup.png",
+      "label": "PAGE 2i \u2014 Hero lineup (2.14) SINGLE SPLASH",
+      "panel_ids": [
+        "2.14"
+      ]
+    }
+  ]
+}

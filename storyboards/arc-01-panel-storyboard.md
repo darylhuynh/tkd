@@ -1,19 +1,19 @@
 # Arc 1 — Panel Storyboard (Chapters 1–10)
 
-**New Beginnings** · Premier trauma → Kwon's sanctuary → team reveal.
+**New Beginnings** · Prime trauma → Kwon's sanctuary → team reveal.
 
-Append [Global Style from STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md) to all prompts unless a panel specifies `STYLE: PREMIER` or `STYLE: KWONS`.
+Append [Global Style from STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md) to all prompts unless a panel specifies `STYLE: PRIME` or `STYLE: KWONS`.
 
 **Reference sheets:** [reference-sheets/](../reference-sheets/README.md) — attach Ethan, MV, Ttong Kim refs for Ch 1–10 batch gen.
 
-**Premier flash (extended):** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 1 → **1.37** · § Scene 2 → **1.38–1.42** bridge.
+**Prime flash (extended):** [flash-prime-knockout-bounty.md](../scripts/flash-prime-knockout-bounty.md) § Scene 1 → **1.37** · § Scene 2 → **1.38–1.42** bridge.
 
 ---
 
 ## How to Use
 
 1. Generate panels in order (`1.1` → `10.40`).
-2. Append **Global Style** to every prompt unless a panel says `STYLE: PREMIER` or `STYLE: KWONS`.
+2. Append **Global Style** to every prompt unless a panel says `STYLE: PRIME` or `STYLE: KWONS`.
 3. For dialogue, add text in your editor after generation — most AI tools render text poorly.
 4. **Character continuity:** Always use **canon names + locked outfit** in prompts (never generic "instructor" / "teen boy"). See **Chapter 1 — Outfit Lock** below and [STORYBOARD-GUIDE § Continuity](./STORYBOARD-GUIDE.md#panel-prompt-continuity).
 5. **Aspect ratio:** vertical panels `2:3` or `9:16` for webtoon scroll.
@@ -54,7 +54,7 @@ blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless 
 
 | Location | STYLE tag |
 |----------|-----------|
-| Premier / nightmare / hospital threat | `STYLE: PREMIER` — desaturated, blue-grey, harsh fluorescent |
+| Prime / nightmare / hospital threat | `STYLE: PRIME` — desaturated, blue-grey, harsh fluorescent |
 | Kwon's dojang | `STYLE: KWONS` — warm amber, golden hour through windows, wood floors |
 
 ---
@@ -71,16 +71,16 @@ blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless 
 | **First full kit** | 1.9–1.14 | Gear donning on PAGE 2 · mirror **1.14** |
 | **Full kit (present)** | 1.15–1.46 | Same tournament kit as above — **SAME face/hair/kit** every panel |
 | **Flash enrollment** | 1.28 | Young Ethan ~5 · shadow parent · Ttong + Repeul counting money |
-| **Flash scrimmage** | 1.31 | White dobok · black belt · **no headgear** · Premier dojang kick montage |
+| **Flash scrimmage** | 1.31 | White dobok · black belt · **no headgear** · Prime dojang kick montage |
 | **Flash sidelines** | 1.32 | Ttong displeased watching · arms crossed · Repeul chips · dojang |
 | **Bedroom** | 1.47–1.48 | Grey sleep tee · messy dark blue hair · gold headphones on nightstand · **NO dobok** |
 
 | Character | Locked look |
 |-----------|-------------|
-| **Ttong Kim** | 38 · 5'8" stocky · underbite · **Premier polo + tight black shorts + gold watch** |
+| **Ttong Kim** | 38 · 5'8" stocky · underbite · **Prime polo + tight black shorts + gold watch** |
 | **Repeul Kim** | 37 · 5'5" · brown curly hair · **ugly multicolor casual** · scowl · silent edge of frame |
 | **Ethan Hyun** | 15 · 5'3" lean · **navy blue shadow perm** (visible blue tint in hair, not jet black) · brown eyes · kit per phase |
-| **Ring opponent** | Taller external-school teen · red hogu · **plain dobok NO Premier patch** |
+| **Ring opponent** | Taller external-school teen · red hogu · **plain dobok NO Prime patch** |
 
 **Visual arc:** casual kid → dobok → athlete → neglected all day → KO → wake.
 
@@ -257,7 +257,7 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 ---
 
 ### Panel 1.0 — Voices in the Dark *(PAGE 0 prelude)*
-**Scene:** Pure black. **Speech bubbles only** — disembodied voices (parents, Premier staff, coaches) layering guilt and pressure before Ethan’s nightmare. No faces. No art.
+**Scene:** Pure black. **Speech bubbles only** — disembodied voices (parents, Prime staff, coaches) layering guilt and pressure before Ethan’s nightmare. No faces. No art.
 **Dialogue:** See PAGE 0 layout table above.
 **SFX:** *(silence — or faint underwater muffled quality optional in reader)*
 
@@ -268,25 +268,25 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 
 **Prompt:**
 ```
-INDOOR sports arena tournament building exterior modern glass concrete facade dawn overcast bright alive BUSY morning crowds families athletes parents teens walking toward entrance carrying gear bags tournament banners parking lot activity energetic arrival NOT empty NOT dark night NOT gloomy NO Ethan focus wide cinematic establishing shot STYLE PREMIER
+INDOOR sports arena tournament building exterior modern glass concrete facade dawn overcast bright alive BUSY morning crowds families athletes parents teens walking toward entrance carrying gear bags tournament banners parking lot activity energetic arrival NOT empty NOT dark night NOT gloomy NO Ethan focus wide cinematic establishing shot STYLE PRIME
 ```
 
 ---
-### Panel 1.2 — Premier Van
-**Scene:** Premier team van. **At most 4–5 people total** including Ethan. Teammates **already in white doboks** with **colored rank belts** (white/yellow/green/blue/red — **not black**). Mixed male/female, bland generic extras. One or two stepping out staggered; one or two already waiting on pavement. **Ethan Hyun** exits **last** — **only one in casual clothes** (black hoodie).
+### Panel 1.2 — Prime Van
+**Scene:** Prime team van. **At most 4–5 people total** including Ethan. Teammates **already in white doboks** with **colored rank belts** (white/yellow/green/blue/red — **not black**). Mixed male/female, bland generic extras. One or two stepping out staggered; one or two already waiting on pavement. **Ethan Hyun** exits **last** — **only one in casual clothes** (black hoodie).
 
 **Prompt:**
 ```
-dawn parking lot black Premier passenger van ONE SINGLE sliding side door ONLY open all other doors closed NO front doors NO rear doors NO three doors AT MOST four teammates plus Ethan generic bland teens FULL white WT dobok white top AND white pants NO shorts NO dobok shorts COLORED belts yellow green blue red NOT black mixed male female staggered exit Ethan Hyun ONLY casual black hoodie gold headphones stepping out LAST wide shot STYLE PREMIER
+dawn parking lot black Prime passenger van ONE SINGLE sliding side door ONLY open all other doors closed NO front doors NO rear doors NO three doors AT MOST four teammates plus Ethan generic bland teens FULL white WT dobok white top AND white pants NO shorts NO dobok shorts COLORED belts yellow green blue red NOT black mixed male female staggered exit Ethan Hyun ONLY casual black hoodie gold headphones stepping out LAST wide shot STYLE PRIME
 ```
 
 ---
 ### Panel 1.3 — Crowd Walk Toward Stadium
-**Scene:** Ethan walking **with** Premier teammates **inside the arriving crowd**, all moving **toward** the stadium entrance. Arena visible **ahead**. **NOT** walking away from the venue.
+**Scene:** Ethan walking **with** Prime teammates **inside the arriving crowd**, all moving **toward** the stadium entrance. Arena visible **ahead**. **NOT** walking away from the venue.
 
 **Prompt:**
 ```
-rear or three-quarter tracking shot Ethan Hyun teen black hoodie cargo pants gold headphones white backpack walking WITH Premier teammates INSIDE busy tournament crowd moving TOWARD indoor arena glass entrance building visible AHEAD in background same direction as arriving families NOT walking away from stadium NOT leaving venue NOT back turned exiting parking lot STYLE PREMIER
+rear or three-quarter tracking shot Ethan Hyun teen black hoodie cargo pants gold headphones white backpack walking WITH Prime teammates INSIDE busy tournament crowd moving TOWARD indoor arena glass entrance building visible AHEAD in background same direction as arriving families NOT walking away from stadium NOT leaving venue NOT back turned exiting parking lot STYLE PRIME
 ```
 
 ---
@@ -295,7 +295,7 @@ rear or three-quarter tracking shot Ethan Hyun teen black hoodie cargo pants gol
 
 **Prompt:**
 ```
-tournament venue interior hallway Ethan Hyun teen black hoodie cargo pants headphones backpack approaching plain locker room door door sign reads MALE LOCKER in simple English block letters ONLY sign text on door NO dobok icon NO martial arts uniform pictogram medium shot STYLE PREMIER
+tournament venue interior hallway Ethan Hyun teen black hoodie cargo pants headphones backpack approaching plain locker room door door sign reads MALE LOCKER in simple English block letters ONLY sign text on door NO dobok icon NO martial arts uniform pictogram medium shot STYLE PRIME
 ```
 
 ---
@@ -305,7 +305,7 @@ tournament venue interior hallway Ethan Hyun teen black hoodie cargo pants headp
 
 **Prompt:**
 ```
-tournament venue interior wall clock 7 AM Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression oversized black hoodie white undershirt black cargo pants white sneakers gold headphones white backpack NO dobok NO white pants NO hogu carrying white gear backpack walking hallway diverse mixed gender male female athletes varied heights builds in MIXED red and blue electronic hogu helmets passing him harsh fluorescent tired expressions wide hallway STYLE PREMIER
+tournament venue interior wall clock 7 AM Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression oversized black hoodie white undershirt black cargo pants white sneakers gold headphones white backpack NO dobok NO white pants NO hogu carrying white gear backpack walking hallway diverse mixed gender male female athletes varied heights builds in MIXED red and blue electronic hogu helmets passing him harsh fluorescent tired expressions wide hallway STYLE PRIME
 ```
 
 ---
@@ -314,7 +314,7 @@ tournament venue interior wall clock 7 AM Ethan Hyun teen boy 15 korean-american
 
 **Prompt:**
 ```
-changing area locker room Ethan Hyun teen boy 15 korean-american lean athletic dark blue Korean shadow perm hair SHIRTLESS wearing black short compression athletic tights only NO shirt NO dobok top pulling ON white WT dobok pants mid-change harsh fluorescent tournament STYLE PREMIER
+changing area locker room Ethan Hyun teen boy 15 korean-american lean athletic dark blue Korean shadow perm hair SHIRTLESS wearing black short compression athletic tights only NO shirt NO dobok top pulling ON white WT dobok pants mid-change harsh fluorescent tournament STYLE PRIME
 ```
 
 ---
@@ -323,7 +323,7 @@ changing area locker room Ethan Hyun teen boy 15 korean-american lean athletic d
 
 **Prompt:**
 ```
-changing area locker room Ethan Hyun teen boy 15 korean-american lean athletic abs visible dark blue Korean shadow perm hair white dobok pants already on SHIRTLESS pulling white WT dobok top OVER head arms raised mid-change NO belt tying NO hogu NO chest protector harsh fluorescent STYLE PREMIER
+changing area locker room Ethan Hyun teen boy 15 korean-american lean athletic abs visible dark blue Korean shadow perm hair white dobok pants already on SHIRTLESS pulling white WT dobok top OVER head arms raised mid-change NO belt tying NO hogu NO chest protector harsh fluorescent STYLE PRIME
 ```
 
 ---
@@ -334,7 +334,7 @@ changing area locker room Ethan Hyun teen boy 15 korean-american lean athletic a
 
 **Prompt:**
 ```
-INSIDE indoor stadium blue red competition mats Ethan Hyun teen white WT dobok black belt silver 태권도 NO hogu at distance standing waiting holding ONE kicking paddle naturally at his side relaxed arm down NOT extending paddle NOT raising paddle toward coach LOOKING at Ttong Kim patient hopeful expression eyes on coach Ttong Kim stocky underbite black polo shorts body turned AWAY from Ethan face and eyes toward group of OLDER master coaches glasses polo shirt tie AND tournament parents adults mid-conversation animated hand gestures Ttong NOT looking at Ethan zero eye contact with Ethan completely ignoring Ethan wide shot spatial distance STYLE PREMIER
+INSIDE indoor stadium blue red competition mats Ethan Hyun teen white WT dobok black belt silver 태권도 NO hogu at distance standing waiting holding ONE kicking paddle naturally at his side relaxed arm down NOT extending paddle NOT raising paddle toward coach LOOKING at Ttong Kim patient hopeful expression eyes on coach Ttong Kim stocky underbite black polo shorts body turned AWAY from Ethan face and eyes toward group of OLDER master coaches glasses polo shirt tie AND tournament parents adults mid-conversation animated hand gestures Ttong NOT looking at Ethan zero eye contact with Ethan completely ignoring Ethan wide shot spatial distance STYLE PRIME
 ```
 
 **Panel B — Cut: exasperated sigh, walks away**
@@ -342,7 +342,7 @@ INSIDE indoor stadium blue red competition mats Ethan Hyun teen white WT dobok b
 
 **Prompt:**
 ```
-CUT panel INSIDE stadium mats Ethan Hyun walking away alone carrying kicking paddle EXASPERATED SIGH frustrated exhale eyes half-closed or looking up defeated slumped shoulders giving up Ttong Kim looking over shoulder AT Ethan watching him leave Repeul Kim overweight brown curls ugly multicolor casual whispering into Ttong Kim ear mean scowl ONLY Repeul whispers wide cinematic STYLE PREMIER
+CUT panel INSIDE stadium mats Ethan Hyun walking away alone carrying kicking paddle EXASPERATED SIGH frustrated exhale eyes half-closed or looking up defeated slumped shoulders giving up Ttong Kim looking over shoulder AT Ethan watching him leave Repeul Kim overweight brown curls ugly multicolor casual whispering into Ttong Kim ear mean scowl ONLY Repeul whispers wide cinematic STYLE PRIME
 ```
 
 ---
@@ -358,7 +358,7 @@ CUT panel INSIDE stadium mats Ethan Hyun walking away alone carrying kicking pad
 
 **Prompt:**
 ```
-quad-split panel four segments warmup montage Ethan Hyun teen boy 15 korean-american white WT dobok black belt silver 태권도 NO hogu NO helmet NO guards segment 1 side splits on mat segment 2 standing toe touches forward fold segment 3 leg stretch foot against wall segment 4 roundhouse kick mid-kick sparse warmup area few distant athletes stretching in background NOT crowded fluorescent gym STYLE PREMIER
+quad-split panel four segments warmup montage Ethan Hyun teen boy 15 korean-american white WT dobok black belt silver 태권도 NO hogu NO helmet NO guards segment 1 side splits on mat segment 2 standing toe touches forward fold segment 3 leg stretch foot against wall segment 4 roundhouse kick mid-kick sparse warmup area few distant athletes stretching in background NOT crowded fluorescent gym STYLE PRIME
 ```
 
 ---
@@ -367,7 +367,7 @@ quad-split panel four segments warmup montage Ethan Hyun teen boy 15 korean-amer
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression putting on blue electronic chest hogu over white WT dobok black belt silver embroidery changing area close-up hands STYLE PREMIER
+Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression putting on blue electronic chest hogu over white WT dobok black belt silver embroidery changing area close-up hands STYLE PRIME
 ```
 
 ---
@@ -376,7 +376,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression strapping white forearm guards white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Premier patch full Olympic kyorugi kit preparation sequence close-up STYLE PREMIER
+Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression strapping white forearm guards white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit preparation sequence close-up STYLE PRIME
 ```
 
 ---
@@ -385,7 +385,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression securing white shin guards sitting bench white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Premier patch full Olympic kyorugi kit preparation detail STYLE PREMIER
+Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression securing white shin guards sitting bench white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit preparation detail STYLE PRIME
 ```
 
 ---
@@ -394,7 +394,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression fitting white foot protectors sensors white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Premier patch full Olympic kyorugi kit preparation close-up feet hands STYLE PREMIER
+Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression fitting white foot protectors sensors white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit preparation close-up feet hands STYLE PRIME
 ```
 
 ---
@@ -403,7 +403,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression clipping blue helmet face shield white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Premier patch full Olympic kyorugi kit preparation profile close-up STYLE PREMIER
+Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression clipping blue helmet face shield white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit preparation profile close-up STYLE PRIME
 ```
 
 ---
@@ -412,7 +412,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean
 
 **Prompt:**
 ```
-mirror reflection Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Premier patch full Olympic kyorugi kit full competition reveal first time complete kit sharp eyes reserved expression changing room mirror shot STYLE PREMIER
+mirror reflection Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit full competition reveal first time complete kit sharp eyes reserved expression changing room mirror shot STYLE PRIME
 ```
 
 ---
@@ -421,7 +421,7 @@ mirror reflection Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limb
 
 **Prompt:**
 ```
-warmup area wide shot Ttong Kim adult man 38 slightly stocky 5 foot 8 square face obvious underbite teeth showing predatory grin Premier polo shirt tight black shorts gold watch holding kicking pad coaching favored teen athlete in blue hogu animated attentive Repeul Kim adult woman 37 pretty overweight brown curly hair ugly multicolor casual clothes mean scowl background edge eating potato chips from bag silent mouth closed diverse male female athletes red blue hogus STYLE PREMIER
+warmup area wide shot Ttong Kim adult man 38 slightly stocky 5 foot 8 square face obvious underbite teeth showing predatory grin Prime polo shirt tight black shorts gold watch holding kicking pad coaching favored teen athlete in blue hogu animated attentive Repeul Kim adult woman 37 pretty overweight brown curly hair ugly multicolor casual clothes mean scowl background edge eating potato chips from bag silent mouth closed diverse male female athletes red blue hogus STYLE PRIME
 ```
 
 ---
@@ -430,7 +430,7 @@ warmup area wide shot Ttong Kim adult man 38 slightly stocky 5 foot 8 square fac
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Premier patch full Olympic kyorugi kit standing alone empty warmup mat no coach no instructor nearby other athletes coached in far background isolated neglectful atmosphere wide shot STYLE PREMIER
+Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards white shin guards white foot protectors Prime patch full Olympic kyorugi kit standing alone empty warmup mat no coach no instructor nearby other athletes coached in far background isolated neglectful atmosphere wide shot STYLE PRIME
 ```
 
 ---
@@ -440,7 +440,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean
 
 **Prompt:**
 ```
-tournament gear check wristband table official scanning athletes queue Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Premier school patch black belt waiting adjusting forearm guard strap fluorescent hallway, STYLE: PREMIER
+tournament gear check wristband table official scanning athletes queue Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt waiting adjusting forearm guard strap fluorescent hallway, STYLE: PRIME
 ```
 
 ---
@@ -450,7 +450,7 @@ tournament gear check wristband table official scanning athletes queue Ethan Hyu
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Premier school patch black belt walking past empty warmup mats no coach teens sitting on gym floor in kyorugi gear on phones neglectful atmosphere wide shot, STYLE: PREMIER
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt walking past empty warmup mats no coach teens sitting on gym floor in kyorugi gear on phones neglectful atmosphere wide shot, STYLE: PRIME
 ```
 
 ---
@@ -462,7 +462,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 ```
 Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, teen boy dark blue shadow perm hair staring at tournament bracket board, finger on paper bracket,
 shocked quiet expression, taekwondo uniform with school patch, crowded gymnasium background,
-close-up on face and bracket, STYLE: PREMIER
+close-up on face and bracket, STYLE: PRIME
 ```
 
 ---
@@ -472,19 +472,19 @@ close-up on face and bracket, STYLE: PREMIER
 
 **Prompt:**
 ```
-POV climbing metal bleacher steps Olympic blue electronic hogu forearm shin guards in frame tournament gymnasium crowd above Ethan Hyun teen 15 dark blue shadow perm hair full Olympic kyorugi kit white dobok Premier patch perspective immersive shot, STYLE: PREMIER
+POV climbing metal bleacher steps Olympic blue electronic hogu forearm shin guards in frame tournament gymnasium crowd above Ethan Hyun teen 15 dark blue shadow perm hair full Olympic kyorugi kit white dobok Prime patch perspective immersive shot, STYLE: PRIME
 ```
 
 ---
 ### Panel 1.21 — No Warmup
-**Scene:** ** Wide shot — 20+ Premier kids in gear. Instructor at far end talking to parents with coffee. **Repeul Kim** in ugly multicolor casual at edge of parent cluster — silent. No one on mats.
+**Scene:** ** Wide shot — 20+ Prime kids in gear. Instructor at far end talking to parents with coffee. **Repeul Kim** in ugly multicolor casual at edge of parent cluster — silent. No one on mats.
 **Dialogue:** ** *(none)*
 
 **Prompt:**
 ```
 wide shot metal bleachers in gymnasium, young taekwondo fighters sitting in full protective gear
 waiting, coach ignoring them talking to parents with coffee cups, overweight woman ugly multicolor clothes mean scowl background silent,
-no training mats in use, neglectful atmosphere, STYLE: PREMIER
+no training mats in use, neglectful atmosphere, STYLE: PRIME
 ```
 
 ---
@@ -496,7 +496,7 @@ no training mats in use, neglectful atmosphere, STYLE: PREMIER
 ```
 Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, lonely teen boy in taekwondo chest guard sitting alone on metal bleachers, empty seats around him,
 slumped posture, mouthguard on bench beside him, isolated composition, grey desaturated palette,
-STYLE: PREMIER
+STYLE: PRIME
 ```
 
 ---
@@ -506,7 +506,7 @@ STYLE: PREMIER
 **Prompt:**
 ```
 Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, same teen on bleachers time skip montage panel, phone screen showing 10 AM, crumpled snack wrapper,
-legs still in gear, bored exhausted expression, STYLE: PREMIER
+legs still in gear, bored exhausted expression, STYLE: PRIME
 ```
 
 ---
@@ -516,7 +516,7 @@ legs still in gear, bored exhausted expression, STYLE: PREMIER
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Premier school patch black belt walking tournament concourse vending machines returning to bleachers crumpled snack wrapper in hand empty corridor afternoon, STYLE: PREMIER
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt walking tournament concourse vending machines returning to bleachers crumpled snack wrapper in hand empty corridor afternoon, STYLE: PRIME
 ```
 
 ---
@@ -526,7 +526,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, gymnasium bleachers afternoon, wall clock 1 PM, teen athletes scrolling phones in taekwondo gear,
-one small dark blue hair boy staring forward at distant competition ring, STYLE: PREMIER
+one small dark blue hair boy staring forward at distant competition ring, STYLE: PRIME
 ```
 
 ---
@@ -536,7 +536,7 @@ one small dark blue hair boy staring forward at distant competition ring, STYLE:
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Premier school patch black belt sitting on bleachers shaking stiff leg pins and needles grimacing afternoon wall clock background bored exhausted, STYLE: PREMIER
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt sitting on bleachers shaking stiff leg pins and needles grimacing afternoon wall clock background bored exhausted, STYLE: PRIME
 ```
 
 ---
@@ -549,22 +549,22 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 ```
 Ethan Hyun teen 15 full competition kit blue hogu blue helmet off on bleacher bench sitting alone watching across gymnasium,
 distant Ttong Kim instructor hands-on warming up young female teen athlete spotting stretch hands on shoulders hips too long uncomfortable favoritism,
-Ethan unsettled tight expression empty seats beside him tournament fluorescents, STYLE: PREMIER
+Ethan unsettled tight expression empty seats beside him tournament fluorescents, STYLE: PRIME
 ```
 
 ---
 ### Panel 1.28 — The Contract [FLASH — enrollment day]
-**Scene:** Small bordered desaturated inset. Premier front desk. **Faceless dark shadow parent** (no features) extends **VIP brochure** to **Ttong Kim**. **Repeul Kim** in background **counting money**. **Young Ethan ~5 years old** at frame edge beside shadow parent — **joyous grin**, excited to join. Not the favored stranger kid — this is **Ethan's own enrollment memory**.
-**Timeline:** ** **FLASH** — years earlier, Premier enrollment (not tournament).
+**Scene:** Small bordered desaturated inset. Prime front desk. **Faceless dark shadow parent** (no features) extends **VIP brochure** to **Ttong Kim**. **Repeul Kim** in background **counting money**. **Young Ethan ~5 years old** at frame edge beside shadow parent — **joyous grin**, excited to join. Not the favored stranger kid — this is **Ethan's own enrollment memory**.
+**Timeline:** ** **FLASH** — years earlier, Prime enrollment (not tournament).
 **Dialogue:** ** Ttong Kim (to shadow parent): "We'll take good care of **him**." *(him = young Ethan)*
 
 **Prompt:**
 ```
-flashback inset border desaturated Premier taekwondo front desk enrollment,
+flashback inset border desaturated Prime taekwondo front desk enrollment,
 faceless dark shadow parent silhouette no facial features handing VIP brochure to Ttong Kim sleazy smile,
 Repeul Kim background counting cash money stack,
 young boy Ethan age 5 small child dark hair joyous excited grin beside shadow parent ready to join taekwondo,
-STYLE: PREMIER flashback sleazy contract
+STYLE: PRIME flashback sleazy contract
 ```
 
 ---
@@ -577,7 +577,7 @@ STYLE: PREMIER flashback sleazy contract
 ```
 tournament gymnasium referee or PA announcement wide shot competition rings,
 Ethan Hyun teen full kit on bleachers looking up alert stiff legs afternoon harsh fluorescents,
-Ring 4 staging visible background, STYLE: PREMIER
+Ring 4 staging visible background, STYLE: PRIME
 ```
 
 ---
@@ -591,36 +591,36 @@ Ring 4 staging visible background, STYLE: PREMIER
 Ethan Hyun teen full competition kit carrying blue helmet walking past Ttong Kim instructor,
 Ttong still hands-on with young female student ignoring Ethan completely,
 Ethan alone walking toward distant competition ring tournament floor tracking shot neglect,
-STYLE: PREMIER
+STYLE: PRIME
 ```
 
 ---
 ### Panel 1.31 — Dojang Montage [FLASH — training cuts]
-**Scene:** Intercut flash montage at Premier dojang — teen **Ethan** in white dobok/black belt during sparring: **(a)** clean **head kick** landing, **(b)** **roundhouse to body**, **(c)** **cut kick / push kick** sending opponent to floor. Fast kinetic cuts — he was skilled.
+**Scene:** Intercut flash montage at Prime dojang — teen **Ethan** in white dobok/black belt during sparring: **(a)** clean **head kick** landing, **(b)** **roundhouse to body**, **(c)** **cut kick / push kick** sending opponent to floor. Fast kinetic cuts — he was skilled.
 **Timeline:** ** **FLASH** — weeks/months before tournament, dojang scrimmage.
 **Dialogue:** ** Ethan (internal, optional): *Won every scrimmage last month.*
 
 **Prompt:**
 ```
-FLASH montage tri-cut Premier dojang sparring teen Ethan dark blue hair white dobok black belt,
+FLASH montage tri-cut Prime dojang sparring teen Ethan dark blue hair white dobok black belt,
 panel A clean head kick landing on teammate,
 panel B roundhouse kick to body,
 panel C cut kick push kick opponent falling to mat,
-dynamic action sharp linework, STYLE: PREMIER flashback
+dynamic action sharp linework, STYLE: PRIME flashback
 ```
 
 ---
 ### Panel 1.32 — Displeased Coach [FLASH — dojang]
-**Scene:** Premier **dojang** (not tournament). **Ttong Kim** standing sidelines, **arms crossed**, **watching** sparring with **displeased unsatisfied** expression — not happy with Ethan. **Repeul Kim** behind/near him **eating potato chips**. Teen **Ethan** in dobok **looks back** over shoulder and **notices** Ttong's displeased look.
+**Scene:** Prime **dojang** (not tournament). **Ttong Kim** standing sidelines, **arms crossed**, **watching** sparring with **displeased unsatisfied** expression — not happy with Ethan. **Repeul Kim** behind/near him **eating potato chips**. Teen **Ethan** in dobok **looks back** over shoulder and **notices** Ttong's displeased look.
 **Timeline:** ** **FLASH** — same period as 1.31 dojang scrimmage.
 **Dialogue:** ** *(none)*
 
 **Prompt:**
 ```
-FLASH Premier dojang Ttong Kim standing arms crossed watching sparring displeased unsatisfied scowl frown judging,
+FLASH Prime dojang Ttong Kim standing arms crossed watching sparring displeased unsatisfied scowl frown judging,
 Repeul Kim behind eating potato chips bag multicolor casual mean scowl,
 teen Ethan white dobok black belt looking back over shoulder noticing coach unhappy expression dojang mirrors trophies,
-desaturated flashback NOT tournament, STYLE: PREMIER
+desaturated flashback NOT tournament, STYLE: PRIME
 ```
 
 ---
@@ -634,7 +634,7 @@ desaturated flashback NOT tournament, STYLE: PREMIER
 tournament ring blue center mat red border Ethan Hyun teen small 5 foot 3 blue hogu fastening blue helmet on,
 taller bigger teen opponent red hogu facing opposite standoff few inches taller larger build,
 referee black pants white dress shirt red tie hand raised starting match,
-crowd arena background, STYLE: PREMIER
+crowd arena background, STYLE: PRIME
 ```
 
 ---
@@ -644,54 +644,54 @@ crowd arena background, STYLE: PREMIER
 
 **Prompt:**
 ```
-tournament staging line officials checking electronic hogu blue helmet Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Premier school patch black belt waiting in queue tense expression gear inspection, STYLE: PREMIER
+tournament staging line officials checking electronic hogu blue helmet Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt waiting in queue tense expression gear inspection, STYLE: PRIME
 ```
 
 ---
 ### Panel 1.35 — [CARD] Ttong Kim Intro ★
-**Scene:** Fighter profile card — portrait + **stat block** (match GitHub roster): **Age 38 · Ht 5'8" · Wt 198 lbs · 2nd Dan · Premier**. Red accent bar. Underbite, predatory grin, polo/shorts.
+**Scene:** Fighter profile card — portrait + **stat block** (match GitHub roster): **Age 38 · Ht 5'8" · Wt 198 lbs · 2nd Dan · Prime**. Red accent bar. Underbite, predatory grin, polo/shorts.
 **Note:** **Readable stat text allowed on fighter cards only.**
 
 **Prompt:**
 ```
 manhwa fighter profile card Ttong Kim portrait stocky underbite predatory grin black polo shorts,
-stat block readable Age 38 Height 5'8 Weight 198 lbs Rank 2nd Dan Premier,
-red accent bar STYLE CARD STYLE PREMIER
+stat block readable Age 38 Height 5'8 Weight 198 lbs Rank 2nd Dan Prime,
+red accent bar STYLE CARD STYLE PRIME
 ```
 
 ---
 ### Panel 1.36 — [CARD] Repeul Kim Intro ★
-**Scene:** Fighter card — **Age 37 · Ht 5'5" · Wt 230 lbs · Premier (staff)**. Multicolor casual, mean scowl. **Never speaks.**
+**Scene:** Fighter card — **Age 37 · Ht 5'5" · Wt 230 lbs · Prime (staff)**. Multicolor casual, mean scowl. **Never speaks.**
 
 **Prompt:**
 ```
 manhwa fighter profile card Repeul Kim brown curls multicolor floral ugly casual mean scowl,
-stat block Age 37 Height 5'5 Weight 230 lbs Premier staff,
-red-grey accent bar STYLE CARD STYLE PREMIER
+stat block Age 37 Height 5'5 Weight 230 lbs Prime staff,
+red-grey accent bar STYLE CARD STYLE PRIME
 ```
 
 ---
 ### Panel 1.36b — [CARD] Ethan Hyun Intro ★
-**Scene:** Fighter card — **Age 15 · Ht 5'3" · Wt 95 lbs · 3rd Dan · Junior −45kg · Premier** (nightmare roster). Gear-front portrait.
+**Scene:** Fighter card — **Age 15 · Ht 5'3" · Wt 95 lbs · 3rd Dan · Junior −45kg · Prime** (nightmare roster). Gear-front portrait.
 
 **Prompt:**
 ```
-manhwa fighter profile card Ethan Hyun teen 15 dark blue hair full kit blue hogu Premier patch,
+manhwa fighter profile card Ethan Hyun teen 15 dark blue hair full kit blue hogu Prime patch,
 stat block Age 15 Height 5'3 Weight 95 lbs Rank 3rd Dan Division Junior -45kg,
-blue accent bar STYLE CARD STYLE PREMIER
+blue accent bar STYLE CARD STYLE PRIME
 ```
 
 ---
 ### Panel 1.37 — Knockout Bounty [REAL #28] ★
 **Scene:** Ttong holds **1,000 won**. Eyes Ethan — *too soft.* Repeul blurred edge, scowl, silent.
 **Dialogue:** ** Ttong: "One thousand won if you knock them out… Too soft."
-**Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md)
+**Script:** [flash-prime-knockout-bounty.md](../scripts/flash-prime-knockout-bounty.md)
 
 **Prompt:**
 ```
 Ttong Kim holding 1000 won coin bill pointing at teen Ethan black belt too soft unsettling,
 Repeul Kim multicolor casual scowl blurred edge silent,
-STYLE: PREMIER
+STYLE: PRIME
 ```
 
 ---
@@ -704,7 +704,7 @@ STYLE: PREMIER
 Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, cold taekwondo instructor pointing toward competition ring, dismissive expression,
 teen athlete in white dobok full olympic kyorugi gear blue electronic hogu blue helmet forearm shin foot guards listening,
 instructor checking wristwatch, no warmth,
-dramatic low angle, STYLE: PREMIER
+dramatic low angle, STYLE: PRIME
 ```
 
 ---
@@ -714,7 +714,7 @@ dramatic low angle, STYLE: PREMIER
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Premier school patch black belt walking corridor toward competition floor distant referee whistle stiff gait overhead arena lights dramatic depth, STYLE: PREMIER
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt walking corridor toward competition floor distant referee whistle stiff gait overhead arena lights dramatic depth, STYLE: PRIME
 ```
 
 ---
@@ -724,7 +724,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 
 **Prompt:**
 ```
-close-up feet stepping over competition ring boundary tape onto mat Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Premier school patch black belt entering ring opponent warming up background low angle threshold moment, STYLE: PREMIER
+close-up feet stepping over competition ring boundary tape onto mat Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, full Olympic kyorugi kit white dobok blue electronic hogu blue helmet forearm shin foot guards Prime school patch black belt entering ring opponent warming up background low angle threshold moment, STYLE: PRIME
 ```
 
 ---
@@ -736,7 +736,7 @@ close-up feet stepping over competition ring boundary tape onto mat Ethan Hyun t
 ```
 over shoulder POV Ethan blue hogu facing looming taller red hogu opponent,
 Ttong Kim at corner yelling aggressive pointing attack,
-hesitant frozen stance blue center red border mat, STYLE: PREMIER
+hesitant frozen stance blue center red border mat, STYLE: PRIME
 ```
 
 ---
@@ -749,7 +749,7 @@ hesitant frozen stance blue center red border mat, STYLE: PREMIER
 over shoulder view from competition ring,
 abandoned fighter in foreground white dobok full olympic kyorugi gear blue electronic hogu blue helmet forearm shin guards,
 coach walking away toward another student in full competition kit,
-emotional gut punch composition, STYLE: PREMIER
+emotional gut punch composition, STYLE: PRIME
 ```
 
 ---
@@ -761,7 +761,7 @@ emotional gut punch composition, STYLE: PREMIER
 ```
 spinning hook kick impact Ethan blue helmet sensor flash,
 extreme close-up mouthguard flying out of mouth,
-Ethan stepping into kick taller red hogu opponent, STYLE: PREMIER action
+Ethan stepping into kick taller red hogu opponent, STYLE: PRIME action
 ```
 
 ---
@@ -778,7 +778,7 @@ FRAME B 25% Ttong disappointed arms crossed,
 FRAME C 25% Ttong dismissive hand wave shooing,
 FRAME D 25% Ethan still on floor alone,
 FRAME E 25% Ttong walking away back turned leaving,
-muted desaturated STYLE: PREMIER
+muted desaturated STYLE: PRIME
 ```
 
 ---
@@ -788,7 +788,7 @@ muted desaturated STYLE: PREMIER
 
 **Prompt:**
 ```
-zoomed out wide shot Ethan Hyun tiny figure falling sinking into pitch black water abyss drowning metaphor bubbles dark void traumatic horror NOT bedroom, STYLE: PREMIER
+zoomed out wide shot Ethan Hyun tiny figure falling sinking into pitch black water abyss drowning metaphor bubbles dark void traumatic horror NOT bedroom, STYLE: PRIME
 ```
 
 ---
@@ -799,7 +799,7 @@ zoomed out wide shot Ethan Hyun tiny figure falling sinking into pitch black wat
 **Prompt:**
 ```
 Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limbs dark blue Korean shadow perm hair slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression, teen boy jolting awake in bed sweating, gasping, dark blue hair messy, dawn light through curtains,
-horror wake up moment, bedroom interior, dramatic upward angle, STYLE: PREMIER fading to neutral
+horror wake up moment, bedroom interior, dramatic upward angle, STYLE: PRIME fading to neutral
 ```
 
 ---
@@ -826,409 +826,280 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 
 # Chapter 2 — Arrival at Kwon's
 
-### Panel 2.1 — Morning Crosswalk
-**Scene:** **Ethan Hyun** at crosswalk. White gear backpack. Light traffic. Kwon's direction ahead.
+**Revision (2026):** Condensed arrival — Ethan scouts alone, meets MV, team walks in together. **Team hero shot moved here from Ch 10.** Ch 10 becomes first full-class welcome beats.
 
-**Prompt:**
-```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants waiting at suburban crosswalk morning light headphones around neck quiet determination, STYLE: KWONS
-```
+## Chapter 2 — Outfit Lock *(copy into every Ch 2 prompt)*
+
+| Phase | Panels | Look |
+|-------|--------|------|
+| **Ethan casual** | 2.1–2.7 | Dark **navy hoodie** · white tee · black joggers · white sneakers · **gold headphones** · **white gear backpack** · **no dobok** |
+| **MV coaching** | 2.5–2.6 | **Kwon's vest** or white dobok · black neck stripes |
+| **Yellow belt student** | 2.5 | Child cadet · **yellow belt** · white dobok · young (~8–10) |
+| **Team casual** | 2.9–2.10 | Per [CANON-LABELS.md](../reference-sheets/CANON-LABELS.md) — distinct palettes, no dobok |
+
+| Character | Casual lock |
+|-----------|-------------|
+| **Ethan** | Navy hoodie · gold headphones · white gear backpack |
+| **TJ Lim** | Hatsune Miku graphic tee · grey baggy sweatpants · white headband |
+| **Kieryn Lim** | Purple/magenta streetwear · black layers |
+| **Kian Sang** | Deep emerald green hoodie · cream joggers |
+| **Ariana Yang** | Muted black athleisure · quiet posture · shortest girl |
+| **Logan Hyun** | **Orange** warm hoodie · noodle charm on bag |
+| **Master Viet** | Chubby 5'8" · kind small eyes · Kwon's vest |
+
+**Visual arc:** suburban walk → foyer watch → MV kindness → **conversation solos** → text → smirk → **team arrives** → **hero lineup**.
+
+**Palette:** `STYLE: KWONS` — warm amber dojang · golden hour · wood floors · **no PRIME** in this chapter.
+
+**Manhwa pages (strip generation):**
+- **PAGE 2a — Approach:** 2.1–2.3
+- **PAGE 2b — Enter & sit:** 2.4
+- **PAGE 2c — MV coaches:** 2.5
+- **PAGE 2d — MV & Ethan talk:** 2.6
+- **PAGE 2e — Conversation solos:** 2.7–2.9 · side-profile dialogue beats
+- **PAGE 2f — Ethan texts:** 2.10 · solo frame
+- **PAGE 2g — Smirk & door:** 2.11–2.12
+- **PAGE 2h — Team enters:** 2.13
+- **PAGE 2i — Hero lineup:** 2.14 · **single full-page splash**
+
+**Door motif:** Small **inset panel top corner** — dojang door opening (warm light leak). Reuse on **2.4** and **2.12**.
+
+**Rule:** Dialogue in HTML reader only — **no readable text** in art (sign = logo shape only).
 
 ---
-### Panel 2.2 — New Day
-**Scene:** Ethan walks street with white gear backpack. Headphones on. Kwon's sign visible ahead.
+
+## Chapter 2 — Manhwa page layouts
+
+### PAGE 2a — Approach (panels 2.1–2.3)
+**3 rows** · crosswalk → sidewalk → look up at sign.
+
+| Row | Shape | Beats |
+|-----|-------|-------|
+| R1 | Wide ~30% | **2.1** Ethan at **suburban crosswalk** · white gear backpack · headphones around neck · morning light |
+| R2 | Wide ~35% | **2.2** Ethan **walking sidewalk** · headphones on · suburban street |
+| R3 | Low angle ~35% | **2.3** Ethan **looks up** at **Kwon's Taekwondo Academy** building · clean sign · warm wood trim |
+
+**Refs:** `ethan-hyun/casual-front.png`
+
+### PAGE 2b — Enter & sit (panel 2.4)
+**3 rows** · door inset + foyer walk + chair.
+
+| Row | Shape | Beats |
+|-----|-------|-------|
+| R1 | Wide ~25% | **Door inset top-right corner** — dojang door **opening** · warm light wedge · no faces required |
+| R2 | Wide ~40% | **2.4a** Ethan walks through foyer past shoe racks · still in casual · toward waiting chairs |
+| R3 | Medium ~35% | **2.4b** Ethan **sits on chair** against wall · backpack at feet · watching room · guarded |
+
+**Refs:** `ethan-hyun/casual-front.png` · `master-viet` optional blur in BG
+
+### PAGE 2c — MV one-on-one (panel 2.5)
+**2–3 rows** · coaching beat [REAL #20].
+
+| Row | Shape | Beats |
+|-----|-------|-------|
+| R1 | Wide ~45% | **2.5** **Master Viet** holds **focus mitts OR kicking shield** · **one young yellow-belt student** (~8–10) throws roundhouse · eye contact · patient correction |
+| R2 | Medium ~30% | Ethan's POV from chair — MV and student mid-drill · warm golden interior |
+| R3 | Optional inset ~25% | Close — MV adjusts student's foot angle · hands-on coaching |
+
+**Refs:** `master-viet-ref` · yellow belt = generic cadet child
+
+### PAGE 2d — MV & Ethan (panel 2.6)
+**2 rows** · approach + conversation.
+
+| Row | Shape | Beats |
+|-----|-------|-------|
+| R1 | Wide ~45% | **2.6a** MV **walks toward** Ethan · Ethan **stands up** from chair · respectful distance |
+| R2 | Medium two-shot ~55% | **2.6b** MV and Ethan **talking** · MV eye-level (slight crouch) · Ethan guarded but listening · warm dojang BG |
+
+**Refs:** `ethan-hyun/casual-front.png` · MV ref
+
+### PAGE 2e — Conversation solos (panels 2.7–2.9)
+**3 rows** · solo side-profile dialogue frames · mouth open mid-speech · **no speech bubbles in art**.
+
+| Row | Shape | Beats |
+|-----|-------|-------|
+| R1 | Solo ~33% | **2.7** Ethan **side profile** · **exasperated** · one hand gesture · talking · frustrated eyebrows |
+| R2 | Solo ~33% | **2.8** Ethan **side profile** · **calm** · softer expression · talking · measured tone |
+| R3 | Solo ~34% | **2.9** **Master Viet side profile** · **calm** · kind small eyes · talking · patient mentor |
+
+**Refs:** `ethan-hyun/casual-front.png` · MV ref
+
+### PAGE 2f — Ethan texts (panel 2.10)
+**1 row** · solo frame.
+
+| Row | Shape | Beats |
+|-----|-------|-------|
+| Full | Solo ~100% | **2.10** Ethan **texting on phone** · side or three-quarter view · casual on chair or standing · screen glow on face · **no readable text on phone** |
+
+**Refs:** `ethan-hyun/casual-front.png`
+
+### PAGE 2g — Smirk & door again (panels 2.11–2.12)
+**2 rows**.
+
+| Row | Shape | Beats |
+|-----|-------|-------|
+| R1 | Close/medium ~50% | **2.11** Ethan **smirk** — first crack of confidence · micro-expression · MV soft blur BG |
+| R2 | Wide ~50% | **Door inset top corner** opens again · main frame: empty foyer or Ethan glancing toward door |
+
+### PAGE 2h — Team enters (panel 2.13)
+**1–2 rows** · group walk-through.
+
+| Row | Shape | Beats |
+|-----|-------|-------|
+| R1 | Wide splash ~60% | **2.13** **TJ, Kieryn, Ariana, Logan, Kian** walk through **door together** · **all casual clothes** · distinct silhouettes & color palettes · Saturday energy |
+| R2 | Optional ~40% | Feet on shoe rack / foyer wide — group mid-stride |
+
+**Refs:** team casual per outfit lock table
+
+### PAGE 2i — Hero lineup (panel 2.14) · **SINGLE FULL PAGE**
+**1 row only** — full bleed splash · no gutters.
+
+| Row | Shape | Beats |
+|-----|-------|-------|
+| Full | **100% splash** | **2.14** **Ethan + TJ + Kieryn + Ariana + Logan + Kian** stand **together in a line** facing **Master Viet** · foyer/mat edge · Ethan among teammates · MV welcoming center · **Haikyuu team reveal** energy · warm amber light |
+
+**Refs:** all team casual refs · MV · `STYLE: KWONS HAIKYUU`
+
+---
+
+### Panel 2.1 — Morning Crosswalk
+**Scene:** Ethan at crosswalk. White gear backpack. Headphones around neck. Kwon's direction ahead.
 **Dialogue:** *(none)*
 
 **Prompt:**
 ```
-teen boy walking suburban street wearing gold headphones white gear backpack,
-taekwondo academy sign visible ahead, overcast morning clearing to soft light,
-STYLE: KWONS beginning
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack dark navy hoodie white tee black joggers waiting at suburban crosswalk morning light quiet determination, STYLE: KWONS
 ```
 
 ---
-### Panel 2.3 — Slowing Near Sign
-**Scene:** Ethan slows as Kwon's Taekwondo sign comes into view. Steps shorten.
+### Panel 2.2 — Sidewalk Walk
+**Scene:** Ethan walks suburban sidewalk. Headphones on. Gear backpack.
+**Dialogue:** *(none)*
 
 **Prompt:**
 ```
-teen boy slowing walk Kwon's taekwondo academy sign coming into view street level Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants, STYLE: KWONS
+Ethan Hyun walking suburban sidewalk gold headphones white gear backpack navy hoodie overcast morning soft light clearing, STYLE: KWONS
 ```
 
 ---
-### Panel 2.4 — Through the Window
-**Scene:** Ethan peeks through dojang glass. Inside: MV holds focus mitts — one student throwing roundhouses. MV adjusts foot angle mid-drill.
-**Dialogue:** MV (muffled): "Turn the hip more — yes, like that."
-
-**Prompt:**
-```
-view through dojang window, korean taekwondo master holding focus mitts coaching one student,
-individual attention, footwork correction, warm interior golden light, observer silhouette outside,
-STYLE: KWONS
-```
-
----
-### Panel 2.5 — Reading Sign Exterior
-**Scene:** Close on sign — clean logo, hours, no Premier branding. Ethan reads from sidewalk.
+### Panel 2.3 — Look Up at Kwon's
+**Scene:** Ethan stops. Looks up at Kwon's Taekwondo Academy building and sign.
 **Dialogue:** Ethan (internal): *Different name. Different air.*
 
 **Prompt:**
 ```
-Kwon's taekwondo academy exterior sign close-up clean logo warm wood trim no premier branding observer silhouette below, STYLE: KWONS
+low angle teen boy Ethan Hyun looking up at Kwon's taekwondo academy building exterior clean sign warm wood trim suburban morning no readable text logo shape only, STYLE: KWONS
 ```
 
 ---
-### Panel 2.6 — Contrast Split
-**Scene:** Split panel. LEFT: Premier — crowded mat, instructor's back, kids waiting. RIGHT: Kwon's — two people, eye contact.
+### Panel 2.4 — Enter & Sit [door inset]
+**Scene:** **Inset top corner:** door opening. Ethan walks to waiting chairs. Sits. Backpack at feet. Watches.
 **Dialogue:** *(none)*
 
 **Prompt:**
 ```
-split screen comic panel left cold crowded taekwondo school instructor back turned,
-right warm small class one coach facing one student eye contact, visual contrast,
-STYLE: PREMIER left STYLE: KWONS right
+dojang foyer small inset top corner door opening warm light leak, main panel Ethan Hyun navy hoodie walking to simple waiting chair sitting down white gear backpack at feet shoe racks bulletin board quiet, STYLE: KWONS
 ```
 
 ---
-### Panel 2.7 — Stepping Back From Window
-**Scene:** Ethan steps back from dojang glass after peeking — breath visible. Decision pause.
+### Panel 2.5 — MV One-on-One [REAL #20]
+**Scene:** MV coaches **one young yellow-belt student** — focus mitts or kicking shield. Individual attention.
+**Dialogue:** MV: "Turn the hip more — yes, like that."
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants stepping back from dojang window hands in hoodie pocket hesitant exhale warm interior glow reflection, STYLE: KWONS
+Master Viet chubby kind coach holding focus mitts or kicking shield coaching one young yellow belt child student white dobok individual attention foot correction warm golden dojang interior, STYLE: KWONS
 ```
 
 ---
-### Panel 2.8 — Hand on Door
-**Scene:** Ethan at entrance. Hand on door handle. Headphones around neck now. Hesitation.
-**Dialogue:** Ethan (internal): *What if it's the same?*
+### Panel 2.6 — MV Approaches Ethan
+**Scene:** MV walks to Ethan. Ethan stands. They talk face to face.
+**Dialogue:** MV: "You can watch as long as you want." · Ethan: "…Thanks."
 
 **Prompt:**
 ```
-close-up teen hand on dojang door handle hesitating, white taekwondo backpack strap visible,
-warm light leaking through door gap, emotional threshold moment, STYLE: KWONS
+Master Viet approaching Ethan Hyun teen standing up from chair casual navy hoodie conversation equal respectful eye level warm dojang foyer two-shot, STYLE: KWONS
 ```
 
 ---
-### Panel 2.9 — Second Door Approach
-**Scene:** Ethan approaches entrance again — headphones now around neck. Hand rises to handle.
+### Panel 2.7 — Ethan Exasperated [side profile]
+**Scene:** Solo frame — Ethan **side profile** · mouth open mid-speech · **exasperated** · hand gesture · frustrated brows.
+**Dialogue:** Ethan: "I didn't leave because I wanted to — they just… stopped seeing me."
 
 **Prompt:**
 ```
-teen approaching dojang door second time Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants hand reaching door handle threshold moment warm light leak, STYLE: KWONS
+solo panel Ethan Hyun teen side profile view exasperated frustrated expression mouth open mid-speech one hand gesturing navy hoodie dark blue shadow perm hair warm dojang background shallow depth, STYLE: KWONS
 ```
 
 ---
-### Panel 2.10 — Door Opens
-**Scene:** Ethan steps in. MV and student look over — not hostile, curious. Clean mats. Quiet.
+### Panel 2.8 — Ethan Calm [side profile]
+**Scene:** Solo frame — Ethan **side profile** · **calm** · softer eyes · talking measured.
+**Dialogue:** Ethan: "…I'm not asking for special treatment. I just needed somewhere quiet."
+
+**Prompt:**
+```
+solo panel Ethan Hyun teen side profile calm measured expression mouth open speaking softly navy hoodie dark blue hair relaxed shoulders warm soft side light dojang, STYLE: KWONS
+```
+
+---
+### Panel 2.9 — MV Calm [side profile]
+**Scene:** Solo frame — **Master Viet side profile** · **calm** · kind · patient · talking.
+**Dialogue:** MV: "Quiet is fine. Honest is better."
+
+**Prompt:**
+```
+solo panel Master Viet side profile chubby kind small eyes calm patient expression mouth open speaking gently Kwon's vest warm golden dojang light mentor tone, STYLE: KWONS
+```
+
+---
+### Panel 2.10 — Ethan Texting
+**Scene:** Solo frame — Ethan on phone · texting · screen glow · **no readable text on screen**.
+**Dialogue:** Ethan (text): *You guys should see this place.*
+
+**Prompt:**
+```
+solo panel Ethan Hyun teen texting on smartphone screen glow on face side three-quarter view navy hoodie sitting on chair or standing casual focused expression phone screen blank no readable text warm dojang foyer, STYLE: KWONS
+```
+
+---
+### Panel 2.11 — Ethan's Smirk
+**Scene:** Close — Ethan smirk. First warmth after nightmare chapter.
 **Dialogue:** *(none)*
 
 **Prompt:**
 ```
-teen entering taekwondo dojang doorway, warm wooden floors clean mats, coach and student pausing to look,
-welcoming quiet atmosphere, backlit entrance silhouette, STYLE: KWONS
+close-up Ethan Hyun dark blue hair subtle confident smirk first warmth guarded teen face soft side light, STYLE: KWONS
 ```
 
 ---
-### Panel 2.11 — Foyer Entry Walk
-**Scene:** Ethan walks through small foyer — shoe racks, bulletin board, quiet.
-
-**Prompt:**
-```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants walking small dojang foyer shoe racks bulletin board clean quiet atmosphere, STYLE: KWONS
-```
-
----
-### Panel 2.12 — Premier Ghost
-**Scene:** Ethan pauses inside entrance. **FLASH inset** — crowded Premier mat, instructor's back. Snaps back to quiet Kwon's.
-**Dialogue:** Ethan (internal): *Same sport. Different air.*
-
-**Prompt:**
-```
-teen fighter just inside dojang doorway small flashback inset crowded cold school instructor back turned,
-present warm empty reception area contrast, dissociation beat, STYLE: KWONS with PREMIER inset
-```
-
----
-### Panel 2.13 — Hallway to Shoe Rack
-**Scene:** Short hallway. Ethan spots shoe cubbies. Pauses at Premier-habit speed.
-
-**Prompt:**
-```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants short hallway approaching shoe cubby wall pausing old habit tension, STYLE: KWONS
-```
-
----
-### Panel 2.14 — Shoes Off
-**Scene:** Close-up — Ethan removes sneakers, lines them beside others. Kwon's shoe rack — worn but neat.
-**Dialogue:** *(none — ritual beat)*
-
-**Prompt:**
-```
-close-up teen removing sneakers placing on wooden shoe rack taekwondo dojang entrance,
-other student shoes lined neatly, respectful detail panel, STYLE: KWONS
-```
-
----
-### Panel 2.15 — Walking to Wall Spot
-**Scene:** Ethan walks to open wall space — not on mat yet. Bag down. Observing.
-
-**Prompt:**
-```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants setting white gear backpack against wall watching class from edge not on mat yet, STYLE: KWONS
-```
-
----
-### Panel 2.16 — Observation — MV Counts
-**Scene:** Wide — MV counts reps aloud for one student on mitts. No yelling. Steady rhythm.
-**Dialogue:** MV: "Four… five… turn the hip on six."
-
-**Prompt:**
-```
-taekwondo master counting reps calmly holding focus mitts one student kicking,
-empty space on mat not overcrowded, patient coaching wide shot, STYLE: KWONS
-```
-
----
-### Panel 2.17 — Glance at Restroom Door
-**Scene:** Ethan glances at changing room door — dobok inside bag. Not ready yet.
-
-**Prompt:**
-```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants glance at changing room door gear bag at feet hesitation quiet dojang background, STYLE: KWONS
-```
-
----
-### Panel 2.18 — Student Thanks
-**Scene:** Student bows, wipes sweat — genuine smile at MV. MV nods once — not performative.
-**Dialogue:** Student: "Thank you, Master."
-
-**Prompt:**
-```
-teen student bowing to taekwondo master after drill genuine grateful smile,
-master modest nod not theatrical, warm mentor moment, STYLE: KWONS
-```
-
----
-### Panel 2.19 — Shifting Weight at Cubbies
-**Scene:** Ethan shifts weight at cubbies — MV drilling in background blur.
-
-**Prompt:**
-```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants shifting weight near shoe cubbies Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes coaching blurred background warm floor light, STYLE: KWONS
-```
-
----
-### Panel 2.20 — Ethan Watches From Wall
-**Scene:** Ethan stands by gear cubbies — hasn't changed yet. Arms crossed. Studying the room.
+### Panel 2.12 — Door Opens Again [inset]
+**Scene:** Door inset top corner opens again. Ethan or foyer reacts — team about to arrive.
 **Dialogue:** *(none)*
 
 **Prompt:**
 ```
-short teen boy with white gear backpack standing against dojang wall arms crossed observing,
-other students training background soft focus, guarded watcher composition, STYLE: KWONS
+dojang entrance inset panel top corner door swinging open bright warm light wedge main frame foyer anticipating arrival, STYLE: KWONS
 ```
 
 ---
-### Panel 2.21 — Following MV Gesture
-**Scene:** MV subtle gesture — *you can sit there*. Ethan nods micro, moves.
+### Panel 2.13 — Team Walks In
+**Scene:** TJ, Kieryn, Ariana, Logan, Kian enter together — all casual. Distinct outfits.
+**Dialogue:** TJ: "So this is the famous Kwon's."
 
 **Prompt:**
 ```
-Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes subtle welcoming gesture toward wall spot Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants small nod moving to sit respectful distance, STYLE: KWONS
+five teens walking through taekwondo dojang door together casual clothes TJ Lim Miku tee grey sweatpants white headband Kieryn Lim purple streetwear Kian Sang emerald hoodie cream joggers Ariana Yang small black athleisure Logan Hyun orange hoodie gear bags warm backlit entrance group arrival, STYLE: KWONS HAIKYUU
 ```
 
 ---
-### Panel 2.22 — Trophy Shelf Honest
-**Scene:** Ethan glances at modest trophy shelf — local medals, faded ribbon. No fake gold wall.
-**Dialogue:** Ethan (internal): *No brochure lies.*
+### Panel 2.14 — Hero Lineup [FULL PAGE SPLASH]
+**Scene:** Ethan stands with full team facing Master Viet. Team reveal composition.
+**Dialogue:** MV: "Good. You're all here."
+**Caption (HTML only):** *Welcome to Kwon's.*
 
 **Prompt:**
 ```
-modest taekwondo dojang trophy shelf few real medals honest worn ribbon,
-teen glancing sideways at shelf detail shot, STYLE: KWONS
-```
-
----
-### Panel 2.23 — Sunset Light Shift
-**Scene:** Golden hour light crawls across mat. Class time passing. Ethan still watching.
-
-**Prompt:**
-```
-dojang wooden floor sunset light band moving across mat time passage warm amber student training silhouette, STYLE: KWONS
-```
-
----
-### Panel 2.24 — Window Light
-**Scene:** Golden hour through high windows. Dust motes. Ethan exhales — shoulders drop one inch.
-**Dialogue:** *(none — beat)*
-
-**Prompt:**
-```
-golden afternoon light through dojang windows dust particles floating,
-teen silhouette relaxing shoulders slightly emotional release, STYLE: KWONS
-```
-
----
-### Panel 2.25 — Student File Past
-**Scene:** Student files past Ethan — polite nod. Ethan nods back — first social beat.
-
-**Prompt:**
-```
-dojang student walking past Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants polite nod exchange warm corridor light found-family seed, STYLE: KWONS
-```
-
----
-### Panel 2.26 — Other Student Notices
-**Scene:** A cadet student (background extra) whispers to friend — points subtly at Ethan's backpack.
-**Dialogue:** Cadet: "New guy brought competition gear."
-
-**Prompt:**
-```
-two background taekwondo students whispering glancing at newcomer with gear backpack,
-new student unaware foreground, natural dojang gossip, STYLE: KWONS
-```
-
----
-### Panel 2.27 — Class Ends — Ethan Stands
-**Scene:** Students bow out. Ethan stands when class ends — unsure if he should.
-
-**Prompt:**
-```
-students bowing out end of class Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants standing uncertain whether to join warm dojang, STYLE: KWONS
-```
-
----
-### Panel 2.28 — MV Finishes Drill
-**Scene:** MV dismisses student with pat on shoulder. Turns — sees Ethan properly for first time inside.
-**Dialogue:** MV: "You can put your bag down. You're not in the way."
-
-**Prompt:**
-```
-taekwondo master finishing lesson turning to notice visitor teen with backpack,
-kind open expression not suspicious, STYLE: KWONS
-```
-
----
-### Panel 2.29 — Exit Walk Stops
-**Scene:** Ethan walks toward exit — stops mid-step. Hand on bag strap.
-**Dialogue:** Ethan (internal): *…*
-
-**Prompt:**
-```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants walking toward dojang exit stopping mid-step hand on backpack strap threshold indecision, STYLE: KWONS
-```
-
----
-### Panel 2.30 — Bag Down
-**Scene:** Ethan sets white gear backpack on bench — slow, deliberate. Sits beside it without changing.
-**Dialogue:** Ethan: "I'm… just looking today."
-
-**Prompt:**
-```
-teen placing white taekwondo gear backpack on bench sitting beside it hesitant,
-dojo interior quiet, first honest words, STYLE: KWONS
-```
-
----
-### Panel 2.31 — Looking Back at Mat
-**Scene:** Ethan looks back at empty mat — MV rolling shoulders. Quiet.
-
-**Prompt:**
-```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants looking back at empty training mat Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes rolling shoulders end of day quiet emotional beat, STYLE: KWONS
-```
-
----
-### Panel 2.32 — MV Doesn't Push
-**Scene:** MV pulls chair — sits across from Ethan. Not looming. Same eye level again.
-**Dialogue:** MV: "Looking is allowed here."
-
-**Prompt:**
-```
-master sitting on chair same height as seated teen equal conversation posture,
-no pressure body language, STYLE: KWONS
-```
-
----
-### Panel 2.33 — MV Rolling Mat
-**Scene:** MV rolls mat in background. Ethan still at door. Unspoken permission to stay.
-
-**Prompt:**
-```
-Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes rolling up training mat background Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants silhouette at doorway golden hour light, STYLE: KWONS
-```
-
----
-### Panel 2.34 — Street Sound Memory
-**Scene:** Through open door — distant car horn. Ethan's fingers twitch. **FLASH** — tournament PA echo *"Ring 4."*
-**Dialogue:** *(SFX only)*
-
-**Prompt:**
-```
-teen fingers twitching on bench open dojang door background street sound trigger,
-small traumatic flash inset tournament PA speaker, STYLE: KWONS with PREMIER flash
-```
-
----
-### Panel 2.35 — Street Outside Golden Hour
-**Scene:** Kwon's exterior — golden hour. Ethan exits small in frame.
-
-**Prompt:**
-```
-Kwon's taekwondo academy exterior golden hour street warm light small teen exiting doorway peaceful suburban, STYLE: KWONS
-```
-
----
-### Panel 2.36 — MV Waits
-**Scene:** MV doesn't ask what happened. Offers water bottle — unopened — slides it across bench.
-**Dialogue:** MV: "When you're ready."
-
-**Prompt:**
-```
-master sliding sealed water bottle across bench to quiet teen patient waiting,
-simple kindness gesture close-up hands, STYLE: KWONS
-```
-
----
-### Panel 2.37 — Sidewalk Pause
-**Scene:** Ethan pauses on sidewalk. Looks back at dojang window glow.
-
-**Prompt:**
-```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants pausing on sidewalk looking back at glowing dojang window evening peaceful expression, STYLE: KWONS
-```
-
----
-### Panel 2.38 — Ethan Accepts Water
-**Scene:** Ethan takes bottle. Doesn't drink yet. Holds it like an anchor.
-**Dialogue:** Ethan (internal): *One student. One voice.*
-
-**Prompt:**
-```
-teen holding unopened water bottle both hands sitting on bench emotional anchor object,
-soft side lighting face downcast, STYLE: KWONS
-```
-
----
-### Panel 2.39 — Phone Buzz — Deep Breath
-**Scene:** Phone buzzes — Ethan ignores. Deep breath. Hint of next day.
-**Dialogue:** Ethan (internal): *Tomorrow.*
-
-**Prompt:**
-```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants phone buzzing in pocket ignored deep breath evening street soft sky tomorrow hint, STYLE: KWONS
-```
-
----
-### Panel 2.40 — Stay Until Close
-**Scene:** Wide — class ends. Students bow out. Ethan still on bench. MV rolls mats nearby — doesn't rush him.
-**Dialogue:** MV (off): "Lock-up's at nine. Take your time."
-
-**Prompt:**
-```
-wide shot emptying dojang students bowing out teen still on bench master rolling mats background,
-patient sanctuary atmosphere golden light, STYLE: KWONS
+FULL PAGE SPLASH wide hero shot Ethan Hyun navy hoodie gold headphones standing in line with teammates TJ Kieryn Ariana Logan Kian all casual distinct colors facing Master Viet center welcoming taekwondo dojang warm amber golden hour wood floors team reveal composition empty space for caption no readable text, STYLE: KWONS HAIKYUU
 ```
 
 ---
@@ -1720,7 +1591,7 @@ instructional sports manga, STYLE: KWONS TEACH
 
 ---
 ### Panel 4.9 — Shield Pickup
-**Scene:** Ethan picks up kicking shield — weight familiar from Premier, context different.
+**Scene:** Ethan picks up kicking shield — weight familiar from Prime, context different.
 
 **Prompt:**
 ```
@@ -2498,22 +2369,22 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 
 ---
 ### Panel 6.6 — Flash Sting (Money)
-**Scene:** Quick flash — Premier instructor's cold face. Hands exchanging cash. Red tint.
+**Scene:** Quick flash — Prime instructor's cold face. Hands exchanging cash. Red tint.
 **Dialogue:** *(distorted)* "...with us or..."
 
 **Prompt:**
 ```
 traumatic flashback inset cold angry taekwondo instructor face, hands exchanging money,
-red desaturated overlay, sharp fragment panel, STYLE: PREMIER
+red desaturated overlay, sharp fragment panel, STYLE: PRIME
 ```
 
 ---
 ### Panel 6.7 — Flash Trigger Doorway
-**Scene:** Doorway triggers flash — Premier logo ghost. Ethan flinches micro.
+**Scene:** Doorway triggers flash — Prime logo ghost. Ethan flinches micro.
 
 **Prompt:**
 ```
-doorway frame triggering memory Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt micro flinch Premier logo ghost overlay desaturated flash edge, STYLE: PREMIER flash inset
+doorway frame triggering memory Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt micro flinch Prime logo ghost overlay desaturated flash edge, STYLE: PRIME flash inset
 ```
 
 ---
@@ -2539,7 +2410,7 @@ close-up feet planted on warm wooden dojang floor present anchor Ethan Hyun teen
 ---
 ### Panel 6.10 — Walking Mats Edge
 **Scene:** Ethan and MV walk perimeter — shoes off — evening class cleaning up.
-**Dialogue:** MV: "Premier still has your friends on their roster."
+**Dialogue:** MV: "Prime still has your friends on their roster."
 
 **Prompt:**
 ```
@@ -2588,12 +2459,12 @@ mentor patience panel, STYLE: KWONS
 ```
 
 ---
-### Panel 6.15 — Window Premier Logo Memory
-**Scene:** Window reflection — Premier logo memory overlay. Ethan blinks it away.
+### Panel 6.15 — Window Prime Logo Memory
+**Scene:** Window reflection — Prime logo memory overlay. Ethan blinks it away.
 
 **Prompt:**
 ```
-dojang window reflection Premier logo memory overlay Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt blinking away returning to present, STYLE: PREMIER flash inset
+dojang window reflection Prime logo memory overlay Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt blinking away returning to present, STYLE: PRIME flash inset
 ```
 
 ---
@@ -2604,16 +2475,16 @@ dojang window reflection Premier logo memory overlay Ethan Hyun teen boy 15 kore
 **Prompt:**
 ```
 flashback inset favored student gear adjustment instructor praising,
-bleachers lonely teen same memory frame, STYLE: PREMIER flash
+bleachers lonely teen same memory frame, STYLE: PRIME flash
 ```
 
 ---
 ### Panel 6.17 — Phone Face Down Table
-**Scene:** Phone face-down on table — Premier spam incoming.
+**Scene:** Phone face-down on table — Prime spam incoming.
 
 **Prompt:**
 ```
-smartphone face-down on table Premier spam notifications vibrating ignored boundary setting, STYLE: KWONS
+smartphone face-down on table Prime spam notifications vibrating ignored boundary setting, STYLE: KWONS
 ```
 
 ---
@@ -2633,7 +2504,7 @@ close-up detail STYLE: KWONS
 
 **Prompt:**
 ```
-smartphone screen edge blurred Premier spam group texts Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants flipping phone face-down refusal, STYLE: PREMIER soft
+smartphone screen edge blurred Prime spam group texts Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants flipping phone face-down refusal, STYLE: PRIME soft
 ```
 
 ---
@@ -2684,7 +2555,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 traumatic flash hands exchanging money cold instructor grin red overlay fragment,
-STYLE: PREMIER flash sting
+STYLE: PRIME flash sting
 ```
 
 ---
@@ -2777,14 +2648,14 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 ```
 
 ---
-### Panel 6.34 — Premier Text Spam
+### Panel 6.34 — Prime Text Spam
 **Scene:** Phone lights up — spam — *"Come back for black belt test special."* Ethan deletes without opening.
 **Dialogue:** (text) **"Limited slots — VIP only."**
 
 **Prompt:**
 ```
 smartphone spam text VIP taekwondo marketing teen deleting without reading,
-disgust micro-expression, STYLE: PREMIER cold on phone glow
+disgust micro-expression, STYLE: PRIME cold on phone glow
 ```
 
 ---
@@ -2852,22 +2723,22 @@ soft peaceful panel contrast chapter 1, STYLE: KWONS soft
 # Chapter 7 — Flashbacks
 
 ### Panel 7.1 — Young Ethan Doorway Flash
-**Scene:** **FLASH** — young Ethan in Premier doorway — excited. Smaller frame.
+**Scene:** **FLASH** — young Ethan in Prime doorway — excited. Smaller frame.
 
 **Prompt:**
 ```
-FLASH young Ethan Hyun excited smaller frame Premier dojang doorway enrollment day bright hopeful, STYLE: PREMIER flashback
+FLASH young Ethan Hyun excited smaller frame Prime dojang doorway enrollment day bright hopeful, STYLE: PRIME flashback
 ```
 
 ---
 ### Panel 7.2 — Opening Day (Warm)
-**Scene:** Flashback — small empty Premier dojang. Younger Ethan (white belt) bows. Instructor smiles genuinely.
+**Scene:** Flashback — small empty Prime dojang. Younger Ethan (white belt) bows. Instructor smiles genuinely.
 **Dialogue:** Instructor: "Welcome to the family."
 
 **Prompt:**
 ```
 flashback small new taekwondo dojang, young white belt boy bowing, warm smiling instructor,
-hopeful beginning, soft warm memory filter, STYLE: PREMIER lighter
+hopeful beginning, soft warm memory filter, STYLE: PRIME lighter
 ```
 
 ---
@@ -2887,7 +2758,7 @@ PRESENT Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm ha
 **Prompt:**
 ```
 montage three panels taekwondo school growing more students more trophies,
-instructor smile fading each panel, time passage, STYLE: PREMIER cooling
+instructor smile fading each panel, time passage, STYLE: PRIME cooling
 ```
 
 ---
@@ -2907,7 +2778,7 @@ Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck 
 **Prompt:**
 ```
 taekwondo instructor praising student with expensive gear, another talented teen in worn gear ignored corner,
-favoritism visual, STYLE: PREMIER
+favoritism visual, STYLE: PRIME
 ```
 
 ---
@@ -2927,7 +2798,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 teen winning sparring drill but coach pointing to bench telling him to sit,
-less skilled wealthy student called forward instead, injustice panel, STYLE: PREMIER
+less skilled wealthy student called forward instead, injustice panel, STYLE: PRIME
 ```
 
 ---
@@ -2971,12 +2842,12 @@ gentle check-in, STYLE: KWONS
 ```
 
 ---
-### Panel 7.13 — Flash Trophy Shelf Premier
-**Scene:** **FLASH** — Premier trophy shelf — young Ethan reflected in glass.
+### Panel 7.13 — Flash Trophy Shelf Prime
+**Scene:** **FLASH** — Prime trophy shelf — young Ethan reflected in glass.
 
 **Prompt:**
 ```
-FLASH Premier dojang trophy shelf young Ethan Hyun reflection in glass early pride before neglect, STYLE: PREMIER flashback
+FLASH Prime dojang trophy shelf young Ethan Hyun reflection in glass early pride before neglect, STYLE: PRIME flashback
 ```
 
 ---
@@ -3001,13 +2872,13 @@ PRESENT Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm ha
 
 ---
 ### Panel 7.16 — Opening Day Detail [FLASH]
-**Scene:** **FLASH** — empty Premier — fresh mats — Ttong younger — genuine smile.
+**Scene:** **FLASH** — empty Prime — fresh mats — Ttong younger — genuine smile.
 **Dialogue:** Ttong (younger): "Small school. Big heart."
 
 **Prompt:**
 ```
 flashback brand new small taekwondo dojang empty fresh mats younger instructor genuine smile,
-hopeful memory filter, STYLE: PREMIER lighter
+hopeful memory filter, STYLE: PRIME lighter
 ```
 
 ---
@@ -3027,7 +2898,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 flashback young white belt boy first taekwondo uniform excited parents blurred proud,
-childhood hope, STYLE: PREMIER lighter
+childhood hope, STYLE: PRIME lighter
 ```
 
 ---
@@ -3047,7 +2918,7 @@ POV city traffic below dojang window small teen reflection in glass contemplativ
 **Prompt:**
 ```
 flashback montage enrollment line growing VIP brochures multiplying silent woman background,
-commercialization creeping in, STYLE: PREMIER cooling
+commercialization creeping in, STYLE: PRIME cooling
 ```
 
 ---
@@ -3067,7 +2938,7 @@ Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck 
 **Prompt:**
 ```
 flashback teen winning medal instructor hugging different student in background for photo,
-betrayal seed memory, STYLE: PREMIER
+betrayal seed memory, STYLE: PRIME
 ```
 
 ---
@@ -3087,7 +2958,7 @@ close-up Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm h
 **Prompt:**
 ```
 flashback sparring teen dominating coach applauding weaker wealthy student instead,
-injustice montage cell, STYLE: PREMIER
+injustice montage cell, STYLE: PRIME
 ```
 
 ---
@@ -3107,16 +2978,16 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 flashback clipboard names crossed out favored student circled demo team selection,
-explicit sideline panel, STYLE: PREMIER
+explicit sideline panel, STYLE: PRIME
 ```
 
 ---
 ### Panel 7.27 — Ghost Flash Fade
-**Scene:** Premier ghost flash fades — trophy shelf dissolves to Kwon's wood.
+**Scene:** Prime ghost flash fades — trophy shelf dissolves to Kwon's wood.
 
 **Prompt:**
 ```
-Premier trophy flash dissolving into warm Kwon's wooden floor ghost memory fading transition, STYLE: PREMIER to KWONS
+Prime trophy flash dissolving into warm Kwon's wooden floor ghost memory fading transition, STYLE: PRIME to KWONS
 ```
 
 ---
@@ -3127,7 +2998,7 @@ Premier trophy flash dissolving into warm Kwon's wooden floor ghost memory fadin
 **Prompt:**
 ```
 flashback split panel expensive new taekwondo gear vs worn gear same school patch,
-economic favoritism visual, STYLE: PREMIER
+economic favoritism visual, STYLE: PRIME
 ```
 
 ---
@@ -3147,7 +3018,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 flashback instructor portrait smile not reaching eyes predatory undertone,
-unsettling promo photo aesthetic, STYLE: PREMIER
+unsettling promo photo aesthetic, STYLE: PRIME
 ```
 
 ---
@@ -3201,13 +3072,13 @@ Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck 
 
 ---
 ### Panel 7.36 — Kind When Empty [V.O.]
-**Scene:** Ethan kicks — **FLASH overlay faint** — empty Premier opening day ghosted on present mat.
+**Scene:** Ethan kicks — **FLASH overlay faint** — empty Prime opening day ghosted on present mat.
 **Dialogue:** Ethan (V.O.): *He was kind when the room was empty.*
 
 **Prompt:**
 ```
 present kick with faint ghost overlay flash empty dojang opening day double exposure,
-poetic memory blend, STYLE: KWONS with PREMIER ghost
+poetic memory blend, STYLE: KWONS with PRIME ghost
 ```
 
 ---
@@ -3259,7 +3130,7 @@ arc closure beat chapter 7, STYLE: KWONS
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants watching hospital elevator floor numbers climb tense quiet fluorescent, STYLE: PREMIER soft
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants watching hospital elevator floor numbers climb tense quiet fluorescent, STYLE: PRIME soft
 ```
 
 ---
@@ -3270,7 +3141,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 teen boy walking hospital corridor hoodie gold headphones around neck,
-quiet somber atmosphere, fluorescent lighting, STYLE: PREMIER soft
+quiet somber atmosphere, fluorescent lighting, STYLE: PRIME soft
 ```
 
 ---
@@ -3279,7 +3150,7 @@ quiet somber atmosphere, fluorescent lighting, STYLE: PREMIER soft
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants walking hospital corridor toward room quiet linoleum long hallway soft dread, STYLE: PREMIER soft
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants walking hospital corridor toward room quiet linoleum long hallway soft dread, STYLE: PRIME soft
 ```
 
 ---
@@ -3290,7 +3161,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 elderly korean grandmother in hospital bed smiling weakly at visiting teen grandson,
-tender emotional reunion, soft window light, hospital room, STYLE: PREMIER soft
+tender emotional reunion, soft window light, hospital room, STYLE: PRIME soft
 ```
 
 ---
@@ -3299,7 +3170,7 @@ tender emotional reunion, soft window light, hospital room, STYLE: PREMIER soft
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants pausing at hospital hand sanitizer dispenser pumping twice ritual delay, STYLE: PREMIER soft
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants pausing at hospital hand sanitizer dispenser pumping twice ritual delay, STYLE: PRIME soft
 ```
 
 ---
@@ -3310,7 +3181,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 close-up teen holding elderly woman's thin hand gently, emotional restraint,
-hospital bedsheets, intimate detail shot, STYLE: PREMIER soft
+hospital bedsheets, intimate detail shot, STYLE: PRIME soft
 ```
 
 ---
@@ -3319,7 +3190,7 @@ hospital bedsheets, intimate detail shot, STYLE: PREMIER soft
 
 **Prompt:**
 ```
-hospital room door half open warm light inside Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants hesitating threshold emotional, STYLE: PREMIER soft
+hospital room door half open warm light inside Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants hesitating threshold emotional, STYLE: PRIME soft
 ```
 
 ---
@@ -3330,7 +3201,7 @@ hospital room door half open warm light inside Ethan Hyun teen boy 15 korean-ame
 **Prompt:**
 ```
 smartphone vibrating many notification badges, teen's tense face in background blur,
-ominous mood shift, hospital room, STYLE: PREMIER
+ominous mood shift, hospital room, STYLE: PRIME
 ```
 
 ---
@@ -3339,7 +3210,7 @@ ominous mood shift, hospital room, STYLE: PREMIER
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants pulling chair scraping sitting bedside small figure hospital room gentle, STYLE: PREMIER soft
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants pulling chair scraping sitting bedside small figure hospital room gentle, STYLE: PRIME soft
 ```
 
 ---
@@ -3350,7 +3221,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 close-up smartphone screen threatening text messages, dark ominous lighting on phone glow,
-teen hands gripping phone, no faces, STYLE: PREMIER
+teen hands gripping phone, no faces, STYLE: PRIME
 ```
 
 ---
@@ -3359,7 +3230,7 @@ teen hands gripping phone, no faces, STYLE: PREMIER
 
 **Prompt:**
 ```
-hospital bedside table flowers water cup domestic detail clinical room soft focus background, STYLE: PREMIER soft
+hospital bedside table flowers water cup domestic detail clinical room soft focus background, STYLE: PRIME soft
 ```
 
 ---
@@ -3370,7 +3241,7 @@ hospital bedside table flowers water cup domestic detail clinical room soft focu
 **Prompt:**
 ```
 teen silencing phone putting in pocket, returning to hold grandmother hand forced small smile,
-protective grandson moment, hospital room, STYLE: PREMIER soft
+protective grandson moment, hospital room, STYLE: PRIME soft
 ```
 
 ---
@@ -3379,7 +3250,7 @@ protective grandson moment, hospital room, STYLE: PREMIER soft
 
 **Prompt:**
 ```
-hospital window rain streaks Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants reflection layered on glass melancholy wide, STYLE: PREMIER soft
+hospital window rain streaks Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants reflection layered on glass melancholy wide, STYLE: PRIME soft
 ```
 
 ---
@@ -3390,7 +3261,7 @@ hospital window rain streaks Ethan Hyun teen boy 15 korean-american 5 foot 3 dar
 **Prompt:**
 ```
 elderly grandmother squeezing teen hand asking gentle question tired kind eyes,
-hospital bed intimate two-shot, STYLE: PREMIER soft
+hospital bed intimate two-shot, STYLE: PRIME soft
 ```
 
 ---
@@ -3399,7 +3270,7 @@ hospital bed intimate two-shot, STYLE: PREMIER soft
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants phone buzzing in pocket stiffening not looking yet hospital bedside tension, STYLE: PREMIER soft
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants phone buzzing in pocket stiffening not looking yet hospital bedside tension, STYLE: PRIME soft
 ```
 
 ---
@@ -3410,7 +3281,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 teen speaking korean softly to grandmother protective deflection,
-cultural intimate dialogue panel, STYLE: PREMIER soft
+cultural intimate dialogue panel, STYLE: PRIME soft
 ```
 
 ---
@@ -3419,7 +3290,7 @@ cultural intimate dialogue panel, STYLE: PREMIER soft
 
 **Prompt:**
 ```
-smartphone voicemail waveform playing threatening message screen glow Ethan hand tense hospital, STYLE: PREMIER
+smartphone voicemail waveform playing threatening message screen glow Ethan hand tense hospital, STYLE: PRIME
 ```
 
 ---
@@ -3430,7 +3301,7 @@ smartphone voicemail waveform playing threatening message screen glow Ethan hand
 **Prompt:**
 ```
 grandmother patting grandson hand weak smile enough for today emotional,
-tender hospital beat, STYLE: PREMIER soft
+tender hospital beat, STYLE: PRIME soft
 ```
 
 ---
@@ -3440,7 +3311,7 @@ tender hospital beat, STYLE: PREMIER soft
 
 **Prompt:**
 ```
-close-up thumb hovering delete voicemail confirm button Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants decisive tap hospital, STYLE: PREMIER soft
+close-up thumb hovering delete voicemail confirm button Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants decisive tap hospital, STYLE: PRIME soft
 ```
 
 ---
@@ -3451,7 +3322,7 @@ close-up thumb hovering delete voicemail confirm button Ethan Hyun teen boy 15 k
 **Prompt:**
 ```
 rain on hospital window teen face reflected in glass contemplative,
-melancholy atmosphere panel, STYLE: PREMIER soft
+melancholy atmosphere panel, STYLE: PRIME soft
 ```
 
 ---
@@ -3460,7 +3331,7 @@ melancholy atmosphere panel, STYLE: PREMIER soft
 
 **Prompt:**
 ```
-nurse shadow passing hospital doorway Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants glancing back to grandmother bedside, STYLE: PREMIER soft
+nurse shadow passing hospital doorway Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants glancing back to grandmother bedside, STYLE: PRIME soft
 ```
 
 ---
@@ -3471,7 +3342,7 @@ nurse shadow passing hospital doorway Ethan Hyun teen boy 15 korean-american 5 f
 **Prompt:**
 ```
 teen alone hospital hallway playing voicemail hand over mouth shaken,
-threatening audio visual, STYLE: PREMIER harsh
+threatening audio visual, STYLE: PRIME harsh
 ```
 
 ---
@@ -3480,7 +3351,7 @@ threatening audio visual, STYLE: PREMIER harsh
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants sitting alone hospital hallway bench head down exhausted grief quiet, STYLE: PREMIER soft
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants sitting alone hospital hallway bench head down exhausted grief quiet, STYLE: PRIME soft
 ```
 
 ---
@@ -3491,7 +3362,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 teen deleting voicemail blocking number trembling hands phone screen,
-fear and anger panel, STYLE: PREMIER harsh
+fear and anger panel, STYLE: PRIME harsh
 ```
 
 ---
@@ -3500,7 +3371,7 @@ fear and anger panel, STYLE: PREMIER harsh
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants waiting at bus stop rain on hoodie hood evening city melancholy, STYLE: PREMIER soft to KWONS
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants waiting at bus stop rain on hoodie hood evening city melancholy, STYLE: PRIME soft to KWONS
 ```
 
 ---
@@ -3511,7 +3382,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 hospital nurse walking past teen straightening hiding phone performing okay,
-masking trauma public space, STYLE: PREMIER soft
+masking trauma public space, STYLE: PRIME soft
 ```
 
 ---
@@ -3520,7 +3391,7 @@ masking trauma public space, STYLE: PREMIER soft
 
 **Prompt:**
 ```
-close-up raindrops on hoodie fabric breath fog Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants cold evening detail shot, STYLE: PREMIER soft
+close-up raindrops on hoodie fabric breath fog Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants cold evening detail shot, STYLE: PRIME soft
 ```
 
 ---
@@ -3531,7 +3402,7 @@ close-up raindrops on hoodie fabric breath fog Ethan Hyun teen boy 15 korean-ame
 **Prompt:**
 ```
 teen returning to hospital room forced gentle smile sitting by grandmother,
-protective grandson returning, STYLE: PREMIER soft
+protective grandson returning, STYLE: PRIME soft
 ```
 
 ---
@@ -3551,7 +3422,7 @@ smartphone screen glow kind text message from Master Viet warm notification Etha
 **Prompt:**
 ```
 elderly woman showing creased photo young grandson white belt in hospital bed,
-nostalgic tender detail, STYLE: PREMIER soft
+nostalgic tender detail, STYLE: PRIME soft
 ```
 
 ---
@@ -3571,7 +3442,7 @@ close-up thumb hovering over reply send button Ethan Hyun teen boy 15 korean-ame
 **Prompt:**
 ```
 teen looking at childhood photo then looking away pain restrained,
-emotional avoidance close-up, STYLE: PREMIER soft
+emotional avoidance close-up, STYLE: PRIME soft
 ```
 
 ---
@@ -3591,7 +3462,7 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 **Prompt:**
 ```
 teen on night bus forehead against window city lights streak exhausted,
-transit solitude panel, STYLE: PREMIER soft night
+transit solitude panel, STYLE: PRIME soft night
 ```
 
 ---
@@ -3600,7 +3471,7 @@ transit solitude panel, STYLE: PREMIER soft night
 
 **Prompt:**
 ```
-city bus arrival lights Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants boarding rain evening transition exhale, STYLE: PREMIER soft to KWONS
+city bus arrival lights Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants boarding rain evening transition exhale, STYLE: PRIME soft to KWONS
 ```
 
 ---
@@ -3641,7 +3512,7 @@ close-up thumbs screen, STYLE: KWONS soft
 
 **Prompt:**
 ```
-wide shot hospital exterior dawn breaking small teen figure leaving transition hope hard week continues, STYLE: PREMIER soft to KWONS dawn
+wide shot hospital exterior dawn breaking small teen figure leaving transition hope hard week continues, STYLE: PRIME soft to KWONS dawn
 ```
 
 ---
@@ -3652,7 +3523,7 @@ wide shot hospital exterior dawn breaking small teen figure leaving transition h
 **Prompt:**
 ```
 wide shot hospital exterior dawn breaking small teen figure leaving,
-transition hope hard week continues, STYLE: PREMIER soft to KWONS dawn
+transition hope hard week continues, STYLE: PRIME soft to KWONS dawn
 ```
 
 ---
@@ -3670,7 +3541,7 @@ Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck 
 ---
 ### Panel 9.2 — The Ask
 **Scene:** Ethan and MV after class. Ethan unusually nervous — fidgeting with belt.
-**Dialogue:** Ethan: "Some friends... they left Premier too. Can they join?"
+**Dialogue:** Ethan: "Some friends... they left Prime too. Can they join?"
 
 **Prompt:**
 ```
@@ -3699,12 +3570,12 @@ teen visible relief, STYLE: KWONS
 ```
 
 ---
-### Panel 9.5 — Premier Names Scroll
-**Scene:** Contact list — Premier names scroll. Old team.
+### Panel 9.5 — Prime Names Scroll
+**Scene:** Contact list — Prime names scroll. Old team.
 
 **Prompt:**
 ```
-smartphone contact list scrolling Premier taekwondo team names old connections emotional weight, STYLE: PREMIER soft
+smartphone contact list scrolling Prime taekwondo team names old connections emotional weight, STYLE: PRIME soft
 ```
 
 ---
@@ -3750,7 +3621,7 @@ smartphone typing message bubble draft invitation Ethan Hyun teen boy 15 korean-
 
 ---
 ### Panel 9.10 — TJ First Reply
-**Scene:** Text thread — **TJ** — *"Send address. We're not staying at Premier another week."*
+**Scene:** Text thread — **TJ** — *"Send address. We're not staying at Prime another week."*
 **Dialogue:** (text) TJ: **"Is the mat actually soft or Kieryn will complain."**
 
 **Prompt:**
@@ -3949,14 +3820,14 @@ Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown
 ```
 
 ---
-### Panel 9.30 — Premier Group Chat Muted
-**Scene:** Ethan mutes old Premier team chat — 99+ notifications — doesn't open.
+### Panel 9.30 — Prime Group Chat Muted
+**Scene:** Ethan mutes old Prime team chat — 99+ notifications — doesn't open.
 **Dialogue:** (text preview) **"Where did Hyun go?"**
 
 **Prompt:**
 ```
-smartphone muting old premier group chat notification badge ignored,
-breaking away panel, STYLE: PREMIER cold on KWONS present
+smartphone muting old prime group chat notification badge ignored,
+breaking away panel, STYLE: PRIME cold on KWONS present
 ```
 
 ---
@@ -4063,6 +3934,8 @@ chapter transition to team arrival, STYLE: KWONS dawn
 ---
 
 # Chapter 10 — Welcome
+
+> **Note:** Team **group arrival + hero lineup** now lives in **Ch 2 panel 2.14**. Ch 10 = first shared class on the mat (banter, bow, stretch).
 
 ### Panel 10.1 — Parking Lot Arrivals Montage
 **Scene:** Parking lot — multiple arrivals montage walk. Saturday morning.
@@ -4189,7 +4062,7 @@ friendly rivalry spark not hatred, medium shot, STYLE: KWONS
 
 **Prompt:**
 ```
-Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt introducing Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes to arriving Premier teens team bridge gesture warm dojang, STYLE: KWONS HAIKYUU
+Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt introducing Master Viet chubby 5 foot 8 kind small eyes kwon vest or white dobok black neck stripes to arriving Prime teens team bridge gesture warm dojang, STYLE: KWONS HAIKYUU
 ```
 
 ---
@@ -4357,7 +4230,7 @@ Kian Sang and Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow p
 ---
 ### Panel 10.30 — Kian Rematch
 **Scene:** Kian — silver hair — hands in pockets — locks eyes with Ethan.
-**Dialogue:** Kian: "You owe me a rematch from Premier."
+**Dialogue:** Kian: "You owe me a rematch from Prime."
 
 **Prompt:**
 ```

@@ -79,7 +79,7 @@
 | Context | Look |
 |---------|------|
 | **Casual** | Oversized **black hoodie** · white undershirt · **black cargo pants** · white sneakers · gold headphones · white gear backpack |
-| **Dobok** | White WT dobok · **black belt with silver 태권도 embroidery** (NO dragon) · Premier patch |
+| **Dobok** | White WT dobok · **black belt with silver 태권도 embroidery** (NO dragon) · Prime patch |
 | **Tournament kit** | Dobok + **blue electronic hogu** · **blue helmet** · white forearm/shin/foot guards |
 
 **Visual note:** "Looks like a K-pop idol" — contrasts with quiet personality.
@@ -109,7 +109,7 @@ Surviving an abusive school environment and learning how to trust people again.
 ### Key Beats
 
 1. **Arrival at Kwon's** — sees MV coaching differently
-2. **Flashbacks** — Premier favoritism, **board break hour** [#24], **KO bounty + "too nice"** [#28], black belt trauma
+2. **Flashbacks** — Prime favoritism, **board break hour** [#24], **KO bounty + "too nice"** [#28], black belt trauma
 3. **Hospital visits** — grandmother's decline (passes Arc 5)
 4. **Rank discovery** — realizes he outranks Ttong Kim
 5. **First tournament loss** — spinning hook kick triggers past
@@ -126,12 +126,12 @@ Surviving an abusive school environment and learning how to trust people again.
 | **Kian Sang** | Friendly internal rivalry — push each other, never enemies |
 | **Logan Hyun** | Brother (opposite personalities) — Logan pulls him out of isolation |
 | **TJ Lim** | Not a rival — goal is to stand *beside* the ace |
-| **Master Viet** | First trustworthy coach since early Premier days |
+| **Master Viet** | First trustworthy coach since early Prime days |
 | **Yuna Park** | Quiet romance — distance, gifts, college friendship ring |
 
 ---
 
-## Why He Left Premier
+## Why He Left Prime
 
 Systemic abuse and neglect — see [REAL-EVENTS-INDEX](../REAL-EVENTS-INDEX.md) and [ttong-kim.md](./ttong-kim.md).
 

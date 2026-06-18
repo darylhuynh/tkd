@@ -1,15 +1,15 @@
 # Arc 2 — Chapter 11: Scene Script
 ## *Six Reasons (Why We Left)*
 
-**Purpose:** Each member's Premier exit — Ethan last — **"Not here."** [HAIKYUU]  
-**Tone:** Circle trust · no pity · flash PREMIER desaturated  
+**Purpose:** Each member's Prime exit — Ethan last — **"Not here."** [HAIKYUU]  
+**Tone:** Circle trust · no pity · flash PRIME desaturated  
 **Tie-in panels:** [arc-02-panel-storyboard.md](../storyboards/arc-02-panel-storyboard.md) §11.1–11.7
 
 ---
 
 ## CAST
 
-Full Kwon's roster · **Ttong Kim** in flashbacks only · **Repeul Kim** optional silent background in Premier flash crowd
+Full Kwon's roster · **Ttong Kim** in flashbacks only · **Repeul Kim** optional silent background in Prime flash crowd
 
 ---
 
@@ -39,7 +39,7 @@ I'll go. Someone has to.
 ### SCENE 2 — KIAN [REAL — humiliation]
 **Panels:** 11.2
 
-**FLASH — PREMIER**
+**FLASH — PRIME**
 
 **Ttong Kim** center mat — **entire class** in lines — **Kian** singled out — face red.
 
@@ -64,12 +64,12 @@ Good.
 ### SCENE 3 — KIERYN
 **Panels:** 11.3
 
-**FLASH — PREMIER**
+**FLASH — PRIME**
 
 Friends on mat — wave — **Kieryn** at door — bag packed.
 
 **KIERYN (PRESENT)**  
-My friends were there. But I'd never get better. Not at Premier.  
+My friends were there. But I'd never get better. Not at Prime.  
 *(beat)*  
 I wasn't abandoning them. I was refusing to rot.
 
@@ -83,7 +83,7 @@ They're here now. That counts.
 ### SCENE 4 — ARIANA
 **Panels:** 11.4
 
-**FLASH — PREMIER**
+**FLASH — PRIME**
 
 **Mr. Yang** handshake with **Ttong Kim** — **Ariana** in corner — ignored — re-wrapping same wrist.
 
@@ -104,7 +104,7 @@ Mr. Yang's scary. In a good way.
 ### SCENE 5 — LOGAN
 **Panels:** 11.5
 
-**FLASH — PREMIER**
+**FLASH — PRIME**
 
 **Logan** grabs **Ethan's** arm at door — gear bag too big — both walking out.
 
@@ -120,7 +120,7 @@ Ethan's throat tight — doesn't look away.
 ### SCENE 6 — TJ
 **Panels:** 11.6
 
-**FLASH — PREMIER**
+**FLASH — PRIME**
 
 **Ttong Kim** points at **TJ** alone — other students watch — TJ's form **sloppier** than memory of old school.
 

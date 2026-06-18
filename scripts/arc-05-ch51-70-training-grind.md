@@ -38,7 +38,7 @@ Grab the gear, lose a point. Hands open.
 **Ethan** vs unknown ace — counter **+2** — first external proof.
 
 **ETHAN (V.O.)**  
-Premier never sent us here. MV did.
+Prime never sent us here. MV did.
 
 **[END 56–57]**
 
@@ -135,7 +135,7 @@ Score on the **second beat**, not the first feint.
 
 **Kieryn** vs **Ariana** — technical spar — respect nod.
 
-**[FLASH — Premier — one beat — STYLE: PREMIER]**
+**[FLASH — Prime — one beat — STYLE: PRIME]**
 
 Young Ethan vs teammate — instructor's back — no MV replay — no second beat.
 

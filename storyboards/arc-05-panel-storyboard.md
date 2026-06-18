@@ -61,9 +61,9 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue:** MV: "Week one builds lungs. Week three builds nerve. Don't skip week two."
 **Prompt:** `coach whiteboard periodization training block diagram, STYLE: KWONS TEACH`
 
-### 51.11 — Premier Never Did Hills
+### 51.11 — Prime Never Did Hills
 **Scene:** Ethan at hill crest — V.O. — autumn wind — headphones around neck.
-**Dialogue:** Ethan (V.O.): *Premier never sent us here. MV did.*
+**Dialogue:** Ethan (V.O.): *Prime never sent us here. MV did.*
 **Prompt:** `quiet teen hill crest wind autumn internal monologue, STYLE: KWONS`
 
 ### 51.12 — Team Collapse [HAIKYUU]
@@ -329,7 +329,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `team bus arrival training camp dorm keys haikyuu, STYLE: KWONS HAIKYUU`
 
 ### 54.2 — Board Contrast [REAL #24 echo] ★
-**Scene:** MV lowers board for Logan — *"Say it back"* — Ethan V.O. Premier silence contrast.
+**Scene:** MV lowers board for Logan — *"Say it back"* — Ethan V.O. Prime silence contrast.
 **Dialogue:** MV: "Lower two inches. We **coach**."
 **Prompt:** `coach adjusting board height for shorter athlete teaching contrast, STYLE: KWONS TEACH`
 
@@ -373,10 +373,10 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `short teen clean board break third attempt correct form, STYLE: KWONS TEACH`
 
 ### 54.11 — Ethan V.O. Contrast
-**Scene:** Ethan watches from back row — Premier flash inset micro — fist swollen memory — present MV coaching.
-**Timeline:** **FLASH inset** Premier silence · **PRESENT** MV corrects Logan.
+**Scene:** Ethan watches from back row — Prime flash inset micro — fist swollen memory — present MV coaching.
+**Timeline:** **FLASH inset** Prime silence · **PRESENT** MV corrects Logan.
 **Dialogue:** Ethan (V.O.): *Here, they move the board before you bleed.*
-**Prompt:** `flash inset premier silence vs present coach correcting board, STYLE: PREMIER inset STYLE: KWONS`
+**Prompt:** `flash inset prime silence vs present coach correcting board, STYLE: PRIME inset STYLE: KWONS`
 
 ### 54.12 — Fanta Trade Table [HAIKYUU]
 **Scene:** Ethan trades both Pineapple Fanta for Logan's ramen flavor pack — grape soda tragedy.
@@ -544,7 +544,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `rival taekwondo team entrance inter school event, STYLE: KWONS HAIKYUU`
 
 ### 56.4 — MV Prefight Circle
-**Scene:** MV brief circle — external validation speech — not Premier toxicity.
+**Scene:** MV brief circle — external validation speech — not Prime toxicity.
 **Dialogue:** MV: "Today you prove it against strangers. Same respect. Harder contact."
 **Prompt:** `coach pre fight circle inter school briefing, STYLE: KWONS`
 
@@ -638,9 +638,9 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Overlay:** Unknown · 16 · 5'9" · 112 lbs · 2nd Dan
 **Prompt:** `rival fighter profile card unknown ace inter school, STYLE: CARD KWONS`
 
-### 57.3 — Ethan V.O. Premier [SOLO LEVELING]
-**Scene:** Pre-bow — Ethan rolls shoulders — internal — growth since Premier.
-**Dialogue:** Ethan (V.O.): *Premier never sent us here. MV did.*
+### 57.3 — Ethan V.O. Prime [SOLO LEVELING]
+**Scene:** Pre-bow — Ethan rolls shoulders — internal — growth since Prime.
+**Dialogue:** Ethan (V.O.): *Prime never sent us here. MV did.*
 **Prompt:** `teen fighter pre bow internal monologue growth, STYLE: KWONS`
 
 ### 57.4 — First Exchange [ACTION]
@@ -825,12 +825,12 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 58.19 — Room 412 Curtain
 **Scene:** Ethan alone — pulls curtain — halmeoni small in bed — oxygen line — monitors soft beep.
 **Dialogue:** Halmeoni: *(Korean weak)* "Eun-ha… you came."
-**Prompt:** `grandmother hospital bed oxygen teen entering curtain, STYLE: PREMIER soft`
+**Prompt:** `grandmother hospital bed oxygen teen entering curtain, STYLE: PRIME soft`
 
 ### 58.20 — Champion When You Come Back
 **Scene:** Halmeoni touches cheek — cold hand warm intent — chapter end fade.
 **Dialogue:** Halmeoni: "My champion. Not when you win. When you come back."
-**Prompt:** `grandmother touching grandson cheek hospital emotional, STYLE: PREMIER soft`
+**Prompt:** `grandmother touching grandson cheek hospital emotional, STYLE: PRIME soft`
 
 ---
 
@@ -838,7 +838,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 59.1 — She Passes
 **Scene:** Monitor flatline off-panel — Ethan's hand on hers. No melodrama — quiet.
-**Prompt:** `teen holding grandmother hand hospital emotional quiet grief, STYLE: PREMIER soft`
+**Prompt:** `teen holding grandmother hand hospital emotional quiet grief, STYLE: PRIME soft`
 
 ### 59.2.0 — Sparring Cards [CARD]
 **Scene:** Training spar — **Ethan Hyun** vs **Kian Sang** — dual card (Kwon's internal).
@@ -884,12 +884,12 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 59.4 — Dawn Room Grey
 **Scene:** Same room grey dawn — curtain open — halmeoni's hand still in Ethan's.
 **Dialogue:** Nurse: "Take your time. There's no rush now."
-**Prompt:** `hospital dawn grey light teen holding still hand, STYLE: PREMIER soft`
+**Prompt:** `hospital dawn grey light teen holding still hand, STYLE: PRIME soft`
 
 ### 59.5 — Patch on Blanket
 **Scene:** Ethan folds Kwon's academy patch on blanket — deep bow held — student to teacher before any coach.
 **Dialogue:** Ethan: *(Korean whisper)* "Saranghae. I'm sorry I was late sometimes."
-**Prompt:** `teen bowing deep hospital patch on blanket, STYLE: PREMIER soft`
+**Prompt:** `teen bowing deep hospital patch on blanket, STYLE: PRIME soft`
 
 ### 59.6 — Hallway Cluster Morning
 **Scene:** Door opens — team slept sitting — Logan head on TJ shoulder — Kieryn mascara smudged — Kian stares at floor.
@@ -1066,7 +1066,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Timeline:** **FLASH** — brother's spotlight. **PRESENT** — old coach at Kwon's door.
 **Scene:** Flash inset — Kieryn's brother medal wall — Kieryn small in corner.
 **Dialogue:** Old coach: "Your brother had reach." · Kieryn: "I have lines."
-**Prompt:** `flash inset brother medal wall girl in corner, STYLE: PREMIER inset STYLE: KWONS`
+**Prompt:** `flash inset brother medal wall girl in corner, STYLE: PRIME inset STYLE: KWONS`
 
 ### 61.4 — Not His Shadow
 **Scene:** Kieryn center mat — team watches — declaration without shouting.
@@ -1187,7 +1187,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `father watching daughter spar with heart bleachers, STYLE: KWONS`
 
 ### 62.7 — Heart Over Pedigree
-**Scene:** Post-spar — Mr. Yang to MV — handshake different from Premier pull-out energy.
+**Scene:** Post-spar — Mr. Yang to MV — handshake different from Prime pull-out energy.
 **Dialogue:** Mr. Yang: "You see her." · MV: "I see an athlete."
 **Prompt:** `father coach handshake seeing daughter athlete, STYLE: KWONS`
 
@@ -1237,8 +1237,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 62.17 — Pressure Parent Flash [FLASH]
 **Timeline:** **FLASH** — father and Ttong Kim handshake — Ariana ignored. **PRESENT** — MV listens.
-**Scene:** Flash inset — Premier ignore — present MV eye contact during spar.
-**Prompt:** `flash inset ignored corner vs present coach sees her, STYLE: PREMIER inset STYLE: KWONS`
+**Scene:** Flash inset — Prime ignore — present MV eye contact during spar.
+**Prompt:** `flash inset ignored corner vs present coach sees her, STYLE: PRIME inset STYLE: KWONS`
 
 ### 62.18 — First Step Wide
 **Scene:** Wide — Ariana center mat — father gone — team around edges — her space not his shadow.
@@ -1316,12 +1316,12 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 63.11 — Flash Arc 3 Vending [FLASH]
 **Timeline:** **FLASH** — Arc 3 Ch 34 vending — Ethan after loss — sip — shoulders drop.
 **Scene:** Inset — Pineapple Fanta drop — neon label — procedure drink.
-**Prompt:** `flash inset vending pineapple fanta after loss shoulders drop, STYLE: PREMIER inset`
+**Prompt:** `flash inset vending pineapple fanta after loss shoulders drop, STYLE: PRIME inset`
 
 ### 63.12 — Flash Arc 1 Halmeoni [FLASH]
 **Timeline:** **FLASH** — Arc 1 Ch 8 — halmeoni thin hand — *eat anyway*.
 **Scene:** Micro inset woven into Logan whisper beat — memory layer.
-**Prompt:** `flash inset grandmother hand eat anyway memory, STYLE: PREMIER inset`
+**Prompt:** `flash inset grandmother hand eat anyway memory, STYLE: PRIME inset`
 
 ### 63.13 — Yuna Remember Better
 **Scene:** Yuna notebook margin — **remember better** — Pineapple Fanta underlined — Yuna thread deepens.
@@ -1434,7 +1434,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 64.14 — Yuna Buys One [FLASH]
 **Timeline:** **FLASH** — Yuna corner store — first Pineapple Fanta — too sweet — keeps can.
 **Scene:** Arc 3 callback woven — she tried it after watching him.
-**Prompt:** `flash inset girl buying first pineapple fanta corner store, STYLE: PREMIER inset`
+**Prompt:** `flash inset girl buying first pineapple fanta corner store, STYLE: PRIME inset`
 
 ### 64.15 — Team Spar Clinch Round
 **Scene:** Full round clinch-only — TJ dominates — Ethan learns reset footwork — Solo Leveling drill.
@@ -1919,13 +1919,13 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **SFX:** *BEEP*
 **Prompt:** `feint whirlwind head kick tie swing, white dobok full olympic kyorugi gear, STYLE: KWONS ACTION`
 
-### 69.9 — Premier Flash One Beat [FLASH]
-**Timeline:** **FLASH** — Premier — young Ethan vs teammate — instructor's back — no MV replay — no second beat.
+### 69.9 — Prime Flash One Beat [FLASH]
+**Timeline:** **FLASH** — Prime — young Ethan vs teammate — instructor's back — no MV replay — no second beat.
 **Scene:** Inset — chaos without teach — present contrast.
-**Prompt:** `flash inset premier spar no coach no second beat, STYLE: PREMIER inset`
+**Prompt:** `flash inset prime spar no coach no second beat, STYLE: PRIME inset`
 
 ### 69.10 — MV Tablet Freeze [TEACH]
-**Scene:** **PRESENT** — MV tablet freeze on **second beat** — Ethan nods — growth from Premier.
+**Scene:** **PRESENT** — MV tablet freeze on **second beat** — Ethan nods — growth from Prime.
 **Dialogue:** MV: "Score on the second beat, not the first feint."
 **Prompt:** `coach tablet freeze second beat present nod, STYLE: KWONS TEACH`
 

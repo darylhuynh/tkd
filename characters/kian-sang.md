@@ -82,7 +82,7 @@
 - Loud, confrontational, talented
 - Arrogant on surface — insecurity underneath
 - Talented showman — uses humor to mask insecurity
-- **Left Premier:** Ttong Kim **scolded and humiliated him in front of the entire class** for "acting like a clown"
+- **Left Prime:** Ttong Kim **scolded and humiliated him in front of the entire class** for "acting like a clown"
 
 ---
 

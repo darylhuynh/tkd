@@ -1,5 +1,5 @@
 # Flashback — The Board Break Hour
-## *REAL #24 · Premier Taekwondo Belt Test*
+## *REAL #24 · Prime Taekwondo Belt Test*
 
 **Character:** Ethan Hyun (young teen) · **Ttong Kim** · favored student (composite) · crowd/parents  
 **Placement:** **Arc 3, Chapter 28** (flashback during Ch 25 loss) · extended **Arc 4, Chapter 36**  
@@ -10,13 +10,13 @@
 
 ## Context
 
-Black belt testing day at Premier. Ethan is the **smallest and youngest** in his testing group. The board break station is scored **out of 5**. A **zero still passes** the overall test.
+Black belt testing day at Prime. Ethan is the **smallest and youngest** in his testing group. The board break station is scored **out of 5**. A **zero still passes** the overall test.
 
 He does not know that yet.
 
 ---
 
-### SCENE — PREMIER DOJANG · TESTING DAY · MORNING
+### SCENE — PRIME DOJANG · TESTING DAY · MORNING
 **Panels:** 28.1
 
 **ACTION:**  
@@ -251,7 +251,7 @@ Nothing left but fear.
 
 **Do not:** Hero frame the break. No slow-mo victory. Exhaustion only.
 
-**Do:** Bruised hand visible in later Premier flashbacks (Ch 29 spar guard weak).
+**Do:** Bruised hand visible in later Prime flashbacks (Ch 29 spar guard weak).
 
 ---
 

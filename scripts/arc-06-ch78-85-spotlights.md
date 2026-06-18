@@ -1,7 +1,7 @@
 # Arc 6 — Chapters 78–85: Scene Script
 ## *Spotlights & Corner Protocol*
 
-**Purpose:** Each fighter's Korea moment · MV corner vs **Go fight** · Premier illusion shatters  
+**Purpose:** Each fighter's Korea moment · MV corner vs **Go fight** · Prime illusion shatters  
 **Tie-in panels:** [arc-06-panel-storyboard.md](../storyboards/arc-06-panel-storyboard.md) §78–86  
 **Ethan Ch 77:** [arc-06-ch77-ethan-endurance.md](./arc-06-ch77-ethan-endurance.md)
 
@@ -57,7 +57,7 @@ Supreme Accuracy — **punch +1** — bandage bloodied — decision win.
 
 # CHAPTERS 83–85 — TEAM TOURNAMENT
 
-**Purpose:** Team bracket · MV corner vs Premier **Go fight** · golden point · group bow  
+**Purpose:** Team bracket · MV corner vs Prime **Go fight** · golden point · group bow  
 **Tie-in:** [arc-06-panel-storyboard.md](../storyboards/arc-06-panel-storyboard.md) §83–85
 
 ---
@@ -85,9 +85,9 @@ TWO UP!!
 Logan. Volume doesn't add points.
 
 **ACTION:**  
-**Ethan** steps to ring — looks at corner — **six faces** — not empty like Premier.
+**Ethan** steps to ring — looks at corner — **six faces** — not empty like Prime.
 
-**FLASH INSET — PREMIER [REAL #13]**
+**FLASH INSET — PRIME [REAL #13]**
 
 Young Ethan at glass — instructor points — *Go fight.* — alone.
 
@@ -197,7 +197,7 @@ Beat. Laugh.
 Team bus — arena shrinking in rear window — Ethan watches lights fade.
 
 **ETHAN (V.O.)**  
-Premier sold the brochure.  
+Prime sold the brochure.  
 This was the level.  
 We weren't ready for all of it yet.  
 But we weren't lying to ourselves anymore.
@@ -208,7 +208,7 @@ But we weren't lying to ourselves anymore.
 
 # CHAPTER 86 — ILLUSION SHATTERS
 
-### SCENE — PREMIER-STYLE SCHOOL OUT
+### SCENE — PRIME-STYLE SCHOOL OUT
 **Panels:** 86.1 · 87.1
 
 Flashy school — brochure energy — **eliminated round 1**.

@@ -35,14 +35,14 @@ Use these paths for img2img / IP-Adapter when generating panels.
 
 ---
 
-### Ttong Kim — Premier Antagonist
+### Ttong Kim — Prime Antagonist
 **Folder:** `output/ttong-kim/`
 
 | File | Use when |
 |------|----------|
 | `shorts-front.png` | **Default teaching** — tight shorts, underbite, teeth |
 | `jaw-profile.png` | Side profile emphasis — underbite lock |
-| `dobok-front.png` | Premier training · *Go fight* |
+| `dobok-front.png` | Prime training · *Go fight* |
 | `suit-front.png` | Tournaments, parent meetings |
 
 **Ref:** [ttong-kim-ref.md](./ttong-kim-ref.md)
@@ -69,7 +69,7 @@ Use these paths for img2img / IP-Adapter when generating panels.
 |-----|--------|
 | **1** Ch 1–10 | Ethan gear/casual/dobok · MV vest · Ttong shorts · Repeul casual |
 | **3** fights | Ethan gear · team dobok refs (P1) |
-| **4** Premier flash | Ttong shorts/suit · STYLE: PREMIER |
+| **4** Prime flash | Ttong shorts/suit · STYLE: PRIME |
 | **7** Ch 98 | Ethan gear · Min-ho (no ref sheet — CARD only) |
 | **8** Ch 111+ | Ethan casual/dobok · MV vest |
 

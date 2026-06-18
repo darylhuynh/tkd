@@ -1,11 +1,11 @@
 # Arc 1 — Chapter 1: Scene Script
 ## *Nightmare*
 
-**Purpose:** Premier neglect before violence — the wait is the trauma. KO bounty. **"Go fight."** Spinning hook. Wake up.  
+**Purpose:** Prime neglect before violence — the wait is the trauma. KO bounty. **"Go fight."** Spinning hook. Wake up.  
 **Tone:** Desaturated horror-adjacent sports trauma · no Kwon's warmth yet  
 **Tie-in panels:** [arc-01-panel-storyboard.md](../storyboards/arc-01-panel-storyboard.md) §1.1–1.16  
 **Real events:** [REAL-EVENTS-INDEX.md](../REAL-EVENTS-INDEX.md) #13 · #28 · #6 · #5  
-**Related:** [flash-premier-knockout-bounty.md](./flash-premier-knockout-bounty.md)
+**Related:** [flash-prime-knockout-bounty.md](./flash-prime-knockout-bounty.md)
 
 ---
 
@@ -13,9 +13,9 @@
 
 | Character | Notes |
 |-----------|--------|
-| **Ethan Hyun** | 15 — dark blue shadow perm — Premier patch — black belt |
+| **Ethan Hyun** | 15 — dark blue shadow perm — Prime patch — black belt |
 | **Ttong Kim** | Instructor — tight shorts — predatory grin — **Repeul Kim** silent in background (ugly multicolor, mean scowl) |
-| **Premier kids / parents** | Crowd — favored students get warmth |
+| **Prime kids / parents** | Crowd — favored students get warmth |
 | **Opponent** | Older, taller — open bracket energy |
 | **Repeul Kim** | Background only — never speaks |
 
@@ -29,7 +29,7 @@
 **Panels:** 1.1 · 1.2
 
 **ACTION:**  
-Exterior — *Premier Taekwondo Sports Dynasty — Regional Open*. Overcast. Fluorescents inside.
+Exterior — *Prime Taekwondo Sports Dynasty — Regional Open*. Overcast. Fluorescents inside.
 
 Kids in full hogus shuffle in. Clock: **7:04 AM**.
 
@@ -53,7 +53,7 @@ Ethan's finger on his name. Internal clock starts.
 **ETHAN (V.O.)**  
 Seven hours.
 
-Wide shot: twenty-plus Premier kids in gear. **Ttong Kim** at far end — coffee with parents — **Repeul Kim** at the edge of the cluster, arms folded, sour face — silent.
+Wide shot: twenty-plus Prime kids in gear. **Ttong Kim** at far end — coffee with parents — **Repeul Kim** at the edge of the cluster, arms folded, sour face — silent.
 
 No mats in use. No warmup. No instructor eyes on fighters.
 
@@ -113,9 +113,9 @@ Won every scrimmage last month.
 **ACTION:**  
 *(Post-production stat cards — no AI text.)*
 
-**TTONG KIM · Age 38 · 5'8" · 198 lbs · 2nd Dan · Premier**
+**TTONG KIM · Age 38 · 5'8" · 198 lbs · 2nd Dan · Prime**
 
-**REPEUL KIM · Age 37 · 5'5" · 230 lbs · Premier (background)**
+**REPEUL KIM · Age 37 · 5'5" · 230 lbs · Prime (background)**
 
 **[END SCENE 4]**
 
@@ -125,7 +125,7 @@ Won every scrimmage last month.
 **Panels:** 1.13b
 
 **ACTION:**  
-Staging area. **Ttong Kim** holds **1,000 won** up for Premier black belts.
+Staging area. **Ttong Kim** holds **1,000 won** up for Prime black belts.
 
 **Repeul Kim** blurred at his shoulder — multicolor disaster — scowl.
 
@@ -200,7 +200,7 @@ Not again.
 ## WRITER NOTES
 
 ### Palette
-- **STYLE: PREMIER** — grey bleachers, sick fluorescents, clock motif (7:04 → 2:47 → 3:12)
+- **STYLE: PRIME** — grey bleachers, sick fluorescents, clock motif (7:04 → 2:47 → 3:12)
 
 ### Repeul Kim rules
 - Background in Scenes 2–5 only — **no dialogue**

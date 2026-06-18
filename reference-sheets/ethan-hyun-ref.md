@@ -136,7 +136,7 @@ NO TEXT NO LETTERS
 ### Gear — Front
 ```
 teen boy 5'3 dark blue shadow perm hair, white electronic taekwondo hogu chest guard,
-arm guards leg guards headgear, premier school patch or neutral patch no text,
+arm guards leg guards headgear, prime school patch or neutral patch no text,
 silver black belt, full body front guard stance, character reference sheet,
 STYLE: TOURNAMENT manhwa
 ```

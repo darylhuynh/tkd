@@ -4,7 +4,7 @@
 **Purpose:** All remaining **[REAL]** dialogue beats · flashbacks **embedded in present** · Kwon's contrast · threats  
 **Tone:** Uncomfortable truth · parallel warmth · no revenge porn  
 **Tie-in panels:** [arc-04-panel-storyboard.md](../storyboards/arc-04-panel-storyboard.md) §38–46  
-**Flash sources woven in:** [flash-premier-girl-favoritism.md](./flash-premier-girl-favoritism.md) · Ch 37 archive callbacks
+**Flash sources woven in:** [flash-prime-girl-favoritism.md](./flash-prime-girl-favoritism.md) · Ch 37 archive callbacks
 
 ---
 
@@ -20,7 +20,7 @@ Ethan · **Ttong Kim** · **Repeul Kim** (background) · Ha-eun (composite) · G
 **Panels:** 38.1 · 38.2
 
 **ACTION:**  
-Ethan returns to Premier to pick up forgotten gear — hears voices around corner.
+Ethan returns to Prime to pick up forgotten gear — hears voices around corner.
 
 **PARENT (O.S.)**  
 I feel bad for Ethan. You want him to be good at school **AND** Taekwondo?
@@ -65,7 +65,7 @@ Present: Ethan closes eyes. Breathes. Walks out.
 **FLASH — post-tournament meeting**
 
 **TTONG KIM**  
-Refs cheated you. Other schools **buy** belts. Only Premier is legitimate.
+Refs cheated you. Other schools **buy** belts. Only Prime is legitimate.
 
 Parents nod. Ethan (younger) watches from back row — realizes the machine.
 
@@ -98,7 +98,7 @@ Patience, boys. Belt isn't a race.
 **Panels:** 42.1 · 42.2 · 42.3
 
 **ACTION:**  
-Premier dojang — **Ha-eun** (or favored girl) **returns** after bullying incident — younger kid **flinches**.
+Prime dojang — **Ha-eun** (or favored girl) **returns** after bullying incident — younger kid **flinches**.
 
 **Repeul Kim** in ugly multicolor at front desk — mean scowl — silent.
 
@@ -139,7 +139,7 @@ Present-day Ethan (Kwon's hallway) — same words echo — he texts MV: *I'm oka
 ### SCENE 7 — SAME DAY SPLIT
 **Panels:** 44.1 · 44.2 · 44.3
 
-**PREMIER CUT**
+**PRIME CUT**
 
 **TTONG KIM**  
 Talentless punks and quitters.
@@ -219,7 +219,7 @@ Later — team forms loose circle around Ethan at bags — no speech — **Haiky
 | 15 | 46.1 |
 | 19 | 44.1 |
 
-**Ch 37 archive** (sleepover brag, demo pick, bonus): see [flash-premier-girl-favoritism.md](./flash-premier-girl-favoritism.md) — referenced in Ethan's memory during 43.1 if extended.
+**Ch 37 archive** (sleepover brag, demo pick, bonus): see [flash-prime-girl-favoritism.md](./flash-prime-girl-favoritism.md) — referenced in Ethan's memory during 43.1 if extended.
 
 ---
 

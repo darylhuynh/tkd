@@ -1,6 +1,6 @@
 # Ha-eun Park (Composite)
 
-**Role:** Premier inner-circle student · **REAL #9, #25, #26** — not main cast  
+**Role:** Prime inner-circle student · **REAL #9, #25, #26** — not main cast  
 **Function:** Embodies Ttong Kim's **gender favoritism** — bonus points, promotion gap, sleepover brag, possible bully readmission
 
 ---
@@ -13,7 +13,7 @@
 | 4 · Ch 37 | Promotion wall, demo pick, **New Year's sleepover brag** |
 | 4 · Ch 42 | **Bullied student** — readmitted by Ttong Kim |
 
-Full script: [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md)
+Full script: [flash-prime-girl-favoritism.md](../scripts/flash-prime-girl-favoritism.md)
 
 ---
 
@@ -22,7 +22,7 @@ Full script: [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-fa
 | Field | Value |
 |-------|-------|
 | Age | ~14 at black belt test era |
-| School | Premier Taekwondo Sports Dynasty |
+| School | Prime Taekwondo Sports Dynasty |
 | Rank | Promoted **faster than boys** with less mat time [#27] |
 
 ---
@@ -41,7 +41,7 @@ Full script: [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-fa
 - **Never** depict explicit misconduct on-page
 - Implication through **silence, charts, whispers, institutional protection**
 - Not a cartoon mean girl — **system** protects her
-- Do not bring her to Kwon's or give redemption arc — she is Premier's rot, not a future teammate
+- Do not bring her to Kwon's or give redemption arc — she is Prime's rot, not a future teammate
 
 ---
 
@@ -49,6 +49,6 @@ Full script: [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-fa
 
 ```
 teen girl taekwondo student overly confident favored by coach,
-premier dojang uniform, unsettling favoritism subtext not explicit,
-manhwa webtoon style, STYLE: PREMIER
+prime dojang uniform, unsettling favoritism subtext not explicit,
+manhwa webtoon style, STYLE: PRIME
 ```

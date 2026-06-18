@@ -60,7 +60,7 @@ Use this scene as the template for team chemistry:
 1. **Warm banter** — establish personalities
 2. **Drill rotation** — Ethan vs Kian, TJ holding pads, Ariana extra reps
 3. **MV observation** — notes for later eval
-4. **Fade or cut** — often to Premier flashback (cold palette shift)
+4. **Fade or cut** — often to Prime flashback (cold palette shift)
 
 ---
 
@@ -70,7 +70,7 @@ Use this scene as the template for team chemistry:
 - Regional and national competitors
 - Tournament brackets
 - Team championships
-- Premier Taekwondo's reputation warfare
+- Prime Taekwondo's reputation warfare
 
 ---
 

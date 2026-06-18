@@ -70,7 +70,7 @@ Then re-import changed CSVs into Google Sheets.
 | Inconsistent section headers | Same sections every tab: Core · Stats · Combat · Appearance · Fighter Card Text |
 | `Kian Shah` in Character Concept | **Kian Sang** |
 | `Indian-American` only for Kian | **Half Korean, half Indian** |
-| Missing School field | **Kwon's** or **Premier** on every fighter |
+| Missing School field | **Kwon's** or **Prime** on every fighter |
 | Missing Arc 7 signatures | Added per fighter (Ultimate Counter, Mountain Strike, etc.) |
 | No tabs for MV / Ttong / Repeul / Yuna | New CSVs |
 | Storyboard only in markdown | **Storyboard-Index.csv** (~620+ rows) |

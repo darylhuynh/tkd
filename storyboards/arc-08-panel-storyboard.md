@@ -4,7 +4,7 @@
 
 **Scripts:** [arc-08-ch111-115-closure.md](../scripts/arc-08-ch111-115-closure.md) · [arc-08-ch116-120-epilogue.md](../scripts/arc-08-ch116-120-epilogue.md)  
 **Arc doc:** [arc-08-closure.md](../arcs/arc-08-closure.md)  
-**Premier flash (Ch 113):** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) · [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md) — pity not revenge · STYLE: PREMIER soft through glass
+**Prime flash (Ch 113):** [flash-prime-knockout-bounty.md](../scripts/flash-prime-knockout-bounty.md) · [flash-prime-girl-favoritism.md](../scripts/flash-prime-girl-favoritism.md) — pity not revenge · STYLE: PRIME soft through glass
 
 Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC-TKD-EDUCATION.md](../OLYMPIC-TKD-EDUCATION.md).
 
@@ -15,7 +15,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 | Ch | Content | Script section |
 |----|---------|----------------|
 | **111** | Full circle mat · SNU envelope | ch111-115 §111 |
-| **112** | Premier kids visit · Logan water | §112 |
+| **112** | Prime kids visit · Logan water | §112 |
 | **113** | Ttong Kim last image · pity | §113 |
 | **114** | Threats end · delete thread | §114 |
 | **115** | Grandmother memorial · hallway callback | §115 |
@@ -132,10 +132,10 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 **Script:** [arc-08-ch111-115-closure.md](../scripts/arc-08-ch111-115-closure.md) § Ch 112
 
-### 112.1 — Premier Kids at Glass
-**Scene:** **Min-jun** + **So-yeon** in Premier hoodies peering in — Ethan opens door.
+### 112.1 — Prime Kids at Glass
+**Scene:** **Min-jun** + **So-yeon** in Prime hoodies peering in — Ethan opens door.
 **Dialogue:** Min-jun: "We heard TJ made national team."
-**Prompt:** `nervous teens premier hoodies peering dojang glass door visit, STYLE: KWONS HAIKYUU`
+**Prompt:** `nervous teens prime hoodies peering dojang glass door visit, STYLE: KWONS HAIKYUU`
 
 ### 112.2 — Special Special [HAIKYUU]
 **Scene:** So-yeon quotes Ttong Kim — Kian from mat: *VIP special or actually good special?* — MV shuts it down.
@@ -158,9 +158,9 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Scene:** Door — Min-jun: *Tell TJ we're not all jerks over there* — lighter — not converted — less alone.
 **Prompt:** `visiting teens leaving lighter mood door goodbye, STYLE: KWONS HAIKYUU`
 
-### 112.7 — Half-Peel Patch [PREMIER soft]
-**Scene:** **So-yeon**'s bag — old Premier patch half-peeled — white belt — arms still wrapped tight when she arrived.
-**Prompt:** `teen girl gear bag premier patch peeling nervous detail, STYLE: PREMIER soft`
+### 112.7 — Half-Peel Patch [PRIME soft]
+**Scene:** **So-yeon**'s bag — old Prime patch half-peeled — white belt — arms still wrapped tight when she arrived.
+**Prompt:** `teen girl gear bag prime patch peeling nervous detail, STYLE: PRIME soft`
 
 ### 112.8 — Couldn't Handle Him
 **Scene:** Lobby bench — Ethan — no heat — separates instructor from pressure.
@@ -168,7 +168,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `teen honest calm correction former classmate lobby, STYLE: KWONS HAIKYUU`
 
 ### 112.9 — Quitters Line [REAL #19 callback]
-**Scene:** So-yeon quotes mother — *Kwon's is for quitters* — beat — Ethan doesn't argue Premier's brand.
+**Scene:** So-yeon quotes mother — *Kwon's is for quitters* — beat — Ethan doesn't argue Prime's brand.
 **Dialogue:** So-yeon: "My mom says Kwon's is for quitters who need hand-holding."
 **Prompt:** `teen girl quoting parent doubt lobby quiet beat, STYLE: KWONS HAIKYUU`
 
@@ -180,17 +180,17 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 112.11 — When Parents Watch
 **Scene:** Min-jun — quiet truth — Kim-saab sees them when parents are watching.
 **Dialogue:** Min-jun: "Kim-saab sees us when parents are watching." · Ethan: "That's not the same."
-**Prompt:** `two teens lobby serious comparison premier vs kwons, STYLE: KWONS HAIKYUU`
+**Prompt:** `two teens lobby serious comparison prime vs kwons, STYLE: KWONS HAIKYUU`
 
 ### 112.12 — Go Fight Memory [FLASH inset]
 **Scene:** So-yeon trembles — **FLASH inset** — tournament bleachers — eight hours — *go fight* voice — present lobby.
 **Dialogue:** So-yeon: "I don't want to sit eight hours and hear **go fight** again."
-**Prompt:** `flash inset tournament bleachers teen scared present lobby overlay, STYLE: PREMIER inset KWONS`
+**Prompt:** `flash inset tournament bleachers teen scared present lobby overlay, STYLE: PRIME inset KWONS`
 
 ### 112.13 — Scared Is Honest
 **Scene:** Ethan's jaw tightens — memory — releases — not recruiting.
 **Dialogue:** Ethan: "I'm not telling you to leave. But scared is honest. You don't have to perform brave for him."
-**Prompt:** `teen former premier student compassionate truth lobby, STYLE: KWONS HAIKYUU`
+**Prompt:** `teen former prime student compassionate truth lobby, STYLE: KWONS HAIKYUU`
 
 ### 112.14 — Hide the Paddles [HAIKYUU]
 **Scene:** Logan stage-whispers to Ethan — wrong-flavor Gatorade still in hand — comic warmth under grief arc.
@@ -208,8 +208,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `nervous teen girl almost smiling accepting water bottle, STYLE: KWONS HAIKYUU`
 
 ### 112.17 — Parents in Parking Lot
-**Scene:** Wide — Premier hoodies leaving — parents in cars waiting — Kwon's glass reflects training — two worlds.
-**Prompt:** `wide parking lot premier visitors leaving dojang reflection training inside, STYLE: KWONS HAIKYUU`
+**Scene:** Wide — Prime hoodies leaving — parents in cars waiting — Kwon's glass reflects training — two worlds.
+**Prompt:** `wide parking lot prime visitors leaving dojang reflection training inside, STYLE: KWONS HAIKYUU`
 
 ### 112.18 — That Was Sad
 **Scene:** Door closed — Logan sip — Ethan quiet agreement — liked them — no rescue fantasy.
@@ -221,7 +221,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `teen returning to training floor team sparring background normal, STYLE: KWONS HAIKYUU`
 
 ### 112.20 — Saturday Glass Wide
-**Scene:** Exterior — Premier kids walk to parking lot — Ethan visible through Kwon's glass — chapter end warmth.
+**Scene:** Exterior — Prime kids walk to parking lot — Ethan visible through Kwon's glass — chapter end warmth.
 **Dialogue (V.O.):** *Someone should have told me that earlier. So I said it.*
 **Prompt:** `dojang exterior saturday glass door teen training inside visitors leaving wide, STYLE: KWONS HAIKYUU`
 
@@ -231,24 +231,24 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 **Script:** [arc-08-ch111-115-closure.md](../scripts/arc-08-ch111-115-closure.md) § Ch 113
 
-### 113.1 — Smaller Premier [PREMIER soft]
+### 113.1 — Smaller Prime [PRIME soft]
 **Scene:** Strip mall — **six kids** on mat (was thirty) — Ethan walks long way home — **SNU ACCEPTED** in bag corner.
 **Dialogue (V.O.):** *Third dan. I outrank him.*
-**Prompt:** `teen walking past strip mall taekwondo school smaller class SNU envelope bag, STYLE: PREMIER soft`
+**Prompt:** `teen walking past strip mall taekwondo school smaller class SNU envelope bag, STYLE: PRIME soft`
 
 ### 113.2 — Through the Glass
 **Scene:** **Ttong Kim** demo for parent clipboard — barks at kid who missed stance — checkbook energy.
 **Dialogue:** Ttong Kim: "Parents paid for excellence, not excuses."
-**Prompt:** `instructor performing for parents window view kid scared reset, STYLE: PREMIER soft`
+**Prompt:** `instructor performing for parents window view kid scared reset, STYLE: PRIME soft`
 
 ### 113.3 — Eyes Meet [HAIKYUU]
 **Scene:** One second eye contact through glass — Ttong calculation — Ethan keeps walking — no bow — no flip off.
 **Dialogue (V.O.):** *Pity isn't forgiveness. It's just… done.*
-**Prompt:** `eye contact through dojang window no confrontation walking past, STYLE: PREMIER soft HAIKYUU`
+**Prompt:** `eye contact through dojang window no confrontation walking past, STYLE: PRIME soft HAIKYUU`
 
 ### 113.4 — Dynasty Sign Wide
-**Scene:** Wide — Ethan small in frame — **PREMIER TAEKWONDO SPORTS DYNASTY** neon flicker — rounds corner — doesn't look back.
-**Prompt:** `wide shot teen walking away strip mall neon sign not looking back, STYLE: PREMIER soft`
+**Scene:** Wide — Ethan small in frame — **PRIME TAEKWONDO SPORTS DYNASTY** neon flicker — rounds corner — doesn't look back.
+**Prompt:** `wide shot teen walking away strip mall neon sign not looking back, STYLE: PRIME soft`
 
 ### 113.5 — Bus Letter Morning
 **Scene:** Morning bus — **ACCEPTED** stamp through envelope window — hands still shaking — read it twice.
@@ -258,29 +258,29 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 113.6 — Arc 4 Laugh Memory [FLASH inset]
 **Scene:** **FLASH inset Arc 4** — rank discovery laugh until cried — **PRESENT** walk past strip mall — pity replaced laughter.
 **Dialogue (V.O.):** *I outrank him. It explained the gear obsession. The VIP lists.*
-**Prompt:** `flash inset teen laughing rank discovery present walking past premier overlay, STYLE: PREMIER soft`
+**Prompt:** `flash inset teen laughing rank discovery present walking past prime overlay, STYLE: PRIME soft`
 
 ### 113.7 — Two Cars Lot
-**Scene:** Premier parking lot — **two cars** — used to be full — smaller than memory — detail panel.
-**Prompt:** `strip mall taekwondo parking lot only two cars empty spaces, STYLE: PREMIER soft`
+**Scene:** Prime parking lot — **two cars** — used to be full — smaller than memory — detail panel.
+**Prompt:** `strip mall taekwondo parking lot only two cars empty spaces, STYLE: PRIME soft`
 
 ### 113.8 — Six Kids Mat
 **Scene:** Through window — **six kids** on mat — was thirty — Ethan doesn't slow — long way home habit since Arc 4.
-**Prompt:** `small children's class taekwondo mat through window fewer students, STYLE: PREMIER soft`
+**Prompt:** `small children's class taekwondo mat through window fewer students, STYLE: PRIME soft`
 
 ### 113.9 — Demo for Clipboard
 **Scene:** **Ttong Kim** demo kick — smile for parent with clipboard — expensive watch — performance mode.
-**Prompt:** `instructor demo kick smiling at parent clipboard premier window, STYLE: PREMIER soft`
+**Prompt:** `instructor demo kick smiling at parent clipboard prime window, STYLE: PRIME soft`
 
 ### 113.10 — Parents Paid Excellence
 **Scene:** Ttong Kim barks at kid who missed stance — parent nods — checkbook energy close.
 **Dialogue:** Ttong Kim: "Parents paid for excellence, not excuses."
-**Prompt:** `instructor yelling at scared child parent nodding premier interior, STYLE: PREMIER soft`
+**Prompt:** `instructor yelling at scared child parent nodding prime interior, STYLE: PRIME soft`
 
 ### 113.11 — I Feel Bad for That Kid
 **Scene:** Ethan walking — V.O. — pity for kid — not revenge narrative.
 **Dialogue (V.O.):** *I feel bad for that kid. I used to feel bad for me the same way.*
-**Prompt:** `teen walking sidewalk quiet pity expression not angry, STYLE: PREMIER soft KWONS`
+**Prompt:** `teen walking sidewalk quiet pity expression not angry, STYLE: PRIME soft KWONS`
 
 ### 113.12 — Bag Corner Bent
 **Scene:** Gear bag — **SNU envelope** corner bent from gym — collegiate registration pamphlet edge visible — life moving.
@@ -288,24 +288,24 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 113.13 — Silhouette Passing
 **Scene:** Ttong Kim turns — catches movement — Ethan's silhouette passing window — one second.
-**Prompt:** `instructor noticing silhouette through dojang window passerby, STYLE: PREMIER soft`
+**Prompt:** `instructor noticing silhouette through dojang window passerby, STYLE: PRIME soft`
 
 ### 113.14 — Calculation Not Guilt
 **Scene:** Eye contact extreme close — glass between — Ttong **calculation** — not guilt — Ethan neutral.
 **Dialogue (V.O.):** *Not angry. Just… done.*
-**Prompt:** `eye contact through glass instructor calculation teen calm walking, STYLE: PREMIER soft`
+**Prompt:** `eye contact through glass instructor calculation teen calm walking, STYLE: PRIME soft`
 
 ### 113.15 — No Bow No Flip
 **Scene:** Ethan doesn't flip off — doesn't bow — keeps walking — discipline over drama.
-**Prompt:** `teen walking past strip mall taekwondo no gesture restraint, STYLE: PREMIER soft`
+**Prompt:** `teen walking past strip mall taekwondo no gesture restraint, STYLE: PRIME soft`
 
 ### 113.16 — Dynasty Neon Flicker
 **Scene:** Sign detail — word **DYNASTY** half-flicker in neon — strip-mall facade — hollow crown.
-**Prompt:** `premier taekwondo neon sign dynasty flicker strip mall detail, STYLE: PREMIER soft`
+**Prompt:** `prime taekwondo neon sign dynasty flicker strip mall detail, STYLE: PRIME soft`
 
 ### 113.17 — Rounds Corner
-**Scene:** Ethan rounds corner — Premier facade leaves frame — doesn't look back — forward motion only.
-**Prompt:** `teen turning corner strip mall leaving premier behind back view, STYLE: PREMIER soft`
+**Scene:** Ethan rounds corner — Prime facade leaves frame — doesn't look back — forward motion only.
+**Prompt:** `teen turning corner strip mall leaving prime behind back view, STYLE: PRIME soft`
 
 ### 113.18 — Collegiate Desk Home
 **Scene:** Cutaway — Ethan's desk — collegiate league registration printout beside SNU packet — same night energy.
@@ -317,8 +317,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `teen walking home suburban sky quiet resolved expression intensity, STYLE: KWONS`
 
 ### 113.20 — Last Image Wide ★
-**Scene:** Final Premier image — Ethan small — sign behind — **last image of Ttong Kim** — distance not boss fight — chapter end.
-**Prompt:** `wide teen walking away premier taekwondo dynasty sign last look series villain distance, STYLE: PREMIER soft`
+**Scene:** Final Prime image — Ethan small — sign behind — **last image of Ttong Kim** — distance not boss fight — chapter end.
+**Prompt:** `wide teen walking away prime taekwondo dynasty sign last look series villain distance, STYLE: PRIME soft`
 
 ---
 
@@ -433,7 +433,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 115.2 — At the Stone
 **Scene:** **HYUN, SOON-JA** stone — Ethan kneels — dobok under jacket — SNU + U20 truth spoken.
 **Dialogue:** Ethan: "I'm still your champion. Just… not the one on that roster."
-**Prompt:** `teen kneeling memorial stone quiet grief korean english inscription, STYLE: HAIKYUU PREMIER soft`
+**Prompt:** `teen kneeling memorial stone quiet grief korean english inscription, STYLE: HAIKYUU PRIME soft`
 
 ### 115.3 — Hallway Callback [HAIKYUU · Arc 5 flash] [FLASH inset + PRESENT]
 **Scene:** Chapel hallway **PRESENT** — **FLASH inset Arc 5 Ch 58.2 hospital benches** — present team same posture — waiting **for him**.
@@ -480,7 +480,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 115.12 — Read the Kick Still Lost [V.O.]
 **Scene:** Stone close — Arc 7 truth — read the kick — still lost — not asking her to fix it.
 **Dialogue (V.O.):** *Arc 7 — I lost on points. Today — I'm not asking you to fix it.*
-**Prompt:** `memorial stone inscription korean english dates emotional close, STYLE: HAIKYUU PREMIER soft`
+**Prompt:** `memorial stone inscription korean english dates emotional close, STYLE: HAIKYUU PRIME soft`
 
 ### 115.13 — Hospital Flash Inset [FLASH + PRESENT]
 **Scene:** **FLASH Arc 5 Ch 58.2** — team slumped hospital benches — **PRESENT** memorial chapel — same posture — waiting **for him**.
@@ -513,7 +513,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 115.19 — Alone One Minute
 **Scene:** Team retreats to chapel entrance — doesn't leave — Ethan alone at stone — wind lifts photo corner — faces smiling — TJ not in national jacket — just team.
-**Dialogue (V.O.):** *Premier had belts. Kwon's had people. Halmeoni had both.*
+**Dialogue (V.O.):** *Prime had belts. Kwon's had people. Halmeoni had both.*
 **Prompt:** `teen alone memorial stone team photo wind team waiting entrance, STYLE: HAIKYUU`
 
 ### 115.20 — Three Months to Seoul ★
@@ -641,7 +641,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `teen alone night training whirlwind drill determined, STYLE: KWONS`
 
 ### 117.4 — Montage · Logan & Ariana
-**Scene:** Logan greets nervous Premier transfer · Ariana drills — Mr. Yang hug — *You don't have to win for me anymore.*
+**Scene:** Logan greets nervous Prime transfer · Ariana drills — Mr. Yang hug — *You don't have to win for me anymore.*
 **Prompt:** `split panel mascot greets new student father daughter hug dojang, STYLE: KWONS HAIKYUU`
 
 ### 117.5 — SNU Campus · The Line ★ [REAL payoff] [PRESENT + FLASH inset]
@@ -669,8 +669,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue (V.O.):** *Quarters won't happen twice. Clown's gone. Storm stays.*
 **Prompt:** `teen alone night training whirlwind drill phone bracket wallpaper, STYLE: KWONS`
 
-### 117.10 — Logan Premier Transfer [HAIKYUU]
-**Scene:** Logan greets nervous new kid — maybe Premier transfer — water — MV — Kieryn yelling — you'll love it.
+### 117.10 — Logan Prime Transfer [HAIKYUU]
+**Scene:** Logan greets nervous new kid — maybe Prime transfer — water — MV — Kieryn yelling — you'll love it.
 **Dialogue:** Logan: "First day? Cool. We have water. We have MV. We have Kieryn yelling."
 **Prompt:** `cheerful teen greeting nervous new student dojang lobby mascot energy, STYLE: KWONS HAIKYUU`
 
@@ -689,14 +689,14 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `seoul national university campus autumn admission letter reading twice, STYLE: KWONS TEACH`
 
 ### 117.14 — Flash Parent Gossip [FLASH inset]
-**Scene:** **FLASH Arc 4 Ch 38** — Premier hallway glass — parent muffled — *school AND taekwondo?* — young Ethan headphones **on**.
+**Scene:** **FLASH Arc 4 Ch 38** — Prime hallway glass — parent muffled — *school AND taekwondo?* — young Ethan headphones **on**.
 **Dialogue (O.S.):** "I feel bad for Ethan. You want him to be good at **school AND Taekwondo**?"
-**Prompt:** `flashback premier hallway parent gossip teen headphones on listening, STYLE: PREMIER soft`
+**Prompt:** `flashback prime hallway parent gossip teen headphones on listening, STYLE: PRIME soft`
 
 ### 117.15 — Lives in His Head [FLASH]
 **Scene:** **FLASH** — Ttong Kim dismissive laugh O.S. — *boy lives in his head* — young Ethan's hands tighten on headphone band.
 **Dialogue (O.S.):** "He can't even focus on one thing."
-**Prompt:** `flashback teen tightening headphones premier hallway hurt, STYLE: PREMIER soft`
+**Prompt:** `flashback teen tightening headphones prime hallway hurt, STYLE: PRIME soft`
 
 ### 117.16 — Quad Texts [HAIKYUU]
 **Scene:** **PRESENT** SNU quad steps — texts from Logan TJ MV — *proud hyung* — *character first grades second kicks third*.
@@ -825,7 +825,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Script:** [arc-08-ch116-120-epilogue.md](../scripts/arc-08-ch116-120-epilogue.md) § Ch 119
 
 ### 119.1 — MV Speech [TEACH]
-**Scene:** Six in line — sunset — *Premier sold rank. I sell character.*
+**Scene:** Six in line — sunset — *Prime sold rank. I sell character.*
 **Dialogue:** MV: "A true martial artist is defined by **character**, not rank."
 **Prompt:** `coach final speech team line sunset golden hour, STYLE: KWONS TEACH`
 
@@ -851,9 +851,9 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue:** Kian: "Coach—" · MV: "Let me finish."
 **Prompt:** `coach silencing team last lesson sunset dojang, STYLE: KWONS TEACH`
 
-### 119.7 — Premier Sold Rank [TEACH]
-**Scene:** MV — Premier sold rank — I sell character — theme statement — not preachy — lived.
-**Dialogue:** MV: "Premier sold **rank**. I sell **character**."
+### 119.7 — Prime Sold Rank [TEACH]
+**Scene:** MV — Prime sold rank — I sell character — theme statement — not preachy — lived.
+**Dialogue:** MV: "Prime sold **rank**. I sell **character**."
 **Prompt:** `coach final lesson rank vs character sunset team listening, STYLE: KWONS TEACH`
 
 ### 119.8 — Character Not Rank ★
@@ -936,7 +936,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 120.4 — Memorial Callback · Fade Out
 **Scene:** Wind on **same photo print** at grandmother's stone (Ch 115) — Ethan V.O. letter never sent.
 **Dialogue (V.O.):** *Halmeoni — I lost U20. I made SNU. I'm still your champion.*
-**Prompt:** `team photo print memorial stone wind callback series finale fade, STYLE: HAIKYUU PREMIER soft`
+**Prompt:** `team photo print memorial stone wind callback series finale fade, STYLE: HAIKYUU PRIME soft`
 
 ### 120.5 — Kieryn Face Scoot [HAIKYUU]
 **Scene:** Phone timer chaos — Logan directing — *MV you're cutting off Kieryn's face* — real smiles forming.
@@ -985,7 +985,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 120.15 — Wind Lifts Corner
 **Scene:** Memorial stone — wind lifts photo corner — settles — faces smiling — Logan's river rock — Ch 115 callback.
-**Prompt:** `memorial stone team photo wind lifting corner river rock weight, STYLE: HAIKYUU PREMIER soft`
+**Prompt:** `memorial stone team photo wind lifting corner river rock weight, STYLE: HAIKYUU PRIME soft`
 
 ### 120.16 — Letter Never Sent
 **Scene:** Ethan at desk — unsent letter to grandmother — folded — not needed anymore — V.O. carries it.
@@ -998,7 +998,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `teen friendship ring hand window seoul campus view quiet triumph, STYLE: KWONS HAIKYUU`
 
 ### 120.18 — Series Theme
-**Scene:** Text optional — *Premier had belts. Kwon's had people. Ethan had both school and taekwondo.* — wood grain texture.
+**Scene:** Text optional — *Prime had belts. Kwon's had people. Ethan had both school and taekwondo.* — wood grain texture.
 **Prompt:** `series theme text wood grain dojang texture finale, STYLE: KWONS TEACH`
 
 ### 120.19 — Kwon's Exterior Golden Hour

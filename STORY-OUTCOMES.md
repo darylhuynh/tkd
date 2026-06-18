@@ -62,7 +62,7 @@ Locked decisions for national team, epilogue, character arcs, and combat mechani
 | Ch | Beat | Lock |
 |----|------|------|
 | **111** | Full circle mat · SNU envelope · *Not the end* | [ch111-115](./scripts/arc-08-ch111-115-closure.md) |
-| **112** | Premier kids visit — no recruitment · Logan water | *(same)* |
+| **112** | Prime kids visit — no recruitment · Logan water | *(same)* |
 | **113** | Ttong Kim last image — pity · SNU **accepted** in bag | *(same)* |
 | **114** | Threat thread **deleted** — MV: *You owe yourself peace* | *(same)* |
 | **115** | Grandmother memorial · Arc 5 hallway callback | *(same)* |
@@ -99,20 +99,20 @@ Locked decisions for national team, epilogue, character arcs, and combat mechani
 
 ---
 
-## Premier Instructor
+## Prime Instructor
 
 **Canonical name:** **Ttong Kim** — 2nd Dan · Ethan **3rd Dan outranks him** (Arc 4 Ch 48–49)  
 See [ttong-kim.md](./characters/ttong-kim.md)
 
 ---
 
-## Why Each Member Left Premier
+## Why Each Member Left Prime
 
 | Member | Reason |
 |--------|--------|
 | **Ethan** | Abuse, neglect, favoritism — [REAL-EVENTS-INDEX](./REAL-EVENTS-INDEX.md) |
 | **Kian** | Embarrassed in front of class for clowning |
-| **Kieryn** | Would **never get better training** at Premier |
+| **Kieryn** | Would **never get better training** at Prime |
 | **TJ** | Singled out · regressed · wanted to train with **Ethan** |
 | **Logan** | Followed **brother** — does not compete at elite level |
 | **Ariana** | Father pulled her — wanted **individualized coaching** |

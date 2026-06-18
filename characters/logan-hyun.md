@@ -73,7 +73,7 @@
 - Treats TJ like an older brother
 - Brings positive energy everywhere
 - **Does not compete** at U20 trial mat level (Ch 100) — **corners** Ariana (Ch 94), Ethan (Ch 98 — live tap + film prep), TJ (Ch 99 — **STOMP! CUT!**); Ch 100 is **aftermath only**, not a fight recap
-- **Left Premier:** Followed his **brother Ethan** — loyalty over toxicity
+- **Left Prime:** Followed his **brother Ethan** — loyalty over toxicity
 
 ---
 

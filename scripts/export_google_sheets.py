@@ -208,7 +208,7 @@ def export_character_cards() -> None:
                 (
                     "DRAMA",
                     [
-                        ("Arc", "Surviving Premier abuse; learning to trust Kwon's family"),
+                        ("Arc", "Surviving Prime abuse; learning to trust Kwon's family"),
                     ],
                 ),
                 (
@@ -521,7 +521,7 @@ def export_character_cards() -> None:
                 (
                     "CORE PROFILE",
                     [
-                        ("School", "Premier Taekwondo Sports Dynasty"),
+                        ("School", "Prime Taekwondo Sports Dynasty"),
                         ("Age", "38"),
                         ("Height", "5'8\" (173 cm)"),
                         ("Weight", "198 lbs (90 kg)"),
@@ -533,7 +533,7 @@ def export_character_cards() -> None:
                 (
                     "FIGHTER CARD TEXT",
                     [
-                        ("Copy-paste", "TTONG KIM · Age 38 · 5'8\" · 198 lbs · 2nd Dan · Premier"),
+                        ("Copy-paste", "TTONG KIM · Age 38 · 5'8\" · 198 lbs · 2nd Dan · Prime"),
                     ],
                 ),
             ],
@@ -548,7 +548,7 @@ def export_character_cards() -> None:
                 (
                     "CORE PROFILE",
                     [
-                        ("School", "Premier (background only)"),
+                        ("School", "Prime (background only)"),
                         ("Age", "37"),
                         ("Height", "5'5\" (165 cm)"),
                         ("Weight", "230 lbs (104 kg)"),
@@ -559,7 +559,7 @@ def export_character_cards() -> None:
                 (
                     "FIGHTER CARD TEXT",
                     [
-                        ("Copy-paste", "REPEUL KIM · Age 37 · 5'5\" · 230 lbs · Premier (background)"),
+                        ("Copy-paste", "REPEUL KIM · Age 37 · 5'5\" · 230 lbs · Prime (background)"),
                     ],
                 ),
             ],

@@ -1,0 +1,108 @@
+{
+  "arc": 1,
+  "chapter": 2,
+  "title": "Arrival at Kwon's",
+  "strip_dir": "gallery/strips/arc-01",
+  "panels_per_page": 3,
+  "global_negative": "photorealistic, 3d render, western comic style, soft anime, painterly, extra limbs, deformed hands, fused fingers, blurry, watermark, logo, text overlay, speech bubble, readable text, letters, numbers, low quality, chibi, equal size panel grid, uniform strip of identical boxes, more than 3 panel rows per page except page2i, STYLE PRIME cold fluorescent, Ethan jet black hair, Ethan pure black hair, readable phone screen text",
+  "ethan_hair_lock": "ETHAN HAIR LOCK: Korean shadow perm messy volume; hair color NAVY BLUE and cobalt blue-black with CLEAR BLUE visible in strands and highlight edges; blue undertone must read as BLUE in cel shading; NOT jet black NOT pure black NOT brown-black hair",
+  "pages": [
+    {
+      "id": "page2a",
+      "label": "PAGE 2a — Approach (2.1–2.3)",
+      "output": "chapter-02-page-2a-approach.png",
+      "panel_ids": ["2.1", "2.2", "2.3"],
+      "reference_images": [
+        "reference-sheets/output/ethan-hyun/casual-front.png"
+      ],
+      "style_anchor": null,
+      "prompt": "ETHAN HAIR LOCK: Korean shadow perm messy volume; hair color NAVY BLUE and cobalt blue-black with CLEAR BLUE visible in strands; NOT jet black\n\nVertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin white gutters NO speech bubbles STYLE KWONS warm amber suburban morning,\n\nEthan Hyun 15 dark blue shadow perm navy hoodie white tee black joggers gold headphones white gear backpack match casual-front reference ALL rows.\n\nROW 1 ~30% Panel 2.1: suburban crosswalk Ethan waiting headphones around neck morning light\n\nROW 2 ~35% Panel 2.2: Ethan walking sidewalk headphones on gear backpack suburban street\n\nROW 3 ~35% LOW ANGLE Panel 2.3: Ethan looking UP at Kwon's Taekwondo Academy building exterior clean sign warm wood trim logo shape NO readable text\n\nEXACTLY 3 ROWS ONLY"
+    },
+    {
+      "id": "page2b",
+      "label": "PAGE 2b — Enter & sit (2.4)",
+      "output": "chapter-02-page-2b-enter-sit.png",
+      "panel_ids": ["2.4"],
+      "reference_images": [
+        "reference-sheets/output/ethan-hyun/casual-front.png"
+      ],
+      "style_anchor": "gallery/strips/arc-01/chapter-02-page-2a-approach.png",
+      "prompt": "ETHAN HAIR LOCK: navy blue shadow perm visible blue tint NOT jet black\n\nVertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin gutters NO speech bubbles STYLE KWONS warm foyer interior match page2a,\n\nEthan casual navy hoodie white gear backpack.\n\nROW 1 ~25% SMALL INSET top-right corner ONLY: dojang door opening warm light wedge no faces required\n\nROW 2 ~40% Panel 2.4a: Ethan walks through foyer past shoe racks bulletin board toward waiting chairs\n\nROW 3 ~35% Panel 2.4b: Ethan SITS on simple chair against wall backpack at feet watching room guarded\n\nEXACTLY 3 ROWS"
+    },
+    {
+      "id": "page2c",
+      "label": "PAGE 2c — MV coaches (2.5)",
+      "output": "chapter-02-page-2c-mv-coaching.png",
+      "panel_ids": ["2.5"],
+      "reference_images": [
+        "reference-sheets/output/master-viet/casual-front.png"
+      ],
+      "style_anchor": "gallery/strips/arc-01/chapter-02-page-2b-enter-sit.png",
+      "prompt": "Vertical manhwa WEBTOON PAGE 2-3 panel rows 1536x1024 FULL BLEED STYLE KWONS golden dojang interior match page2b,\n\nMaster Viet chubby 5 foot 8 kind small eyes Kwon's vest or white dobok black neck stripes.\n\nYoung yellow belt child student ~8-10 white dobok NOT teen.\n\nROW 1 ~50% WIDE Panel 2.5: MV holding focus mitts OR large kicking shield coaching ONE young yellow belt student roundhouse kick individual eye contact patient correction warm light\n\nROW 2 ~30% Ethan's POV from chair MV and student mid-drill soft depth\n\nROW 3 ~20% optional close MV adjusting student foot angle hands-on coaching\n\nNO readable text"
+    },
+    {
+      "id": "page2d",
+      "label": "PAGE 2d — MV & Ethan talk (2.6)",
+      "output": "chapter-02-page-2d-mv-ethan-talk.png",
+      "panel_ids": ["2.6"],
+      "reference_images": [
+        "reference-sheets/output/ethan-hyun/casual-front.png",
+        "reference-sheets/output/master-viet/casual-front.png"
+      ],
+      "style_anchor": "gallery/strips/arc-01/chapter-02-page-2c-mv-coaching.png",
+      "prompt": "ETHAN HAIR LOCK: navy blue shadow perm\n\nVertical manhwa WEBTOON PAGE EXACTLY 2 panel rows 1536x1024 FULL BLEED STYLE KWONS match page2c,\n\nROW 1 ~45% Panel 2.6a: Master Viet walking toward Ethan Ethan STANDING UP from chair respectful distance foyer\n\nROW 2 ~55% two-shot Panel 2.6b: MV and Ethan TALKING face to face MV slight crouch equal eye level Ethan guarded listening warm dojang background\n\nEXACTLY 2 ROWS"
+    },
+    {
+      "id": "page2e",
+      "label": "PAGE 2e — Conversation solos (2.7–2.9)",
+      "output": "chapter-02-page-2e-conversation-solos.png",
+      "panel_ids": ["2.7", "2.8", "2.9"],
+      "reference_images": [
+        "reference-sheets/output/ethan-hyun/casual-front.png",
+        "reference-sheets/output/master-viet/casual-front.png"
+      ],
+      "style_anchor": "gallery/strips/arc-01/chapter-02-page-2d-mv-ethan-talk.png",
+      "prompt": "ETHAN HAIR LOCK: navy blue shadow perm\n\nVertical manhwa WEBTOON PAGE EXACTLY 3 panel rows 1536x1024 FULL BLEED thin gutters NO speech bubbles STYLE KWONS match page2d dialogue solo frames mouth open mid-speech,\n\nROW 1 ~33% SOLO Panel 2.7: Ethan Hyun SIDE PROFILE exasperated frustrated eyebrows mouth open mid-speech one hand gesturing navy hoodie warm dojang shallow depth\n\nROW 2 ~33% SOLO Panel 2.8: Ethan Hyun SIDE PROFILE calm measured expression mouth open speaking softly relaxed shoulders soft side light\n\nROW 3 ~34% SOLO Panel 2.9: Master Viet SIDE PROFILE chubby kind small eyes calm patient mouth open speaking gently Kwon's vest golden light\n\nEXACTLY 3 ROWS each row ONE character solo frame"
+    },
+    {
+      "id": "page2f",
+      "label": "PAGE 2f — Ethan texts (2.10)",
+      "output": "chapter-02-page-2f-ethan-texting.png",
+      "panel_ids": ["2.10"],
+      "reference_images": [
+        "reference-sheets/output/ethan-hyun/casual-front.png"
+      ],
+      "style_anchor": "gallery/strips/arc-01/chapter-02-page-2e-conversation-solos.png",
+      "prompt": "ETHAN HAIR LOCK: navy blue shadow perm\n\nVertical manhwa WEBTOON PAGE EXACTLY 1 panel row 1536x1024 FULL BLEED SOLO FRAME NO gutters optional thin margin STYLE KWONS,\n\nPanel 2.10 FULL WIDTH: Ethan Hyun texting on smartphone screen glow on face side three-quarter view navy hoodie sitting on chair focused expression phone screen BLANK no readable text no speech bubbles warm dojang foyer\n\nEXACTLY 1 ROW solo frame only"
+    },
+    {
+      "id": "page2g",
+      "label": "PAGE 2g — Smirk & door (2.11–2.12)",
+      "output": "chapter-02-page-2g-smirk-door.png",
+      "panel_ids": ["2.11", "2.12"],
+      "reference_images": [
+        "reference-sheets/output/ethan-hyun/casual-front.png"
+      ],
+      "style_anchor": "gallery/strips/arc-01/chapter-02-page-2f-ethan-texting.png",
+      "prompt": "ETHAN HAIR LOCK: navy blue shadow perm\n\nVertical manhwa WEBTOON PAGE EXACTLY 2 panel rows 1536x1024 FULL BLEED STYLE KWONS,\n\nROW 1 ~50% CLOSE Panel 2.11: Ethan subtle confident SMIRK first warmth close-up face soft side light MV soft blur background\n\nROW 2 ~50% Panel 2.12: SMALL INSET top corner door swinging open bright warm light wedge main frame empty foyer or Ethan glancing toward door team arrival anticipation\n\nEXACTLY 2 ROWS"
+    },
+    {
+      "id": "page2h",
+      "label": "PAGE 2h — Team enters (2.13)",
+      "output": "chapter-02-page-2h-team-enters.png",
+      "panel_ids": ["2.13"],
+      "reference_images": [],
+      "style_anchor": "gallery/strips/arc-01/chapter-02-page-2g-smirk-door.png",
+      "prompt": "Vertical manhwa WEBTOON PAGE 1-2 panel rows 1536x1024 FULL BLEED STYLE KWONS HAIKYUU warm backlit entrance,\n\nFIVE teens walk through dojang door TOGETHER all CASUAL distinct outfits:\nTJ Lim tall muscular Miku graphic tee grey sweatpants white headband\nKieryn Lim purple magenta streetwear black layers\nKian Sang deep emerald green hoodie cream joggers\nAriana Yang shortest girl muted black athleisure quiet\nLogan Hyun small orange hoodie noodle charm on bag\n\nROW 1 ~65% WIDE SPLASH Panel 2.13: full group mid-stride through doorway gear bags Saturday energy\n\nROW 2 optional ~35% foyer wide feet entering shoe area\n\nNO readable text NO dobok"
+    },
+    {
+      "id": "page2i",
+      "label": "PAGE 2i — Hero lineup (2.14) SINGLE SPLASH",
+      "output": "chapter-02-page-2i-hero-lineup.png",
+      "panel_ids": ["2.14"],
+      "reference_images": [],
+      "style_anchor": "gallery/strips/arc-01/chapter-02-page-2h-team-enters.png",
+      "prompt": "Vertical manhwa WEBTOON PAGE SINGLE FULL BLEED SPLASH 1536x1024 ONE panel only NO gutters NO rows divide,\n\nHERO TEAM REVEAL Panel 2.14: Ethan Hyun navy hoodie gold headphones white gear backpack standing IN LINE with teammates TJ Kieryn Ariana Logan Kian all casual distinct colors from page2h facing Master Viet center welcoming open posture warm amber golden hour wood dojang floors wide cinematic composition empty lower area for caption card NO readable text,\n\nSTYLE KWONS HAIKYUU sweat sparkle friendly energy"
+    }
+  ]
+}

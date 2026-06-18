@@ -33,7 +33,7 @@
           "id": "11.3",
           "title": "Kieryn's Reason",
           "scene": "Friends wave from mat \u2014 Kieryn at door with bag. Looks back once.",
-          "dialogue": "Kieryn: \"My friends were there. But I'd never get better. Not at Premier.\"",
+          "dialogue": "Kieryn: \"My friends were there. But I'd never get better. Not at Prime.\"",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -54,7 +54,7 @@
         {
           "id": "11.5",
           "title": "Logan's Reason",
-          "scene": "Logan grabs Ethan's arm at Premier door \u2014 both walking out. Gear bag too big for him.",
+          "scene": "Logan grabs Ethan's arm at Prime door \u2014 both walking out. Gear bag too big for him.",
           "dialogue": "Logan: \"Where you go, I go. I don't need to compete. I need my brother.\"",
           "sfx": "",
           "timeline": "",
@@ -811,8 +811,8 @@
         },
         {
           "id": "14.12",
-          "title": "Premier Cafeteria [FLASH inset]",
-          "scene": "Small desaturated inset \u2014 Ethan alone at Premier plastic tray. Cut back to steam and neon.",
+          "title": "Prime Cafeteria [FLASH inset]",
+          "scene": "Small desaturated inset \u2014 Ethan alone at Prime plastic tray. Cut back to steam and neon.",
           "dialogue": "Ethan (internal): *Different table.*",
           "sfx": "",
           "timeline": "",
@@ -903,7 +903,7 @@
           "scene": "Logan turns back walking backward \u2014 points at ramen shop neon.",
           "dialogue": "Logan: \"Same time next week?\" \u00b7 Kieryn: \"Only if you stop slurping loud.\" \u00b7 Logan: \"Deal!\"",
           "sfx": "",
-          "timeline": "Entire chapter is **FLASH Premier** until **15.4 PRESENT snap** on Kwon's mats.",
+          "timeline": "Entire chapter is **FLASH Prime** until **15.4 PRESENT snap** on Kwon's mats.",
           "prompt": "",
           "style": "",
           "image": null
@@ -912,7 +912,7 @@
     },
     {
       "num": 15,
-      "title": "Premier Flashback: The Favor",
+      "title": "Prime Flashback: The Favor",
       "slug": "chapter-15",
       "panels": [
         {
@@ -1948,7 +1948,7 @@
           "id": "19.12",
           "title": "Tenacity Flag Extended",
           "scene": "MV circles **Courage** on clipboard \u2014 not cruel, precise.",
-          "dialogue": "MV: \"Technique is A. Courage is still hiding. Premier taught you to survive, not finish.\"",
+          "dialogue": "MV: \"Technique is A. Courage is still hiding. Prime taught you to survive, not finish.\"",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -2142,7 +2142,7 @@
           "id": "20.9",
           "title": "Kieryn Knuckle Crack",
           "scene": "Kieryn cracks knuckles \u2014 methodical, one by one. Focused not scared.",
-          "dialogue": "Kieryn: \"I've been waiting for official lights since Premier.\" \u00b7 Ariana: \"Same.\"",
+          "dialogue": "Kieryn: \"I've been waiting for official lights since Prime.\" \u00b7 Ariana: \"Same.\"",
           "sfx": "",
           "timeline": "",
           "prompt": "",

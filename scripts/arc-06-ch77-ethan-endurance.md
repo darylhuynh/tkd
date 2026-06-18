@@ -119,7 +119,7 @@ You outworked them. Points aren't the only language.
 
 **ETHAN**  
 *(gasping)*  
-Premier never taught me round three.
+Prime never taught me round three.
 
 **MV**  
 That's why you're here.
@@ -138,7 +138,7 @@ Team fist bumps — **TJ** pulls Ethan into huddle — Ethan lets it.
 |-------------|----------|
 | Neverending Endurance | High activity round 3 · no berserker |
 | Arc 3 payoff | No guard drop on spin fear |
-| Premier contrast | *Premier never taught me round three* |
+| Prime contrast | *Prime never taught me round three* |
 
 ---
 

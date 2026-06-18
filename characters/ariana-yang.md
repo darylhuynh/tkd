@@ -90,7 +90,7 @@
 
 Trying to become the child her father always wanted — learns to love taekwondo **for herself**, not only his approval.
 
-**Why she left Premier:** Her **father** pulled her — Ariana got almost **no attention or support**; he wanted **individualized coaching** elsewhere.
+**Why she left Prime:** Her **father** pulled her — Ariana got almost **no attention or support**; he wanted **individualized coaching** elsewhere.
 
 **U20 result:** **First-round loss (Ch 94)** — **Whirling Dervish** erases a **3-point** deficit (**2–5 → 5–5**), but **gam-jeom** on the **10th kick** (no plant after hit 9) gives opponent **+1** → **5–6**, **lose by 1**. Still grows; steps out from dad's shadow; **smiles for herself** in the loss.
 

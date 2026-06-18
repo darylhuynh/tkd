@@ -22,12 +22,12 @@ National arc ends; life continues. **Ttong Kim** seen from distance — not a bo
 - Full scene script: [arc-08-ch111-115-closure.md](../scripts/arc-08-ch111-115-closure.md) § Ch 111
 
 ### Chapter 112 — Former Classmates
-- Premier kids visit Kwon's — Ethan honest, not recruiting
+- Prime kids visit Kwon's — Ethan honest, not recruiting
 - Logan offers water [HAIKYUU]
 - Script: [arc-08-ch111-115-closure.md](../scripts/arc-08-ch111-115-closure.md) § Ch 112
 
 ### Chapter 113 — Ttong Kim Last Image
-- Premier smaller class — Ethan walks past — pity, not anger
+- Prime smaller class — Ethan walks past — pity, not anger
 - **"I outrank him"** + **SNU acceptance letter** in bag
 - Script: [arc-08-ch111-115-closure.md](../scripts/arc-08-ch111-115-closure.md) § Ch 113
 
@@ -85,7 +85,7 @@ National arc ends; life continues. **Ttong Kim** seen from distance — not a bo
 | "School AND taekwondo" | Ch 117–118 — SNU + collegiate win |
 | Ttong Kim threats | Ch 114 |
 | Grandmother | Ch 115 memorial (death Arc 5) |
-| Premier toxicity | Ch 112–113 — compassion |
+| Prime toxicity | Ch 112–113 — compassion |
 
 ---
 
@@ -93,7 +93,7 @@ National arc ends; life continues. **Ttong Kim** seen from distance — not a bo
 
 > Rank is paperwork. Character is what you do when no one is scoring.
 
-Premier had belts. Kwon's had **people**. Ethan had both **school and taekwondo**.
+Prime had belts. Kwon's had **people**. Ethan had both **school and taekwondo**.
 
 ---
 

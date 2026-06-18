@@ -3,7 +3,7 @@ const FACTION_LABELS = {
   kwons: "Kwon's Team",
   coach: "Coach",
   ally: "Allies",
-  premier: "Premier",
+  prime: "Prime",
   rival: "Rivals",
 };
 

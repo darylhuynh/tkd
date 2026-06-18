@@ -32,7 +32,7 @@
 
 ## Logline
 
-After leaving **Premier Taekwondo Sports Dynasty** — a toxic, money-driven school — **Ethan Hyun** and five teammates rebuild under **Master Viet** at **Kwon's Taekwondo Academy**. Together they chase an impossible dream: qualifying for the **Korea U20 National Team** — and learn what it actually means to be a martial artist.
+After leaving **Prime Taekwondo Sports Dynasty** — a toxic, money-driven school — **Ethan Hyun** and five teammates rebuild under **Master Viet** at **Kwon's Taekwondo Academy**. Together they chase an impossible dream: qualifying for the **Korea U20 National Team** — and learn what it actually means to be a martial artist.
 
 ---
 
@@ -40,7 +40,7 @@ After leaving **Premier Taekwondo Sports Dynasty** — a toxic, money-driven sch
 
 Ethan arrives at Kwon's carrying trauma, elite technique, and a silver-letter black belt no one else in the school has. Master Viet offers something his old instructor never did: individual attention, honest coaching, and respect.
 
-As Ethan slowly trusts again, he brings his friends — TJ, Logan, Kieryn, Kian, and Ariana — each fleeing their own former dojang. The team trains, fights, and grows together while the shadow of Premier Taekwondo looms: favoritism, lies, threats, and a coach who was never the master he claimed to be.
+As Ethan slowly trusts again, he brings his friends — TJ, Logan, Kieryn, Kian, and Ariana — each fleeing their own former dojang. The team trains, fights, and grows together while the shadow of Prime Taekwondo looms: favoritism, lies, threats, and a coach who was never the master he claimed to be.
 
 ---
 
@@ -50,7 +50,7 @@ As Ethan slowly trusts again, he brings his friends — TJ, Logan, Kieryn, Kian,
 - **Master Viet (MV)** — **Viet Na** (first name **Viet**, last name **Na**); everyone calls him **Master Viet**. Patient, technical, invests in every student individually. Complements Ethan's form and asks hard questions with genuine care.
 - **Culture:** Family-first. Teammates push each other to improve — never tear each other down.
 
-### Premier Taekwondo Sports Dynasty (Former School)
+### Prime Taekwondo Sports Dynasty (Former School)
 - **Ttong Kim:** Head instructor. Started warm when the school was new; grew colder as enrollment grew. Obsessed with money, status, and control. See [ttong-kim.md](./characters/ttong-kim.md).
 - **Repeul Kim:** Ttong's wife — **always in ugly multicolor casual**, **background only**, **never speaks**. Paired intro stat card in Arc 1. See [repeul-kim.md](./characters/repeul-kim.md).
 - **Public face:** "Elite" program. **Reality:** 2nd Dan instructor-level credentials — not a master. Ethan (3rd Dan) technically outranks him.
@@ -153,7 +153,7 @@ All main characters use **Korean surnames:** Hyun (Ethan, Logan), Lim (TJ, Kiery
 | Character | File |
 |-----------|------|
 | Master Viet | [master-viet.md](./characters/master-viet.md) |
-| Ttong Kim (Premier) | [ttong-kim.md](./characters/ttong-kim.md) |
+| Ttong Kim (Prime) | [ttong-kim.md](./characters/ttong-kim.md) |
 | Repeul Kim (background) | [repeul-kim.md](./characters/repeul-kim.md) |
 | Yuna Park (poomsae) | [yuna-park.md](./characters/yuna-park.md) |
 | Kim Min-ho (Ch 98) | [kim-min-ho.md](./characters/kim-min-ho.md) |

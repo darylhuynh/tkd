@@ -119,9 +119,9 @@
         },
         {
           "id": "51.11",
-          "title": "Premier Never Did Hills",
+          "title": "Prime Never Did Hills",
           "scene": "Ethan at hill crest \u2014 V.O. \u2014 autumn wind \u2014 headphones around neck.",
-          "dialogue": "Ethan (V.O.): *Premier never sent us here. MV did.*",
+          "dialogue": "Ethan (V.O.): *Prime never sent us here. MV did.*",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -702,7 +702,7 @@
         {
           "id": "54.2",
           "title": "Board Contrast [REAL #24 echo] \u2605",
-          "scene": "MV lowers board for Logan \u2014 *\"Say it back\"* \u2014 Ethan V.O. Premier silence contrast.",
+          "scene": "MV lowers board for Logan \u2014 *\"Say it back\"* \u2014 Ethan V.O. Prime silence contrast.",
           "dialogue": "MV: \"Lower two inches. We **coach**.\"",
           "sfx": "",
           "timeline": "",
@@ -801,10 +801,10 @@
         {
           "id": "54.11",
           "title": "Ethan V.O. Contrast",
-          "scene": "Ethan watches from back row \u2014 Premier flash inset micro \u2014 fist swollen memory \u2014 present MV coaching.",
+          "scene": "Ethan watches from back row \u2014 Prime flash inset micro \u2014 fist swollen memory \u2014 present MV coaching.",
           "dialogue": "Ethan (V.O.): *Here, they move the board before you bleed.*",
           "sfx": "",
-          "timeline": "**FLASH inset** Premier silence \u00b7 **PRESENT** MV corrects Logan.",
+          "timeline": "**FLASH inset** Prime silence \u00b7 **PRESENT** MV corrects Logan.",
           "prompt": "",
           "style": "",
           "image": null
@@ -1178,7 +1178,7 @@
         {
           "id": "56.4",
           "title": "MV Prefight Circle",
-          "scene": "MV brief circle \u2014 external validation speech \u2014 not Premier toxicity.",
+          "scene": "MV brief circle \u2014 external validation speech \u2014 not Prime toxicity.",
           "dialogue": "MV: \"Today you prove it against strangers. Same respect. Harder contact.\"",
           "sfx": "",
           "timeline": "",
@@ -1393,9 +1393,9 @@
         },
         {
           "id": "57.3",
-          "title": "Ethan V.O. Premier [SOLO LEVELING]",
-          "scene": "Pre-bow \u2014 Ethan rolls shoulders \u2014 internal \u2014 growth since Premier.",
-          "dialogue": "Ethan (V.O.): *Premier never sent us here. MV did.*",
+          "title": "Ethan V.O. Prime [SOLO LEVELING]",
+          "scene": "Pre-bow \u2014 Ethan rolls shoulders \u2014 internal \u2014 growth since Prime.",
+          "dialogue": "Ethan (V.O.): *Prime never sent us here. MV did.*",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -2573,7 +2573,7 @@
         {
           "id": "62.7",
           "title": "Heart Over Pedigree",
-          "scene": "Post-spar \u2014 Mr. Yang to MV \u2014 handshake different from Premier pull-out energy.",
+          "scene": "Post-spar \u2014 Mr. Yang to MV \u2014 handshake different from Prime pull-out energy.",
           "dialogue": "Mr. Yang: \"You see her.\" \u00b7 MV: \"I see an athlete.\"",
           "sfx": "",
           "timeline": "",
@@ -2683,7 +2683,7 @@
         {
           "id": "62.17",
           "title": "Pressure Parent Flash [FLASH]",
-          "scene": "Flash inset \u2014 Premier ignore \u2014 present MV eye contact during spar.",
+          "scene": "Flash inset \u2014 Prime ignore \u2014 present MV eye contact during spar.",
           "dialogue": "",
           "sfx": "",
           "timeline": "FLASH",
@@ -4183,11 +4183,11 @@
         },
         {
           "id": "69.9",
-          "title": "Premier Flash One Beat [FLASH]",
+          "title": "Prime Flash One Beat [FLASH]",
           "scene": "Inset \u2014 chaos without teach \u2014 present contrast.",
           "dialogue": "",
           "sfx": "",
-          "timeline": "**FLASH** \u2014 Premier \u2014 young Ethan vs teammate \u2014 instructor's back \u2014 no MV replay \u2014 no second beat.",
+          "timeline": "**FLASH** \u2014 Prime \u2014 young Ethan vs teammate \u2014 instructor's back \u2014 no MV replay \u2014 no second beat.",
           "prompt": "",
           "style": "",
           "image": null
@@ -4195,7 +4195,7 @@
         {
           "id": "69.10",
           "title": "MV Tablet Freeze [TEACH]",
-          "scene": "**PRESENT** \u2014 MV tablet freeze on **second beat** \u2014 Ethan nods \u2014 growth from Premier.",
+          "scene": "**PRESENT** \u2014 MV tablet freeze on **second beat** \u2014 Ethan nods \u2014 growth from Prime.",
           "dialogue": "MV: \"Score on the second beat, not the first feint.\"",
           "sfx": "",
           "timeline": "",

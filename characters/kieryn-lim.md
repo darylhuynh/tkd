@@ -89,7 +89,7 @@
 
 Living in the shadow of her older brother — trying to create her own identity.
 
-**Why she left Premier:** Her friends were all still there — but she realized she would **never get better training** at that school.
+**Why she left Prime:** Her friends were all still there — but she realized she would **never get better training** at that school.
 
 **U20 result:** Out in **semifinals** — positive attitude, **one year younger** — ready for next cycle.
 

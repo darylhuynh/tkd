@@ -37,13 +37,13 @@
     {
       "id": "6.6",
       "title": "Flash Sting (Money)",
-      "prompt": "traumatic flashback inset cold angry taekwondo instructor face, hands exchanging money,\nred desaturated overlay, sharp fragment panel, STYLE: PREMIER\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "traumatic flashback inset cold angry taekwondo instructor face, hands exchanging money,\nred desaturated overlay, sharp fragment panel, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/6.6.png"
     },
     {
       "id": "6.7",
       "title": "Flash Trigger Doorway",
-      "prompt": "doorway frame triggering memory Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt micro flinch Premier logo ghost overlay desaturated flash edge, STYLE: PREMIER flash inset\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "doorway frame triggering memory Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt micro flinch Prime logo ghost overlay desaturated flash edge, STYLE: PRIME flash inset\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/6.7.png"
     },
     {
@@ -90,20 +90,20 @@
     },
     {
       "id": "6.15",
-      "title": "Window Premier Logo Memory",
-      "prompt": "dojang window reflection Premier logo memory overlay Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt blinking away returning to present, STYLE: PREMIER flash inset\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "title": "Window Prime Logo Memory",
+      "prompt": "dojang window reflection Prime logo memory overlay Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, standard white dobok guards under silver-letter black belt blinking away returning to present, STYLE: PRIME flash inset\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/6.15.png"
     },
     {
       "id": "6.16",
       "title": "Flash VIP [FLASH]",
-      "prompt": "flashback inset favored student gear adjustment instructor praising,\nbleachers lonely teen same memory frame, STYLE: PREMIER flash\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "flashback inset favored student gear adjustment instructor praising,\nbleachers lonely teen same memory frame, STYLE: PRIME flash\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/6.16.png"
     },
     {
       "id": "6.17",
       "title": "Phone Face Down Table",
-      "prompt": "smartphone face-down on table Premier spam notifications vibrating ignored boundary setting, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "smartphone face-down on table Prime spam notifications vibrating ignored boundary setting, STYLE: KWONS\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/6.17.png"
     },
     {
@@ -115,7 +115,7 @@
     {
       "id": "6.19",
       "title": "Spam Texts Blur",
-      "prompt": "smartphone screen edge blurred Premier spam group texts Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants flipping phone face-down refusal, STYLE: PREMIER soft\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "smartphone screen edge blurred Prime spam group texts Ethan Hyun teen boy 15 korean-american 5 foot 3 dark blue shadow perm hair brown eyes, gold headphones white gear backpack oversized navy hoodie white tee baggy pants flipping phone face-down refusal, STYLE: PRIME soft\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/6.19.png"
     },
     {
@@ -145,7 +145,7 @@
     {
       "id": "6.24",
       "title": "Flash Cash [FLASH]",
-      "prompt": "traumatic flash hands exchanging money cold instructor grin red overlay fragment,\nSTYLE: PREMIER flash sting\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "traumatic flash hands exchanging money cold instructor grin red overlay fragment,\nSTYLE: PRIME flash sting\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/6.24.png"
     },
     {
@@ -204,8 +204,8 @@
     },
     {
       "id": "6.34",
-      "title": "Premier Text Spam",
-      "prompt": "smartphone spam text VIP taekwondo marketing teen deleting without reading,\ndisgust micro-expression, STYLE: PREMIER cold on phone glow\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "title": "Prime Text Spam",
+      "prompt": "smartphone spam text VIP taekwondo marketing teen deleting without reading,\ndisgust micro-expression, STYLE: PRIME cold on phone glow\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/6.34.png"
     },
     {

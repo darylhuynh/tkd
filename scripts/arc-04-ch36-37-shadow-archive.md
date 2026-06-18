@@ -4,8 +4,8 @@
 **Purpose:** Extended **board break hour** + **favoritism catalogue** — woven as Ethan's insomnia memory cascade  
 **Tone:** Institutional rot · uncomfortable · no explicit misconduct on-page  
 **Tie-in panels:** [arc-04-panel-storyboard.md](../storyboards/arc-04-panel-storyboard.md) §36–37  
-**Extended sources inline:** [flash-premier-board-break.md](./flash-premier-board-break.md) · [flash-premier-girl-favoritism.md](./flash-premier-girl-favoritism.md)  
-**Continues:** [arc-04-ch38-46-premier-truth.md](./arc-04-ch38-46-premier-truth.md)
+**Extended sources inline:** [flash-prime-board-break.md](./flash-prime-board-break.md) · [flash-prime-girl-favoritism.md](./flash-prime-girl-favoritism.md)  
+**Continues:** [arc-04-ch38-46-prime-truth.md](./arc-04-ch38-46-prime-truth.md)
 
 ---
 
@@ -22,7 +22,7 @@
 **Panels:** 36.0 bridge
 
 **ACTION:**  
-Ethan alone at Kwon's — lights low — phone face-down — old Premier group chat muted.
+Ethan alone at Kwon's — lights low — phone face-down — old Prime group chat muted.
 
 He didn't come to train. He came because **sleep** kept replaying the board.
 
@@ -37,7 +37,7 @@ He sits on mat edge. Cascade begins — **no chapter titles — memory only**.
 # MEMORY CASCADE [REAL #10 · #24 · #9 · #25–27]
 
 ### SCENE 2 — BOARD STATION ★
-**[FLASH — STYLE: PREMIER]**
+**[FLASH — STYLE: PRIME]**
 
 Smallest in testing group. Adult board — **too high, too far** for his frame.
 
@@ -187,4 +187,4 @@ Go home. Sleep. Tomorrow we train the **second beat**, not the first wound.
 
 ---
 
-*Next: [arc-04-ch38-46-premier-truth.md](./arc-04-ch38-46-premier-truth.md)*
+*Next: [arc-04-ch38-46-prime-truth.md](./arc-04-ch38-46-prime-truth.md)*

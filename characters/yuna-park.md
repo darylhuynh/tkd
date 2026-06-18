@@ -46,7 +46,7 @@
 | Sparring / chaos | Poomsae / precision |
 | Berserker Rage | Stillness |
 | Headphones / walls | Open quiet |
-| Premier trauma | Clean discipline path |
+| Prime trauma | Clean discipline path |
 
 ---
 

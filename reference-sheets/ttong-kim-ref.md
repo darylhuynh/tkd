@@ -1,6 +1,6 @@
 # Ttong Kim — Reference Sheet
 
-**Role:** Premier antagonist · false "master"  
+**Role:** Prime antagonist · false "master"  
 **Sources:** No Google Sheet tab — [`characters/ttong-kim.md`](../characters/ttong-kim.md)
 
 ## AI Text Rule
@@ -17,7 +17,7 @@ Append: `NO TEXT NO LETTERS NO NAME TAGS NO STAT SHEET NO QUOTES` — label **Tt
 | Height | 5'8"–5'9" |
 | Build | **Slightly stocky** — solid torso, thick neck, squared shoulders; **not** lean, **not** bodybuilder |
 | Face | **Square face**, **obvious underbite** — lower jaw forward past upper teeth; **teeth visible** (sneer/grin) |
-| Teaching wear | **Tight short shorts**, Premier tee/polo, expensive watch |
+| Teaching wear | **Tight short shorts**, Prime tee/polo, expensive watch |
 | Dobok | **White dobok** · **black neck stripes** · blank chest patch |
 | Tournament | Ill-fitting **suit** *(suit-front.png)* · teaching shorts for floor |
 
@@ -62,7 +62,7 @@ predatory grin sneer showing teeth cold narrow eyes slicked black hair,
 tight short black athletic shorts too small tight black polo shirt blank chest no logo,
 expensive gold wristwatch white sneakers,
 full body front turnaround sheet front side back profile views plain white background,
-solo leveling manhwa lineart cel shading desaturated premier antagonist,
+solo leveling manhwa lineart cel shading desaturated prime antagonist,
 NO TEXT NO LETTERS NO NUMBERS NO NAME TAGS NO STAT BLOCKS NO LOGO TEXT NO QUOTES NO HANGUL NO ENGLISH
 ```
 
@@ -76,7 +76,7 @@ NO TEXT NO LETTERS NO NAME TAGS
 
 ---
 
-## Prompts — Premier Dobok
+## Prompts — Prime Dobok
 
 ```
 slightly stocky korean taekwondo instructor NOT bodybuilder, obvious underbite teeth visible predatory grin,

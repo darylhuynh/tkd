@@ -83,7 +83,7 @@ Ethan — selection ceremony — stand with me?
 **ETHAN**  
 Yeah.
 
-**FLASH — Premier** — empty ceremony — Ethan **alone**.
+**FLASH — Prime** — empty ceremony — Ethan **alone**.
 
 Present — **team behind TJ** — Logan filming until MV **glares**.
 

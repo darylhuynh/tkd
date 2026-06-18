@@ -16,7 +16,7 @@
   --purple: #a78bfa;
   --purple-dim: rgba(167, 139, 250, 0.12);
   --kwons: var(--cyan);
-  --premier: var(--red);
+  --prime: var(--red);
   --coach: var(--gold);
   --rival: var(--purple);
   --ally: #6ee7b7;
@@ -413,12 +413,12 @@ code {
 
 .school-kwons .school-lead { color: var(--cyan); }
 
-.school-premier {
+.school-prime {
   background: linear-gradient(135deg, var(--red-dim), transparent);
   border-color: rgba(255, 61, 90, 0.2);
 }
 
-.school-premier .school-lead { color: var(--red); }
+.school-prime .school-lead { color: var(--red); }
 
 /* Arcs */
 
@@ -553,7 +553,7 @@ a.arc-card {
 }
 
 .fighter-card[data-faction="kwons"] .fighter-card-bar { background: var(--kwons); }
-.fighter-card[data-faction="premier"] .fighter-card-bar { background: var(--premier); }
+.fighter-card[data-faction="prime"] .fighter-card-bar { background: var(--prime); }
 .fighter-card[data-faction="coach"] .fighter-card-bar { background: var(--coach); }
 .fighter-card[data-faction="rival"] .fighter-card-bar { background: var(--rival); }
 .fighter-card[data-faction="ally"] .fighter-card-bar { background: var(--ally); }

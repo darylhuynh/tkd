@@ -1,8 +1,8 @@
 # Arc 1 — Chapters 2–10: Scene Script
 ## *Welcome to Kwon's*
 
-**Purpose:** Kwon's sanctuary · MV trust · Korea U20 goal · Premier flash seeds · hospital · team arrives  
-**Tone:** Palette shift PREMIER → **KWONS** amber · hope closes the arc  
+**Purpose:** Kwon's sanctuary · MV trust · Korea U20 goal · Prime flash seeds · hospital · team arrives  
+**Tone:** Palette shift PRIME → **KWONS** amber · hope closes the arc  
 **Tie-in panels:** [arc-01-panel-storyboard.md](../storyboards/arc-01-panel-storyboard.md) §2.1–10.20 (~20 panels/chapter)
 
 ---
@@ -31,7 +31,7 @@ Ethan **peeks through window** — doesn't enter.
 
 Inside: **MV** adjusts one student's foot angle — eye level — patient.
 
-Split montage — Premier flash: crowd, instructor's **back**, noise.
+Split montage — Prime flash: crowd, instructor's **back**, noise.
 
 **ETHAN (V.O.)**  
 One student. One voice.
@@ -141,7 +141,7 @@ MV asks direct: *Why did you leave?*
 
 Ethan opens mouth — closes it.
 
-**FLASH STING — woven on question** *(STYLE: PREMIER)*
+**FLASH STING — woven on question** *(STYLE: PRIME)*
 
 Hands exchanging cash. **Ttong Kim** cold face. Red tint.
 
@@ -169,7 +169,7 @@ When you're ready to tell me the rest, I'll listen.
 **Panels:** 7.1–7.20
 
 **ACTION:**  
-Flashback — small empty Premier. Young Ethan white belt bows.
+Flashback — small empty Prime. Young Ethan white belt bows.
 
 **TTONG KIM (younger, warmer)**  
 Welcome to the family.
@@ -223,7 +223,7 @@ You came. That's enough for today.
 Kwon's — Ethan finds MV rolling mats alone.
 
 **ETHAN**  
-Some friends… they left Premier too. Can they join?
+Some friends… they left Prime too. Can they join?
 
 **MV**  
 Everyone deserves a home.
@@ -272,7 +272,7 @@ Is there food later?
 
 **KIAN**  
 *(to Ethan)*  
-You owe me a rematch from Premier.
+You owe me a rematch from Prime.
 
 **ARIANA**  
 *(stretching — doesn't look up)*  

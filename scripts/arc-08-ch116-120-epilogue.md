@@ -3,7 +3,7 @@
 
 **Purpose:** Friendship ring. **SNU admission** + **collegiate taekwondo victory**. Ttong Kim line payoff. Yuna in the stands. Final team bow and photo.  
 **Tone:** Quiet wins · Haikyuu callback dinner · no villain fight — closure  
-**Prerequisite scenes:** Ch 111–115 — [arc-08-ch111-115-closure.md](./arc-08-ch111-115-closure.md) (return home, Premier visit, threats deleted, grandmother memorial)
+**Prerequisite scenes:** Ch 111–115 — [arc-08-ch111-115-closure.md](./arc-08-ch111-115-closure.md) (return home, Prime visit, threats deleted, grandmother memorial)
 
 **Tie-in panels:** [arc-08-panel-storyboard.md](../storyboards/arc-08-panel-storyboard.md) §116–120  
 **Callbacks:** [short-yuna-pineapple-fanta.md](./short-yuna-pineapple-fanta.md) · Arc 4 Ch 38–39 parent gossip · Arc 5 Ch 58–59 halmeoni
@@ -193,7 +193,7 @@ Clown's gone. Storm stays.
 
 **BEAT D — LOGAN · KWON'S LOBBY**
 
-**Logan** greets a nervous new kid — Premier transfer, maybe.
+**Logan** greets a nervous new kid — Prime transfer, maybe.
 
 **LOGAN**  
 First day? Cool. We have water. We have MV. We have Kieryn yelling. You'll love it.
@@ -231,7 +231,7 @@ He doesn't pose. He reads the name twice like he doesn't trust ink.
 **Panels:** 117.2
 
 **ACTION:**  
-**FLASHBACK INSET — Arc 4 · Premier · hallway glass**
+**FLASHBACK INSET — Arc 4 · Prime · hallway glass**
 
 Parent voice muffled through door — Ethan younger, headphones **on**, pretending not to listen.
 
@@ -489,7 +489,7 @@ Coach—
 
 **MV**  
 Let me finish.  
-Premier sold **rank**. I sell **character**. A true martial artist is defined by **character**, not rank.
+Prime sold **rank**. I sell **character**. A true martial artist is defined by **character**, not rank.
 
 **ACTION:**  
 Behind MV — electronic **scoreboard** on wall (practice unit) — numbers flicker — then fade in Ethan's visual memory to plain **wood grain** of the dojang wall.

@@ -1,7 +1,7 @@
 # Flashback — The 1,000 Won Knockout Bounty
-## *REAL #28 · Ttong Kim · Premier Tournament*
+## *REAL #28 · Ttong Kim · Prime Tournament*
 
-**Character:** Ttong Kim · Ethan Hyun · Premier class (composite)  
+**Character:** Ttong Kim · Ethan Hyun · Prime class (composite)  
 **Panels:** Arc 1 **1.13b** · Arc 2 **15.2b** · Arc 3 **22.4** (MV contrast) · Arc 4 **39.2** · **40.2** (optional inset)  
 **Tone:** Institutional violence incentivized — small money, huge moral rot. **Not played for comedy.**
 
@@ -11,11 +11,11 @@
 
 ## Context
 
-Regional open. Premier team in staging hall before matches. Parents in the bleachers — **most don't hear** or don't understand Korean. Ethan hears everything.
+Regional open. Prime team in staging hall before matches. Parents in the bleachers — **most don't hear** or don't understand Korean. Ethan hears everything.
 
 The bounty isn't only money — it's Ttong Kim's **philosophy**: black belt means **finish people**, not score points. Ethan — smallest, technical, quiet — becomes the **negative example** in front of the class.
 
-Olympic taekwondo can end by **referee stoppage / knockout** — but **paying kids to hunt KOs** and telling a child he's **too nice** to be a real black belt is Premier's rot, not WT culture.
+Olympic taekwondo can end by **referee stoppage / knockout** — but **paying kids to hunt KOs** and telling a child he's **too nice** to be a real black belt is Prime's rot, not WT culture.
 
 **Links:** [#2] *"I don't think he has the temperament…"* · [#24] board break hour — same "not tough enough" abuse · Arc 3 spinning hook — he fights cautious because this was beaten into him.
 
@@ -25,7 +25,7 @@ Olympic taekwondo can end by **referee stoppage / knockout** — but **paying ki
 **Panels:** Arc 1 **1.13b** · Arc 2 **15.2b**
 
 **ACTION:**  
-Premier kids in hogus — belts crooked — Ttong Kim on a plastic chair **above** them like a general.
+Prime kids in hogus — belts crooked — Ttong Kim on a plastic chair **above** them like a general.
 
 He holds up a **1,000 won coin** — or a bill — between two fingers. Small. Ridiculous amount. The room still goes quiet.
 
@@ -61,7 +61,7 @@ And what he thought I was **wrong** for having.
 
 **TTONG KIM**  
 *(to class — loud again)*  
-Real champions don't leave it to judges. Go show them Premier.
+Real champions don't leave it to judges. Go show them Prime.
 
 ---
 
@@ -140,7 +140,7 @@ Because I was **nice**.
 **Panels:** 40.2
 
 **ACTION:**  
-Premier flashback inset during Ch 40 lies-to-parents scene:
+Prime flashback inset during Ch 40 lies-to-parents scene:
 
 Parent: "Isn't knockout dangerous for kids?"
 
@@ -159,7 +159,7 @@ Ethan — present day memory — already gone by then.
 | Offer | To **class/school** — if **their student** KOs **another student** at **competition** |
 | Philosophy | Black belts should **knock out / finish** opponents — **not** "play nice" (instructor's toxic framing) |
 | Ethan | **Too nice / too soft** for black belt — **called out in front of class** |
-| Audience | Whole Premier group — public humiliation + ideology |
+| Audience | Whole Prime group — public humiliation + ideology |
 | Tone | Unsettling — instructor rhetoric, **not** story endorsing "kill" mindset |
 | Art | Coin + **Ttong Kim's eyes on Ethan** + classmates watching |
 

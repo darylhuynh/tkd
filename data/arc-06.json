@@ -99,7 +99,7 @@
           "id": "71.9",
           "title": "Ethan Window",
           "scene": "Ethan alone at hotel window \u2014 city lights \u2014 dobok bag on chair.",
-          "dialogue": "Ethan (internal): *Premier said international. They never showed us international.*",
+          "dialogue": "Ethan (internal): *Prime said international. They never showed us international.*",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -597,7 +597,7 @@
           "id": "73.13",
           "title": "Busan Breeze",
           "scene": "Ethan at river walk \u2014 market behind \u2014 city sound \u2014 Logan on TJ shoulders in background.",
-          "dialogue": "Ethan (internal): *We left Premier. We found this.*",
+          "dialogue": "Ethan (internal): *We left Prime. We found this.*",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -778,8 +778,8 @@
         },
         {
           "id": "74.9",
-          "title": "Premier Flash [FLASH inset]",
-          "scene": "**FLASH** \u2014 Premier brochure **\"ELITE INTERNATIONAL\"** \u2014 empty local mat \u2014 **CUT PRESENT**.",
+          "title": "Prime Flash [FLASH inset]",
+          "scene": "**FLASH** \u2014 Prime brochure **\"ELITE INTERNATIONAL\"** \u2014 empty local mat \u2014 **CUT PRESENT**.",
           "dialogue": "Ethan (internal): *Same word. Different universe.*",
           "sfx": "",
           "timeline": "FLASH",
@@ -939,8 +939,8 @@
         },
         {
           "id": "75.3",
-          "title": "Premier Brochure Memory [FLASH]",
-          "scene": "**FLASH** \u2014 young Ethan holding Premier flyer \u2014 gold foil \u2014 parents proud \u2014 **CUT**.",
+          "title": "Prime Brochure Memory [FLASH]",
+          "scene": "**FLASH** \u2014 young Ethan holding Prime flyer \u2014 gold foil \u2014 parents proud \u2014 **CUT**.",
           "dialogue": "Ethan (V.O.): *They sold us the font. Not the footwork.*",
           "sfx": "",
           "timeline": "FLASH",
@@ -962,7 +962,7 @@
         {
           "id": "75.5",
           "title": "Logan Defensive",
-          "scene": "Logan: \"Premier still sucked.\" \u2014 Ethan small nod \u2014 agreement without debate.",
+          "scene": "Logan: \"Prime still sucked.\" \u2014 Ethan small nod \u2014 agreement without debate.",
           "dialogue": "Logan: \"We knew that.\" \u00b7 Ethan: \"We didn't know *this*.\"",
           "sfx": "",
           "timeline": "",
@@ -1526,7 +1526,7 @@
         {
           "id": "77.14",
           "title": "Corner Inset [HAIKYUU]",
-          "scene": "Full corner \u2014 six faces \u2014 Logan muted \u2014 Kieryn towel \u2014 TJ fist bump \u2014 not Premier alone.",
+          "scene": "Full corner \u2014 six faces \u2014 Logan muted \u2014 Kieryn towel \u2014 TJ fist bump \u2014 not Prime alone.",
           "dialogue": "Ethan: \"I won't.\" \u00b7 MV: \"Step into space.\"",
           "sfx": "",
           "timeline": "",
@@ -1582,7 +1582,7 @@
           "id": "77.19",
           "title": "Bow & Huddle [HAIKYUU]",
           "scene": "Ji-woo bow \u2014 Ethan bow \u2014 TJ pulls Ethan into team huddle \u2014 **Neverending Endurance** named.",
-          "dialogue": "MV: \"Premier never taught you round three.\" \u00b7 Ethan: \"That's why I'm here.\"",
+          "dialogue": "MV: \"Prime never taught you round three.\" \u00b7 Ethan: \"That's why I'm here.\"",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -2745,7 +2745,7 @@
         {
           "id": "83.2",
           "title": "Go Fight Flash [REAL #13] [FLASH inset vs PRESENT]",
-          "scene": "**FLASH inset** \u2014 young Ethan alone at Premier \u2014 *Go fight.* \u2014 **cut to PRESENT** \u2014 six faces behind him at Korea corner.",
+          "scene": "**FLASH inset** \u2014 young Ethan alone at Prime \u2014 *Go fight.* \u2014 **cut to PRESENT** \u2014 six faces behind him at Korea corner.",
           "dialogue": "",
           "sfx": "",
           "timeline": "FLASH",
@@ -2921,7 +2921,7 @@
         {
           "id": "83.18",
           "title": "Rival Team Watch",
-          "scene": "Premier-style flashy team watches Kwon's corner protocol \u2014 confused by cohesion.",
+          "scene": "Prime-style flashy team watches Kwon's corner protocol \u2014 confused by cohesion.",
           "dialogue": "",
           "sfx": "",
           "timeline": "FLASH",
@@ -3354,7 +3354,7 @@
           "id": "85.16",
           "title": "Ethan Window Seat",
           "scene": "Ethan window \u2014 arena shrinking \u2014 V.O. begins \u2014 reflective.",
-          "dialogue": "Ethan (V.O.): *Premier sold the brochure.*",
+          "dialogue": "Ethan (V.O.): *Prime sold the brochure.*",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -3409,12 +3409,12 @@
     },
     {
       "num": 86,
-      "title": "Premier Illusion Shatters",
+      "title": "Prime Illusion Shatters",
       "slug": "chapter-86",
       "panels": [
         {
           "id": "86.1",
-          "title": "Premier-Style School Out [TEACH contrast]",
+          "title": "Prime-Style School Out [TEACH contrast]",
           "scene": "Flashy school eliminated round 1 \u2014 Ethan watches.",
           "dialogue": "Ethan (internal): *That was never the level. We just believed the brochure.*",
           "sfx": "",
@@ -3426,7 +3426,7 @@
         {
           "id": "86.2",
           "title": "Flashy Warm-Up [ACTION]",
-          "scene": "Premier-style school \u2014 gold trim \u2014 loud music \u2014 tricks not scoring \u2014 warm-up ring adjacent.",
+          "scene": "Prime-style school \u2014 gold trim \u2014 loud music \u2014 tricks not scoring \u2014 warm-up ring adjacent.",
           "dialogue": "",
           "sfx": "",
           "timeline": "",
@@ -3459,7 +3459,7 @@
         {
           "id": "86.5",
           "title": "Brochure Flash [FLASH]",
-          "scene": "**FLASH** \u2014 Premier brochure same design language \u2014 same font \u2014 **CUT PRESENT**.",
+          "scene": "**FLASH** \u2014 Prime brochure same design language \u2014 same font \u2014 **CUT PRESENT**.",
           "dialogue": "Ethan (V.O.): *Marketing, not merit.*",
           "sfx": "",
           "timeline": "FLASH",
@@ -3481,7 +3481,7 @@
         {
           "id": "86.7",
           "title": "Kwon's Corner Split",
-          "scene": "Split panel \u2014 Premier empty corner vs Kwon's full bench \u2014 same moment \u2014 visual thesis.",
+          "scene": "Split panel \u2014 Prime empty corner vs Kwon's full bench \u2014 same moment \u2014 visual thesis.",
           "dialogue": "",
           "sfx": "",
           "timeline": "",
@@ -3514,7 +3514,7 @@
         {
           "id": "86.10",
           "title": "Ariana Parallel",
-          "scene": "Ariana watches \u2014 father left Premier-type school once \u2014 parallel understood.",
+          "scene": "Ariana watches \u2014 father left Prime-type school once \u2014 parallel understood.",
           "dialogue": "Ariana (internal): *Dad saw this too.*",
           "sfx": "",
           "timeline": "",
@@ -3579,8 +3579,8 @@
         },
         {
           "id": "86.16",
-          "title": "Ethan Almost Text Premier",
-          "scene": "Ethan phone \u2014 old Premier group chat \u2014 types \u2014 deletes \u2014 closes app.",
+          "title": "Ethan Almost Text Prime",
+          "scene": "Ethan phone \u2014 old Prime group chat \u2014 types \u2014 deletes \u2014 closes app.",
           "dialogue": "Ethan (internal): *Not my job to save them.*",
           "sfx": "",
           "timeline": "",
@@ -3636,7 +3636,7 @@
     },
     {
       "num": 87,
-      "title": "Premier Illusion Shatters",
+      "title": "Prime Illusion Shatters",
       "slug": "chapter-87",
       "panels": [
         {
@@ -3707,8 +3707,8 @@
         },
         {
           "id": "87.7",
-          "title": "Premier Memory Fade [FLASH soft]",
-          "scene": "Soft flash \u2014 young Ethan thirsty at Premier \u2014 no water \u2014 **CUT** MV bottle present.",
+          "title": "Prime Memory Fade [FLASH soft]",
+          "scene": "Soft flash \u2014 young Ethan thirsty at Prime \u2014 no water \u2014 **CUT** MV bottle present.",
           "dialogue": "",
           "sfx": "",
           "timeline": "FLASH",
@@ -4400,7 +4400,7 @@
         {
           "id": "90.8",
           "title": "Ethan Eyes Forward",
-          "scene": "Ethan center \u2014 eyes forward \u2014 not Premier kid \u2014 Kwon's athlete \u2014 growth visible.",
+          "scene": "Ethan center \u2014 eyes forward \u2014 not Prime kid \u2014 Kwon's athlete \u2014 growth visible.",
           "dialogue": "",
           "sfx": "",
           "timeline": "",

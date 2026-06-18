@@ -7,7 +7,7 @@
 
 ## Arc Summary
 
-The team travels to Korea — or subset qualifies and others support. Culture shock, professional training centers, international brackets. Each member gets a **spotlight match** against world-class opposition. Ethan realizes his old school never operated at this level — they just convinced everyone they did. Premier's lies lose power in the face of real excellence.
+The team travels to Korea — or subset qualifies and others support. Culture shock, professional training centers, international brackets. Each member gets a **spotlight match** against world-class opposition. Ethan realizes his old school never operated at this level — they just convinced everyone they did. Prime's lies lose power in the face of real excellence.
 
 ---
 
@@ -56,8 +56,8 @@ The team travels to Korea — or subset qualifies and others support. Culture sh
 - Team championship element — Kwon's coordinates corners
 - MV corner work — **direct contrast to "Go fight."**
 
-### Chapters 86–88 — Premier Illusion Shatters
-- Ethan sees Premier-style school at regionals — eliminated early
+### Chapters 86–88 — Prime Illusion Shatters
+- Ethan sees Prime-style school at regionals — eliminated early
 - Realizes: **old school was never elite** — marketing, not merit
 - Quiet moment with MV — no speech needed
 
@@ -69,7 +69,7 @@ The team travels to Korea — or subset qualifies and others support. Culture sh
 
 ## Real Events in This Arc
 
-No new [REAL] events — this arc is **earned escalation**. Reference Premier only in Ethan's internal comparison (Ch 86–88).
+No new [REAL] events — this arc is **earned escalation**. Reference Prime only in Ethan's internal comparison (Ch 86–88).
 
 ---
 

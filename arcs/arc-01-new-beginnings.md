@@ -15,10 +15,10 @@ Ethan arrives alone at Kwon's Taekwondo Academy — quiet, guarded, carrying a s
 
 ### Chapter 1 — Nightmare
 
-**Purpose:** Establish Premier's neglect before the violence. The trauma isn't just the kick — it's an entire day of being invisible after your family paid for coaching.
+**Purpose:** Establish Prime's neglect before the violence. The trauma isn't just the kick — it's an entire day of being invisible after your family paid for coaching.
 
 #### Beat 1 — Tournament Morning (Arrival → Preparation)
-- **Casual arrival:** venue silhouette → Premier van → walk → **door reflection** (casual outside / gear inside) → hallway **7 AM** still in hoodie
+- **Casual arrival:** venue silhouette → Prime van → walk → **door reflection** (casual outside / gear inside) → hallway **7 AM** still in hoodie
 - **Transformation:** changing room dobok → tie belt → hogu/guards/helmet sequence → **mirror reveal**
 - **Neglect begins:** warmup floor — other kids coached · **Ethan alone** — no warmup
 
@@ -52,10 +52,14 @@ Ethan arrives alone at Kwon's Taekwondo Academy — quiet, guarded, carrying a s
 
 
 ### Chapter 2 — Arrival at Kwon's
-- **[REAL #20]** Ethan peeks through dojang window: MV gives **individual coaching tips** to a student
-- Contrast montage: Premier = crowd, noise, instructor's back; Kwon's = one student, eye contact, correction
-- Ethan hesitates at entrance — hand on door — *What if it's the same?*
-- **Expanded beats:** shoe ritual, modest trophy shelf, class watches newcomer, MV offers water without pressure, Ethan stays until close
+- Ethan walks crosswalk → sidewalk → looks up at **Kwon's Taekwondo Academy** sign
+- Door opens (top-corner inset) — Ethan enters foyer, **sits on a waiting chair**, watches
+- **[REAL #20]** MV **one-on-one** with a **young yellow-belt student** (mitts or shield)
+- MV walks over — Ethan stands — they talk
+- **Solo beats:** Ethan exasperated (side profile) → Ethan calm (side profile) → MV calm (side profile) → Ethan texting
+- Ethan **smirks**
+- Door opens again — **TJ, Kieryn, Ariana, Logan, Kian** walk in together (casual)
+- **Hero splash:** full team + Ethan lined up before MV — *"Welcome to Kwon's."*
 
 ### Chapter 3 — Meeting Master Viet
 - MV notices Ethan watching; invites him in without pressure
@@ -80,11 +84,11 @@ Ethan arrives alone at Kwon's Taekwondo Academy — quiet, guarded, carrying a s
 - MV asks directly; Ethan deflects
 - Short flashback sting: instructor's cold face, money changing hands (no full story yet)
 - Ethan: "It wasn't home anymore."
-- **Expanded beats:** Premier spam texts, cleaning dojang unprompted, mirror belt ritual, first sleep without nightmare
+- **Expanded beats:** Prime spam texts, cleaning dojang unprompted, mirror belt ritual, first sleep without nightmare
 
 ### Chapter 7 — Flashbacks Begin
 - **[REAL #5, #6]** Montage: favoritism toward paying families; Ethan outperforming but sidelined
-- Younger Ethan excited at Premier's opening — instructor was warm once
+- Younger Ethan excited at Prime's opening — instructor was warm once
 - Growth = colder room, fewer words for Ethan
 - **Expanded beats:** demo team clipboard, gear gap split, MV grounds Ethan with breathing + one-step drill
 
@@ -99,13 +103,12 @@ Ethan arrives alone at Kwon's Taekwondo Academy — quiet, guarded, carrying a s
 - Ethan asks MV if friends from old school can join
 - MV: "Everyone deserves a home."
 - Ethan texts the group — we see names, not faces yet
-- **Expanded beats:** individual text voices (TJ/Kieryn/Logan/Kian/Ariana), mute Premier chat, MV opens early, room ready
+- **Expanded beats:** individual text voices (TJ/Kieryn/Logan/Kian/Ariana), mute Prime chat, MV opens early, room ready
 
 ### Chapter 10 — Welcome to Kwon's
-- **TJ, Kieryn, Logan, Kian, Ariana** arrive — varied body language (confident, sarcastic, cheerful, loud, silent)
-- MV addresses them together — team banter, Kian rematch tease, Ariana silent stretch
-- **Final panel:** Wide shot of full team on mat + caption card
-- **Caption:** *"Welcome to Kwon's."*
+- **Team reunion hero moved to Ch 2** — this chapter is **first full class together**
+- MV addresses them on the mat — team banter, Kian rematch tease, Ariana silent stretch
+- Shoe ritual, stretch row, group bow — found-family beats on the training floor
 
 ---
 
@@ -125,7 +128,7 @@ Ethan arrives alone at Kwon's Taekwondo Academy — quiet, guarded, carrying a s
 
 ## Visual Notes for AI
 
-- **Palette shift:** Premier = blue-grey, harsh fluorescents; Kwon's = amber evening light through windows
+- **Palette shift:** Prime = blue-grey, harsh fluorescents; Kwon's = amber evening light through windows
 - **Ethan:** headphones off only when training seriously
 - **Chapter 10:** Six distinct silhouettes + MV — hero poster composition
 

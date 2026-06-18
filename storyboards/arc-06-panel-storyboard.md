@@ -51,7 +51,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 71.9 — Ethan Window
 **Scene:** Ethan alone at hotel window — city lights — dobok bag on chair.
-**Dialogue:** Ethan (internal): *Premier said international. They never showed us international.*
+**Dialogue:** Ethan (internal): *Prime said international. They never showed us international.*
 **Prompt:** `teen at hotel window night city lights reflective taekwondo bag, STYLE: KOREA`
 
 ### 71.10 — Team Dinner Arrival
@@ -262,7 +262,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 73.13 — Busan Breeze
 **Scene:** Ethan at river walk — market behind — city sound — Logan on TJ shoulders in background.
-**Dialogue:** Ethan (internal): *We left Premier. We found this.*
+**Dialogue:** Ethan (internal): *We left Prime. We found this.*
 **Prompt:** `teen reflective river walk korea night team background, STYLE: KOREA soft`
 
 ### 73.14 — Shared Cup [HAIKYUU]
@@ -340,10 +340,10 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Scene:** Wall of flags — medals — photos — Kwon's team small in frame.
 **Prompt:** `national team medal wall flags korean dojang scale, STYLE: KOREA`
 
-### 74.9 — Premier Flash [FLASH inset]
-**Scene:** **FLASH** — Premier brochure **"ELITE INTERNATIONAL"** — empty local mat — **CUT PRESENT**.
+### 74.9 — Prime Flash [FLASH inset]
+**Scene:** **FLASH** — Prime brochure **"ELITE INTERNATIONAL"** — empty local mat — **CUT PRESENT**.
 **Dialogue:** Ethan (internal): *Same word. Different universe.*
-**Prompt:** `flashback premier brochure elite empty mat vs korea present, STYLE: PREMIER inset STYLE: KOREA`
+**Prompt:** `flashback prime brochure elite empty mat vs korea present, STYLE: PRIME inset STYLE: KOREA`
 
 ### 74.10 — Recovery Station
 **Scene:** Ice baths — compression — sports science staff — Kwon's team sees real pipeline.
@@ -407,10 +407,10 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue:** TJ: "Now we know the page."
 **Prompt:** `team silent support overwhelmed teammate dojang, STYLE: KOREA HAIKYUU`
 
-### 75.3 — Premier Brochure Memory [FLASH]
-**Scene:** **FLASH** — young Ethan holding Premier flyer — gold foil — parents proud — **CUT**.
+### 75.3 — Prime Brochure Memory [FLASH]
+**Scene:** **FLASH** — young Ethan holding Prime flyer — gold foil — parents proud — **CUT**.
 **Dialogue:** Ethan (V.O.): *They sold us the font. Not the footwork.*
-**Prompt:** `flashback child holding martial arts brochure gold foil proud parents, STYLE: PREMIER`
+**Prompt:** `flashback child holding martial arts brochure gold foil proud parents, STYLE: PRIME`
 
 ### 75.4 — MV Honest
 **Scene:** MV crouches to Ethan's height — eye level — no pep talk.
@@ -418,7 +418,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `coach crouching eye level honest talk teen athlete, STYLE: KOREA`
 
 ### 75.5 — Logan Defensive
-**Scene:** Logan: "Premier still sucked." — Ethan small nod — agreement without debate.
+**Scene:** Logan: "Prime still sucked." — Ethan small nod — agreement without debate.
 **Dialogue:** Logan: "We knew that." · Ethan: "We didn't know *this*."
 **Prompt:** `brothers admitting scale difference quiet dojang, STYLE: KOREA HAIKYUU`
 
@@ -653,7 +653,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `round one loss scoreboard adjusting guard no panic corner, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA TEACH`
 
 ### 77.14 — Corner Inset [HAIKYUU]
-**Scene:** Full corner — six faces — Logan muted — Kieryn towel — TJ fist bump — not Premier alone.
+**Scene:** Full corner — six faces — Logan muted — Kieryn towel — TJ fist bump — not Prime alone.
 **Dialogue:** Ethan: "I won't." · MV: "Step into space."
 **Prompt:** `full team corner support haikyuu not alone, STYLE: KOREA HAIKYUU`
 
@@ -677,7 +677,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 77.19 — Bow & Huddle [HAIKYUU]
 **Scene:** Ji-woo bow — Ethan bow — TJ pulls Ethan into team huddle — **Neverending Endurance** named.
-**Dialogue:** MV: "Premier never taught you round three." · Ethan: "That's why I'm here."
+**Dialogue:** MV: "Prime never taught you round three." · Ethan: "That's why I'm here."
 **Prompt:** `respect bow team huddle pull in exhausted fighter haikyuu, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: KOREA HAIKYUU TEACH`
 
 ### 78.1 — TJ Emperor's Kick
@@ -1129,8 +1129,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `team corner calling scores coordinated haikyuu energy bench, STYLE: KOREA HAIKYUU TEACH`
 
 ### 83.2 — Go Fight Flash [REAL #13] [FLASH inset vs PRESENT]
-**Scene:** **FLASH inset** — young Ethan alone at Premier — *Go fight.* — **cut to PRESENT** — six faces behind him at Korea corner.
-**Prompt:** `flashback premier alone pointed at ring vs present full corner support, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER KOREA HAIKYUU`
+**Scene:** **FLASH inset** — young Ethan alone at Prime — *Go fight.* — **cut to PRESENT** — six faces behind him at Korea corner.
+**Prompt:** `flashback prime alone pointed at ring vs present full corner support, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME KOREA HAIKYUU`
 
 ### 83.3 — Ethan's Team Match [ACTION]
 **Scene:** Ethan **cut kick +2** — MV reset calls — wins round on activity.
@@ -1199,7 +1199,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `fighter high five line returning corner nod, STYLE: KOREA HAIKYUU`
 
 ### 83.18 — Rival Team Watch
-**Scene:** Premier-style flashy team watches Kwon's corner protocol — confused by cohesion.
+**Scene:** Prime-style flashy team watches Kwon's corner protocol — confused by cohesion.
 **Prompt:** `flashy rival team watching cohesive corner confused, STYLE: KOREA`
 
 ### 83.19 — Night Still Young
@@ -1366,7 +1366,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 85.16 — Ethan Window Seat
 **Scene:** Ethan window — arena shrinking — V.O. begins — reflective.
-**Dialogue:** Ethan (V.O.): *Premier sold the brochure.*
+**Dialogue:** Ethan (V.O.): *Prime sold the brochure.*
 **Prompt:** `teen bus window arena shrinking reflective voiceover, STYLE: KOREA`
 
 ### 85.17 — V.O. Continues
@@ -1393,13 +1393,13 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ## Chapter 88 — Elimination Pressure [Blue Lock]
 
-### 86.1 — Premier-Style School Out [TEACH contrast]
+### 86.1 — Prime-Style School Out [TEACH contrast]
 **Scene:** Flashy school eliminated round 1 — Ethan watches.
 **Dialogue:** Ethan (internal): *That was never the level. We just believed the brochure.*
 **Prompt:** `flashy martial arts school eliminated early contrast, STYLE: KOREA`
 
 ### 86.2 — Flashy Warm-Up [ACTION]
-**Scene:** Premier-style school — gold trim — loud music — tricks not scoring — warm-up ring adjacent.
+**Scene:** Prime-style school — gold trim — loud music — tricks not scoring — warm-up ring adjacent.
 **Prompt:** `flashy martial arts school gold trim loud warmup tricks, STYLE: KOREA contrast`
 
 ### 86.3 — Round 1 Collapse [ACTION]
@@ -1411,16 +1411,16 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `bracket eliminated red flashy school name blue lock pressure, STYLE: KOREA TOURNAMENT`
 
 ### 86.5 — Brochure Flash [FLASH]
-**Scene:** **FLASH** — Premier brochure same design language — same font — **CUT PRESENT**.
+**Scene:** **FLASH** — Prime brochure same design language — same font — **CUT PRESENT**.
 **Dialogue:** Ethan (V.O.): *Marketing, not merit.*
-**Prompt:** `flashback brochure same font flashy school present cut, STYLE: PREMIER inset STYLE: KOREA`
+**Prompt:** `flashback brochure same font flashy school present cut, STYLE: PRIME inset STYLE: KOREA`
 
 ### 86.6 — Coach Yelling Wrong Lesson
 **Scene:** Flashy coach yells **GO FIGHT** — no corner detail — fighter alone — mirror REAL #13.
 **Prompt:** `flashy coach yelling go fight no corner detail alone fighter, STYLE: KOREA contrast`
 
 ### 86.7 — Kwon's Corner Split
-**Scene:** Split panel — Premier empty corner vs Kwon's full bench — same moment — visual thesis.
+**Scene:** Split panel — Prime empty corner vs Kwon's full bench — same moment — visual thesis.
 **Prompt:** `split panel empty corner vs full team corner contrast, STYLE: KOREA HAIKYUU`
 
 ### 86.8 — Kieryn Observation
@@ -1434,7 +1434,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `teen lowering ipad not filming rival elimination respect, STYLE: KOREA`
 
 ### 86.10 — Ariana Parallel
-**Scene:** Ariana watches — father left Premier-type school once — parallel understood.
+**Scene:** Ariana watches — father left Prime-type school once — parallel understood.
 **Dialogue:** Ariana (internal): *Dad saw this too.*
 **Prompt:** `girl watching flashy school out father parallel internal, STYLE: KOREA soft`
 
@@ -1461,8 +1461,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Scene:** Flashy team exits — medals none — shoulders down — human not villain.
 **Prompt:** `defeated flashy team exiting human not villain, STYLE: KOREA`
 
-### 86.16 — Ethan Almost Text Premier
-**Scene:** Ethan phone — old Premier group chat — types — deletes — closes app.
+### 86.16 — Ethan Almost Text Prime
+**Scene:** Ethan phone — old Prime group chat — types — deletes — closes app.
 **Dialogue:** Ethan (internal): *Not my job to save them.*
 **Prompt:** `teen typing deleting message old school chat, STYLE: KOREA soft`
 
@@ -1508,9 +1508,9 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Scene:** Ethan nods once — MV nods once — entire conversation — chapter spine.
 **Prompt:** `coach athlete single nod conversation silent, STYLE: KOREA`
 
-### 87.7 — Premier Memory Fade [FLASH soft]
-**Scene:** Soft flash — young Ethan thirsty at Premier — no water — **CUT** MV bottle present.
-**Prompt:** `soft flash thirsty child premier cut present water bottle, STYLE: PREMIER inset STYLE: KOREA soft`
+### 87.7 — Prime Memory Fade [FLASH soft]
+**Scene:** Soft flash — young Ethan thirsty at Prime — no water — **CUT** MV bottle present.
+**Prompt:** `soft flash thirsty child prime cut present water bottle, STYLE: PRIME inset STYLE: KOREA soft`
 
 ### 87.8 — Ethan Stands
 **Scene:** Ethan stands — rolls shoulders — back to work — illusion processed not solved.
@@ -1779,7 +1779,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Prompt:** `girl hair streak wind team photo authentic, STYLE: KOREA`
 
 ### 90.8 — Ethan Eyes Forward
-**Scene:** Ethan center — eyes forward — not Premier kid — Kwon's athlete — growth visible.
+**Scene:** Ethan center — eyes forward — not Prime kid — Kwon's athlete — growth visible.
 **Prompt:** `teen center team photo eyes forward growth visible, STYLE: KOREA`
 
 ### 90.9 — Kian Arm Around Logan

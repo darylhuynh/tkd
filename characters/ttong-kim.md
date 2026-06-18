@@ -1,6 +1,6 @@
 # Ttong Kim
 
-**Role:** Antagonist (institutional) · Former Head of Premier Taekwondo Sports Dynasty  
+**Role:** Antagonist (institutional) · Former Head of Prime Taekwondo Sports Dynasty  
 **Team Function:** Embodies toxic coaching — not a final boss fight, a system to outgrow
 
 ---
@@ -13,7 +13,7 @@
 | Title (claimed) | "Master" |
 | Age | **38** |
 | Actual rank | **2nd Dan — Instructor level** (not master) |
-| School | Premier Taekwondo Sports Dynasty |
+| School | Prime Taekwondo Sports Dynasty |
 | Height | **5'8"–5'9"** (~173–175 cm) |
 | Build | **Slightly stocky** — thick neck, squared shoulders, solid torso; not lean, not bodybuilder |
 
@@ -25,9 +25,9 @@ Ethan Hyun (3rd Dan) **technically outranks him.**
 
 - **Height / build:** Average height (**5'8"–5'9"**), **slightly stocky** — thick neck, squared shoulders, solid frame; not lean, not bodybuilder.
 - **Face:** Classic **villain silhouette** — **square face**, **obvious underbite** (lower jaw and teeth sit forward of upper lip). **Teeth visible** in predatory grin or sneer. Hard eyes. Not a cartoon villain — **realistic neglectful coach** who happens to look like one.
-- **Teaching (off-mat):** **Tight short shorts** — always a little too small — polo or Premier tee, **expensive watch**, Premier logo.
+- **Teaching (off-mat):** **Tight short shorts** — always a little too small — polo or Prime tee, **expensive watch**, Prime logo.
 - **Tournaments:** **Suit** (ill-fitting or too sharp — status over function) over staging-hall authority posturing.
-- **Dobok:** Premier logo uniform when on the floor — compact frame, still the jaw.
+- **Dobok:** Prime logo uniform when on the floor — compact frame, still the jaw.
 
 **Contrast with MV:** Ttong Kim **above** students (chair, bleacher, pointing down); MV at **eye level**.
 
@@ -35,15 +35,15 @@ Ethan Hyun (3rd Dan) **technically outranks him.**
 
 ## Character
 
-- Warm when Premier was small and new; grew colder and greedier as enrollment grew
+- Warm when Prime was small and new; grew colder and greedier as enrollment grew
 - Obsessed with money, VIP packages, status, and control
 - Publicly dismissive of students who leave — calls them quitters and punks
 - Sends threatening messages after departures
 - Lies to parents about tournaments, refs, and rival schools
 - Lets smallest student **punch a board for ~an hour** despite **passing with 0** — scores **1/5**, shows **disgust** when board finally breaks [#24]
 - Awards **unearned bonus points** to favored students — Ethan **highest pass, 2nd place** [#9]
-- **Gender favoritism cluster** [#9, #25–27]: girls promoted faster, demo picks, **New Year's sleepover brag uncorrected**, **girl bully readmitted** — see [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md)
-- **1,000 won knockout bounty** at tournaments [#28] — whole class paid for KOs; **black belts must finish opponents**; **Ethan too nice/soft** — public callout — links [#2] — see [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md)
+- **Gender favoritism cluster** [#9, #25–27]: girls promoted faster, demo picks, **New Year's sleepover brag uncorrected**, **girl bully readmitted** — see [flash-prime-girl-favoritism.md](../scripts/flash-prime-girl-favoritism.md)
+- **1,000 won knockout bounty** at tournaments [#28] — whole class paid for KOs; **black belts must finish opponents**; **Ethan too nice/soft** — public callout — links [#2] — see [flash-prime-knockout-bounty.md](../scripts/flash-prime-knockout-bounty.md)
 - Composite favored student: [ha-eun-park-composite.md](./ha-eun-park-composite.md)
 
 ---
@@ -71,7 +71,7 @@ Ethan Hyun (3rd Dan) **technically outranks him.**
 | **Kieryn** | Stayed for friends — realized she would **never get better training** there |
 | **TJ** | Singled out constantly; **regressed** after transferring from another school; wanted to train with Ethan |
 | **Logan** | Followed his brother Ethan — **does not compete** seriously |
-| **Ariana** | Her father pulled her — **no individualized attention or support** at Premier |
+| **Ariana** | Her father pulled her — **no individualized attention or support** at Prime |
 
 ---
 
@@ -95,6 +95,6 @@ Ethan Hyun (3rd Dan) **technically outranks him.**
 korean taekwondo instructor antagonist, 5 foot 8 slightly stocky build thick neck NOT bodybuilder NOT lean,
 square face obvious underbite lower teeth visible predatory grin showing teeth,
 tight short shorts teaching attire or ill-fitting suit at tournament, cold expression, expensive watch,
-Premier logo uniform dobok blank patch no text, turned away from students, manhwa webtoon style,
+Prime logo uniform dobok blank patch no text, turned away from students, manhwa webtoon style,
 realistic neglectful coach not cartoon villain, NO TEXT NO LETTERS NO NAME TAGS
 ```

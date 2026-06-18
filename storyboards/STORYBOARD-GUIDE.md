@@ -22,17 +22,17 @@ Master reference for all panel-by-panel AI prompts across the series.
 
 ---
 
-## Premier Flashbacks & Short Threads
+## Prime Flashbacks & Short Threads
 
-Extended dialogue lives in `scripts/` — storyboards below are the **panel attach map**. Always **`STYLE: PREMIER`** inside flash; explicit return to present palette.
+Extended dialogue lives in `scripts/` — storyboards below are the **panel attach map**. Always **`STYLE: PRIME`** inside flash; explicit return to present palette.
 
-### Premier flash scripts
+### Prime flash scripts
 
 | Script | REAL # | Storyboard slots |
 |--------|--------|------------------|
-| [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) | #28 | Arc 1 **1.37** · Arc 2 **15.2b** · Arc 3 **22.4** (MV contrast) · Arc 4 **39.2** · **40.2** (optional inset) |
-| [flash-premier-board-break.md](../scripts/flash-premier-board-break.md) | #24, #9, #10 | Arc 3 **§28.1–28.8** · Arc 4 **§36.0–36.2** · Ch 35 eval callback |
-| [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md) | #9, #25–27 | Arc 4 **§37.2–37.6** · Ch 42–43 callbacks |
+| [flash-prime-knockout-bounty.md](../scripts/flash-prime-knockout-bounty.md) | #28 | Arc 1 **1.37** · Arc 2 **15.2b** · Arc 3 **22.4** (MV contrast) · Arc 4 **39.2** · **40.2** (optional inset) |
+| [flash-prime-board-break.md](../scripts/flash-prime-board-break.md) | #24, #9, #10 | Arc 3 **§28.1–28.8** · Arc 4 **§36.0–36.2** · Ch 35 eval callback |
+| [flash-prime-girl-favoritism.md](../scripts/flash-prime-girl-favoritism.md) | #9, #25–27 | Arc 4 **§37.2–37.6** · Ch 42–43 callbacks |
 
 **Rule:** Flash triggered by **present stimulus** — never orphan flash chapters. Full integration checklist: [scripts/README.md](../scripts/README.md).
 
@@ -79,7 +79,7 @@ watermark, speech bubble text, low quality, chibi unless specified
 
 | Tag | Use |
 |-----|-----|
-| `STYLE: PREMIER` | Desaturated blue-grey, harsh fluorescent, neglect |
+| `STYLE: PRIME` | Desaturated blue-grey, harsh fluorescent, neglect |
 | `STYLE: KWONS` | **Kwon's Taekwondo Academy** — warm amber dojang, golden hour, wood floors |
 | `STYLE: TOURNAMENT` | Bright venue, electronic scoreboards, crowd energy |
 | `STYLE: KOREA` | Modern Korean dojang, national flags, clean architecture |
@@ -95,7 +95,7 @@ watermark, speech bubble text, low quality, chibi unless specified
 **Fix — every prompt must include:**
 
 1. **Canon name** — `Ethan Hyun`, `Ttong Kim`, `Master Viet` (not "instructor").
-2. **Locked outfit for the scene** — e.g. Ch 1 tournament = Ethan **full Olympic kyorugi kit**; Ttong **Premier polo + tight black shorts + gold watch**; bedroom = Ethan **grey sleep tee, no dobok**.
+2. **Locked outfit for the scene** — e.g. Ch 1 tournament = Ethan **full Olympic kyorugi kit**; Ttong **Prime polo + tight black shorts + gold watch**; bedroom = Ethan **grey sleep tee, no dobok**.
 3. **Same hair/build tags** every time — Ethan's **dark blue shadow perm**, Ttong's **underbite**, Repeul's **brown curls + multicolor casual**.
 4. **Reference sheet attach** when batch-generating — see [P0-MANIFEST](../reference-sheets/P0-MANIFEST.md).
 
@@ -119,7 +119,7 @@ See [Arc 1 storyboard](./arc-01-panel-storyboard.md) for Ethan, MV, Ttong Kim, R
 | **Kian Sang** | teen 15, **half korean half indian**, white silver hair, dark brown skin, lean, intense |
 | **Ariana Yang** | teen girl 15, black red streak bob, bandages on arms, stoic |
 | **Yuna Park** (poomsae) | teen girl 15–17, long black ponytail · poomsae dobok · epilogue: SNU casual + friendship ring |
-| **Repeul Kim** (background) | overweight 5'5" woman, brown curls, ugly multicolor casual, **mean scowl** — **never speaks** · beside Ttong at Premier |
+| **Repeul Kim** (background) | overweight 5'5" woman, brown curls, ugly multicolor casual, **mean scowl** — **never speaks** · beside Ttong at Prime |
 
 ---
 
@@ -226,7 +226,7 @@ white dobok, full olympic kyorugi gear, electronic chest hogu, headgear, forearm
 
 **Use for:** tournament rings, inter-school spar, mock bouts, training spar with scoring, U20/Korea/collegiate matches, walk-to-ring sendoffs.
 
-**Skip for:** poomsae-only, pad/shield drills, footwork without contact, rules lecture, dobok-only bow circle, flashback Premier *(unless already in-ring with gear)*.
+**Skip for:** poomsae-only, pad/shield drills, footwork without contact, rules lecture, dobok-only bow circle, flashback Prime *(unless already in-ring with gear)*.
 
 ---
 

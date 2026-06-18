@@ -10,7 +10,7 @@
         {
           "id": "36.0",
           "title": "Can't Sleep [PRESENT \u2014 Kwon's ANCHOR] \u2605",
-          "scene": "**11 PM** \u2014 Ethan alone on Kwon's mat edge \u2014 lights low \u2014 phone face-down \u2014 Premier group chat muted. Memory cascade begins.",
+          "scene": "**11 PM** \u2014 Ethan alone on Kwon's mat edge \u2014 lights low \u2014 phone face-down \u2014 Prime group chat muted. Memory cascade begins.",
           "dialogue": "Ethan (V.O.): *Arc 3 I said it out loud once. MV heard the hour. Tonight my body remembers the rest.*",
           "sfx": "",
           "timeline": "",
@@ -449,7 +449,7 @@
           "scene": "After **37.7** dialogue \u2014 Ethan stands \u2014 bows to MV \u2014 not performance \u2014 gratitude.",
           "dialogue": "Ethan: \"\u2026Thank you.\" \u00b7 MV: \"Go home. Sleep.\"",
           "sfx": "",
-          "timeline": "**PRESENT** \u2014 Ethan returns to **Premier** to pick up forgotten gear \u2014 overhears **live** around corner \u2014 keeps walking.",
+          "timeline": "**PRESENT** \u2014 Ethan returns to **Prime** to pick up forgotten gear \u2014 overhears **live** around corner \u2014 keeps walking.",
           "prompt": "",
           "style": "",
           "image": null
@@ -463,7 +463,7 @@
       "panels": [
         {
           "id": "38.1",
-          "title": "Around Corner [PRESENT \u2014 Premier hallway]",
+          "title": "Around Corner [PRESENT \u2014 Prime hallway]",
           "scene": "Voices around corner \u2014 Ethan frozen mid-step \u2014 not a flashback; he is **physically there** picking up gear.",
           "dialogue": "Parent (O.S.): **\"I feel bad for Ethan. You want him to be good at school AND Taekwondo?\"** \u00b7 Ttong Kim (O.S.): *(dismissive laugh)* \"Some kids can't handle both.\"",
           "sfx": "",
@@ -474,7 +474,7 @@
         },
         {
           "id": "38.2",
-          "title": "Keeps Walking [PRESENT \u2014 Premier hallway exit]",
+          "title": "Keeps Walking [PRESENT \u2014 Prime hallway exit]",
           "scene": "Ethan \u2014 no reaction visible \u2014 fists in pockets \u2014 walks out \u2014 face blank.",
           "dialogue": "Ethan (V.O.): *School AND taekwondo. They already decided I couldn't.*",
           "sfx": "",
@@ -485,8 +485,8 @@
         },
         {
           "id": "38.3",
-          "title": "Forgotten Gear [PRESENT \u2014 Premier parking]",
-          "scene": "Ethan in car \u2014 remembers mouthguard in locker \u2014 sighs \u2014 pulls back into Premier lot.",
+          "title": "Forgotten Gear [PRESENT \u2014 Prime parking]",
+          "scene": "Ethan in car \u2014 remembers mouthguard in locker \u2014 sighs \u2014 pulls back into Prime lot.",
           "dialogue": "Ethan (V.O.): *I told myself I was done with this building.*",
           "sfx": "",
           "timeline": "",
@@ -496,7 +496,7 @@
         },
         {
           "id": "38.4",
-          "title": "Empty Hallway [PRESENT \u2014 Premier interior]",
+          "title": "Empty Hallway [PRESENT \u2014 Prime interior]",
           "scene": "Fluorescent hallway \u2014 trophy cases \u2014 muted color \u2014 **Blue Lock** pressure \u2014 footsteps echo alone.",
           "dialogue": "",
           "sfx": "",
@@ -563,7 +563,7 @@
         {
           "id": "38.10",
           "title": "Car Sit [PRESENT \u2014 parking lot]",
-          "scene": "Driver seat \u2014 hands on wheel \u2014 engine off \u2014 stares at Premier sign.",
+          "scene": "Driver seat \u2014 hands on wheel \u2014 engine off \u2014 stares at Prime sign.",
           "dialogue": "*(none \u2014 ten second beat)*",
           "sfx": "",
           "timeline": "",
@@ -628,8 +628,8 @@
         },
         {
           "id": "38.16",
-          "title": "Premier Window Pass [PRESENT \u2014 drive home]",
-          "scene": "Bus/car passes Premier building \u2014 Ethan looks once \u2014 looks away.",
+          "title": "Prime Window Pass [PRESENT \u2014 drive home]",
+          "scene": "Bus/car passes Prime building \u2014 Ethan looks once \u2014 looks away.",
           "dialogue": "Ethan (V.O.): *Can't handle both.*",
           "sfx": "",
           "timeline": "",
@@ -651,7 +651,7 @@
         {
           "id": "38.18",
           "title": "Group Chat Muted [PRESENT \u2014 phone]",
-          "scene": "Premier group chat still muted \u2014 red dot \u2014 Ethan doesn't open \u2014 sets phone face-down.",
+          "scene": "Prime group chat still muted \u2014 red dot \u2014 Ethan doesn't open \u2014 sets phone face-down.",
           "dialogue": "",
           "sfx": "",
           "timeline": "",
@@ -691,7 +691,7 @@
         {
           "id": "39.1",
           "title": "Dismissal [PRESENT trigger + FLASH overlay]",
-          "scene": "**PRESENT** \u2014 Ethan at dojang water fountain drinking. **FLASH overlay** \u2014 Ttong Kim to another parent at Premier.",
+          "scene": "**PRESENT** \u2014 Ethan at dojang water fountain drinking. **FLASH overlay** \u2014 Ttong Kim to another parent at Prime.",
           "dialogue": "Ttong Kim (flash): **\"I don't think he has the temperament to become a world-class black belt.\"** \u00b7 Ethan (V.O.): *Because I wouldn't knock people out for \ucc9c \uc6d0. Because I was **nice**.*",
           "sfx": "",
           "timeline": "FLASH",
@@ -724,7 +724,7 @@
         {
           "id": "39.4",
           "title": "Flash Overlay Begins [PRESENT + FLASH]",
-          "scene": "Water drip \u2014 **FLASH overlay** bleeds through \u2014 Premier parent night \u2014 double exposure on Ethan's face.",
+          "scene": "Water drip \u2014 **FLASH overlay** bleeds through \u2014 Prime parent night \u2014 double exposure on Ethan's face.",
           "dialogue": "",
           "sfx": "",
           "timeline": "FLASH",
@@ -757,7 +757,7 @@
         {
           "id": "39.7",
           "title": "Staging Hall Wide [FLASH \u2014 bounty setup]",
-          "scene": "**[FLASH]** \u2014 Premier staging hall \u2014 kids in hogus \u2014 Ttong Kim on plastic chair **above** them like a general.",
+          "scene": "**[FLASH]** \u2014 Prime staging hall \u2014 kids in hogus \u2014 Ttong Kim on plastic chair **above** them like a general.",
           "dialogue": "Ttong Kim: \"Listen. Real champions don't leave it to judges.\"",
           "sfx": "",
           "timeline": "FLASH",
@@ -835,7 +835,7 @@
           "id": "39.14",
           "title": "TJ Notices [PRESENT \u2014 HAIKYUU]",
           "scene": "TJ tying shoes \u2014 glances up \u2014 reads Ethan's face one second \u2014 doesn't push.",
-          "dialogue": "TJ: \"You good?\" \u00b7 Ethan: \"Yeah. Old Premier air.\" \u00b7 TJ: \"Wash it off.\"",
+          "dialogue": "TJ: \"You good?\" \u00b7 Ethan: \"Yeah. Old Prime air.\" \u00b7 TJ: \"Wash it off.\"",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -903,7 +903,7 @@
           "scene": "Ethan's room \u2014 light click off \u2014 ceiling dark \u2014 coin image gone \u2014 sleep finally.",
           "dialogue": "Ethan (V.O.): *Temperament. He meant obedience.*",
           "sfx": "",
-          "timeline": "**FLASH** \u2014 post-tournament parent meeting at Premier. Ethan (younger) watches from back row.",
+          "timeline": "**FLASH** \u2014 post-tournament parent meeting at Prime. Ethan (younger) watches from back row.",
           "prompt": "",
           "style": "",
           "image": null
@@ -917,7 +917,7 @@
       "panels": [
         {
           "id": "40.1",
-          "title": "Parent Meeting [FLASH \u2014 Premier parent night]",
+          "title": "Parent Meeting [FLASH \u2014 Prime parent night]",
           "scene": "",
           "dialogue": "Ttong Kim: \"Refs cheated you. Other schools buy belts.\" \u00b7 Ethan (V.O.): *Parents nodded. That was the machine.*",
           "sfx": "",
@@ -940,7 +940,7 @@
         {
           "id": "40.3",
           "title": "Post-Tournament Night [FLASH \u2014 meeting setup]",
-          "scene": "Premier multipurpose room \u2014 folding chairs \u2014 parents fill rows \u2014 tournament banners still up \u2014 smell of sweat and coffee.",
+          "scene": "Prime multipurpose room \u2014 folding chairs \u2014 parents fill rows \u2014 tournament banners still up \u2014 smell of sweat and coffee.",
           "dialogue": "Ethan (V.O.): *They called it a parent meeting. It was a sermon.*",
           "sfx": "",
           "timeline": "",
@@ -952,7 +952,7 @@
           "id": "40.4",
           "title": "Refs Cheated You [FLASH \u2014 lies core]",
           "scene": "Ttong Kim at podium \u2014 projector off \u2014 points at empty bracket slide \u2014 parents lean in angry.",
-          "dialogue": "Ttong Kim: \"Refs cheated you. Other schools **buy** belts. Only Premier is legitimate.\"",
+          "dialogue": "Ttong Kim: \"Refs cheated you. Other schools **buy** belts. Only Prime is legitimate.\"",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -962,7 +962,7 @@
         {
           "id": "40.5",
           "title": "Parents Nod [FLASH \u2014 machine]",
-          "scene": "Montage three faces \u2014 nodding \u2014 one parent already wearing Premier jacket \u2014 another taking notes.",
+          "scene": "Montage three faces \u2014 nodding \u2014 one parent already wearing Prime jacket \u2014 another taking notes.",
           "dialogue": "Ethan (V.O.): *Parents nodded. That was the machine.*",
           "sfx": "",
           "timeline": "",
@@ -1005,8 +1005,8 @@
         },
         {
           "id": "40.9",
-          "title": "Premier Logo Banner [FLASH \u2014 legitimacy theater]",
-          "scene": "Wide \u2014 **Premier Taekwondo Sports Dynasty** banner behind podium \u2014 gold letters \u2014 legitimacy as costume.",
+          "title": "Prime Logo Banner [FLASH \u2014 legitimacy theater]",
+          "scene": "Wide \u2014 **Prime Taekwondo Sports Dynasty** banner behind podium \u2014 gold letters \u2014 legitimacy as costume.",
           "dialogue": "",
           "sfx": "",
           "timeline": "",
@@ -1072,7 +1072,7 @@
         {
           "id": "40.15",
           "title": "Logan Asks [PRESENT]",
-          "scene": "Logan in doorway \u2014 sees Ethan staring at old Premier photo on phone \u2014 doesn't ask which meeting.",
+          "scene": "Logan in doorway \u2014 sees Ethan staring at old Prime photo on phone \u2014 doesn't ask which meeting.",
           "dialogue": "Logan: \"Dinner's ready.\" \u00b7 Ethan: \"Coming.\"",
           "sfx": "",
           "timeline": "",
@@ -1083,7 +1083,7 @@
         {
           "id": "40.16",
           "title": "Trash Old Flyer [PRESENT]",
-          "scene": "Ethan crumples old Premier tournament flyer \u2014 tosses bin \u2014 doesn't watch it land.",
+          "scene": "Ethan crumples old Prime tournament flyer \u2014 tosses bin \u2014 doesn't watch it land.",
           "dialogue": "",
           "sfx": "",
           "timeline": "",
@@ -1105,7 +1105,7 @@
         {
           "id": "40.18",
           "title": "Kieryn Deadpan [PRESENT]",
-          "scene": "Kieryn: \"Premier still blaming refs?\" \u00b7 Ethan: \"Always.\" \u00b7 Kieryn: \"Pathetic.\"",
+          "scene": "Kieryn: \"Prime still blaming refs?\" \u00b7 Ethan: \"Always.\" \u00b7 Kieryn: \"Pathetic.\"",
           "dialogue": "",
           "sfx": "",
           "timeline": "",
@@ -1116,7 +1116,7 @@
         {
           "id": "40.19",
           "title": "Night Phone Scroll [PRESENT]",
-          "scene": "Ethan almost searches Premier parent reviews \u2014 stops \u2014 puts phone down \u2014 chooses not to feed machine.",
+          "scene": "Ethan almost searches Prime parent reviews \u2014 stops \u2014 puts phone down \u2014 chooses not to feed machine.",
           "dialogue": "Ethan (V.O.): *I don't need them to admit it. I know.*",
           "sfx": "",
           "timeline": "",
@@ -1156,7 +1156,7 @@
         {
           "id": "41.2",
           "title": "Tournament Flyer Crossed [FLASH \u2014 skipped events]",
-          "scene": "Premier bulletin board \u2014 regional tournament flyer \u2014 Ethan's name **not** on travel list \u2014 paying students circled.",
+          "scene": "Prime bulletin board \u2014 regional tournament flyer \u2014 Ethan's name **not** on travel list \u2014 paying students circled.",
           "dialogue": "Ethan (V.O.): *I skipped one. I had midterms. He skipped me forever.*",
           "sfx": "",
           "timeline": "",
@@ -1167,7 +1167,7 @@
         {
           "id": "41.3",
           "title": "Bus Leaves Without Him [FLASH \u2014 sidelined travel]",
-          "scene": "Premier van pulls away \u2014 Ha-eun waves from window \u2014 Ethan on curb with backpack and textbooks.",
+          "scene": "Prime van pulls away \u2014 Ha-eun waves from window \u2014 Ethan on curb with backpack and textbooks.",
           "dialogue": "",
           "sfx": "",
           "timeline": "",
@@ -1357,7 +1357,7 @@
           "scene": "Ethan zips bag \u2014 signup form inside pocket \u2014 new commitment \u2014 different school.",
           "dialogue": "Ethan (V.O.): *Second beat. Not the first wound.*",
           "sfx": "",
-          "timeline": "**FLASH** \u2014 Premier dojang past \u2014 girl bully readmitted \u2014 Ethan punished for intervening.",
+          "timeline": "**FLASH** \u2014 Prime dojang past \u2014 girl bully readmitted \u2014 Ethan punished for intervening.",
           "prompt": "",
           "style": "",
           "image": null
@@ -1371,7 +1371,7 @@
       "panels": [
         {
           "id": "42.1",
-          "title": "Girl Bully Returns [REAL #26] \u2605 [FLASH \u2014 Premier dojang]",
+          "title": "Girl Bully Returns [REAL #26] \u2605 [FLASH \u2014 Prime dojang]",
           "scene": "**Ha-eun** (favored girl) **readmitted** after bullying \u2014 younger kid **flinches** \u2014 **Repeul Kim** at front desk \u2014 silent.",
           "dialogue": "Ttong Kim: \"We forgive people who grow. She's family again. No comments.\"",
           "sfx": "",
@@ -1393,7 +1393,7 @@
         },
         {
           "id": "42.3",
-          "title": "Ethan Punished [FLASH \u2014 Premier mat]",
+          "title": "Ethan Punished [FLASH \u2014 Prime mat]",
           "scene": "Ethan intervened once \u2014 **extra conditioning** week alone on mat.",
           "dialogue": "Ttong Kim: \"Don't play hero.\"",
           "sfx": "",
@@ -1405,7 +1405,7 @@
         {
           "id": "42.4",
           "title": "Lobby Arrival [FLASH \u2014 readmit setup]",
-          "scene": "Premier lobby \u2014 mother and **Ha-eun** walk in \u2014 enrollment form already on desk \u2014 **Repeul Kim** stamps without looking up.",
+          "scene": "Prime lobby \u2014 mother and **Ha-eun** walk in \u2014 enrollment form already on desk \u2014 **Repeul Kim** stamps without looking up.",
           "dialogue": "Ethan (V.O.): *Rumor said she grabbed a white belt's hogu until he cried. Today she was family again.*",
           "sfx": "",
           "timeline": "",
@@ -1482,7 +1482,7 @@
         {
           "id": "42.11",
           "title": "Extra Conditioning Week [FLASH \u2014 ACTION montage start]",
-          "scene": "Empty Premier mat after hours \u2014 Ethan alone \u2014 **burpees** \u2014 clock on wall \u2014 no music \u2014 **Solo Leveling** grind.",
+          "scene": "Empty Prime mat after hours \u2014 Ethan alone \u2014 **burpees** \u2014 clock on wall \u2014 no music \u2014 **Solo Leveling** grind.",
           "dialogue": "Ttong Kim (O.S.): \"One hundred. Then forms. Then you can go home.\"",
           "sfx": "",
           "timeline": "",
@@ -1797,7 +1797,7 @@
         {
           "id": "43.19",
           "title": "Bus Home Window [PRESENT]",
-          "scene": "Bus window \u2014 city lights \u2014 Premier logo bus ad passes \u2014 Ethan doesn't flinch this time.",
+          "scene": "Bus window \u2014 city lights \u2014 Prime logo bus ad passes \u2014 Ethan doesn't flinch this time.",
           "dialogue": "",
           "sfx": "",
           "timeline": "",
@@ -1811,7 +1811,7 @@
           "scene": "Ethan asleep \u2014 phone on charger \u2014 MV text still on screen \u2014 first full night since Ch 36 cascade.",
           "dialogue": "Ethan (V.O.): *With us.*",
           "sfx": "",
-          "timeline": "**Split same evening** \u2014 **44.1 FLASH or distant Premier** \u00b7 **44.2\u201344.3 PRESENT Kwon's**.",
+          "timeline": "**Split same evening** \u2014 **44.1 FLASH or distant Prime** \u00b7 **44.2\u201344.3 PRESENT Kwon's**.",
           "prompt": "",
           "style": "",
           "image": null
@@ -1825,8 +1825,8 @@
       "panels": [
         {
           "id": "44.1",
-          "title": "Premier Cut [REAL #19] [FLASH \u2014 Premier or rumor reach]",
-          "scene": "Ttong Kim to remaining students \u2014 departed kids are quitters. *(May be memory or word reaching Kwon's \u2014 read as **flash** of Premier after team left.)*",
+          "title": "Prime Cut [REAL #19] [FLASH \u2014 Prime or rumor reach]",
+          "scene": "Ttong Kim to remaining students \u2014 departed kids are quitters. *(May be memory or word reaching Kwon's \u2014 read as **flash** of Prime after team left.)*",
           "dialogue": "Ttong Kim: \"Talentless punks and quitters.\"",
           "sfx": "",
           "timeline": "FLASH",
@@ -1859,7 +1859,7 @@
         {
           "id": "44.4",
           "title": "Same Evening Clock [SPLIT \u2014 time anchor]",
-          "scene": "Split \u2014 **left** Premier wall clock **7:14 PM** \u00b7 **right** Kwon's wall clock **7:14 PM** \u2014 same evening.",
+          "scene": "Split \u2014 **left** Prime wall clock **7:14 PM** \u00b7 **right** Kwon's wall clock **7:14 PM** \u2014 same evening.",
           "dialogue": "*(caption)* *Same city. Same hour.*",
           "sfx": "",
           "timeline": "",
@@ -1869,8 +1869,8 @@
         },
         {
           "id": "44.5",
-          "title": "Kids Ask Why [FLASH \u2014 Premier cut]",
-          "scene": "Remaining Premier students after class \u2014 whisper cluster \u2014 photo of old team on phone.",
+          "title": "Kids Ask Why [FLASH \u2014 Prime cut]",
+          "scene": "Remaining Prime students after class \u2014 whisper cluster \u2014 photo of old team on phone.",
           "dialogue": "Student: \"Why'd Ethan leave?\" \u00b7 Ttong Kim (O.S.): \"Don't worry about quitters.\"",
           "sfx": "",
           "timeline": "",
@@ -1880,7 +1880,7 @@
         },
         {
           "id": "44.6",
-          "title": "Shut Down [FLASH \u2014 Premier]",
+          "title": "Shut Down [FLASH \u2014 Prime]",
           "scene": "Ttong Kim claps once \u2014 conversation dies \u2014 fear not curiosity.",
           "dialogue": "Ttong Kim: \"Focus on **your** belt. Not their excuses.\"",
           "sfx": "",
@@ -1980,7 +1980,7 @@
         {
           "id": "44.15",
           "title": "Split Screen Lives [SPLIT \u2014 contrast \u2605]",
-          "scene": "**Top** \u2014 Premier emptying out \u2014 lights off \u2014 **Bottom** \u2014 Kwon's team stacking chairs together.",
+          "scene": "**Top** \u2014 Prime emptying out \u2014 lights off \u2014 **Bottom** \u2014 Kwon's team stacking chairs together.",
           "dialogue": "*(caption)* *Quitters \u00b7 vs \u00b7 Team*",
           "sfx": "",
           "timeline": "",
@@ -2035,7 +2035,7 @@
         {
           "id": "44.20",
           "title": "Night Exterior Wide [PRESENT \u2014 chapter end]",
-          "scene": "Wide \u2014 ramen shop glow \u2014 six silhouettes in window \u2014 Premier building dark in far background out of focus.",
+          "scene": "Wide \u2014 ramen shop glow \u2014 six silhouettes in window \u2014 Prime building dark in far background out of focus.",
           "dialogue": "*(none \u2014 chapter end wide)*",
           "sfx": "",
           "timeline": "",
@@ -2507,7 +2507,7 @@
         {
           "id": "47.1",
           "title": "Food Court Ramen",
-          "scene": "Neutral ground \u2014 former Premier classmate stirs ramen \u2014 tired, not hostile.",
+          "scene": "Neutral ground \u2014 former Prime classmate stirs ramen \u2014 tired, not hostile.",
           "dialogue": "Friend: \"Did you hear? He's not even a real **master**.\" \u00b7 \"Legally. Dan rank. I looked it up for a joke and now I can't unsee it.\" \u00b7 Ethan: *(flat)* \"What did you find?\"",
           "sfx": "",
           "timeline": "",
@@ -2529,8 +2529,8 @@
         {
           "id": "47.3",
           "title": "Mall Approach [PRESENT \u2014 neutral ground]",
-          "scene": "Food court escalator \u2014 Ethan spots former Premier classmate \u2014 both choose neutral territory on purpose.",
-          "dialogue": "Ethan (V.O.): *Not Premier. Not Kwon's. Just noodles.*",
+          "scene": "Food court escalator \u2014 Ethan spots former Prime classmate \u2014 both choose neutral territory on purpose.",
+          "dialogue": "Ethan (V.O.): *Not Prime. Not Kwon's. Just noodles.*",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -2671,7 +2671,7 @@
         },
         {
           "id": "47.16",
-          "title": "Premier Logo Search [PRESENT]",
+          "title": "Prime Logo Search [PRESENT]",
           "scene": "Search bar \u2014 types instructor name \u2014 autocomplete suggests \u2014 stomach drops before click.",
           "dialogue": "Ethan (V.O.): *Master. Dynasty. Two words that built a cage.*",
           "sfx": "",
@@ -2767,7 +2767,7 @@
         {
           "id": "48.4",
           "title": "Search Typing [PRESENT \u2014 research]",
-          "scene": "Fingers type \u2014 **Kim, Ttong** \u2014 autofill \u2014 official national registry \u2014 no Premier banner \u2014 just data.",
+          "scene": "Fingers type \u2014 **Kim, Ttong** \u2014 autofill \u2014 official national registry \u2014 no Prime banner \u2014 just data.",
           "dialogue": "Ethan (V.O.): *Second dan. Instructor. Not master.*",
           "sfx": "",
           "timeline": "",
@@ -3276,7 +3276,7 @@
         {
           "id": "50.9",
           "title": "Ethan Nods [PRESENT]",
-          "scene": "Single nod \u2014 different from Premier surrender nods \u2014 **chosen**.",
+          "scene": "Single nod \u2014 different from Prime surrender nods \u2014 **chosen**.",
           "dialogue": "Ethan: \"I won't.\"",
           "sfx": "",
           "timeline": "",
@@ -3331,7 +3331,7 @@
         {
           "id": "50.14",
           "title": "Roundhouse One [PRESENT \u2014 ACTION]",
-          "scene": "**Roundhouse** to shield \u2014 *TAK* \u2014 hip turns full \u2014 form Kwon's not Premier \u2014 electronic gear memory absent \u2014 pure technique.",
+          "scene": "**Roundhouse** to shield \u2014 *TAK* \u2014 hip turns full \u2014 form Kwon's not Prime \u2014 electronic gear memory absent \u2014 pure technique.",
           "dialogue": "*(SFX)* *TAK*",
           "sfx": "",
           "timeline": "",

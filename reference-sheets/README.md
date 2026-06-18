@@ -86,7 +86,7 @@ speech bubble, low quality, chibi, multiple characters, cropped head, cropped fe
 **Palette (when not white bg):**
 
 - Kwon's scenes: append `STYLE: KWONS`
-- Premier flashbacks: append `STYLE: PREMIER`
+- Prime flashbacks: append `STYLE: PRIME`
 
 ---
 

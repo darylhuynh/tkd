@@ -7,24 +7,24 @@
 
 ## Arc Summary
 
-The six become a unit. Training montages reveal combat styles, banter establishes voice, and flashbacks deepen Premier's rot — without yet naming every wound. Master Viet teaches Olympic sparring rules. Arc closes with a local tournament announcement: MV needs to evaluate everyone fast before regionals.
+The six become a unit. Training montages reveal combat styles, banter establishes voice, and flashbacks deepen Prime's rot — without yet naming every wound. Master Viet teaches Olympic sparring rules. Arc closes with a local tournament announcement: MV needs to evaluate everyone fast before regionals.
 
 ---
 
 ## Chapter Breakdown
 
-### Chapter 11 — Six Reasons (Why We Left Premier)
+### Chapter 11 — Six Reasons (Why We Left Prime)
 
 Canonical reasons — see [STORY-OUTCOMES.md](../STORY-OUTCOMES.md).
 
-| Member | Why they left Ttong Kim / Premier |
+| Member | Why they left Ttong Kim / Prime |
 |--------|-----------------------------------|
 | **Ethan** | Abuse, neglect, favoritism [REAL events] |
 | **Kian** | Humiliated in front of **entire class** for acting like a clown |
 | **Kieryn** | Friends stayed — she would **never get better training** there |
 | **TJ** | Singled out; **regressed** after school transfer; wanted Ethan (best friend) |
 | **Logan** | Brother left — followed Ethan; **does not compete** |
-| **Ariana** | **Father** wanted individualized attention Premier never gave |
+| **Ariana** | **Father** wanted individualized attention Prime never gave |
 
 - Structure: one mini-sequence per character (panels in [arc-02-panel-storyboard Ch 11](../storyboards/arc-02-panel-storyboard.md))
 - **Scene script:** [arc-02-ch11-six-reasons.md](../scripts/arc-02-ch11-six-reasons.md)
@@ -49,7 +49,7 @@ Canonical reasons — see [STORY-OUTCOMES.md](../STORY-OUTCOMES.md).
 - Baseline banter scene — first full version of [team dynamics](../characters/team-dynamics.md)
 - Ariana eats fast, leaves to train
 
-### Chapter 15 — Premier Flashback: The Favor
+### Chapter 15 — Prime Flashback: The Favor
 - **[REAL #5, #9]** Paying families get private lessons; creepy praise toward young girls (handled subtly)
 - Ethan watches from corner — colored belt era, still hopeful
 

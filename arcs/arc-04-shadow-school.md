@@ -1,13 +1,13 @@
 # Arc 4 — The Shadow School
 
 **Chapters:** 36–50  
-**Purpose:** Full truth about Premier Taekwondo. Real dialogue preserved. Rank discovery comedy beat.
+**Purpose:** Full truth about Prime Taekwondo. Real dialogue preserved. Rank discovery comedy beat.
 
 ---
 
 ## Arc Summary
 
-The Premier Taekwondo Sports Dynasty's shadow lengthens. Flashbacks deliver the abuse catalogue — favoritism, loyalty tests, bullying cover-ups, parent misinformation. In present day, Ethan juggles hospital visits, harassing messages, and hangouts with old friends. A rumor becomes research: the "master" is 2nd Dan. Ethan — 3rd Dan — laughs until he cries. TJ joins him. Not revenge. **Understanding.**
+The Prime Taekwondo Sports Dynasty's shadow lengthens. Flashbacks deliver the abuse catalogue — favoritism, loyalty tests, bullying cover-ups, parent misinformation. In present day, Ethan juggles hospital visits, harassing messages, and hangouts with old friends. A rumor becomes research: the "master" is 2nd Dan. Ethan — 3rd Dan — laughs until he cries. TJ joins him. Not revenge. **Understanding.**
 
 ---
 
@@ -15,17 +15,17 @@ The Premier Taekwondo Sports Dynasty's shadow lengthens. Flashbacks deliver the 
 
 ### Chapter 36 — First White Belt to Black Belt (Extended)
 - **Scene script (Ch 36–37 archive):** [arc-04-ch36-37-shadow-archive.md](../scripts/arc-04-ch36-37-shadow-archive.md)
-- Full script: [flash-premier-board-break.md](../scripts/flash-premier-board-break.md)
+- Full script: [flash-prime-board-break.md](../scripts/flash-prime-board-break.md)
 
 ### Chapter 37 — The Favoritism Archive
 - **Scene script:** [arc-04-ch36-37-shadow-archive.md](../scripts/arc-04-ch36-37-shadow-archive.md) (with Ch 36)
 - **Ha-eun** (composite): overly friendly with Ttong Kim — demo picks, bonus points [#24]
 - **[REAL #25]** New Year's — girl brags she **slept at instructor's house** — he **doesn't deny**
 - Ethan stops expecting praise — stores what he saw
-- Full script: [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md)
+- Full script: [flash-prime-girl-favoritism.md](../scripts/flash-prime-girl-favoritism.md)
 
 ### Chapter 38 — Overheard [REAL #1]
-- **Scene script (Ch 38–46):** [arc-04-ch38-46-premier-truth.md](../scripts/arc-04-ch38-46-premier-truth.md)
+- **Scene script (Ch 38–46):** [arc-04-ch38-46-prime-truth.md](../scripts/arc-04-ch38-46-prime-truth.md)
 - Parent to instructor: **"I feel bad for Ethan. You want him to be good at school AND Taekwondo?"**
 - Ethan around corner — hears everything — keeps walking
 
@@ -34,8 +34,8 @@ The Premier Taekwondo Sports Dynasty's shadow lengthens. Flashbacks deliver the 
 - **Same worldview as [#28]:** Ethan won't hunt KOs — therefore "not temperament" — Ethan already left; flashback timed to present doubt
 
 ### Chapter 40 — Lies to Parents [REAL #8]
-- Post-tournament parent meeting at Premier
-- Instructor: refs cheated; other schools bought belts; only Premier is legitimate
+- Post-tournament parent meeting at Prime
+- Instructor: refs cheated; other schools bought belts; only Prime is legitimate
 - Ethan watches parents nod — realizes the machine
 
 ### Chapter 41 — Commitment Test [REAL #3]
@@ -46,14 +46,14 @@ The Premier Taekwondo Sports Dynasty's shadow lengthens. Flashbacks deliver the 
 - **[REAL #26]** **Girl bully readmitted** after hurting younger student — instructor welcomes her; victim told to toughen up
 - Abusive student protected when family pays full tuition [#7]
 - Ethan intervenes once — punished with extra conditioning
-- Script: [flash-premier-girl-favoritism.md](../scripts/flash-premier-girl-favoritism.md) § Ch 42
+- Script: [flash-prime-girl-favoritism.md](../scripts/flash-prime-girl-favoritism.md) § Ch 42
 
 ### Chapter 43 — With Us or Against Us [REAL #4, #27]
 - Ethan questions why **Ha-eun** (or favored girl) got belt promotion early despite lower scores [#27]
 - Instructor: **"You are either with us or against us."**
 - Seed of departure
 
-### Chapter 44 — Premier Present Day Cut
+### Chapter 44 — Prime Present Day Cut
 - **[REAL #19]** Instructor: departed students are **"talentless punks and quitters"**
 - Remaining kids ask why Ethan left — shut down
 - Parallel: Kwon's team eating together, laughing
@@ -95,7 +95,7 @@ The Premier Taekwondo Sports Dynasty's shadow lengthens. Flashbacks deliver the 
 
 ## Real Events Checklist (Arc 4)
 
-All **28** indexed real events either appear here or were seeded in Arcs 1–3. Arc 4 completes the Premier catalogue (incl. **#24 board break**, **#25–27 girl favoritism**, **#28 KO bounty** in Arc 1/2/3).
+All **28** indexed real events either appear here or were seeded in Arcs 1–3. Arc 4 completes the Prime catalogue (incl. **#24 board break**, **#25–27 girl favoritism**, **#28 KO bounty** in Arc 1/2/3).
 
 ---
 

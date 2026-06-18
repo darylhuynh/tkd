@@ -302,8 +302,8 @@
         },
         {
           "id": "22.7",
-          "title": "Premier Banner [PREMIER inset]",
-          "scene": "**Premier TKD** banner on far wall \u2014 Ethan freezes half a step.",
+          "title": "Prime Banner [PRIME inset]",
+          "scene": "**Prime TKD** banner on far wall \u2014 Ethan freezes half a step.",
           "dialogue": "Ethan (internal): *Don't.*",
           "sfx": "",
           "timeline": "",
@@ -745,7 +745,7 @@
         },
         {
           "id": "24.6",
-          "title": "Arc 1 Flash Rhyme [PREMIER inset]",
+          "title": "Arc 1 Flash Rhyme [PRIME inset]",
           "scene": "One-panel inset \u2014 younger Ethan alone \u2014 same empty eyes \u2014 snap back.",
           "dialogue": "Ethan (internal): *Not there. Here.*",
           "sfx": "",
@@ -1130,7 +1130,7 @@
           "scene": "Board locks \u2014 **Derek 5 \u2014 Ethan 0** \u2014 Round 1 \u2014 match called.",
           "dialogue": "MV (internal): *Five points. One kick. That's all it took.*",
           "sfx": "",
-          "timeline": "**FLASH Premier** \u2014 triggered by Ch 25 loss. **PRESENT** resumes at **Ch 31.1**.",
+          "timeline": "**FLASH Prime** \u2014 triggered by Ch 25 loss. **PRESENT** resumes at **Ch 31.1**.",
           "prompt": "",
           "style": "",
           "image": null
@@ -1139,13 +1139,13 @@
     },
     {
       "num": 26,
-      "title": "Premier Opening [FLASH \u2014 REAL]",
+      "title": "Prime Opening [FLASH \u2014 REAL]",
       "slug": "chapter-26",
       "panels": [
         {
           "id": "26.1",
           "title": "Warm Opening [REAL]",
-          "scene": "Young Ethan white belt \u2014 Premier small dojang. Instructor smiles.",
+          "scene": "Young Ethan white belt \u2014 Prime small dojang. Instructor smiles.",
           "dialogue": "Instructor: \"Welcome to the family.\"",
           "sfx": "",
           "timeline": "",
@@ -1155,7 +1155,7 @@
         },
         {
           "id": "26.2",
-          "title": "First Bow [PREMIER]",
+          "title": "First Bow [PRIME]",
           "scene": "Ethan copies instructor bow \u2014 too deep \u2014 almost falls \u2014 instructor laughs kindly.",
           "dialogue": "Instructor: \"Again. Less drama.\"",
           "sfx": "",
@@ -1166,7 +1166,7 @@
         },
         {
           "id": "26.3",
-          "title": "Small Dojang Wide [PREMIER]",
+          "title": "Small Dojang Wide [PRIME]",
           "scene": "Wide \u2014 mirrors \u2014 six students max \u2014 sunlight through front window.",
           "dialogue": "Ethan (internal): *It felt like church.*",
           "sfx": "",
@@ -1177,7 +1177,7 @@
         },
         {
           "id": "26.4",
-          "title": "White Belt Line [PREMIER]",
+          "title": "White Belt Line [PRIME]",
           "scene": "Kids lined by height \u2014 Ethan shortest \u2014 doesn't mind yet.",
           "dialogue": "Instructor: \"Discipline starts with showing up.\"",
           "sfx": "",
@@ -1199,7 +1199,7 @@
         },
         {
           "id": "26.6",
-          "title": "Parent Watch [PREMIER soft]",
+          "title": "Parent Watch [PRIME soft]",
           "scene": "Parents on bench \u2014 mother waves \u2014 Ethan waves back mid-form \u2014 corrected.",
           "dialogue": "Instructor: \"Eyes forward.\" \u00b7 Ethan: \"Sorry.\"",
           "sfx": "",
@@ -1210,7 +1210,7 @@
         },
         {
           "id": "26.7",
-          "title": "Stripe Promotion [PREMIER]",
+          "title": "Stripe Promotion [PRIME]",
           "scene": "New white belt stripe taped on \u2014 Ethan proud \u2014 genuine smile.",
           "dialogue": "Instructor: \"You earned that.\"",
           "sfx": "",
@@ -1221,7 +1221,7 @@
         },
         {
           "id": "26.8",
-          "title": "Family Dinner Echo [PREMIER soft]",
+          "title": "Family Dinner Echo [PRIME soft]",
           "scene": "Ethan shows stripe at dinner table \u2014 fish on plate \u2014 small celebration.",
           "dialogue": "Mother: \"Next time we watch from the front row.\"",
           "sfx": "",
@@ -1232,7 +1232,7 @@
         },
         {
           "id": "26.9",
-          "title": "Instructor Praise [PREMIER]",
+          "title": "Instructor Praise [PRIME]",
           "scene": "Instructor ruffles hair \u2014 rare \u2014 Ethan beams.",
           "dialogue": "Instructor: \"Keep that attitude. Don't lose it.\"",
           "sfx": "",
@@ -1243,7 +1243,7 @@
         },
         {
           "id": "26.10",
-          "title": "Mirror Smile [PREMIER]",
+          "title": "Mirror Smile [PRIME]",
           "scene": "Young Ethan mirror \u2014 white belt \u2014 practices bow alone after class.",
           "dialogue": "Ethan (internal): *I belong here.*",
           "sfx": "",
@@ -1265,7 +1265,7 @@
         },
         {
           "id": "26.12",
-          "title": "Yellow Belt Ceremony [PREMIER]",
+          "title": "Yellow Belt Ceremony [PRIME]",
           "scene": "Small ceremony \u2014 five students \u2014 cookies after \u2014 community.",
           "dialogue": "Instructor: \"Welcome to the family \u2014 again.\"",
           "sfx": "",
@@ -1276,7 +1276,7 @@
         },
         {
           "id": "26.13",
-          "title": "Ethan Helps New Kid [PREMIER]",
+          "title": "Ethan Helps New Kid [PRIME]",
           "scene": "Ethan shows new white belt how to tie belt \u2014 patient \u2014 instructor watches approving.",
           "dialogue": "Instructor: \"Teach him like someone taught you.\"",
           "sfx": "",
@@ -1287,9 +1287,9 @@
         },
         {
           "id": "26.14",
-          "title": "Dojang Sign Close [PREMIER]",
-          "scene": "**Premier Taekwondo** sign \u2014 fresh paint \u2014 Ethan reads it walking in.",
-          "dialogue": "Ethan (internal): *Premier. Like the best.*",
+          "title": "Dojang Sign Close [PRIME]",
+          "scene": "**Prime Taekwondo** sign \u2014 fresh paint \u2014 Ethan reads it walking in.",
+          "dialogue": "Ethan (internal): *Prime. Like the best.*",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -1298,7 +1298,7 @@
         },
         {
           "id": "26.15",
-          "title": "Rainy Day Class [PREMIER soft]",
+          "title": "Rainy Day Class [PRIME soft]",
           "scene": "Half attendance \u2014 instructor still teaches full lesson \u2014 Ethan only student some days.",
           "dialogue": "Instructor: \"Rain doesn't cancel discipline.\"",
           "sfx": "",
@@ -1309,7 +1309,7 @@
         },
         {
           "id": "26.16",
-          "title": "Photo Wall [PREMIER]",
+          "title": "Photo Wall [PRIME]",
           "scene": "Dojang photo wall \u2014 tournament kids \u2014 Ethan points at empty space.",
           "dialogue": "Instructor: \"Your picture goes there someday.\"",
           "sfx": "",
@@ -1331,7 +1331,7 @@
         },
         {
           "id": "26.18",
-          "title": "Last Warm Day [PREMIER]",
+          "title": "Last Warm Day [PRIME]",
           "scene": "Wide dojang \u2014 same angle as 26.3 \u2014 more students now \u2014 instructor smile thinner.",
           "dialogue": "Ethan (internal): *I didn't notice when it changed.*",
           "sfx": "",
@@ -1342,7 +1342,7 @@
         },
         {
           "id": "26.19",
-          "title": "New Mats Delivered [PREMIER]",
+          "title": "New Mats Delivered [PRIME]",
           "scene": "Delivery truck \u2014 new mats \u2014 parents help carry \u2014 excitement.",
           "dialogue": "Instructor: \"We're growing. Good problem.\"",
           "sfx": "",
@@ -1353,11 +1353,11 @@
         },
         {
           "id": "26.20",
-          "title": "Chapter End \u2014 Smile Fades [PREMIER]",
+          "title": "Chapter End \u2014 Smile Fades [PRIME]",
           "scene": "Instructor on phone in back office \u2014 door cracked \u2014 expression cold \u2014 Ethan glimpses \u2014 doesn't understand yet.",
           "dialogue": "Ethan (internal): *Still family. Right?*",
           "sfx": "",
-          "timeline": "**FLASH Premier** \u2014 continues dissociation cascade from Ch 25.",
+          "timeline": "**FLASH Prime** \u2014 continues dissociation cascade from Ch 25.",
           "prompt": "",
           "style": "",
           "image": null
@@ -1382,7 +1382,7 @@
         },
         {
           "id": "27.2",
-          "title": "Crowded Mat [PREMIER]",
+          "title": "Crowded Mat [PRIME]",
           "scene": "Same dojang \u2014 triple students \u2014 Ethan bumped in form line \u2014 no correction.",
           "dialogue": "Instructor: \"Tighter. Everyone tighter.\" \u00b7 *(doesn't demonstrate)*",
           "sfx": "",
@@ -1393,8 +1393,8 @@
         },
         {
           "id": "27.3",
-          "title": "Trophy Case [PREMIER]",
-          "scene": "New trophies behind glass \u2014 Premier logo \u2014 parents photograph.",
+          "title": "Trophy Case [PRIME]",
+          "scene": "New trophies behind glass \u2014 Prime logo \u2014 parents photograph.",
           "dialogue": "Parent: \"Number one school in the district!\" \u00b7 Instructor: \"We earned it.\"",
           "sfx": "",
           "timeline": "",
@@ -1415,7 +1415,7 @@
         },
         {
           "id": "27.5",
-          "title": "Ethan Watches Lie [PREMIER]",
+          "title": "Ethan Watches Lie [PRIME]",
           "scene": "Ethan hears from hallway \u2014 opponent was kind \u2014 shook his hand \u2014 cognitive dissonance.",
           "dialogue": "Ethan (internal): *He wasn't cheating. He was just\u2026 better.*",
           "sfx": "",
@@ -1426,7 +1426,7 @@
         },
         {
           "id": "27.6",
-          "title": "Favored Student [PREMIER]",
+          "title": "Favored Student [PRIME]",
           "scene": "**Ha-eun** (composite) \u2014 perfect form \u2014 instructor adjusts only her \u2014 ignores Ethan.",
           "dialogue": "Instructor: \"Like this. Perfect.\" \u00b7 *(to Ha-eun only)*",
           "sfx": "",
@@ -1437,7 +1437,7 @@
         },
         {
           "id": "27.7",
-          "title": "Parent Recruitment [PREMIER]",
+          "title": "Parent Recruitment [PRIME]",
           "scene": "Instructor pitches black belt package to parents \u2014 price visible on flyer \u2014 Ethan in background.",
           "dialogue": "Instructor: \"Black belt by fourteen builds college apps.\"",
           "sfx": "",
@@ -1459,7 +1459,7 @@
         },
         {
           "id": "27.9",
-          "title": "Ttong Kim Nameplate [PREMIER]",
+          "title": "Ttong Kim Nameplate [PRIME]",
           "scene": "Office door \u2014 **Master Ttong Kim** plaque \u2014 new \u2014 formal photo stern.",
           "dialogue": "Parent: \"He seems\u2026 serious now.\" \u00b7 Other parent: \"Serious wins.\"",
           "sfx": "",
@@ -1470,7 +1470,7 @@
         },
         {
           "id": "27.10",
-          "title": "Belt Test Fees [PREMIER]",
+          "title": "Belt Test Fees [PRIME]",
           "scene": "Line at desk \u2014 parents paying \u2014 Ethan holds number ticket \u2014 conveyor belt energy.",
           "dialogue": "Desk: \"Testing fee. Board fee. Video fee.\"",
           "sfx": "",
@@ -1481,7 +1481,7 @@
         },
         {
           "id": "27.11",
-          "title": "Demo Team Selection [PREMIER]",
+          "title": "Demo Team Selection [PRIME]",
           "scene": "Ha-eun picked \u2014 Ethan not \u2014 instructor doesn't explain.",
           "dialogue": "Instructor: \"Demo team \u2014 front row at regionals.\" \u00b7 *(Ethan not called)*",
           "sfx": "",
@@ -1492,7 +1492,7 @@
         },
         {
           "id": "27.12",
-          "title": "Ethan Trains Alone [PREMIER]",
+          "title": "Ethan Trains Alone [PRIME]",
           "scene": "After class \u2014 Ethan practices forms \u2014 empty mat \u2014 instructor on phone elsewhere.",
           "dialogue": "Ethan (internal): *Harder. Maybe he'll look.*",
           "sfx": "",
@@ -1514,7 +1514,7 @@
         },
         {
           "id": "27.14",
-          "title": "Cold Correction [PREMIER]",
+          "title": "Cold Correction [PRIME]",
           "scene": "Ethan finally corrected \u2014 harsh \u2014 public \u2014 different from Ch 26.",
           "dialogue": "Instructor: \"Sloppy. You're making my school look bad.\"",
           "sfx": "",
@@ -1525,7 +1525,7 @@
         },
         {
           "id": "27.15",
-          "title": "Parents Buy In [PREMIER]",
+          "title": "Parents Buy In [PRIME]",
           "scene": "Parent group chat inset \u2014 \"Master Kim says refs cheat\" \u2014 echo chamber.",
           "dialogue": "*(text overlay)* \"We're not leaving. He's the best.\"",
           "sfx": "",
@@ -1536,7 +1536,7 @@
         },
         {
           "id": "27.16",
-          "title": "Red Belt Test Notice [PREMIER]",
+          "title": "Red Belt Test Notice [PRIME]",
           "scene": "Flyer \u2014 **Black Belt Testing \u2014 6 months** \u2014 Ethan stares \u2014 hand tight.",
           "dialogue": "Ethan (internal): *Six months. I can do six months.*",
           "sfx": "",
@@ -1558,7 +1558,7 @@
         },
         {
           "id": "27.18",
-          "title": "Mirror Change [PREMIER]",
+          "title": "Mirror Change [PRIME]",
           "scene": "Teen Ethan mirror \u2014 red belt \u2014 same mirror as 26.10 \u2014 no smile.",
           "dialogue": "Ethan (internal): *Same mirror. Different kid.*",
           "sfx": "",
@@ -1569,7 +1569,7 @@
         },
         {
           "id": "27.19",
-          "title": "Testing Day Announced [PREMIER]",
+          "title": "Testing Day Announced [PRIME]",
           "scene": "Instructor claps \u2014 testing list \u2014 Ethan's name \u2014 no warmth in congratulations.",
           "dialogue": "Instructor: \"Don't embarrass me.\"",
           "sfx": "",
@@ -1580,11 +1580,11 @@
         },
         {
           "id": "27.20",
-          "title": "Gymnasium Chairs [PREMIER]",
+          "title": "Gymnasium Chairs [PRIME]",
           "scene": "Wide \u2014 chairs in rows \u2014 parents with cameras \u2014 testing day morning \u2014 chapter end into Ch 28.",
           "dialogue": "Instructor: \"Perform.\"",
           "sfx": "",
-          "timeline": "**FLASH Premier** \u2014 belt test board station.",
+          "timeline": "**FLASH Prime** \u2014 belt test board station.",
           "prompt": "",
           "style": "",
           "image": null
@@ -1697,7 +1697,7 @@
         },
         {
           "id": "28.10",
-          "title": "Ttong Kim Silent [PREMIER]",
+          "title": "Ttong Kim Silent [PRIME]",
           "scene": "Instructor watches \u2014 arms behind back \u2014 does not move \u2014 clock visible.",
           "dialogue": "Instructor: *(to another parent)* \"Good power. Needs commitment.\"",
           "sfx": "",
@@ -1708,7 +1708,7 @@
         },
         {
           "id": "28.11",
-          "title": "Knuckles Pink [PREMIER]",
+          "title": "Knuckles Pink [PRIME]",
           "scene": "Extreme close \u2014 Ethan's knuckles \u2014 pink \u2192 red \u2014 board grain unbroken.",
           "dialogue": "",
           "sfx": "*thud*",
@@ -1719,7 +1719,7 @@
         },
         {
           "id": "28.12",
-          "title": "Other Kids Done [PREMIER]",
+          "title": "Other Kids Done [PRIME]",
           "scene": "Background \u2014 other testers at forms/sparring stations \u2014 finished \u2014 Ethan still at board.",
           "dialogue": "Ethan (V.O.): *Other kids went to forms. I was still here.*",
           "sfx": "",
@@ -1730,7 +1730,7 @@
         },
         {
           "id": "28.13",
-          "title": "Mother Stands [PREMIER soft]",
+          "title": "Mother Stands [PRIME soft]",
           "scene": "Mother rises from bleacher \u2014 instructor hand wave \u2014 sit down.",
           "dialogue": "Instructor: \"He'll break it or he won't. Sit down.\"",
           "sfx": "",
@@ -1741,7 +1741,7 @@
         },
         {
           "id": "28.14",
-          "title": "Quitting Speech [PREMIER]",
+          "title": "Quitting Speech [PRIME]",
           "scene": "Instructor to mother \u2014 not looking at Ethan \u2014 cruelty as lesson.",
           "dialogue": "Instructor: \"Then let him learn what quitting looks like.\"",
           "sfx": "",
@@ -1763,7 +1763,7 @@
         },
         {
           "id": "28.16",
-          "title": "Board Splits [PREMIER]",
+          "title": "Board Splits [PRIME]",
           "scene": "Board cracks \u2014 not heroic \u2014 Ethan stumbles forward \u2014 exhausted.",
           "dialogue": "",
           "sfx": "*crack*",
@@ -1774,7 +1774,7 @@
         },
         {
           "id": "28.17",
-          "title": "Swollen Hand Hide [PREMIER]",
+          "title": "Swollen Hand Hide [PRIME]",
           "scene": "Ethan tucks hand behind back \u2014 walking to line \u2014 grader waiting.",
           "dialogue": "Grader: \"Next.\"",
           "sfx": "",
@@ -1807,11 +1807,11 @@
         },
         {
           "id": "28.20",
-          "title": "Hollow Black Belt [PREMIER]",
+          "title": "Hollow Black Belt [PRIME]",
           "scene": "Callback 28.8 wide \u2014 belt tied \u2014 applause \u2014 Ethan's eyes nowhere \u2014 chapter end.",
           "dialogue": "Father (O.S., hoarse): \"He figured it out **himself**.\"",
           "sfx": "",
-          "timeline": "**FLASH Premier** \u2014 black belt exhibition match.",
+          "timeline": "**FLASH Prime** \u2014 black belt exhibition match.",
           "prompt": "",
           "style": "",
           "image": null
@@ -1847,8 +1847,8 @@
         },
         {
           "id": "29.3",
-          "title": "Exhibition Ring [PREMIER]",
-          "scene": "Wide \u2014 Premier gym \u2014 exhibition mat \u2014 crowd smaller than tournament \u2014 heavier opponent waiting.",
+          "title": "Exhibition Ring [PRIME]",
+          "scene": "Wide \u2014 Prime gym \u2014 exhibition mat \u2014 crowd smaller than tournament \u2014 heavier opponent waiting.",
           "dialogue": "Opponent: *(stretching, bored)*",
           "sfx": "",
           "timeline": "",
@@ -1858,7 +1858,7 @@
         },
         {
           "id": "29.4",
-          "title": "No Corner [PREMIER]",
+          "title": "No Corner [PRIME]",
           "scene": "Ethan looks to corner \u2014 empty chair \u2014 instructor talking to parents.",
           "dialogue": "Ethan (internal): *No one. Again.*",
           "sfx": "",
@@ -1902,7 +1902,7 @@
         },
         {
           "id": "29.8",
-          "title": "No Advice Memory [PREMIER]",
+          "title": "No Advice Memory [PRIME]",
           "scene": "Inset \u2014 other schools' corners \u2014 coaches whisper \u2014 Ethan alone.",
           "dialogue": "Ethan (internal): *They get words. I get pointed.*",
           "sfx": "",
@@ -1946,7 +1946,7 @@
         },
         {
           "id": "29.12",
-          "title": "Instructor Watching [PREMIER]",
+          "title": "Instructor Watching [PRIME]",
           "scene": "Ttong Kim arms crossed \u2014 no concern \u2014 watching like inventory.",
           "dialogue": "Instructor: *(flat)* \"\u2026\"",
           "sfx": "",
@@ -1957,7 +1957,7 @@
         },
         {
           "id": "29.13",
-          "title": "Parents Cringe [PREMIER soft]",
+          "title": "Parents Cringe [PRIME soft]",
           "scene": "Parents in crowd \u2014 mother half-rises \u2014 father hand on her arm.",
           "dialogue": "Mother: \"\u2014\" \u00b7 Father: \"Sit.\"",
           "sfx": "",
@@ -1990,7 +1990,7 @@
         },
         {
           "id": "29.16",
-          "title": "Three-Kick Rhyme [PREMIER]",
+          "title": "Three-Kick Rhyme [PRIME]",
           "scene": "Triptych inset \u2014 Arc 1 nightmare \u00b7 Ch 25 Derek \u00b7 Ch 29 exhibition \u2014 same composition.",
           "dialogue": "",
           "sfx": "",
@@ -2012,7 +2012,7 @@
         },
         {
           "id": "29.18",
-          "title": "Crowd Gasp [PREMIER]",
+          "title": "Crowd Gasp [PRIME]",
           "scene": "Crowd reacts \u2014 instructor unchanged \u2014 opponent doesn't celebrate \u2014 clinical.",
           "dialogue": "",
           "sfx": "",
@@ -2038,7 +2038,7 @@
           "scene": "Ethan still standing \u2014 guard gone \u2014 opponent backs off confused \u2014 ref waves continue \u2014 chapter end into Ch 30.",
           "dialogue": "Ref: \"Gye-sok!\"",
           "sfx": "",
-          "timeline": "**FLASH Premier** \u2014 aftermath of head kick.",
+          "timeline": "**FLASH Prime** \u2014 aftermath of head kick.",
           "prompt": "",
           "style": "",
           "image": null
@@ -2075,7 +2075,7 @@
         {
           "id": "30.3",
           "title": "Impact Echo [ACTION]",
-          "scene": "Head snap \u2014 sensorless Premier gear \u2014 mouthguard visible \u2014 stars in vision.",
+          "scene": "Head snap \u2014 sensorless Prime gear \u2014 mouthguard visible \u2014 stars in vision.",
           "dialogue": "",
           "sfx": "",
           "timeline": "",
@@ -2085,7 +2085,7 @@
         },
         {
           "id": "30.4",
-          "title": "Guard on Floor [PREMIER]",
+          "title": "Guard on Floor [PRIME]",
           "scene": "Ethan's hands at sides \u2014 headgear askew \u2014 opponent bowing already.",
           "dialogue": "Opponent: \"You okay?\" \u00b7 Ethan: *(doesn't answer)*",
           "sfx": "",
@@ -2096,7 +2096,7 @@
         },
         {
           "id": "30.5",
-          "title": "Corner Drag [PREMIER]",
+          "title": "Corner Drag [PRIME]",
           "scene": "Instructor grabs Ethan's arm \u2014 not gentle \u2014 pulls to corner \u2014 no water.",
           "dialogue": "Instructor: \"Stand up. You're embarrassing me.\"",
           "sfx": "",
@@ -2107,7 +2107,7 @@
         },
         {
           "id": "30.6",
-          "title": "Clock Five Minutes [PREMIER]",
+          "title": "Clock Five Minutes [PRIME]",
           "scene": "Wall clock \u2014 **5:00** \u2014 instructor still talking \u2014 Ethan staring at floor.",
           "dialogue": "Instructor: \"Black belt doesn't mean soft\u2014\"",
           "sfx": "",
@@ -2118,7 +2118,7 @@
         },
         {
           "id": "30.7",
-          "title": "Parents Look Away [PREMIER soft]",
+          "title": "Parents Look Away [PRIME soft]",
           "scene": "Parents in crowd \u2014 some look away \u2014 mother doesn't \u2014 tears held.",
           "dialogue": "Mother: *(whisper)* \"Enough.\"",
           "sfx": "",
@@ -2129,7 +2129,7 @@
         },
         {
           "id": "30.8",
-          "title": "Ten Minutes [PREMIER]",
+          "title": "Ten Minutes [PRIME]",
           "scene": "Clock **10:00** \u2014 instructor pacing \u2014 Ethan tears hit chin \u2014 no wipe.",
           "dialogue": "Instructor: \"You want pity? Go to another school.\"",
           "sfx": "",
@@ -2140,7 +2140,7 @@
         },
         {
           "id": "30.9",
-          "title": "Other Students Watch [PREMIER]",
+          "title": "Other Students Watch [PRIME]",
           "scene": "Kids peek from hallway \u2014 Ha-eun looks \u2014 looks away \u2014 lesson internalized wrong.",
           "dialogue": "Ha-eun (internal): *Don't be weak.*",
           "sfx": "",
@@ -2151,7 +2151,7 @@
         },
         {
           "id": "30.10",
-          "title": "Fifteen Minutes [PREMIER]",
+          "title": "Fifteen Minutes [PRIME]",
           "scene": "Clock **15:00** \u2014 Ethan's fists clenched \u2014 not anger \u2014 shutdown.",
           "dialogue": "Instructor: \"Head up when I'm talking!\"",
           "sfx": "",
@@ -2162,7 +2162,7 @@
         },
         {
           "id": "30.11",
-          "title": "Word Loop [PREMIER]",
+          "title": "Word Loop [PRIME]",
           "scene": "Instructor mouth repeated \u2014 *wanted to lose* \u2014 echo distortion \u2014 Solo Leveling dread.",
           "dialogue": "Instructor: \"You **wanted** to lose\u2014 you **wanted**\u2014\"",
           "sfx": "",
@@ -2184,7 +2184,7 @@
         },
         {
           "id": "30.13",
-          "title": "Water Fountain [PREMIER soft]",
+          "title": "Water Fountain [PRIME soft]",
           "scene": "Ethan alone at fountain \u2014 water runs \u2014 doesn't drink \u2014 reflection broken.",
           "dialogue": "Ethan (internal): *Same kick. Same freeze.*",
           "sfx": "",
@@ -2195,7 +2195,7 @@
         },
         {
           "id": "30.14",
-          "title": "Headgear Off Flash [PREMIER]",
+          "title": "Headgear Off Flash [PRIME]",
           "scene": "Rhyme \u2014 Ch 25.11 present + Ch 30 flash \u2014 same hands shake removing headgear.",
           "dialogue": "",
           "sfx": "",
@@ -2206,7 +2206,7 @@
         },
         {
           "id": "30.15",
-          "title": "Drive Home Silent [PREMIER]",
+          "title": "Drive Home Silent [PRIME]",
           "scene": "Car backseat \u2014 Ethan stares out \u2014 parents don't speak \u2014 bruise forming on cheek.",
           "dialogue": "*(silence)*",
           "sfx": "",
@@ -2217,7 +2217,7 @@
         },
         {
           "id": "30.16",
-          "title": "Nightmare Seed [PREMIER]",
+          "title": "Nightmare Seed [PRIME]",
           "scene": "Bedroom ceiling \u2014 same kick replays \u2014 Arc 1 nightmare born \u2014 desaturated.",
           "dialogue": "Ethan (internal): *It never left.*",
           "sfx": "",
@@ -2228,7 +2228,7 @@
         },
         {
           "id": "30.17",
-          "title": "School Next Day [PREMIER]",
+          "title": "School Next Day [PRIME]",
           "scene": "Ethan in class \u2014 hoodie \u2014 knuckles wrapped \u2014 teacher doesn't ask.",
           "dialogue": "Ethan (internal): *Perform. Don't cry. Don't quit.*",
           "sfx": "",
@@ -2239,8 +2239,8 @@
         },
         {
           "id": "30.18",
-          "title": "Premier Logo Burn [PREMIER]",
-          "scene": "Ethan stares at Premier bag \u2014 considers \u2014 keeps going \u2014 fear not choice.",
+          "title": "Prime Logo Burn [PRIME]",
+          "scene": "Ethan stares at Prime bag \u2014 considers \u2014 keeps going \u2014 fear not choice.",
           "dialogue": "Ethan (internal): *Where else would I go?*",
           "sfx": "",
           "timeline": "",
@@ -2250,7 +2250,7 @@
         },
         {
           "id": "30.19",
-          "title": "Cascade End [PREMIER]",
+          "title": "Cascade End [PRIME]",
           "scene": "All flash images collapse into single point \u2014 white \u2014 Ethan's pupil \u2014 present bleachers approaching.",
           "dialogue": "",
           "sfx": "",
@@ -2444,8 +2444,8 @@
         },
         {
           "id": "31.16",
-          "title": "Premier Stare Bleachers [TOURNAMENT]",
-          "scene": "Premier students in stands \u2014 stare at Ethan \u2014 he looks away \u2014 not flinch \u2014 tired.",
+          "title": "Prime Stare Bleachers [TOURNAMENT]",
+          "scene": "Prime students in stands \u2014 stare at Ethan \u2014 he looks away \u2014 not flinch \u2014 tired.",
           "dialogue": "Ethan (internal): *Not today.*",
           "sfx": "",
           "timeline": "",
@@ -3059,8 +3059,8 @@
         },
         {
           "id": "34.2",
-          "title": "Premier Stare",
-          "scene": "Premier students in crowd \u2014 glare at Ethan. Ethan doesn't flinch.",
+          "title": "Prime Stare",
+          "scene": "Prime students in crowd \u2014 glare at Ethan. Ethan doesn't flinch.",
           "dialogue": "",
           "sfx": "",
           "timeline": "",
@@ -3147,9 +3147,9 @@
         },
         {
           "id": "34.18",
-          "title": "Premier Walk-By [TOURNAMENT]",
-          "scene": "Premier group passes \u2014 Ttong Kim not present \u2014 students recognize Ethan \u2014 he holds gaze.",
-          "dialogue": "Premier student: \"\u2026Kwon's kid.\" \u00b7 Ethan: *(nothing)*",
+          "title": "Prime Walk-By [TOURNAMENT]",
+          "scene": "Prime group passes \u2014 Ttong Kim not present \u2014 students recognize Ethan \u2014 he holds gaze.",
+          "dialogue": "Prime student: \"\u2026Kwon's kid.\" \u00b7 Ethan: *(nothing)*",
           "sfx": "",
           "timeline": "",
           "prompt": "",
@@ -3319,7 +3319,7 @@
         },
         {
           "id": "35.13",
-          "title": "Ethan Go Fight [PREMIER inset]",
+          "title": "Ethan Go Fight [PRIME inset]",
           "scene": "Flash \u2014 Ttong Kim points \u2014 *Go fight* \u2014 snap present.",
           "dialogue": "Ethan: \"My old coach said **go fight**. That's all I ever got.\"",
           "sfx": "",
@@ -3341,7 +3341,7 @@
         },
         {
           "id": "35.15",
-          "title": "Board Flash Inset [PREMIER]",
+          "title": "Board Flash Inset [PRIME]",
           "scene": "Quick inset \u2014 clock \u2014 thud thud thud \u2014 parents whisper *move board closer*.",
           "dialogue": "Parent (flash O.S.): \"Why didn't they **adjust** anything?\"",
           "sfx": "",

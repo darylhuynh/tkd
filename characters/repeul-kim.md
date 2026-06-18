@@ -1,7 +1,7 @@
 # Repeul Kim
 
-**Role:** Background · Premier co-presence · **Ttong Kim's wife**  
-**Team Function:** Silent fixture at Premier — visual shorthand for the school's off-mat culture. **Never speaks on-page.**
+**Role:** Background · Prime co-presence · **Ttong Kim's wife**  
+**Team Function:** Silent fixture at Prime — visual shorthand for the school's off-mat culture. **Never speaks on-page.**
 
 ---
 
@@ -11,7 +11,7 @@
 |-------|-------|
 | Name | **Repeul Kim** |
 | Relation | **Wife of Ttong Kim** |
-| School | Premier Taekwondo Sports Dynasty (always on-site with him) |
+| School | Prime Taekwondo Sports Dynasty (always on-site with him) |
 | Age | **37** (series start) |
 | Height | **5'5"** (~165 cm) — average |
 | Build | **Pretty overweight** — soft round figure, not athletic |
@@ -26,7 +26,7 @@
 - **Face:** **Ugly mean aesthetic** — soft but unkind features, **sour resting face**, judgmental scowl, narrowed eyes, tight lips; reads rude even in silence; **never** given dialogue bubbles.
 - **Fashion:** **Always casual** — deliberately **ugly, multi-colored** outfits: clashing neons, florals on stripes, animal print + plaid layers, mismatched sneakers, too many accessories. **Intentionally bad taste** — not "cozy mom," **chaotic thrift-store collage**.
 
-**Contrast with Premier brand:** Ttong Kim performs **elite** in shorts/suit; Repeul looks like a walking yard sale — the school's real priorities showing in the margins.
+**Contrast with Prime brand:** Ttong Kim performs **elite** in shorts/suit; Repeul looks like a walking yard sale — the school's real priorities showing in the margins.
 
 ---
 
@@ -35,7 +35,7 @@
 | Rule | Detail |
 |------|--------|
 | **Dialogue** | **None** — no speech bubbles, no named lines, no internal monologue |
-| **Screen time** | Background in **most scenes that include Ttong Kim** at Premier (tournament floor edge, parent meetings, VIP handoffs, dojang front desk) |
+| **Screen time** | Background in **most scenes that include Ttong Kim** at Prime (tournament floor edge, parent meetings, VIP handoffs, dojang front desk) |
 | **Intro** | **One brief stat-card beat** paired with Ttong Kim's intro — age, height, weight, role only — then she stays silent |
 | **Focus** | Never center-framed for plot; edge of panel, behind counter, on bleachers with purse — **mean scowl**, mouth closed |
 
@@ -46,7 +46,7 @@
 - Tournament: beside Ttong while he talks to parents — **out of focus**, multicolor blob in periphery
 - VIP / check exchange panels: standing behind him with shopping bag or phone
 - Opening-day flashback (Ch 7): optional — setting out brochures in ugly cardigan while he welcomes Ethan
-- Arc 8 epilogue: optional distant glimpse at shrunken Premier — same clothes, no lines
+- Arc 8 epilogue: optional distant glimpse at shrunken Prime — same clothes, no lines
 
 **Do not** use her for favoritism beats, threats, or coaching — that stays **Ttong Kim** only.
 
@@ -61,7 +61,7 @@ medium long brown curly hair shoulder length curls claw clip,
 intentionally UGLY hideous clashing multicolor women's casual outfit neon floral plaid leopard print mismatched layers worst fashion,
 MEAN ugly aesthetic sour resting bitch face judgmental scowl narrowed eyes tight lips unkind dismissive NOT smiling,
 background extra slightly out of focus no speech bubble mouth closed not speaking,
-manhwa webtoon STYLE PREMIER, NO TEXT NO LETTERS NO NAME TAGS NO SPEECH BUBBLE
+manhwa webtoon STYLE PRIME, NO TEXT NO LETTERS NO NAME TAGS NO SPEECH BUBBLE
 ```
 
 **Negative:** male, man, masculine, beard, muscular male body, kind smile, warm friendly face, pretty elegant fashion

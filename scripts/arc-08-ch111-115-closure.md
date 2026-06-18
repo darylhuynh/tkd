@@ -1,7 +1,7 @@
 # Arc 8 — Chapters 111–115: Scene Script
 ## *Same Mat. Different Person.*
 
-**Purpose:** Return from U20. Process loss without breaking. Premier kids visit. **Ttong Kim** last image — pity, not revenge. **Threats end.** **Grandmother memorial** — hallway callback.  
+**Purpose:** Return from U20. Process loss without breaking. Prime kids visit. **Ttong Kim** last image — pity, not revenge. **Threats end.** **Grandmother memorial** — hallway callback.  
 **Tone:** Haikyuu quiet · grief without melodrama · closure before epilogue wins  
 **Continues from:** [arc-07-ch107-110-national-selection.md](./arc-07-ch107-110-national-selection.md) (Ch 110 van home)  
 **Leads into:** [arc-08-ch116-120-epilogue.md](./arc-08-ch116-120-epilogue.md)
@@ -22,9 +22,9 @@
 | **Kian Sang** | Quarterfinal exit — quieter, sharper |
 | **Ariana Yang** | Round-one loss — **smiling** at taekwondo again |
 | **Master Viet** | Steady — no speeches unless they matter |
-| **Ttong Kim** | Premier — smaller class, same lies — **no direct confrontation** |
-| **Min-jun** | Premier teen — composite former classmate — nervous visitor |
-| **So-yeon** | Premier teen — Kieryn's age — asks hard questions |
+| **Ttong Kim** | Prime — smaller class, same lies — **no direct confrontation** |
+| **Min-jun** | Prime teen — composite former classmate — nervous visitor |
+| **So-yeon** | Prime teen — Kieryn's age — asks hard questions |
 
 ---
 
@@ -184,11 +184,11 @@ Ethan exits — envelope in gear bag — almost smiles — doesn't yet.
 **Panels:** 112.1
 
 **ACTION:**  
-Parents in parking lot. Kids in street clothes at Kwon's glass door — **Premier logo hoodies** — peering in like the building might bite.
+Parents in parking lot. Kids in street clothes at Kwon's glass door — **Prime logo hoodies** — peering in like the building might bite.
 
-**Min-jun** (16, Premier) — recognizes Ethan through glass — raises hand half-wave.
+**Min-jun** (16, Prime) — recognizes Ethan through glass — raises hand half-wave.
 
-**So-yeon** (15) — beside him — arms wrapped tight — white belt bag, old Premier patch half-peeled.
+**So-yeon** (15) — beside him — arms wrapped tight — white belt bag, old Prime patch half-peeled.
 
 Ethan opens door. Team training audible in back — Kieryn yelling at Kian about something stupid.
 
@@ -226,7 +226,7 @@ Kian.
 Lobby bench. Ethan sits — doesn't perform Kwon's sales pitch.
 
 **MIN-JUN**  
-People at Premier ask about you. Instructor says you left because you couldn't handle pressure.
+People at Prime ask about you. Instructor says you left because you couldn't handle pressure.
 
 **ETHAN**  
 *(no heat)*  
@@ -257,7 +257,7 @@ I don't want to go to another tournament and sit eight hours and hear **go fight
 Ethan's jaw tightens — memory — releases.
 
 **ETHAN**  
-I'm not telling you to leave. I'm not recruiting. Premier isn't my business anymore.  
+I'm not telling you to leave. I'm not recruiting. Prime isn't my business anymore.  
 *(beat)*  
 But if you're asking because you're scared — scared is honest. You don't have to perform brave for him.
 
@@ -299,7 +299,7 @@ Questions are free. Ramen costs extra. Hyung will pay.
 I will not.
 
 **ACTION:**  
-Premier kids leave — lighter — not converted — **less alone**.
+Prime kids leave — lighter — not converted — **less alone**.
 
 Min-jun pauses at door:
 
@@ -326,13 +326,13 @@ Me too.
 
 ---
 
-### SCENE 1 — STREET · PREMIER DOJANG BLOCK · LATE AFTERNOON
+### SCENE 1 — STREET · PRIME DOJANG BLOCK · LATE AFTERNOON
 **Panels:** 113.1
 
 **ACTION:**  
 Ethan walks home the long way — always has since Arc 4.
 
-Premier Taekwondo Sports Dynasty — strip-mall facade — **smaller parking lot than memory** — two cars.
+Prime Taekwondo Sports Dynasty — strip-mall facade — **smaller parking lot than memory** — two cars.
 
 Window into dojang: **six kids** on mat. Used to be thirty.
 
@@ -382,7 +382,7 @@ Not angry.
 Pity isn't forgiveness. It's just… done.
 
 **ACTION:**  
-Wide — Ethan smaller in frame — Premier sign behind — **PREMIER TAEKWONDO SPORTS DYNASTY** — word **DYNASTY** half-flicker in neon.
+Wide — Ethan smaller in frame — Prime sign behind — **PRIME TAEKWONDO SPORTS DYNASTY** — word **DYNASTY** half-flicker in neon.
 
 He rounds corner. Doesn't look back.
 
@@ -615,7 +615,7 @@ Team retreats to chapel entrance — doesn't leave — **Haikyuu hallway rule** 
 Ethan alone at stone one last minute.
 
 **ETHAN (V.O.)**  
-Premier had belts. Kwon's had people.  
+Prime had belts. Kwon's had people.  
 Halmeoni had both — recipes and rules — before any coach.
 
 **ACTION:**  
@@ -669,10 +669,10 @@ Walks toward hallway light where six silhouettes wait.
 | 111.3 | Jacket | TJ national team — team teases |
 | 111.4 | Line | Ethan beside Ariana |
 | 111.5 | Office | SNU envelope — whole person |
-| 112.1 | Glass door | Premier visitors |
+| 112.1 | Glass door | Prime visitors |
 | 112.3 | Bench | *They see you* |
 | 112.5 | Water | Logan bottles [HAIKYUU] |
-| 113.1 | Walk past | Smaller Premier — SNU accepted |
+| 113.1 | Walk past | Smaller Prime — SNU accepted |
 | 113.3 | Eyes | Through glass — pity |
 | 114.3 | Delete | Block thread — MV peace |
 | 115.2 | Stone | Still your champion |

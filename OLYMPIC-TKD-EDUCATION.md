@@ -69,7 +69,7 @@ Panels tagged `[TEACH]` in storyboard files match this schedule.
 
 | Ch | Panel | Topic | How Taught |
 |----|-------|-------|------------|
-| 44 | 44.2 | **Contrast** | Kwon's team reviews tape together vs Premier ignored |
+| 44 | 44.2 | **Contrast** | Kwon's team reviews tape together vs Prime ignored |
 
 *Arc 4 is trauma-heavy — minimal new rules; reinforce through contrast.*
 
@@ -93,7 +93,7 @@ Panels tagged `[TEACH]` in storyboard files match this schedule.
 | 79 | 79.2 | **Patience vs. chaos** | Kian waits for counter — discipline payoff |
 | 83 | 83.1 | **Corner protocol** | Team corners — MV calling scores [HAIKYUU] |
 | 84 | 84.2 | **Golden point** | Sudden death round — first score wins |
-| 86 | 86.2 | **Level gap** | Premier-style school eliminated — skill vs. marketing |
+| 86 | 86.2 | **Level gap** | Prime-style school eliminated — skill vs. marketing |
 
 ### Arc 7 — Legends (Ch 91–110)
 

@@ -10,7 +10,7 @@
 
 ## CAST
 
-Full Kwon's roster · MV · **Derek Cole** (scout) · Premier memory (flash only)
+Full Kwon's roster · MV · **Derek Cole** (scout) · Prime memory (flash only)
 
 ---
 
@@ -92,7 +92,7 @@ Black belt means **discipline**, not cruelty. We do **not** chase knockouts.
 **ETHAN**  
 *(quiet — triggers flash)*  
 
-**[FLASH — PREMIER staging — STYLE: PREMIER — intercut on his line]**
+**[FLASH — PRIME staging — STYLE: PRIME — intercut on his line]**
 
 **TTONG KIM (flash)**  
 One thousand won if you knock them out. Black belt doesn't mean nice — it means you **finish** them.
@@ -114,7 +114,7 @@ Different corner. Different rules. You ready?
 
 Ethan one nod.
 
-**[Full bounty script: flash-premier-knockout-bounty.md § Scene 3 contrast]**
+**[Full bounty script: flash-prime-knockout-bounty.md § Scene 3 contrast]**
 
 **[END CH 22]**
 
@@ -155,7 +155,7 @@ Alone — Ethan tightens headgear.
 **ETHAN (V.O.)**  
 I've been here before.
 
-**[FLASH — Arc 1 Ch 1 — bleachers — same line — STYLE: PREMIER — one panel]**
+**[FLASH — Arc 1 Ch 1 — bleachers — same line — STYLE: PRIME — one panel]**
 
 Present returns.
 

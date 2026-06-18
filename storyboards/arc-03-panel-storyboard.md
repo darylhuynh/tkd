@@ -6,7 +6,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 **Kyorugi gear:** Spar/match/`[ACTION]` panels = white dobok + chest hogu + headgear + forearm + shin/foot guards — see [STORYBOARD-GUIDE § Kyorugi Sparring Gear](./STORYBOARD-GUIDE.md#kyorugi-sparring-gear-required).
 
-**Premier flash (extended):** [flash-premier-board-break.md](../scripts/flash-premier-board-break.md) → **§28.1–28.8** · [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 3 → **22.4**  
+**Prime flash (extended):** [flash-prime-board-break.md](../scripts/flash-prime-board-break.md) → **§28.1–28.8** · [flash-prime-knockout-bounty.md](../scripts/flash-prime-knockout-bounty.md) § Scene 3 → **22.4**  
 **Short thread:** [short-yuna-pineapple-fanta.md](../scripts/short-yuna-pineapple-fanta.md) → **§34.4–34.10**
 
 ---
@@ -135,7 +135,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 ### 22.4 — No Knockout Bounty [REAL #28 contrast]
 **Scene:** MV team huddle — safety briefing before matches.
 **Dialogue:** MV: "We win on **points**. We win on **control**. We do **not** chase knockouts. Black belt means **discipline**, not cruelty." · Logan: *(whisper)* "Was that… a thing somewhere?" · Ethan: "Thousand won. If you knock them out. He said I was **too nice** to be one." · Kieryn: "That's not taekwondo. That's a lawsuit." · MV: "Head kicks are three points — not invitations to hurt someone for show."
-**Script:** [flash-premier-knockout-bounty.md](../scripts/flash-premier-knockout-bounty.md) § Scene 3
+**Script:** [flash-prime-knockout-bounty.md](../scripts/flash-prime-knockout-bounty.md) § Scene 3
 **Prompt:** `coach team huddle black belt discipline not cruelty tournament briefing contrast flashback trauma, STYLE: KWONS HAIKYUU TEACH`
 
 ### 22.5 — Registration Line [HAIKYUU]
@@ -148,10 +148,10 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue:** MV: "Every banner is someone who thinks they're ready. So are we."
 **Prompt:** `tournament hall school banners wide pan multiple martial arts schools, STYLE: TOURNAMENT TEACH`
 
-### 22.7 — Premier Banner [PREMIER inset]
-**Scene:** **Premier TKD** banner on far wall — Ethan freezes half a step.
+### 22.7 — Prime Banner [PRIME inset]
+**Scene:** **Prime TKD** banner on far wall — Ethan freezes half a step.
 **Dialogue:** Ethan (internal): *Don't.*
-**Prompt:** `premier taekwondo school banner far wall teen freezing glance, STYLE: PREMIER inset TOURNAMENT`
+**Prompt:** `prime taekwondo school banner far wall teen freezing glance, STYLE: PRIME inset TOURNAMENT`
 
 ### 22.8 — Kieryn Makes Weight [HAIKYUU]
 **Scene:** Scale — Kieryn steps off — fist pump micro.
@@ -347,11 +347,11 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue:** Ethan (internal): *Two inches taller on paper. Lies.*
 **Prompt:** `teen reading bracket board opponent stats school logo, STYLE: TOURNAMENT TEACH`
 
-### 24.6 — Arc 1 Flash Rhyme [PREMIER inset]
+### 24.6 — Arc 1 Flash Rhyme [PRIME inset]
 **Timeline:** **FLASH** — Arc 1 Ch 1 bleachers — **PRESENT** — holding area.
 **Scene:** One-panel inset — younger Ethan alone — same empty eyes — snap back.
 **Dialogue:** Ethan (internal): *Not there. Here.*
-**Prompt:** `flashback inset bleachers alone teen desaturated snap to present, STYLE: PREMIER inset`
+**Prompt:** `flashback inset bleachers alone teen desaturated snap to present, STYLE: PRIME inset`
 
 ### 24.7 — Derek Spin Scout [ACTION]
 **Scene:** Through crowd gap — Derek **spinning hook** air — hip drop visible — slow-mo inset.
@@ -478,7 +478,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ### 25.10 — Nightmare Inset
 **Scene:** Flash — **same kick** Arc 1 Ch 1 nightmare — visual rhyme.
-**Prompt:** `flashback inset spinning hook kick same trauma visual rhyme desaturated, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER`
+**Prompt:** `flashback inset spinning hook kick same trauma visual rhyme desaturated, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME`
 
 ### 25.11 — Headgear Off
 **Scene:** Ethan removes headgear — hands shake — eyes empty.
@@ -525,519 +525,519 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 
 ---
 
-## Chapter 26 — Premier Opening [FLASH — REAL]
+## Chapter 26 — Prime Opening [FLASH — REAL]
 
-**Timeline:** **FLASH Premier** — triggered by Ch 25 loss. **PRESENT** resumes at **Ch 31.1**.
+**Timeline:** **FLASH Prime** — triggered by Ch 25 loss. **PRESENT** resumes at **Ch 31.1**.
 
 ### 26.1 — Warm Opening [REAL]
-**Scene:** Young Ethan white belt — Premier small dojang. Instructor smiles.
+**Scene:** Young Ethan white belt — Prime small dojang. Instructor smiles.
 **Dialogue:** Instructor: "Welcome to the family."
-**Prompt:** `flashback small dojang white belt boy bowing warm coach, STYLE: PREMIER lighter`
+**Prompt:** `flashback small dojang white belt boy bowing warm coach, STYLE: PRIME lighter`
 
-### 26.2 — First Bow [PREMIER]
+### 26.2 — First Bow [PRIME]
 **Scene:** Ethan copies instructor bow — too deep — almost falls — instructor laughs kindly.
 **Dialogue:** Instructor: "Again. Less drama."
-**Prompt:** `young white belt boy bowing too deep almost falling kind coach, STYLE: PREMIER`
+**Prompt:** `young white belt boy bowing too deep almost falling kind coach, STYLE: PRIME`
 
-### 26.3 — Small Dojang Wide [PREMIER]
+### 26.3 — Small Dojang Wide [PRIME]
 **Scene:** Wide — mirrors — six students max — sunlight through front window.
 **Dialogue:** Ethan (internal): *It felt like church.*
-**Prompt:** `small taekwondo dojang wide warm sunlight few students, STYLE: PREMIER lighter`
+**Prompt:** `small taekwondo dojang wide warm sunlight few students, STYLE: PRIME lighter`
 
-### 26.4 — White Belt Line [PREMIER]
+### 26.4 — White Belt Line [PRIME]
 **Scene:** Kids lined by height — Ethan shortest — doesn't mind yet.
 **Dialogue:** Instructor: "Discipline starts with showing up."
-**Prompt:** `children lined by height white belts smallest boy smiling, STYLE: PREMIER`
+**Prompt:** `children lined by height white belts smallest boy smiling, STYLE: PRIME`
 
 ### 26.5 — First Form [TEACH]
 **Scene:** Instructor adjusts Ethan's chamber — hands gentle — correct angle.
 **Dialogue:** Instructor: "Hip first. Then foot. You're listening — that's rare."
-**Prompt:** `instructor correcting child taekwondo chamber gentle teaching, STYLE: PREMIER TEACH`
+**Prompt:** `instructor correcting child taekwondo chamber gentle teaching, STYLE: PRIME TEACH`
 
-### 26.6 — Parent Watch [PREMIER soft]
+### 26.6 — Parent Watch [PRIME soft]
 **Scene:** Parents on bench — mother waves — Ethan waves back mid-form — corrected.
 **Dialogue:** Instructor: "Eyes forward." · Ethan: "Sorry."
-**Prompt:** `parents watching class child waving corrected soft, STYLE: PREMIER soft`
+**Prompt:** `parents watching class child waving corrected soft, STYLE: PRIME soft`
 
-### 26.7 — Stripe Promotion [PREMIER]
+### 26.7 — Stripe Promotion [PRIME]
 **Scene:** New white belt stripe taped on — Ethan proud — genuine smile.
 **Dialogue:** Instructor: "You earned that."
-**Prompt:** `child receiving belt stripe proud smile warm dojang, STYLE: PREMIER lighter`
+**Prompt:** `child receiving belt stripe proud smile warm dojang, STYLE: PRIME lighter`
 
-### 26.8 — Family Dinner Echo [PREMIER soft]
+### 26.8 — Family Dinner Echo [PRIME soft]
 **Scene:** Ethan shows stripe at dinner table — fish on plate — small celebration.
 **Dialogue:** Mother: "Next time we watch from the front row."
-**Prompt:** `child showing belt stripe family dinner warm, STYLE: PREMIER soft`
+**Prompt:** `child showing belt stripe family dinner warm, STYLE: PRIME soft`
 
-### 26.9 — Instructor Praise [PREMIER]
+### 26.9 — Instructor Praise [PRIME]
 **Scene:** Instructor ruffles hair — rare — Ethan beams.
 **Dialogue:** Instructor: "Keep that attitude. Don't lose it."
-**Prompt:** `coach ruffling child hair rare praise warm, STYLE: PREMIER lighter`
+**Prompt:** `coach ruffling child hair rare praise warm, STYLE: PRIME lighter`
 
-### 26.10 — Mirror Smile [PREMIER]
+### 26.10 — Mirror Smile [PRIME]
 **Scene:** Young Ethan mirror — white belt — practices bow alone after class.
 **Dialogue:** Ethan (internal): *I belong here.*
-**Prompt:** `young boy practicing bow alone mirror white belt hopeful, STYLE: PREMIER lighter`
+**Prompt:** `young boy practicing bow alone mirror white belt hopeful, STYLE: PRIME lighter`
 
 ### 26.11 — First Sparring Touch [TEACH]
 **Scene:** Light contact — instructor stops immediately — safe.
 **Dialogue:** Instructor: "Control. Always control."
-**Prompt:** `children light sparring instructor stopping safe control, STYLE: PREMIER TEACH`
+**Prompt:** `children light sparring instructor stopping safe control, STYLE: PRIME TEACH`
 
-### 26.12 — Yellow Belt Ceremony [PREMIER]
+### 26.12 — Yellow Belt Ceremony [PRIME]
 **Scene:** Small ceremony — five students — cookies after — community.
 **Dialogue:** Instructor: "Welcome to the family — again."
-**Prompt:** `small belt ceremony cookies community warm dojang, STYLE: PREMIER lighter`
+**Prompt:** `small belt ceremony cookies community warm dojang, STYLE: PRIME lighter`
 
-### 26.13 — Ethan Helps New Kid [PREMIER]
+### 26.13 — Ethan Helps New Kid [PRIME]
 **Scene:** Ethan shows new white belt how to tie belt — patient — instructor watches approving.
 **Dialogue:** Instructor: "Teach him like someone taught you."
-**Prompt:** `older child teaching new white belt tie approving coach, STYLE: PREMIER`
+**Prompt:** `older child teaching new white belt tie approving coach, STYLE: PRIME`
 
-### 26.14 — Dojang Sign Close [PREMIER]
-**Scene:** **Premier Taekwondo** sign — fresh paint — Ethan reads it walking in.
-**Dialogue:** Ethan (internal): *Premier. Like the best.*
-**Prompt:** `taekwondo school sign fresh paint child reading hopeful, STYLE: PREMIER`
+### 26.14 — Dojang Sign Close [PRIME]
+**Scene:** **Prime Taekwondo** sign — fresh paint — Ethan reads it walking in.
+**Dialogue:** Ethan (internal): *Prime. Like the best.*
+**Prompt:** `taekwondo school sign fresh paint child reading hopeful, STYLE: PRIME`
 
-### 26.15 — Rainy Day Class [PREMIER soft]
+### 26.15 — Rainy Day Class [PRIME soft]
 **Scene:** Half attendance — instructor still teaches full lesson — Ethan only student some days.
 **Dialogue:** Instructor: "Rain doesn't cancel discipline."
-**Prompt:** `rainy day single student lesson dedicated coach, STYLE: PREMIER soft`
+**Prompt:** `rainy day single student lesson dedicated coach, STYLE: PRIME soft`
 
-### 26.16 — Photo Wall [PREMIER]
+### 26.16 — Photo Wall [PRIME]
 **Scene:** Dojang photo wall — tournament kids — Ethan points at empty space.
 **Dialogue:** Instructor: "Your picture goes there someday."
-**Prompt:** `dojang photo wall child pointing empty space dream, STYLE: PREMIER lighter`
+**Prompt:** `dojang photo wall child pointing empty space dream, STYLE: PRIME lighter`
 
 ### 26.17 — Green Belt Spar [ACTION]
 **Scene:** Ethan scores clean body kick — instructor claps — real praise.
 **Dialogue:** Instructor: "That was **clean**. Again."
-**Prompt:** `child landing clean body kick coach clapping praise, STYLE: PREMIER ACTION`
+**Prompt:** `child landing clean body kick coach clapping praise, STYLE: PRIME ACTION`
 
-### 26.18 — Last Warm Day [PREMIER]
+### 26.18 — Last Warm Day [PRIME]
 **Scene:** Wide dojang — same angle as 26.3 — more students now — instructor smile thinner.
 **Dialogue:** Ethan (internal): *I didn't notice when it changed.*
-**Prompt:** `same dojang angle more students coach smile thinner unease beginning, STYLE: PREMIER`
+**Prompt:** `same dojang angle more students coach smile thinner unease beginning, STYLE: PRIME`
 
-### 26.19 — New Mats Delivered [PREMIER]
+### 26.19 — New Mats Delivered [PRIME]
 **Scene:** Delivery truck — new mats — parents help carry — excitement.
 **Dialogue:** Instructor: "We're growing. Good problem."
-**Prompt:** `new taekwondo mats delivery parents helping excited, STYLE: PREMIER`
+**Prompt:** `new taekwondo mats delivery parents helping excited, STYLE: PRIME`
 
-### 26.20 — Chapter End — Smile Fades [PREMIER]
+### 26.20 — Chapter End — Smile Fades [PRIME]
 **Scene:** Instructor on phone in back office — door cracked — expression cold — Ethan glimpses — doesn't understand yet.
 **Dialogue:** Ethan (internal): *Still family. Right?*
-**Prompt:** `child glimpsing coach cold phone call door cracked unease chapter end, STYLE: PREMIER`
+**Prompt:** `child glimpsing coach cold phone call door cracked unease chapter end, STYLE: PRIME`
 
 ---
 
 ## Chapter 27 — School Grows [FLASH — REAL #8]
 
-**Timeline:** **FLASH Premier** — continues dissociation cascade from Ch 25.
+**Timeline:** **FLASH Prime** — continues dissociation cascade from Ch 25.
 
 ### 27.1 — Money Grows [REAL #8]
 **Scene:** More students — instructor tells parents refs cheated.
 **Dialogue:** Instructor: "They bought those belts. Your kids earned theirs."
-**Prompt:** `coach lying to parents post tournament, STYLE: PREMIER`
+**Prompt:** `coach lying to parents post tournament, STYLE: PRIME`
 
-### 27.2 — Crowded Mat [PREMIER]
+### 27.2 — Crowded Mat [PRIME]
 **Scene:** Same dojang — triple students — Ethan bumped in form line — no correction.
 **Dialogue:** Instructor: "Tighter. Everyone tighter." · *(doesn't demonstrate)*
-**Prompt:** `overcrowded taekwondo class child bumped no individual correction, STYLE: PREMIER`
+**Prompt:** `overcrowded taekwondo class child bumped no individual correction, STYLE: PRIME`
 
-### 27.3 — Trophy Case [PREMIER]
-**Scene:** New trophies behind glass — Premier logo — parents photograph.
+### 27.3 — Trophy Case [PRIME]
+**Scene:** New trophies behind glass — Prime logo — parents photograph.
 **Dialogue:** Parent: "Number one school in the district!" · Instructor: "We earned it."
-**Prompt:** `trophy case new trophies parents photographing proud, STYLE: PREMIER`
+**Prompt:** `trophy case new trophies parents photographing proud, STYLE: PRIME`
 
 ### 27.4 — Post-Tournament Lie [REAL #8]
 **Scene:** Parents upset after loss — instructor arms crossed — blame external.
 **Dialogue:** Instructor: "Judges were paid. Your kid was better. They knew it."
-**Prompt:** `coach blaming judges to angry parents arms crossed, STYLE: PREMIER`
+**Prompt:** `coach blaming judges to angry parents arms crossed, STYLE: PRIME`
 
-### 27.5 — Ethan Watches Lie [PREMIER]
+### 27.5 — Ethan Watches Lie [PRIME]
 **Scene:** Ethan hears from hallway — opponent was kind — shook his hand — cognitive dissonance.
 **Dialogue:** Ethan (internal): *He wasn't cheating. He was just… better.*
-**Prompt:** `child overhearing hallway coach lie cognitive dissonance, STYLE: PREMIER`
+**Prompt:** `child overhearing hallway coach lie cognitive dissonance, STYLE: PRIME`
 
-### 27.6 — Favored Student [PREMIER]
+### 27.6 — Favored Student [PRIME]
 **Scene:** **Ha-eun** (composite) — perfect form — instructor adjusts only her — ignores Ethan.
 **Dialogue:** Instructor: "Like this. Perfect." · *(to Ha-eun only)*
-**Prompt:** `coach adjusting favored girl form ignoring other students, STYLE: PREMIER`
+**Prompt:** `coach adjusting favored girl form ignoring other students, STYLE: PRIME`
 
-### 27.7 — Parent Recruitment [PREMIER]
+### 27.7 — Parent Recruitment [PRIME]
 **Scene:** Instructor pitches black belt package to parents — price visible on flyer — Ethan in background.
 **Dialogue:** Instructor: "Black belt by fourteen builds college apps."
-**Prompt:** `coach selling black belt package parents flyer price, STYLE: PREMIER`
+**Prompt:** `coach selling black belt package parents flyer price, STYLE: PRIME`
 
 ### 27.8 — Less Correction [TEACH]
 **Scene:** Split — old memory: instructor fixes stance — new: Ethan wrong — instructor walks past.
 **Dialogue:** Ethan (internal): *When did he stop seeing me?*
-**Prompt:** `split panel coach correcting then ignoring same student contrast, STYLE: PREMIER TEACH`
+**Prompt:** `split panel coach correcting then ignoring same student contrast, STYLE: PRIME TEACH`
 
-### 27.9 — Ttong Kim Nameplate [PREMIER]
+### 27.9 — Ttong Kim Nameplate [PRIME]
 **Scene:** Office door — **Master Ttong Kim** plaque — new — formal photo stern.
 **Dialogue:** Parent: "He seems… serious now." · Other parent: "Serious wins."
-**Prompt:** `dojo office master nameplate stern formal photo, STYLE: PREMIER`
+**Prompt:** `dojo office master nameplate stern formal photo, STYLE: PRIME`
 
-### 27.10 — Belt Test Fees [PREMIER]
+### 27.10 — Belt Test Fees [PRIME]
 **Scene:** Line at desk — parents paying — Ethan holds number ticket — conveyor belt energy.
 **Dialogue:** Desk: "Testing fee. Board fee. Video fee."
-**Prompt:** `parents paying belt test fees line child holding number, STYLE: PREMIER`
+**Prompt:** `parents paying belt test fees line child holding number, STYLE: PRIME`
 
-### 27.11 — Demo Team Selection [PREMIER]
+### 27.11 — Demo Team Selection [PRIME]
 **Scene:** Ha-eun picked — Ethan not — instructor doesn't explain.
 **Dialogue:** Instructor: "Demo team — front row at regionals." · *(Ethan not called)*
-**Prompt:** `coach selecting demo team favored students others excluded, STYLE: PREMIER`
+**Prompt:** `coach selecting demo team favored students others excluded, STYLE: PRIME`
 
-### 27.12 — Ethan Trains Alone [PREMIER]
+### 27.12 — Ethan Trains Alone [PRIME]
 **Scene:** After class — Ethan practices forms — empty mat — instructor on phone elsewhere.
 **Dialogue:** Ethan (internal): *Harder. Maybe he'll look.*
-**Prompt:** `child practicing forms alone empty mat after class, STYLE: PREMIER`
+**Prompt:** `child practicing forms alone empty mat after class, STYLE: PRIME`
 
 ### 27.13 — Ref Blame Callback [REAL #8]
 **Scene:** TV in lobby — real tournament — instructor mutes — different narrative.
 **Dialogue:** Instructor: "See that? Rigged." · Ethan: "…That's WT electronic scoring."
-**Prompt:** `coach blaming TV tournament lobby child quiet objection, STYLE: PREMIER`
+**Prompt:** `coach blaming TV tournament lobby child quiet objection, STYLE: PRIME`
 
-### 27.14 — Cold Correction [PREMIER]
+### 27.14 — Cold Correction [PRIME]
 **Scene:** Ethan finally corrected — harsh — public — different from Ch 26.
 **Dialogue:** Instructor: "Sloppy. You're making my school look bad."
-**Prompt:** `coach harsh public correction embarrassed teen, STYLE: PREMIER`
+**Prompt:** `coach harsh public correction embarrassed teen, STYLE: PRIME`
 
-### 27.15 — Parents Buy In [PREMIER]
+### 27.15 — Parents Buy In [PRIME]
 **Scene:** Parent group chat inset — "Master Kim says refs cheat" — echo chamber.
 **Dialogue:** *(text overlay)* "We're not leaving. He's the best."
-**Prompt:** `phone parent group chat echo chamber coach narrative, STYLE: PREMIER`
+**Prompt:** `phone parent group chat echo chamber coach narrative, STYLE: PRIME`
 
-### 27.16 — Red Belt Test Notice [PREMIER]
+### 27.16 — Red Belt Test Notice [PRIME]
 **Scene:** Flyer — **Black Belt Testing — 6 months** — Ethan stares — hand tight.
 **Dialogue:** Ethan (internal): *Six months. I can do six months.*
-**Prompt:** `black belt testing flyer six months teen staring determined, STYLE: PREMIER`
+**Prompt:** `black belt testing flyer six months teen staring determined, STYLE: PRIME`
 
 ### 27.17 — Sparring Rougher [ACTION]
 **Scene:** Senior students hit hard — instructor doesn't stop — "toughen up."
 **Dialogue:** Instructor: "Pain teaches. Don't cry."
-**Prompt:** `rough sparring senior students coach not stopping toughen up, STYLE: PREMIER ACTION`
+**Prompt:** `rough sparring senior students coach not stopping toughen up, STYLE: PRIME ACTION`
 
-### 27.18 — Mirror Change [PREMIER]
+### 27.18 — Mirror Change [PRIME]
 **Scene:** Teen Ethan mirror — red belt — same mirror as 26.10 — no smile.
 **Dialogue:** Ethan (internal): *Same mirror. Different kid.*
-**Prompt:** `teen red belt mirror no smile same angle contrast, STYLE: PREMIER`
+**Prompt:** `teen red belt mirror no smile same angle contrast, STYLE: PRIME`
 
-### 27.19 — Testing Day Announced [PREMIER]
+### 27.19 — Testing Day Announced [PRIME]
 **Scene:** Instructor claps — testing list — Ethan's name — no warmth in congratulations.
 **Dialogue:** Instructor: "Don't embarrass me."
-**Prompt:** `coach announcing testing list cold don't embarrass me, STYLE: PREMIER`
+**Prompt:** `coach announcing testing list cold don't embarrass me, STYLE: PRIME`
 
-### 27.20 — Gymnasium Chairs [PREMIER]
+### 27.20 — Gymnasium Chairs [PRIME]
 **Scene:** Wide — chairs in rows — parents with cameras — testing day morning — chapter end into Ch 28.
 **Dialogue:** Instructor: "Perform."
-**Prompt:** `gymnasium chairs rows parents cameras belt testing day wide, STYLE: PREMIER`
+**Prompt:** `gymnasium chairs rows parents cameras belt testing day wide, STYLE: PRIME`
 
 ---
 
 ## Chapter 28 — Board Break [FLASH — REAL #10, #24] ★
 
-**Timeline:** **FLASH Premier** — belt test board station.  
-**Board break script:** [flash-premier-board-break.md](../scripts/flash-premier-board-break.md)
+**Timeline:** **FLASH Prime** — belt test board station.  
+**Board break script:** [flash-prime-board-break.md](../scripts/flash-prime-board-break.md)
 
 ### 28.1 — Board Station [REAL #24] ★
 **Scene:** Testing day — **break board station** — Ethan **smallest, youngest** in line — adult-sized board.
 **Dialogue:** Instructor: "Punch through. Next."
-**Prompt:** `flashback taekwondo belt test board break station smallest teen in group, STYLE: PREMIER`
+**Prompt:** `flashback taekwondo belt test board break station smallest teen in group, STYLE: PRIME`
 
 ### 28.2 — First Failures [FLASH — belt test, dobok only]
 **Scene:** Ethan punches **below center line** — board holds — knuckles pink — **Ttong Kim watches, says nothing** — other kids finished.
 **Dialogue:** Parent (O.S. whisper): "Why don't they **move the board closer**?"
 **SFX:** *thud* *thud* *thud*
-**Prompt:** `teen punching wooden board wrong angle failing knuckles reddening silent coach white dobok belt test NO hogu, STYLE: PREMIER`
+**Prompt:** `teen punching wooden board wrong angle failing knuckles reddening silent coach white dobok belt test NO hogu, STYLE: PRIME`
 
 ### 28.3 — Clock Moves [REAL #24] [FLASH — belt test]
 **Scene:** Wall clock — **~almost an hour** — parents standing — **instructor never corrects stance or board height** — Ethan won't stop.
 **Dialogue:** Parent (O.S.): "Please— just let him stop—" · Parent (O.S. whisper): "He's not even hitting the **center**—"
-**Prompt:** `wall clock hour passing teen still punching board wrong position coach silent white dobok belt test, STYLE: PREMIER`
+**Prompt:** `wall clock hour passing teen still punching board wrong position coach silent white dobok belt test, STYLE: PRIME`
 
 ### 28.4 — Board Breaks
 **Scene:** Ethan **shifts foot forward, adjusts hip** — board **splits** — not heroic — Ethan stumbles — **hand black and blue**, swollen.
 **Dialogue:** Ethan (internal): *It broke when I moved. Not when they helped.*
-**Prompt:** `teen adjusts stance finally breaks board exhausted not triumphant bruised fist, STYLE: PREMIER`
+**Prompt:** `teen adjusts stance finally breaks board exhausted not triumphant bruised fist, STYLE: PRIME`
 
 ### 28.5 — One of Five [REAL #24]
 **Scene:** Grader writes **1/5** — instructor face in background — **disgust, disappointment** — not anger — worse.
 **Dialogue:** Instructor: "Late and ugly isn't the same as good. **One out of five.**"
-**Prompt:** `instructor disappointed disgusted face grading sheet one out of five, STYLE: PREMIER`
+**Prompt:** `instructor disappointed disgusted face grading sheet one out of five, STYLE: PRIME`
 
 ### 28.6 — Crowd Crying & Whispers [REAL #24] [FLASH — belt test]
 **Scene:** Bleachers — parents **crying** — **after break, louder whispers**: move board closer · wrong position whole hour · **coach should've said one word** — Ethan numb.
 **Dialogue:** Parent (O.S.): "Why didn't the instructor **adjust** anything?" · Father (O.S., hoarse): "He figured it out **himself**."
-**Prompt:** `parents crying whispering belt test board positioning failure coach silence white dobok, STYLE: PREMIER soft`
+**Prompt:** `parents crying whispering belt test board positioning failure coach silence white dobok, STYLE: PRIME soft`
 
 ### 28.7 — Results Board [REAL #9, #24]
 **Scene:** Final scores — Ethan **highest overall passing** — then instructor adds **bonus** to favored girl — Ethan **2nd**.
 **Dialogue:** Instructor (to girl): "Extra credit. Attitude." · Ethan (internal): *I would have passed with zero.*
-**Prompt:** `test results board teen demoted second place favoritism bonus points, STYLE: PREMIER`
+**Prompt:** `test results board teen demoted second place favoritism bonus points, STYLE: PRIME`
 
 ### 28.8 — First to Black Belt [REAL #10]
 **Scene:** Black belt ceremony — Ethan empty eyes. Parents clapping.
 **Dialogue:** Ethan (internal): *Nothing left but fear.*
-**Prompt:** `black belt ceremony teen hollow expression parents applauding bruised hand hidden, STYLE: PREMIER`
+**Prompt:** `black belt ceremony teen hollow expression parents applauding bruised hand hidden, STYLE: PRIME`
 
 ### 28.9 — Board Holder Wrong Height [TEACH]
 **Scene:** Diagram inset — board center line above Ethan's fist height — volunteer holds steady.
 **Dialogue:** Parent (O.S. whisper): "Shouldn't they lower it?"
-**Prompt:** `board break height diagram wrong position teen too short educational, STYLE: PREMIER TEACH`
+**Prompt:** `board break height diagram wrong position teen too short educational, STYLE: PRIME TEACH`
 
-### 28.10 — Ttong Kim Silent [PREMIER]
+### 28.10 — Ttong Kim Silent [PRIME]
 **Scene:** Instructor watches — arms behind back — does not move — clock visible.
 **Dialogue:** Instructor: *(to another parent)* "Good power. Needs commitment."
-**Prompt:** `coach arms behind back watching child fail board silent, STYLE: PREMIER`
+**Prompt:** `coach arms behind back watching child fail board silent, STYLE: PRIME`
 
-### 28.11 — Knuckles Pink [PREMIER]
+### 28.11 — Knuckles Pink [PRIME]
 **Scene:** Extreme close — Ethan's knuckles — pink → red — board grain unbroken.
 **SFX:** *thud*
-**Prompt:** `extreme close bruising knuckles wooden board unbroken, STYLE: PREMIER`
+**Prompt:** `extreme close bruising knuckles wooden board unbroken, STYLE: PRIME`
 
-### 28.12 — Other Kids Done [PREMIER]
+### 28.12 — Other Kids Done [PRIME]
 **Scene:** Background — other testers at forms/sparring stations — finished — Ethan still at board.
 **Dialogue:** Ethan (V.O.): *Other kids went to forms. I was still here.*
-**Prompt:** `background testers finished stations teen still at board alone, STYLE: PREMIER`
+**Prompt:** `background testers finished stations teen still at board alone, STYLE: PRIME`
 
-### 28.13 — Mother Stands [PREMIER soft]
+### 28.13 — Mother Stands [PRIME soft]
 **Scene:** Mother rises from bleacher — instructor hand wave — sit down.
 **Dialogue:** Instructor: "He'll break it or he won't. Sit down."
-**Prompt:** `mother standing worried coach hand wave sit down, STYLE: PREMIER soft`
+**Prompt:** `mother standing worried coach hand wave sit down, STYLE: PRIME soft`
 
-### 28.14 — Quitting Speech [PREMIER]
+### 28.14 — Quitting Speech [PRIME]
 **Scene:** Instructor to mother — not looking at Ethan — cruelty as lesson.
 **Dialogue:** Instructor: "Then let him learn what quitting looks like."
-**Prompt:** `coach dismissing parent concern quitting lesson cold, STYLE: PREMIER`
+**Prompt:** `coach dismissing parent concern quitting lesson cold, STYLE: PRIME`
 
 ### 28.15 — Foot Shift [ACTION]
 **Scene:** Slow-mo — Ethan **one foot forward** — hip rotates — fist path changes — alone.
 **Dialogue:** Ethan (internal): *There.*
-**Prompt:** `slow motion teen adjusting foot hip board break alone discovery, STYLE: PREMIER ACTION`
+**Prompt:** `slow motion teen adjusting foot hip board break alone discovery, STYLE: PRIME ACTION`
 
-### 28.16 — Board Splits [PREMIER]
+### 28.16 — Board Splits [PRIME]
 **Scene:** Board cracks — not heroic — Ethan stumbles forward — exhausted.
 **SFX:** *crack*
-**Prompt:** `board finally breaking teen stumbling exhausted not triumphant, STYLE: PREMIER`
+**Prompt:** `board finally breaking teen stumbling exhausted not triumphant, STYLE: PRIME`
 
-### 28.17 — Swollen Hand Hide [PREMIER]
+### 28.17 — Swollen Hand Hide [PRIME]
 **Scene:** Ethan tucks hand behind back — walking to line — grader waiting.
 **Dialogue:** Grader: "Next."
-**Prompt:** `teen hiding swollen hand behind back walking to grader, STYLE: PREMIER`
+**Prompt:** `teen hiding swollen hand behind back walking to grader, STYLE: PRIME`
 
 ### 28.18 — Ha-eun Bonus [REAL #9]
 **Scene:** Grader writes — Ha-eun **5/5** — instructor nod — Ethan watches.
 **Dialogue:** Instructor: "Extra credit. Attitude."
-**Prompt:** `grader writing perfect score favored student coach nod favoritism, STYLE: PREMIER`
+**Prompt:** `grader writing perfect score favored student coach nod favoritism, STYLE: PRIME`
 
 ### 28.19 — Zero Still Passes [TEACH]
 **Scene:** MV-style inset (memory) — rules sheet — **board 0/5 = still pass** — Ethan didn't know.
 **Dialogue:** Ethan (V.O.): *I would have passed with zero.*
-**Prompt:** `belt test rules sheet board zero still passes educational inset, STYLE: PREMIER TEACH`
+**Prompt:** `belt test rules sheet board zero still passes educational inset, STYLE: PRIME TEACH`
 
-### 28.20 — Hollow Black Belt [PREMIER]
+### 28.20 — Hollow Black Belt [PRIME]
 **Scene:** Callback 28.8 wide — belt tied — applause — Ethan's eyes nowhere — chapter end.
 **Dialogue:** Father (O.S., hoarse): "He figured it out **himself**."
-**Prompt:** `black belt tied hollow eyes applause contrast chapter end, STYLE: PREMIER`
+**Prompt:** `black belt tied hollow eyes applause contrast chapter end, STYLE: PRIME`
 
 ---
 
 ## Chapter 29 — Go Fight [FLASH — REAL #13]
 
-**Timeline:** **FLASH Premier** — black belt exhibition match.
+**Timeline:** **FLASH Prime** — black belt exhibition match.
 
 ### 29.1 — Go Fight [REAL #13]
 **Scene:** No warmup. Instructor points. **"Go fight."**
-**Prompt:** `coach pointing at ring dismissive teen cold no warmup, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER`
+**Prompt:** `coach pointing at ring dismissive teen cold no warmup, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME`
 
 ### 29.2 — Spinning Hook Anatomy [TEACH]
 **Scene:** Slow-mo flashback — foot path arc, pivot foot labeled, head target zone.
 **Dialogue:** *(MV voice memory)* "Same kick. You just didn't know its name yet."
-**Prompt:** `spinning hook kick anatomical diagram foot path educational flashback, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER TEACH`
+**Prompt:** `spinning hook kick anatomical diagram foot path educational flashback, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME TEACH`
 
-### 29.3 — Exhibition Ring [PREMIER]
-**Scene:** Wide — Premier gym — exhibition mat — crowd smaller than tournament — heavier opponent waiting.
+### 29.3 — Exhibition Ring [PRIME]
+**Scene:** Wide — Prime gym — exhibition mat — crowd smaller than tournament — heavier opponent waiting.
 **Dialogue:** Opponent: *(stretching, bored)*
-**Prompt:** `exhibition taekwondo ring teen vs seasoned athlete premier gym, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER`
+**Prompt:** `exhibition taekwondo ring teen vs seasoned athlete prime gym, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME`
 
-### 29.4 — No Corner [PREMIER]
+### 29.4 — No Corner [PRIME]
 **Scene:** Ethan looks to corner — empty chair — instructor talking to parents.
 **Dialogue:** Ethan (internal): *No one. Again.*
-**Prompt:** `teen looking at empty corner chair coach ignoring, STYLE: PREMIER`
+**Prompt:** `teen looking at empty corner chair coach ignoring, STYLE: PRIME`
 
 ### 29.5 — Opponent Size [TEACH]
 **Scene:** Height comparison inset — opponent **cadet/open** seasoned — Ethan new black belt.
 **Dialogue:** Instructor (O.S.): "Points. Go."
-**Prompt:** `height size comparison teen vs seasoned athlete educational, STYLE: PREMIER TEACH`
+**Prompt:** `height size comparison teen vs seasoned athlete educational, STYLE: PRIME TEACH`
 
 ### 29.6 — Cold Stance [ACTION]
 **Scene:** Ethan guard up — feet wrong — no bounce — opponent circles easy.
 **Dialogue:** Ethan (internal): *Go fight. That's all I got.*
-**Prompt:** `teen stiff guard no warmup cold stance opponent circling, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER ACTION`
+**Prompt:** `teen stiff guard no warmup cold stance opponent circling, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME ACTION`
 
 ### 29.7 — Opponent Probe [ACTION]
 **Scene:** Opponent light cut kicks — testing — Ethan flinches late.
-**Prompt:** `seasoned fighter probe cut kicks teen flinching late, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER ACTION`
+**Prompt:** `seasoned fighter probe cut kicks teen flinching late, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME ACTION`
 
-### 29.8 — No Advice Memory [PREMIER]
+### 29.8 — No Advice Memory [PRIME]
 **Scene:** Inset — other schools' corners — coaches whisper — Ethan alone.
 **Dialogue:** Ethan (internal): *They get words. I get pointed.*
-**Prompt:** `split inset other coaches cornering vs empty corner contrast, STYLE: PREMIER`
+**Prompt:** `split inset other coaches cornering vs empty corner contrast, STYLE: PRIME`
 
 ### 29.9 — Feint Setup [ACTION]
 **Scene:** Opponent feint — hip drop — same tell as Derek — Ethan doesn't recognize yet.
-**Prompt:** `opponent feint hip drop spin setup premier exhibition, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER ACTION`
+**Prompt:** `opponent feint hip drop spin setup prime exhibition, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME ACTION`
 
 ### 29.10 — Step In Mistake [ACTION]
 **Scene:** Ethan closes distance — same mistake as Ch 25 — visual rhyme building.
 **Dialogue:** Instructor (O.S.): *(nothing)*
-**Prompt:** `teen stepping into range spin trap mistake rhyme, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER ACTION`
+**Prompt:** `teen stepping into range spin trap mistake rhyme, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME ACTION`
 
 ### 29.11 — Chamber Slow-Mo [TEACH + ACTION]
 **Scene:** Spinning hook chamber — labeled — pivot foot — head zone — identical to 25.5.
-**Prompt:** `spinning hook chamber slow motion diagram premier exhibition, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER TEACH ACTION`
+**Prompt:** `spinning hook chamber slow motion diagram prime exhibition, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME TEACH ACTION`
 
-### 29.12 — Instructor Watching [PREMIER]
+### 29.12 — Instructor Watching [PRIME]
 **Scene:** Ttong Kim arms crossed — no concern — watching like inventory.
 **Dialogue:** Instructor: *(flat)* "…"
-**Prompt:** `coach arms crossed watching student fight no concern, STYLE: PREMIER`
+**Prompt:** `coach arms crossed watching student fight no concern, STYLE: PRIME`
 
-### 29.13 — Parents Cringe [PREMIER soft]
+### 29.13 — Parents Cringe [PRIME soft]
 **Scene:** Parents in crowd — mother half-rises — father hand on her arm.
 **Dialogue:** Mother: "—" · Father: "Sit."
-**Prompt:** `parents cringing watching child fight mother half rising, STYLE: PREMIER soft`
+**Prompt:** `parents cringing watching child fight mother half rising, STYLE: PRIME soft`
 
 ### 29.14 — Guard Drop Foreshadow [ACTION]
 **Scene:** Ethan guard high — fatigue — hands drift — opponent reads it.
-**Prompt:** `teen guard drifting fatigue opponent reading opening, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER ACTION`
+**Prompt:** `teen guard drifting fatigue opponent reading opening, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME ACTION`
 
 ### 29.15 — MV Echo [TEACH]
 **Scene:** Present-day MV voice over flash — *Cover high* — too late in memory.
 **Dialogue:** MV (memory overlay): "Cover high."
-**Prompt:** `coach voice memory overlay flashback cover high too late, STYLE: PREMIER TEACH`
+**Prompt:** `coach voice memory overlay flashback cover high too late, STYLE: PRIME TEACH`
 
-### 29.16 — Three-Kick Rhyme [PREMIER]
+### 29.16 — Three-Kick Rhyme [PRIME]
 **Scene:** Triptych inset — Arc 1 nightmare · Ch 25 Derek · Ch 29 exhibition — same composition.
-**Prompt:** `triptych three spinning hook kicks visual rhyme desaturated, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER`
+**Prompt:** `triptych three spinning hook kicks visual rhyme desaturated, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME`
 
 ### 29.17 — Pre-Impact Breath [ACTION]
 **Scene:** Ethan exhales — guard still dropping — heel approaching — silence before.
 **SFX:** *(silence)*
-**Prompt:** `pre impact silence guard dropping heel approaching, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER ACTION`
+**Prompt:** `pre impact silence guard dropping heel approaching, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME ACTION`
 
-### 29.18 — Crowd Gasp [PREMIER]
+### 29.18 — Crowd Gasp [PRIME]
 **Scene:** Crowd reacts — instructor unchanged — opponent doesn't celebrate — clinical.
-**Prompt:** `crowd gasping head kick coach unchanged clinical, STYLE: PREMIER`
+**Prompt:** `crowd gasping head kick coach unchanged clinical, STYLE: PRIME`
 
 ### 29.19 — Points on Board [TEACH]
 **Scene:** Manual score — opponent +3 head — Ethan 0 — exhibition continues.
 **Dialogue:** Grader: "Chung. Three."
-**Prompt:** `manual scoreboard head kick three points exhibition, STYLE: PREMIER TEACH`
+**Prompt:** `manual scoreboard head kick three points exhibition, STYLE: PRIME TEACH`
 
 ### 29.20 — Match Continues Broken [ACTION]
 **Scene:** Ethan still standing — guard gone — opponent backs off confused — ref waves continue — chapter end into Ch 30.
 **Dialogue:** Ref: "Gye-sok!"
-**Prompt:** `teen standing guard down opponent confused referee continue, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER ACTION`
+**Prompt:** `teen standing guard down opponent confused referee continue, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME ACTION`
 
 ---
 
 ## Chapter 30 — Twenty Minute Scold [FLASH — REAL #11–12]
 
-**Timeline:** **FLASH Premier** — aftermath of head kick.
+**Timeline:** **FLASH Prime** — aftermath of head kick.
 
 ### 30.1 — The Kick Lands [REAL #11]
 **Scene:** Identical head impact — younger Ethan drops guard.
-**Prompt:** `flashback head kick impact teen dropping guard, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER`
+**Prompt:** `flashback head kick impact teen dropping guard, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME`
 
 ### 30.2 — Twenty Minute Scold [REAL #12]
 **Scene:** Instructor yelling — clock on wall moves. Ethan tears.
 **Dialogue:** Instructor: "You took a head shot like you wanted to lose!"
-**Prompt:** `coach yelling at crying teen long time passage clock wall, STYLE: PREMIER`
+**Prompt:** `coach yelling at crying teen long time passage clock wall, STYLE: PRIME`
 
 ### 30.3 — Impact Echo [ACTION]
-**Scene:** Head snap — sensorless Premier gear — mouthguard visible — stars in vision.
-**Prompt:** `head kick impact stars vision mouthguard premier gear, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PREMIER ACTION`
+**Scene:** Head snap — sensorless Prime gear — mouthguard visible — stars in vision.
+**Prompt:** `head kick impact stars vision mouthguard prime gear, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: PRIME ACTION`
 
-### 30.4 — Guard on Floor [PREMIER]
+### 30.4 — Guard on Floor [PRIME]
 **Scene:** Ethan's hands at sides — headgear askew — opponent bowing already.
 **Dialogue:** Opponent: "You okay?" · Ethan: *(doesn't answer)*
-**Prompt:** `teen hands at sides headgear askew opponent concerned bow, STYLE: PREMIER`
+**Prompt:** `teen hands at sides headgear askew opponent concerned bow, STYLE: PRIME`
 
-### 30.5 — Corner Drag [PREMIER]
+### 30.5 — Corner Drag [PRIME]
 **Scene:** Instructor grabs Ethan's arm — not gentle — pulls to corner — no water.
 **Dialogue:** Instructor: "Stand up. You're embarrassing me."
-**Prompt:** `coach grabbing teen arm pulling corner harsh no water, STYLE: PREMIER`
+**Prompt:** `coach grabbing teen arm pulling corner harsh no water, STYLE: PRIME`
 
-### 30.6 — Clock Five Minutes [PREMIER]
+### 30.6 — Clock Five Minutes [PRIME]
 **Scene:** Wall clock — **5:00** — instructor still talking — Ethan staring at floor.
 **Dialogue:** Instructor: "Black belt doesn't mean soft—"
-**Prompt:** `wall clock five minutes coach still yelling teen staring floor, STYLE: PREMIER`
+**Prompt:** `wall clock five minutes coach still yelling teen staring floor, STYLE: PRIME`
 
-### 30.7 — Parents Look Away [PREMIER soft]
+### 30.7 — Parents Look Away [PRIME soft]
 **Scene:** Parents in crowd — some look away — mother doesn't — tears held.
 **Dialogue:** Mother: *(whisper)* "Enough."
-**Prompt:** `parents looking away mother holding tears watching, STYLE: PREMIER soft`
+**Prompt:** `parents looking away mother holding tears watching, STYLE: PRIME soft`
 
-### 30.8 — Ten Minutes [PREMIER]
+### 30.8 — Ten Minutes [PRIME]
 **Scene:** Clock **10:00** — instructor pacing — Ethan tears hit chin — no wipe.
 **Dialogue:** Instructor: "You want pity? Go to another school."
-**Prompt:** `clock ten minutes coach pacing crying teen tears chin, STYLE: PREMIER`
+**Prompt:** `clock ten minutes coach pacing crying teen tears chin, STYLE: PRIME`
 
-### 30.9 — Other Students Watch [PREMIER]
+### 30.9 — Other Students Watch [PRIME]
 **Scene:** Kids peek from hallway — Ha-eun looks — looks away — lesson internalized wrong.
 **Dialogue:** Ha-eun (internal): *Don't be weak.*
-**Prompt:** `students peeking hallway favored girl looking away lesson, STYLE: PREMIER`
+**Prompt:** `students peeking hallway favored girl looking away lesson, STYLE: PRIME`
 
-### 30.10 — Fifteen Minutes [PREMIER]
+### 30.10 — Fifteen Minutes [PRIME]
 **Scene:** Clock **15:00** — Ethan's fists clenched — not anger — shutdown.
 **Dialogue:** Instructor: "Head up when I'm talking!"
-**Prompt:** `clock fifteen minutes teen shutdown fists clenched, STYLE: PREMIER`
+**Prompt:** `clock fifteen minutes teen shutdown fists clenched, STYLE: PRIME`
 
-### 30.11 — Word Loop [PREMIER]
+### 30.11 — Word Loop [PRIME]
 **Scene:** Instructor mouth repeated — *wanted to lose* — echo distortion — Solo Leveling dread.
 **Dialogue:** Instructor: "You **wanted** to lose— you **wanted**—"
-**Prompt:** `coach mouth echo distortion repeated words dread atmosphere, STYLE: PREMIER`
+**Prompt:** `coach mouth echo distortion repeated words dread atmosphere, STYLE: PRIME`
 
 ### 30.12 — Twenty Minutes [REAL #12]
 **Scene:** Clock **20:00** — instructor finally stops — Ethan shaking — not from kick — from words.
 **Dialogue:** Instructor: "…Get water. Don't cry in my gym again."
-**Prompt:** `clock twenty minutes coach finished teen shaking trauma words, STYLE: PREMIER`
+**Prompt:** `clock twenty minutes coach finished teen shaking trauma words, STYLE: PRIME`
 
-### 30.13 — Water Fountain [PREMIER soft]
+### 30.13 — Water Fountain [PRIME soft]
 **Scene:** Ethan alone at fountain — water runs — doesn't drink — reflection broken.
 **Dialogue:** Ethan (internal): *Same kick. Same freeze.*
-**Prompt:** `teen alone water fountain not drinking broken reflection, STYLE: PREMIER soft`
+**Prompt:** `teen alone water fountain not drinking broken reflection, STYLE: PRIME soft`
 
-### 30.14 — Headgear Off Flash [PREMIER]
+### 30.14 — Headgear Off Flash [PRIME]
 **Scene:** Rhyme — Ch 25.11 present + Ch 30 flash — same hands shake removing headgear.
-**Prompt:** `visual rhyme removing headgear shaking hands present flash overlay, STYLE: PREMIER TOURNAMENT`
+**Prompt:** `visual rhyme removing headgear shaking hands present flash overlay, STYLE: PRIME TOURNAMENT`
 
-### 30.15 — Drive Home Silent [PREMIER]
+### 30.15 — Drive Home Silent [PRIME]
 **Scene:** Car backseat — Ethan stares out — parents don't speak — bruise forming on cheek.
 **Dialogue:** *(silence)*
-**Prompt:** `car backseat teen staring window bruised cheek parents silent, STYLE: PREMIER`
+**Prompt:** `car backseat teen staring window bruised cheek parents silent, STYLE: PRIME`
 
-### 30.16 — Nightmare Seed [PREMIER]
+### 30.16 — Nightmare Seed [PRIME]
 **Scene:** Bedroom ceiling — same kick replays — Arc 1 nightmare born — desaturated.
 **Dialogue:** Ethan (internal): *It never left.*
-**Prompt:** `bedroom ceiling nightmare head kick replay desaturated, STYLE: PREMIER`
+**Prompt:** `bedroom ceiling nightmare head kick replay desaturated, STYLE: PRIME`
 
-### 30.17 — School Next Day [PREMIER]
+### 30.17 — School Next Day [PRIME]
 **Scene:** Ethan in class — hoodie — knuckles wrapped — teacher doesn't ask.
 **Dialogue:** Ethan (internal): *Perform. Don't cry. Don't quit.*
-**Prompt:** `teen class hoodie wrapped knuckles quiet trauma, STYLE: PREMIER`
+**Prompt:** `teen class hoodie wrapped knuckles quiet trauma, STYLE: PRIME`
 
-### 30.18 — Premier Logo Burn [PREMIER]
-**Scene:** Ethan stares at Premier bag — considers — keeps going — fear not choice.
+### 30.18 — Prime Logo Burn [PRIME]
+**Scene:** Ethan stares at Prime bag — considers — keeps going — fear not choice.
 **Dialogue:** Ethan (internal): *Where else would I go?*
-**Prompt:** `teen staring premier gear bag fear not choice, STYLE: PREMIER`
+**Prompt:** `teen staring prime gear bag fear not choice, STYLE: PRIME`
 
-### 30.19 — Cascade End [PREMIER]
+### 30.19 — Cascade End [PRIME]
 **Scene:** All flash images collapse into single point — white — Ethan's pupil — present bleachers approaching.
-**Prompt:** `flashback cascade collapsing single point pupil transition, STYLE: PREMIER TOURNAMENT`
+**Prompt:** `flashback cascade collapsing single point pupil transition, STYLE: PRIME TOURNAMENT`
 
 ### 30.20 — Snap to Present [TOURNAMENT]
 **Scene:** Arena color floods back — Ethan on bleachers — gear half off — breath in — chapter end.
@@ -1121,10 +1121,10 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue:** Ethan (internal): *He's not alone.*
 **Prompt:** `teen watching captain walk to ring bleachers anchor, STYLE: KWONS TOURNAMENT`
 
-### 31.16 — Premier Stare Bleachers [TOURNAMENT]
-**Scene:** Premier students in stands — stare at Ethan — he looks away — not flinch — tired.
+### 31.16 — Prime Stare Bleachers [TOURNAMENT]
+**Scene:** Prime students in stands — stare at Ethan — he looks away — not flinch — tired.
 **Dialogue:** Ethan (internal): *Not today.*
-**Prompt:** `premier students staring bleachers teen tired not flinching, STYLE: TOURNAMENT`
+**Prompt:** `prime students staring bleachers teen tired not flinching, STYLE: TOURNAMENT`
 
 ### 31.17 — MV Glance Back [KWONS]
 **Scene:** MV walking to corner — one glance at bleachers — Ethan — nod — continues.
@@ -1395,8 +1395,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Scene:** Kwon's name mid-tier — team still proud. High fives.
 **Prompt:** `team reading tournament results board proud not first place, STYLE: HAIKYUU`
 
-### 34.2 — Premier Stare
-**Scene:** Premier students in crowd — glare at Ethan. Ethan doesn't flinch.
+### 34.2 — Prime Stare
+**Scene:** Prime students in crowd — glare at Ethan. Ethan doesn't flinch.
 **Prompt:** `rival school students glaring from crowd protagonist calm, white dobok full olympic kyorugi gear electronic chest hogu headgear forearm guards shin foot guards, STYLE: TOURNAMENT`
 
 ### 34.3 — Poomsae Ring [TEACH seed]
@@ -1433,10 +1433,10 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue:** MV: "Forms don't score contact. They score **you**."
 **Prompt:** `poomsae athlete final pose judges bow sparring teen watching, STYLE: TOURNAMENT TEACH`
 
-### 34.18 — Premier Walk-By [TOURNAMENT]
-**Scene:** Premier group passes — Ttong Kim not present — students recognize Ethan — he holds gaze.
-**Dialogue:** Premier student: "…Kwon's kid." · Ethan: *(nothing)*
-**Prompt:** `premier students walking past protagonist holding gaze calm, STYLE: TOURNAMENT`
+### 34.18 — Prime Walk-By [TOURNAMENT]
+**Scene:** Prime group passes — Ttong Kim not present — students recognize Ethan — he holds gaze.
+**Dialogue:** Prime student: "…Kwon's kid." · Ethan: *(nothing)*
+**Prompt:** `prime students walking past protagonist holding gaze calm, STYLE: TOURNAMENT`
 
 ### 34.19 — Team Photo Real [HAIKYUU]
 **Scene:** Official photographer — whole team — Ethan in back row — small smile — not performance.
@@ -1511,21 +1511,21 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 **Dialogue:** TJ: "We learn. We go back."
 **Prompt:** `muscular teen anchor arms crossed quiet support, STYLE: HAIKYUU`
 
-### 35.13 — Ethan Go Fight [PREMIER inset]
+### 35.13 — Ethan Go Fight [PRIME inset]
 **Timeline:** **FLASH** on Ethan's word — **PRESENT** team circle.
 **Scene:** Flash — Ttong Kim points — *Go fight* — snap present.
 **Dialogue:** Ethan: "My old coach said **go fight**. That's all I ever got."
-**Prompt:** `flashback coach pointing go fight snap to present team circle, STYLE: PREMIER inset HAIKYUU`
+**Prompt:** `flashback coach pointing go fight snap to present team circle, STYLE: PRIME inset HAIKYUU`
 
 ### 35.14 — Board Hour Speaks [HAIKYUU]
 **Scene:** Ethan describes board — hour — wrong spot — silent coaches — voice rough not breaking.
 **Dialogue:** Ethan: "Nobody moved it. Nobody told me where to stand."
 **Prompt:** `teen describing trauma team circle listening rough voice, STYLE: HAIKYUU KWONS`
 
-### 35.15 — Board Flash Inset [PREMIER]
+### 35.15 — Board Flash Inset [PRIME]
 **Scene:** Quick inset — clock — thud thud thud — parents whisper *move board closer*.
 **Dialogue:** Parent (flash O.S.): "Why didn't they **adjust** anything?"
-**Prompt:** `flash inset board break clock parents whispering, STYLE: PREMIER`
+**Prompt:** `flash inset board break clock parents whispering, STYLE: PRIME`
 
 ### 35.16 — Zero Passes [TEACH]
 **Scene:** MV stops frame — looks at Ethan — not pity — math.
@@ -1563,7 +1563,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md). See [OLYMPIC
 | 23 | Travel Banter | 20 |
 | 24 | Ethan Gears Up | 20 |
 | 25 | Round 1: The Kick | 20 |
-| 26 | Premier Opening | 20 |
+| 26 | Prime Opening | 20 |
 | 27 | School Grows | 20 |
 | 28 | Board Break | 20 |
 | 29 | Go Fight | 20 |

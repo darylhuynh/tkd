@@ -14,10 +14,10 @@ ETHAN = (
     "slightly messy brown eyes soft jawline sharp eyes reserved K-pop visual expression"
 )
 CASUAL = "oversized black hoodie white undershirt black cargo pants white sneakers gold headphones white backpack NO dobok NO hogu"
-DOBOK = "white WT dobok black belt with silver embroidery Premier patch NO hogu yet"
+DOBOK = "white WT dobok black belt with silver embroidery Prime patch NO hogu yet"
 KIT = (
     "white WT dobok black belt silver embroidery blue electronic hogu blue helmet white forearm guards "
-    "white shin guards white foot protectors Premier patch full Olympic kyorugi kit"
+    "white shin guards white foot protectors Prime patch full Olympic kyorugi kit"
 )
 
 OUTFIT_LOCK = """## Chapter 1 — Outfit Lock *(copy into every Ch 1 prompt)*
@@ -25,18 +25,18 @@ OUTFIT_LOCK = """## Chapter 1 — Outfit Lock *(copy into every Ch 1 prompt)*
 | Phase | Panels | Ethan look |
 |-------|--------|------------|
 | **Casual arrival** | 1.1–1.5 | Oversized **black hoodie** · white undershirt · **black cargo pants** · white sneakers · **gold headphones** · **white backpack** · **no dobok / no hogu** |
-| **Dobok change** | 1.6–1.7 | White **WT dobok** · **black belt w/ silver embroidery** · Premier patch · changing area |
+| **Dobok change** | 1.6–1.7 | White **WT dobok** · **black belt w/ silver embroidery** · Prime patch · changing area |
 | **First full kit** | 1.8–1.14 | Dobok + **blue electronic hogu** + guards + **blue helmet** (mirror reveal **1.14**) |
 | **Full kit (present)** | 1.15–1.46 | Same tournament kit as above — **SAME face/hair/kit** every panel |
 | **Flash enrollment** | 1.27 | Ttong + Repeul — polo/shorts · multicolor casual |
-| **Flash scrimmage** | 1.31 top | White dobok · black belt · guards · **no headgear** · Premier dojang |
+| **Flash scrimmage** | 1.31 top | White dobok · black belt · guards · **no headgear** · Prime dojang |
 | **Bedroom** | 1.47–1.48 | Grey sleep tee · messy dark blue hair · gold headphones on nightstand · **NO dobok** |
 
 | Character | Locked look |
 |-----------|-------------|
-| **Ttong Kim** | 38 · 5'8" stocky · underbite · **Premier polo + tight black shorts + gold watch** |
+| **Ttong Kim** | 38 · 5'8" stocky · underbite · **Prime polo + tight black shorts + gold watch** |
 | **Repeul Kim** | 37 · 5'5" · brown curly hair · **ugly multicolor casual** · scowl · silent edge of frame |
-| **Ring opponent** | Taller older Premier teen · **same blue-hogu kit as Ethan** |
+| **Ring opponent** | Taller older Prime teen · **same blue-hogu kit as Ethan** |
 
 **Visual arc:** casual kid → dobok → athlete → neglected all day → KO → wake.
 
@@ -59,7 +59,7 @@ Dynamic Solo Leveling layout · thin gutters · NO readable text.
 | Row | Layout | Beats |
 |-----|--------|-------|
 | 1 | Tall splash ~38% | 1.1 venue · Ethan **casual silhouette** approaching |
-| 2 | Wide | 1.2 Premier van · athletes with gear · Ethan **casual** exits last tired |
+| 2 | Wide | 1.2 Prime van · athletes with gear · Ethan **casual** exits last tired |
 | 3 | 50\\|50 | 1.3 **casual** walk \\| 1.4 glass doors · **reflection casual** · inside athletes in **full gear** |
 | 4 | Full | 1.5 hallway clock **7:00 AM** · Ethan **casual** carrying gear bag |
 | 5 | 50\\|50 | 1.6 changing · dobok pants \\| 1.7 tight · tying **silver-embroidered** belt |
@@ -79,22 +79,22 @@ Continue panel-by-panel from **1.17** in storyboard below.
 """
 
 NEW_OPENING = [
-    ("1.1", "Title Card — Venue", "Black fade to tournament exterior. Banner: *Premier Taekwondo Sports Dynasty — Regional Open*. Small **Ethan Hyun** silhouette approaching — **casual clothes only**, no gear.", "", "*(none — silence)*", f"empty martial arts tournament venue exterior dawn overcast desaturated wide cinematic establishing shot small Ethan Hyun silhouette approaching entrance {CASUAL} NO gear visible moody banner taekwondo logos STYLE PREMIER"),
-    ("1.2", "Premier Van", "Premier team van in parking lot. Most athletes already carrying equipment. **Ethan Hyun** exits **last** — still **casual clothes**. Tired.", "", "", f"dawn parking lot Premier team van teens unloading taekwondo gear bags athletes in partial kit Ethan Hyun {ETHAN} {CASUAL} stepping down last tired expression overcast sky wide shot STYLE PREMIER"),
-    ("1.3", "Parking Walk", "**Ethan Hyun** walking toward venue with team. **Casual clothes**. Backpack. Headphones.", "", "", f"Ethan Hyun {ETHAN} {CASUAL} walking parking lot sidewalk toward tournament venue with Premier teens carrying gear bags dawn mist desaturated wide tracking shot STYLE PREMIER"),
-    ("1.4", "Door Reflection", "Automatic doors. **Reflection** in glass shows Ethan in **casual clothes**. Through glass: athletes inside in **full sparring gear**. Entering another world.", "Ethan (internal): *Here we go again.*", "", f"tournament venue automatic glass doors Ethan Hyun {ETHAN} {CASUAL} hesitating reflection in glass shows casual clothes interior visible athletes in full blue hogu kyorugi kit visual metaphor threshold emotional low angle STYLE PREMIER"),
-    ("1.5", "Hallway — Too Early", "Venue hallway. **Ethan still casual** — carrying gear bag. Wall clock **7:00 AM**. Other athletes in kit pass him.", 'Kid A: "Why are we here so early?"', "", f"tournament venue interior wall clock 7 AM Ethan Hyun {ETHAN} {CASUAL} carrying white gear backpack walking hallway athletes in full kyorugi kit passing harsh fluorescent tired expressions wide hallway STYLE PREMIER"),
-    ("1.6", "Changing — Dobok Pants", "Changing area. **First dobok** — Ethan pulling on white dobok pants. Black tee underneath.", "", "", f"changing area bench Ethan Hyun {ETHAN} pulling on white WT dobok pants black t-shirt underneath tournament venue locker room harsh light first dobok moment STYLE PREMIER"),
-    ("1.7", "Tying the Belt", "Tight panel. **Ethan Hyun's** hands tying **black belt with silver embroidery** over white dobok.", "", "", f"close-up hands tying black belt with silver embroidery over white WT dobok Premier patch Ethan Hyun {ETHAN} changing area tight detail panel STYLE PREMIER"),
-    ("1.8", "Kit Reveal — Toward Warmup", "Full-width. **Ethan transformed:** white dobok · black belt · **blue hogu under arm** · **helmet in hand**. Looking toward warmup area.", "", "", f"Ethan Hyun {ETHAN} white WT dobok black belt silver embroidery blue electronic hogu under arm blue helmet in hand walking toward warmup area full kit reveal wide cinematic first athlete transformation Premier patch STYLE PREMIER"),
-    ("1.9", "Chest Protector", "Blue electronic **hogu** going on over dobok.", "", "", f"Ethan Hyun {ETHAN} putting on blue electronic chest hogu over white WT dobok black belt silver embroidery changing area close-up hands STYLE PREMIER"),
-    ("1.10", "Forearm Guards", "White **forearm guards** strapped on.", "", "", f"Ethan Hyun {ETHAN} strapping white forearm guards {KIT} preparation sequence close-up STYLE PREMIER"),
-    ("1.11", "Shin Guards", "White **shin guards** secured.", "", "", f"Ethan Hyun {ETHAN} securing white shin guards sitting bench {KIT} preparation detail STYLE PREMIER"),
-    ("1.12", "Foot Sensors", "White **foot protectors** / sensors on.", "", "", f"Ethan Hyun {ETHAN} fitting white foot protectors sensors {KIT} preparation close-up feet hands STYLE PREMIER"),
-    ("1.13", "Helmet Clipped", "Blue **helmet** clipped / face shield down.", "", "", f"Ethan Hyun {ETHAN} clipping blue helmet face shield {KIT} preparation profile close-up STYLE PREMIER"),
-    ("1.14", "Mirror — Full Reveal", "Mirror shot. **First full competition reveal** — complete blue-hogu kit. Reserved expression.", "", "", f"mirror reflection Ethan Hyun {ETHAN} {KIT} full competition reveal first time complete kit sharp eyes reserved expression changing room mirror shot STYLE PREMIER"),
-    ("1.15", "Warmup Floor — Others Coached", "Warmup area. Other athletes with **coaches** — pads, advice, stretching.", "", "", f"warmup area wide shot athletes in blue hogu kyorugi kit with coaches pad work advice stretching Ethan Hyun {ETHAN} {KIT} background entering neglectful contrast STYLE PREMIER"),
-    ("1.16", "Ethan Alone — No Warmup", "Same floor. **Ethan Hyun alone.** No coach. No advice. No warmup. Something is wrong.", "", "", f"Ethan Hyun {ETHAN} {KIT} standing alone empty warmup mat no coach no instructor nearby other athletes coached in far background isolated neglectful atmosphere wide shot STYLE PREMIER"),
+    ("1.1", "Title Card — Venue", "Black fade to tournament exterior. Banner: *Prime Taekwondo Sports Dynasty — Regional Open*. Small **Ethan Hyun** silhouette approaching — **casual clothes only**, no gear.", "", "*(none — silence)*", f"empty martial arts tournament venue exterior dawn overcast desaturated wide cinematic establishing shot small Ethan Hyun silhouette approaching entrance {CASUAL} NO gear visible moody banner taekwondo logos STYLE PRIME"),
+    ("1.2", "Prime Van", "Prime team van in parking lot. Most athletes already carrying equipment. **Ethan Hyun** exits **last** — still **casual clothes**. Tired.", "", "", f"dawn parking lot Prime team van teens unloading taekwondo gear bags athletes in partial kit Ethan Hyun {ETHAN} {CASUAL} stepping down last tired expression overcast sky wide shot STYLE PRIME"),
+    ("1.3", "Parking Walk", "**Ethan Hyun** walking toward venue with team. **Casual clothes**. Backpack. Headphones.", "", "", f"Ethan Hyun {ETHAN} {CASUAL} walking parking lot sidewalk toward tournament venue with Prime teens carrying gear bags dawn mist desaturated wide tracking shot STYLE PRIME"),
+    ("1.4", "Door Reflection", "Automatic doors. **Reflection** in glass shows Ethan in **casual clothes**. Through glass: athletes inside in **full sparring gear**. Entering another world.", "Ethan (internal): *Here we go again.*", "", f"tournament venue automatic glass doors Ethan Hyun {ETHAN} {CASUAL} hesitating reflection in glass shows casual clothes interior visible athletes in full blue hogu kyorugi kit visual metaphor threshold emotional low angle STYLE PRIME"),
+    ("1.5", "Hallway — Too Early", "Venue hallway. **Ethan still casual** — carrying gear bag. Wall clock **7:00 AM**. Other athletes in kit pass him.", 'Kid A: "Why are we here so early?"', "", f"tournament venue interior wall clock 7 AM Ethan Hyun {ETHAN} {CASUAL} carrying white gear backpack walking hallway athletes in full kyorugi kit passing harsh fluorescent tired expressions wide hallway STYLE PRIME"),
+    ("1.6", "Changing — Dobok Pants", "Changing area. **First dobok** — Ethan pulling on white dobok pants. Black tee underneath.", "", "", f"changing area bench Ethan Hyun {ETHAN} pulling on white WT dobok pants black t-shirt underneath tournament venue locker room harsh light first dobok moment STYLE PRIME"),
+    ("1.7", "Tying the Belt", "Tight panel. **Ethan Hyun's** hands tying **black belt with silver embroidery** over white dobok.", "", "", f"close-up hands tying black belt with silver embroidery over white WT dobok Prime patch Ethan Hyun {ETHAN} changing area tight detail panel STYLE PRIME"),
+    ("1.8", "Kit Reveal — Toward Warmup", "Full-width. **Ethan transformed:** white dobok · black belt · **blue hogu under arm** · **helmet in hand**. Looking toward warmup area.", "", "", f"Ethan Hyun {ETHAN} white WT dobok black belt silver embroidery blue electronic hogu under arm blue helmet in hand walking toward warmup area full kit reveal wide cinematic first athlete transformation Prime patch STYLE PRIME"),
+    ("1.9", "Chest Protector", "Blue electronic **hogu** going on over dobok.", "", "", f"Ethan Hyun {ETHAN} putting on blue electronic chest hogu over white WT dobok black belt silver embroidery changing area close-up hands STYLE PRIME"),
+    ("1.10", "Forearm Guards", "White **forearm guards** strapped on.", "", "", f"Ethan Hyun {ETHAN} strapping white forearm guards {KIT} preparation sequence close-up STYLE PRIME"),
+    ("1.11", "Shin Guards", "White **shin guards** secured.", "", "", f"Ethan Hyun {ETHAN} securing white shin guards sitting bench {KIT} preparation detail STYLE PRIME"),
+    ("1.12", "Foot Sensors", "White **foot protectors** / sensors on.", "", "", f"Ethan Hyun {ETHAN} fitting white foot protectors sensors {KIT} preparation close-up feet hands STYLE PRIME"),
+    ("1.13", "Helmet Clipped", "Blue **helmet** clipped / face shield down.", "", "", f"Ethan Hyun {ETHAN} clipping blue helmet face shield {KIT} preparation profile close-up STYLE PRIME"),
+    ("1.14", "Mirror — Full Reveal", "Mirror shot. **First full competition reveal** — complete blue-hogu kit. Reserved expression.", "", "", f"mirror reflection Ethan Hyun {ETHAN} {KIT} full competition reveal first time complete kit sharp eyes reserved expression changing room mirror shot STYLE PRIME"),
+    ("1.15", "Warmup Floor — Others Coached", "Warmup area. Other athletes with **coaches** — pads, advice, stretching.", "", "", f"warmup area wide shot athletes in blue hogu kyorugi kit with coaches pad work advice stretching Ethan Hyun {ETHAN} {KIT} background entering neglectful contrast STYLE PRIME"),
+    ("1.16", "Ethan Alone — No Warmup", "Same floor. **Ethan Hyun alone.** No coach. No advice. No warmup. Something is wrong.", "", "", f"Ethan Hyun {ETHAN} {KIT} standing alone empty warmup mat no coach no instructor nearby other athletes coached in far background isolated neglectful atmosphere wide shot STYLE PRIME"),
 ]
 
 # old_id -> drop if in set

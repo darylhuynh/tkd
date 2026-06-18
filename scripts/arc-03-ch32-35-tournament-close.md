@@ -59,7 +59,7 @@ One point. That's all she needed.
 
 Kwon's mid-tier on results board — team proud anyway.
 
-Premier students **glare** — Ethan doesn't flinch.
+Prime students **glare** — Ethan doesn't flinch.
 
 Adjacent ring — **Yuna Park** poomsae — Ethan glances.
 
@@ -101,7 +101,7 @@ Team circle. Ethan finally talks.
 **ETHAN**  
 My old coach said **go fight**. That's all I ever got. No warmup. No plan.
 
-**FLASH — PREMIER — intercut on his words** *(not separate chapter)*
+**FLASH — PRIME — intercut on his words** *(not separate chapter)*
 
 **TTONG KIM (flash)**  
 Go fight.
@@ -155,4 +155,4 @@ Ethan nods — first real relief since Ch 25.
 
 ---
 
-*Next: [arc-04-ch38-46-premier-truth.md](./arc-04-ch38-46-premier-truth.md)*
+*Next: [arc-04-ch38-46-prime-truth.md](./arc-04-ch38-46-prime-truth.md)*

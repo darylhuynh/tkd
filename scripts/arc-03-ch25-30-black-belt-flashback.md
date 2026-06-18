@@ -4,7 +4,7 @@
 **Purpose:** Present loss · **flashbacks intercut inside present scenes** (not separate chapter blocks) · team catch  
 **Tone:** Bright tournament → dissociation cascade → Haikyuu bench  
 **Tie-in panels:** [arc-03-panel-storyboard.md](../storyboards/arc-03-panel-storyboard.md) §25–31  
-**Board break dialogue:** [flash-premier-board-break.md](./flash-premier-board-break.md) · **Close:** [arc-03-ch32-35-tournament-close.md](./arc-03-ch32-35-tournament-close.md)
+**Board break dialogue:** [flash-prime-board-break.md](./flash-prime-board-break.md) · **Close:** [arc-03-ch32-35-tournament-close.md](./arc-03-ch32-35-tournament-close.md)
 
 ---
 
@@ -46,16 +46,16 @@ Hip drops. Chamber. **Spinning hook** —
 
 Ethan frozen. Guard down.
 
-**ON IMPACT — FLASH CASCADE BEGINS** *(STYLE: PREMIER — no chapter title card)*
+**ON IMPACT — FLASH CASCADE BEGINS** *(STYLE: PRIME — no chapter title card)*
 
 **[FLASH A — Arc 1 Ch 1]** Bleachers. Eight-hour wait. Same kick. Sound out.
 
-**[FLASH B — Ch 29 Premier]** **Ttong Kim** points. No warmup.
+**[FLASH B — Ch 29 Prime]** **Ttong Kim** points. No warmup.
 
 **TTONG KIM (flash)**  
 **Go fight.**
 
-**[FLASH C — Ch 30 Premier]** Same hook lands. Young Ethan drops.
+**[FLASH C — Ch 30 Prime]** Same hook lands. Young Ethan drops.
 
 **TTONG KIM (flash — clock moving)**  
 You took a head shot like you **wanted** to lose!
@@ -163,13 +163,13 @@ Same kick. He just didn't know its name yet. Now he does.
 | Wrong | Right |
 |-------|-------|
 | "Chapter 26 — Flashback" header then full scene | Flash **inside** Scene 2 impact + Scene 3 dissociation |
-| Summary: "see board break script" | **Inline dialogue** for board hour — extended version still in [flash-premier-board-break.md](./flash-premier-board-break.md) for Arc 4 Ch 36 |
+| Summary: "see board break script" | **Inline dialogue** for board hour — extended version still in [flash-prime-board-break.md](./flash-prime-board-break.md) for Arc 4 Ch 36 |
 | Flash ends before team arrives | Logan/TJ enter **after** cascade completes — Ethan re-anchors |
 
 ### Visual rhyme (three palettes, one composition)
 1. Arc 1 nightmare head kick  
 2. Arc 3 Ch 25 Derek +5  
-3. Flash 30 Premier exhibition  
+3. Flash 30 Prime exhibition  
 
 ### Hooks
 - Ch 32–35: [arc-03-ch32-35-tournament-close.md](./arc-03-ch32-35-tournament-close.md) — Ethan speaks board hour again in MV eval (callback)

@@ -6,7 +6,7 @@ arc,chapter,chapter_section,panel_id,title,timeline,tags,dialogue,source_file
 01,1,,1.5,Bleacher Isolation,,, *(none),arc-01-panel-storyboard.md
 01,1,,1.6,Time Passes (Montage Cell 1),,,,arc-01-panel-storyboard.md
 01,1,,1.7,Time Passes (Montage Cell 2),,,,arc-01-panel-storyboard.md
-01,1,,1.8,VIP Flash Insert [FLASH — dojang enrollment],**FLASH** — Premier front desk / enrollment day (not tournament venue). **ANCHOR returns in 1.9.**,FLASH," Ttong Kim (to VIP parent): ""We'll take good care of **him**."" *(him = paying kid in frame)",arc-01-panel-storyboard.md
+01,1,,1.8,VIP Flash Insert [FLASH — dojang enrollment],**FLASH** — Prime front desk / enrollment day (not tournament venue). **ANCHOR returns in 1.9.**,FLASH," Ttong Kim (to VIP parent): ""We'll take good care of **him**."" *(him = paying kid in frame)",arc-01-panel-storyboard.md
 01,1,,1.9,Favoritism [PRESENT — tournament venue],**PRESENT** — same nightmare tournament day as bleachers montage. Ttong coaches a **different** paying kid.,PRESENT," Ttong Kim: ""Remember — feint left, kick right.""",arc-01-panel-storyboard.md
 01,1,,1.10,Ethan's View [PRESENT — bleachers ANCHOR],**PRESENT** — Ethan's bleacher seat. Same day; clock between 1:47 PM and 2:47 PM.,PRESENT, Ethan (internal): *Same dobok. Same patch.,arc-01-panel-storyboard.md
 01,1,,1.11,Wrong Stretch [PRESENT — bleachers],"**PRESENT** — still on bleachers. Shows neglect stacking: stranger ""helps"" while **his** coach ignores him.",PRESENT," Parent (O.S.): ""Loosen up, kid.""",arc-01-panel-storyboard.md
@@ -45,7 +45,7 @@ arc,chapter,chapter_section,panel_id,title,timeline,tags,dialogue,source_file
 01,6,,6.1,Direct Question,,," MV: ""Why did you leave your old school?""",arc-01-panel-storyboard.md
 01,6,,6.2,Deflection,,," Ethan: ""It wasn't home anymore.""",arc-01-panel-storyboard.md
 01,6,,6.3,Flash Sting (Money),,FLASH," *(distorted)* ""...with us or...""",arc-01-panel-storyboard.md
-01,6,,6.4,MV Backs Off,**FLASH Premier** montage (opening day → favoritism) → **PRESENT ANCHOR** panel **7.5** on Kwon's mats.,"FLASH, PRESENT"," MV: ""When you're ready to tell me the rest, I'll listen.""",arc-01-panel-storyboard.md
+01,6,,6.4,MV Backs Off,**FLASH Prime** montage (opening day → favoritism) → **PRESENT ANCHOR** panel **7.5** on Kwon's mats.,"FLASH, PRESENT"," MV: ""When you're ready to tell me the rest, I'll listen.""",arc-01-panel-storyboard.md
 01,7,,7.1,Opening Day (Warm),,FLASH," Instructor: ""Welcome to the family.""",arc-01-panel-storyboard.md
 01,7,,7.2,Growth,,, *(none),arc-01-panel-storyboard.md
 01,7,,7.3,Favoritism Montage,,," Instructor: ""Excellent! See — investment pays off.""",arc-01-panel-storyboard.md
@@ -57,7 +57,7 @@ arc,chapter,chapter_section,panel_id,title,timeline,tags,dialogue,source_file
 01,8,,8.4,Phone Buzz,,,,arc-01-panel-storyboard.md
 01,8,,8.5,Threatening Messages,,," (text) **""I know where you train now.""",arc-01-panel-storyboard.md
 01,8,,8.6,Silence Phone,,," Ethan: ""It's nothing.""",arc-01-panel-storyboard.md
-01,9,,9.1,The Ask,,," Ethan: ""Some friends... they left Premier too. Can they join?""",arc-01-panel-storyboard.md
+01,9,,9.1,The Ask,,," Ethan: ""Some friends... they left Prime too. Can they join?""",arc-01-panel-storyboard.md
 01,9,,9.2,MV Answer,,," MV: ""Everyone deserves a home.""",arc-01-panel-storyboard.md
 01,9,,9.3,The Text,,," (text) Ethan: *""Found a place. Kwon's. He said yes.""",arc-01-panel-storyboard.md
 01,9,,9.4,Replies Flood,,," (text) Kieryn: *""Took you long enough.""",arc-01-panel-storyboard.md
@@ -72,8 +72,8 @@ arc,chapter,chapter_section,panel_id,title,timeline,tags,dialogue,source_file
 01,10,,10.9,Ethan Looks Around,,, Ethan (internal): *Home.,arc-01-panel-storyboard.md
 01,10,,10.10,Final Wide,,, *(none — title card energy),arc-01-panel-storyboard.md
 02,11,11,11.1,Circle on the Mat,,," MV: ""You don't owe me your past. But your teammates might need to hear it.""",arc-02-panel-storyboard.md
-02,11,11,11.2,Kian's Reason [FLASH inset],**FLASH** — Premier humiliation. **PRESENT** — Kian speaking in circle (Kwon's).,"FLASH, PRESENT"," Ttong Kim: ""You think this is a joke?"" · Kian (present): ""I wasn't laughing after that.""",arc-02-panel-storyboard.md
-02,11,11,11.3,Kieryn's Reason,,," Kieryn: ""My friends were there. But I'd never get better. Not at Premier.""",arc-02-panel-storyboard.md
+02,11,11,11.2,Kian's Reason [FLASH inset],**FLASH** — Prime humiliation. **PRESENT** — Kian speaking in circle (Kwon's).,"FLASH, PRESENT"," Ttong Kim: ""You think this is a joke?"" · Kian (present): ""I wasn't laughing after that.""",arc-02-panel-storyboard.md
+02,11,11,11.3,Kieryn's Reason,,," Kieryn: ""My friends were there. But I'd never get better. Not at Prime.""",arc-02-panel-storyboard.md
 02,11,11,11.4,Ariana's Reason,,," Father: ""She needs a coach who sees her."" · Ariana: ""He listened when they didn't.""",arc-02-panel-storyboard.md
 02,11,11,11.5,Logan's Reason,,," Logan: ""Where you go, I go. I don't need to compete. I need my brother.""",arc-02-panel-storyboard.md
 02,11,11,11.6,TJ's Reason,,FLASH," TJ: ""He singled me out every day. I was getting worse. Ethan was at Kwon's. I followed my friend.""",arc-02-panel-storyboard.md
@@ -195,7 +195,7 @@ arc,chapter,chapter_section,panel_id,title,timeline,tags,dialogue,source_file
 03,34,34b,34.9,Notebook Margin [PRESENT — later],,, *The quiet boy from sparring — pineapple soda after he loses. Remember.,arc-03-panel-storyboard.md
 03,34,34b,34.10,Parking Lot Echo [PRESENT — end of tournament day],,,,arc-03-panel-storyboard.md
 03,34,34,34.1,Results Board [HAIKYUU],,HAIKYUU,,arc-03-panel-storyboard.md
-03,34,34,34.2,Premier Stare,,,,arc-03-panel-storyboard.md
+03,34,34,34.2,Prime Stare,,,,arc-03-panel-storyboard.md
 03,34,34,34.3,Poomsae Ring [TEACH seed],,,,arc-03-panel-storyboard.md
 03,35,35,35.1,Tape Review [TEACH],,TEACH," MV: ""You saw the chamber. Your body remembered. Your feet didn't move.""",arc-03-panel-storyboard.md
 03,35,35,35.2,Scoring Context [TEACH],,TEACH," MV: ""Next time — back kick on the spin. Two points. Their gamble becomes yours.""",arc-03-panel-storyboard.md
@@ -215,19 +215,19 @@ arc,chapter,chapter_section,panel_id,title,timeline,tags,dialogue,source_file
 04,37,37,37.5,New Year's Brag [REAL #25] ★ [FLASH — dojang after winter break],,," Ha-eun: ""Ask him."" · Boy (whisper): ""…What?"" · Ethan (V.O.): *I didn't know if she was bragging. I knew I wasn't supposed to ask.",arc-04-panel-storyboard.md
 04,37,37,37.6,"Bonus Points [REAL #9, #24] [FLASH — belt test callback]",,," Ttong Kim: ""Extra credit for **school spirit**.""",arc-04-panel-storyboard.md
 04,37,37,37.7,Present Snap [PRESENT — Kwon's mats ANCHOR] ★,,," MV: ""You shouldn't be alone with that memory."" · Ethan: ""I thought if I said it once at the tournament, it would leave."" · MV: ""It doesn't leave. You **learn where it lives** so it doesn't drive."" · MV: ""At Kwon's, promotion is timestamped. Same criteria. Boys and girls."" · Ethan: ""She would've had three belts by then."" · MV: ""And you would've had none of the trust that came with them."" · MV: ""Go home. Sleep. Tomorrow we train the **second beat**, not the first wound.""",arc-04-panel-storyboard.md
-04,38,38,38.1,Around Corner [PRESENT — Premier hallway],,FLASH," Parent (O.S.): **""I feel bad for Ethan. You want him to be good at school AND Taekwondo?""** · Ttong Kim (O.S.): *(dismissive laugh)* ""Some kids can't handle both.""",arc-04-panel-storyboard.md
-04,38,38,38.2,Keeps Walking [PRESENT — Premier hallway exit],,, Ethan (V.O.): *School AND taekwondo. They already decided I couldn't.,arc-04-panel-storyboard.md
+04,38,38,38.1,Around Corner [PRESENT — Prime hallway],,FLASH," Parent (O.S.): **""I feel bad for Ethan. You want him to be good at school AND Taekwondo?""** · Ttong Kim (O.S.): *(dismissive laugh)* ""Some kids can't handle both.""",arc-04-panel-storyboard.md
+04,38,38,38.2,Keeps Walking [PRESENT — Prime hallway exit],,, Ethan (V.O.): *School AND taekwondo. They already decided I couldn't.,arc-04-panel-storyboard.md
 04,39,39,39.1,Dismissal [PRESENT trigger + FLASH overlay],,FLASH," Ttong Kim (flash): **""I don't think he has the temperament to become a world-class black belt.""** · Ethan (V.O.): *Because I wouldn't knock people out for 천 원. Because I was **nice**.",arc-04-panel-storyboard.md
 04,39,39,39.2,Bounty Memory [REAL #28] ★ [FLASH inset on PRESENT],,FLASH,,arc-04-panel-storyboard.md
-04,40,40,40.1,Parent Meeting [FLASH — Premier parent night],,FLASH," Ttong Kim: ""Refs cheated you. Other schools buy belts."" · Ethan (V.O.): *Parents nodded. That was the machine.",arc-04-panel-storyboard.md
+04,40,40,40.1,Parent Meeting [FLASH — Prime parent night],,FLASH," Ttong Kim: ""Refs cheated you. Other schools buy belts."" · Ethan (V.O.): *Parents nodded. That was the machine.",arc-04-panel-storyboard.md
 04,40,40,40.2,Finishers Philosophy [REAL #28] [FLASH inset],,FLASH,,arc-04-panel-storyboard.md
 04,41,41,41.1,Loyalty Trap [FLASH + FLASH inset],,FLASH," Ttong Kim: **""You skipped tournaments. I don't know how committed you are.""** · Ttong Kim (flash inset): ""Patience, boys. Belt isn't a race.""",arc-04-panel-storyboard.md
-04,42,42–43,42.1,Girl Bully Returns [REAL #26] ★ [FLASH — Premier dojang],,," Ttong Kim: ""We forgive people who grow. She's family again. No comments.""",arc-04-panel-storyboard.md
+04,42,42–43,42.1,Girl Bully Returns [REAL #26] ★ [FLASH — Prime dojang],,," Ttong Kim: ""We forgive people who grow. She's family again. No comments.""",arc-04-panel-storyboard.md
 04,42,42–43,42.2,"Toughen Up [REAL #7, #26] [FLASH inset]",,FLASH," Ttong Kim (O.S.): ""Boys need to toughen up.""",arc-04-panel-storyboard.md
-04,42,42–43,42.3,Ethan Punished [FLASH — Premier mat],,FLASH," Ttong Kim: ""Don't play hero.""",arc-04-panel-storyboard.md
+04,42,42–43,42.3,Ethan Punished [FLASH — Prime mat],,FLASH," Ttong Kim: ""Don't play hero.""",arc-04-panel-storyboard.md
 04,43,42–43,43.1,Early Promotion Question [REAL #27] [FLASH — younger Ethan],,FLASH," Ethan: ""I scored higher. Why did—""",arc-04-panel-storyboard.md
 04,43,42–43,43.2,With Us or Against Us [REAL #4] [FLASH → PRESENT split],,FLASH," Ttong Kim (flash): **""You are either with us or against us.""** · Ethan (text): *I'm okay. Just old ghosts.",arc-04-panel-storyboard.md
-04,44,44,44.1,Premier Cut [REAL #19] [FLASH — Premier or rumor reach],,FLASH," Ttong Kim: ""Talentless punks and quitters.""",arc-04-panel-storyboard.md
+04,44,44,44.1,Prime Cut [REAL #19] [FLASH — Prime or rumor reach],,FLASH," Ttong Kim: ""Talentless punks and quitters.""",arc-04-panel-storyboard.md
 04,44,44,44.2,Kwon's Tape Review [HAIKYUU + TEACH contrast] [PRESENT — same evening],,," MV: ""What would you do for two points here?"" · Kieryn: ""Body. Turning. Four."" · Logan: ""I'd panic."" · TJ: ""You'd kick.""",arc-04-panel-storyboard.md
 04,44,44,44.3,Ramen After [HAIKYUU] [PRESENT],,HAIKYUU," Logan: ""Food fixes everything."" · Ethan almost agrees.",arc-04-panel-storyboard.md
 04,45,45,45.1,Weaker Grandmother [PRESENT — hospital],,," Grandmother: ""You came back to me. That's enough.""",arc-04-panel-storyboard.md
@@ -316,7 +316,7 @@ arc,chapter,chapter_section,panel_id,title,timeline,tags,dialogue,source_file
 06,85,83–85,85.1,Group Bow [HAIKYUU],,HAIKYUU,,arc-06-panel-storyboard.md
 06,85,83–85,85.2,Ramen Vote [HAIKYUU],,HAIKYUU,,arc-06-panel-storyboard.md
 06,85,83–85,85.3,Bus Window Scale,,,,arc-06-panel-storyboard.md
-06,86,86–90,86.1,Premier-Style School Out [TEACH contrast],,FLASH, Ethan (internal): *That was never the level. We just believed the brochure.,arc-06-panel-storyboard.md
+06,86,86–90,86.1,Prime-Style School Out [TEACH contrast],,FLASH, Ethan (internal): *That was never the level. We just believed the brochure.,arc-06-panel-storyboard.md
 06,87,86–90,87.1,MV Quiet Moment,,,,arc-06-panel-storyboard.md
 06,89,86–90,89.1,Selection Pipeline,,,,arc-06-panel-storyboard.md
 06,90,86–90,90.1,Korea Team Photo,,,,arc-06-panel-storyboard.md
@@ -359,7 +359,7 @@ arc,chapter,chapter_section,panel_id,title,timeline,tags,dialogue,source_file
 07,98,98,98.6,Eliminated on Points [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
 07,99,99,99.0,Finals VS,,,,arc-07-panel-storyboard.md
 07,99,99,99.1,Round 1 Knee Flare [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
-07,99,99,99.2,Round 1 Flash — Premier Empty Corner,,FLASH,,arc-07-panel-storyboard.md
+07,99,99,99.2,Round 1 Flash — Prime Empty Corner,,FLASH,,arc-07-panel-storyboard.md
 07,99,99,99.3,Round 2 Mountain Strike [TEACH + ACTION] ★,,,,arc-07-panel-storyboard.md
 07,99,99,99.4,Round 3 Emperor's Kick [TEACH + ACTION] ★,,FLASH,,arc-07-panel-storyboard.md
 07,99,99,99.5,Selected [HAIKYUU],,HAIKYUU,,arc-07-panel-storyboard.md
@@ -389,13 +389,13 @@ arc,chapter,chapter_section,panel_id,title,timeline,tags,dialogue,source_file
 08,111,111,111.2,National Team Jacket [HAIKYUU],,HAIKYUU," TJ: ""It's a jacket, not a crown."" · Kieryn: ""If you bow slower because of that lanyard I will kick you."" · TJ: *(small smile)* ""Please don't. National team insurance is confusing.""",arc-08-panel-storyboard.md
 08,111,111,111.3,Line Beside Ariana,,,,arc-08-panel-storyboard.md
 08,111,111,111.4,MV Office · SNU Envelope [TEACH],,TEACH," MV: ""You came back first today."" · Ethan: ""Couldn't sleep."" · MV: ""Neither could half the team."" · MV: **""Welcome back to the mat.""",arc-08-panel-storyboard.md
-08,112,112,112.1,Premier Kids at Glass,,," Min-jun: ""We heard TJ made national team.""",arc-08-panel-storyboard.md
+08,112,112,112.1,Prime Kids at Glass,,," Min-jun: ""We heard TJ made national team.""",arc-08-panel-storyboard.md
 08,112,112,112.2,Special Special [HAIKYUU],,HAIKYUU,,arc-08-panel-storyboard.md
 08,112,112,112.3,They See You [HAIKYUU],,HAIKYUU," Ethan: ""Scared is honest. You don't have to perform brave for him.""",arc-08-panel-storyboard.md
 08,112,112,112.4,Why Let Us In,,,,arc-08-panel-storyboard.md
 08,112,112,112.5,Logan Offers Water [HAIKYUU],,HAIKYUU,,arc-08-panel-storyboard.md
 08,112,112,112.6,Not All Jerks,,,,arc-08-panel-storyboard.md
-08,113,113,113.1,Smaller Premier [PREMIER soft],,, *Third dan. I outrank him.,arc-08-panel-storyboard.md
+08,113,113,113.1,Smaller Prime [PRIME soft],,, *Third dan. I outrank him.,arc-08-panel-storyboard.md
 08,113,113,113.2,Through the Glass,,," Ttong Kim: ""Parents paid for excellence, not excuses.""",arc-08-panel-storyboard.md
 08,113,113,113.3,Eyes Meet [HAIKYUU],,HAIKYUU, *Pity isn't forgiveness. It's just… done.,arc-08-panel-storyboard.md
 08,113,113,113.4,Dynasty Sign Wide,,,,arc-08-panel-storyboard.md

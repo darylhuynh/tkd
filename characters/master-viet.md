@@ -1,7 +1,7 @@
 # Master Viet (MV)
 
 **Role:** Head Instructor · Kwon's Taekwondo Academy  
-**Team Function:** Mentor, moral opposite of Premier instructor
+**Team Function:** Mentor, moral opposite of Prime instructor
 
 **Full name:** **Viet Na** (비엣 나) — **first name Viet**, **last name Na**. Written **Viet Na** (not Na Viet). **Everyone calls him Master Viet** — students, parents, signage, story text.
 
@@ -39,7 +39,7 @@
 - **Individual attention** — watches each student, gives specific technical feedback
 - **Complements before correcting** — notices Ethan's perfect form immediately
 - **Asks, doesn't demand** — "Why did you leave?" not "You are with us or against us."
-- **Prepares athletes for competition** — warmups, strategy, corner advice (direct contrast to Premier's *"Go fight."*)
+- **Prepares athletes for competition** — warmups, strategy, corner advice (direct contrast to Prime's *"Go fight."*)
 
 ---
 
@@ -57,8 +57,8 @@
 
 - Calm posture, always **facing students at eye level**
 - Warm dojang lighting when he teaches
-- **Silhouette joke (once):** students expect slow — MV **darts** for a pad catch; contrast Premier instructor looming from a chair
-- Contrast Premier instructor: MV at eye level; Ttong Kim above, turned away, square jaw in shadow
+- **Silhouette joke (once):** students expect slow — MV **darts** for a pad catch; contrast Prime instructor looming from a chair
+- Contrast Prime instructor: MV at eye level; Ttong Kim above, turned away, square jaw in shadow
 
 ---
 

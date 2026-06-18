@@ -56,7 +56,7 @@ Sternum. Two steps. Center line.
 
 **MV**  
 *(to holder)*  
-Lower two inches. He's not Ethan at Premier — he's **here**, and we **coach**.
+Lower two inches. He's not Ethan at Prime — he's **here**, and we **coach**.
 
 Logan breaks on **third** clean punch — not heroic — **correct**.
 
@@ -194,7 +194,7 @@ Then I say it **out loud** until you don't. Go sleep. **Logan** hid a third Fant
 
 | Beat | Purpose |
 |------|---------|
-| Board contrast | Premier silence vs MV correction — plants REAL #24 without full flash |
+| Board contrast | Prime silence vs MV correction — plants REAL #24 without full flash |
 | Mess hall table | Character **Loves** from profiles — situational **dislikes** for comedy |
 | Dorm game | Haikyuu chemistry — Ariana speaks once, lands hardest |
 | Roof optional | Ethan trust — Fanta punchline ties Yuna thread later |

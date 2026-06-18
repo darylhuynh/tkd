@@ -21,7 +21,7 @@ ETHAN_BASE = (
 )
 ETHAN_GEAR = (
     f"{ETHAN_BASE}, full Olympic kyorugi kit white dobok electronic chest hogu headgear "
-    "forearm shin foot guards Premier school patch black belt"
+    "forearm shin foot guards Prime school patch black belt"
 )
 ETHAN_BEDROOM = (
     f"{ETHAN_BASE}, grey sleep tee messy dark blue hair gold headphones on nightstand NOT dobok"
@@ -39,27 +39,27 @@ CH1_NEW_PANELS: dict[str, dict] = {
     "team-bus-arrival": {
         "title": "Team Bus Arrival",
         "scene": (
-            "Premier team van in tournament parking lot at dawn. Kids unloading gear bags. "
+            "Prime team van in tournament parking lot at dawn. Kids unloading gear bags. "
             "**Ethan Hyun** last off, kit bag heavy."
         ),
         "dialogue": "*(none)*",
         "prompt": (
-            f"dawn parking lot Premier team van logo teens unloading taekwondo gear bags, "
+            f"dawn parking lot Prime team van logo teens unloading taekwondo gear bags, "
             f"{ETHAN_GEAR} stepping down last tired expression overcast sky wide establishing shot, "
-            "STYLE: PREMIER"
+            "STYLE: PRIME"
         ),
     },
     "parking-walk": {
         "title": "Parking Walk",
         "scene": (
-            "**Ethan Hyun** walking from lot toward venue with Premier teens in **full kyorugi kits**. "
+            "**Ethan Hyun** walking from lot toward venue with Prime teens in **full kyorugi kits**. "
             "Long empty sidewalk."
         ),
         "dialogue": "*(none)*",
         "prompt": (
             f"{ETHAN_GEAR} walking parking lot sidewalk toward tournament venue entrance "
-            "with Premier teens same full Olympic kyorugi kits gear bags dawn mist desaturated wide shot, "
-            "STYLE: PREMIER"
+            "with Prime teens same full Olympic kyorugi kits gear bags dawn mist desaturated wide shot, "
+            "STYLE: PRIME"
         ),
     },
     "entrance-threshold": {
@@ -72,7 +72,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "prompt": (
             f"tournament venue automatic glass doors banner overhead {ETHAN_GEAR} hesitating on threshold "
             "one foot raised harsh fluorescent light spilling out emotional threshold shot low angle, "
-            "STYLE: PREMIER"
+            "STYLE: PRIME"
         ),
     },
     "gear-check-line": {
@@ -85,7 +85,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "prompt": (
             f"tournament gear check wristband table official scanning athletes queue "
             f"{ETHAN_GEAR} waiting adjusting forearm guard strap fluorescent hallway, "
-            "STYLE: PREMIER"
+            "STYLE: PRIME"
         ),
     },
     "empty-warmup-floor": {
@@ -96,7 +96,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "dialogue": "*(none)*",
         "prompt": (
             f"{ETHAN_GEAR} walking past empty warmup mats no coach teens sitting on gym floor in kyorugi gear "
-            "on phones neglectful atmosphere wide shot, STYLE: PREMIER"
+            "on phones neglectful atmosphere wide shot, STYLE: PRIME"
         ),
     },
     "walking-bleachers": {
@@ -105,7 +105,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "dialogue": "*(none)*",
         "prompt": (
             f"POV climbing metal bleacher steps Olympic chest hogu forearm shin guards in frame "
-            "tournament gymnasium crowd above {ETHAN_GEAR} perspective immersive shot, STYLE: PREMIER"
+            "tournament gymnasium crowd above {ETHAN_GEAR} perspective immersive shot, STYLE: PRIME"
         ),
     },
     "finding-seat": {
@@ -116,7 +116,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "dialogue": "*(none)*",
         "prompt": (
             f"{ETHAN_GEAR} squeezing past seated spectators on metal bleachers finding empty isolated seat "
-            "setting gear bag down awkward polite expression, STYLE: PREMIER"
+            "setting gear bag down awkward polite expression, STYLE: PRIME"
         ),
     },
     "gear-adjustment-alone": {
@@ -128,7 +128,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "dialogue": "*(none)*",
         "prompt": (
             f"close-up {ETHAN_GEAR} alone on bleachers fumbling headgear strap buckle no instructor nearby "
-            "isolated neglectful atmosphere, STYLE: PREMIER"
+            "isolated neglectful atmosphere, STYLE: PRIME"
         ),
     },
     "vending-run": {
@@ -140,7 +140,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "dialogue": "*(none)*",
         "prompt": (
             f"{ETHAN_GEAR} walking tournament concourse vending machines returning to bleachers "
-            "crumpled snack wrapper in hand empty corridor afternoon, STYLE: PREMIER"
+            "crumpled snack wrapper in hand empty corridor afternoon, STYLE: PRIME"
         ),
     },
     "legs-asleep": {
@@ -151,7 +151,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "dialogue": "Ethan (internal): *Come on.*",
         "prompt": (
             f"{ETHAN_GEAR} sitting on bleachers shaking stiff leg pins and needles grimacing "
-            "afternoon wall clock background bored exhausted, STYLE: PREMIER"
+            "afternoon wall clock background bored exhausted, STYLE: PRIME"
         ),
     },
     "corridor-staging": {
@@ -162,7 +162,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "dialogue": "*(none)*",
         "prompt": (
             f"{ETHAN_GEAR} walking crowded tournament corridor toward staging area athletes passing "
-            "tense shoulders afternoon harsh light tracking shot, STYLE: PREMIER"
+            "tense shoulders afternoon harsh light tracking shot, STYLE: PRIME"
         ),
     },
     "staging-line": {
@@ -173,7 +173,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "dialogue": "Official: \"Next.\"",
         "prompt": (
             f"tournament staging line officials checking electronic hogu headgear "
-            f"{ETHAN_GEAR} waiting in queue tense expression gear inspection, STYLE: PREMIER"
+            f"{ETHAN_GEAR} waiting in queue tense expression gear inspection, STYLE: PRIME"
         ),
     },
     "walk-to-ring": {
@@ -182,7 +182,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "dialogue": "*(none)*",
         "prompt": (
             f"{ETHAN_GEAR} walking corridor toward competition floor distant referee whistle "
-            "stiff gait overhead arena lights dramatic depth, STYLE: PREMIER"
+            "stiff gait overhead arena lights dramatic depth, STYLE: PRIME"
         ),
     },
     "ring-threshold": {
@@ -194,7 +194,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "prompt": (
             f"close-up feet stepping over competition ring boundary tape onto mat "
             f"{ETHAN_GEAR} entering ring opponent warming up background low angle threshold moment, "
-            "STYLE: PREMIER"
+            "STYLE: PRIME"
         ),
     },
     "fade-to-black": {
@@ -206,7 +206,7 @@ CH1_NEW_PANELS: dict[str, dict] = {
         "dialogue": "*(silence)*",
         "prompt": (
             f"traumatic fade to black Ethan Hyun falling after head kick silhouette disappearing "
-            "soundless horror muted desaturated vignette closing NOT bedroom yet, STYLE: PREMIER"
+            "soundless horror muted desaturated vignette closing NOT bedroom yet, STYLE: PRIME"
         ),
     },
     "slow-breath": {
@@ -224,12 +224,12 @@ CH1_NEW_PANELS: dict[str, dict] = {
     "window-dawn": {
         "title": "Window Dawn",
         "scene": (
-            "Bedroom window — grey dawn light. **Premier patch** on gear bag on chair — memory object. "
+            "Bedroom window — grey dawn light. **Prime patch** on gear bag on chair — memory object. "
             "**Ethan Hyun** small in bed."
         ),
         "dialogue": "Ethan (internal): *Still here.*",
         "prompt": (
-            f"bedroom window grey dawn light Premier school patch visible on gear bag chair foreground "
+            f"bedroom window grey dawn light Prime school patch visible on gear bag chair foreground "
             f"{ETHAN_BEDROOM} small in bed background quiet aftermath wide shot, STYLE: neutral"
         ),
     },
@@ -293,9 +293,9 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
         },
         {
             "title": "Reading Sign Exterior",
-            "scene": "Close on sign — clean logo, hours, no Premier branding. Ethan reads from sidewalk.",
+            "scene": "Close on sign — clean logo, hours, no Prime branding. Ethan reads from sidewalk.",
             "dialogue": "Ethan (internal): *Different name. Different air.*",
-            "prompt": "Kwon's taekwondo academy exterior sign close-up clean logo warm wood trim no premier branding observer silhouette below, STYLE: KWONS",
+            "prompt": "Kwon's taekwondo academy exterior sign close-up clean logo warm wood trim no Prime branding observer silhouette below, STYLE: KWONS",
         },
         {
             "title": "Stepping Back From Window",
@@ -314,7 +314,7 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
         },
         {
             "title": "Hallway to Shoe Rack",
-            "scene": "Short hallway. Ethan spots shoe cubbies. Pauses at Premier-habit speed.",
+            "scene": "Short hallway. Ethan spots shoe cubbies. Pauses at Prime-habit speed.",
             "prompt": f"{ETHAN_CASUAL} short hallway approaching shoe cubby wall pausing old habit tension, STYLE: KWONS",
         },
         {
@@ -510,7 +510,7 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
         },
         {
             "title": "Shield Pickup",
-            "scene": "Ethan picks up kicking shield — weight familiar from Premier, context different.",
+            "scene": "Ethan picks up kicking shield — weight familiar from Prime, context different.",
             "prompt": f"{ETHAN_DOBOK} picking up large kicking shield familiar weight new peaceful dojang context, STYLE: KWONS",
         },
         {
@@ -712,8 +712,8 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
         },
         {
             "title": "Flash Trigger Doorway",
-            "scene": "Doorway triggers flash — Premier logo ghost. Ethan flinches micro.",
-            "prompt": f"doorway frame triggering memory {ETHAN_DOBOK} micro flinch Premier logo ghost overlay desaturated flash edge, STYLE: PREMIER flash inset",
+            "scene": "Doorway triggers flash — Prime logo ghost. Ethan flinches micro.",
+            "prompt": f"doorway frame triggering memory {ETHAN_DOBOK} micro flinch Prime logo ghost overlay desaturated flash edge, STYLE: PRIME flash inset",
         },
         {
             "title": "Present Feet on Wood",
@@ -731,19 +731,19 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
             "prompt": f"{ETHAN_DOBOK} mopping wooden dojang mat rhythmic stroke {MV} nearby quiet companionship, STYLE: KWONS",
         },
         {
-            "title": "Window Premier Logo Memory",
-            "scene": "Window reflection — Premier logo memory overlay. Ethan blinks it away.",
-            "prompt": f"dojang window reflection Premier logo memory overlay {ETHAN_DOBOK} blinking away returning to present, STYLE: PREMIER flash inset",
+            "title": "Window Prime Logo Memory",
+            "scene": "Window reflection — Prime logo memory overlay. Ethan blinks it away.",
+            "prompt": f"dojang window reflection Prime logo memory overlay {ETHAN_DOBOK} blinking away returning to present, STYLE: PRIME flash inset",
         },
         {
             "title": "Phone Face Down Table",
-            "scene": "Phone face-down on table — Premier spam incoming.",
-            "prompt": "smartphone face-down on table Premier spam notifications vibrating ignored boundary setting, STYLE: KWONS",
+            "scene": "Phone face-down on table — Prime spam incoming.",
+            "prompt": "smartphone face-down on table Prime spam notifications vibrating ignored boundary setting, STYLE: KWONS",
         },
         {
             "title": "Spam Texts Blur",
             "scene": "Spam texts blur on screen edge before Ethan flips phone over.",
-            "prompt": f"smartphone screen edge blurred Premier spam group texts {ETHAN_CASUAL} flipping phone face-down refusal, STYLE: PREMIER soft",
+            "prompt": f"smartphone screen edge blurred Prime spam group texts {ETHAN_CASUAL} flipping phone face-down refusal, STYLE: PRIME soft",
         },
         {
             "title": "Apartment Quiet Wide",
@@ -799,8 +799,8 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
     7: [
         {
             "title": "Young Ethan Doorway Flash",
-            "scene": "**FLASH** — young Ethan in Premier doorway — excited. Smaller frame.",
-            "prompt": "FLASH young Ethan Hyun excited smaller frame Premier dojang doorway enrollment day bright hopeful, STYLE: PREMIER flashback",
+            "scene": "**FLASH** — young Ethan in Prime doorway — excited. Smaller frame.",
+            "prompt": "FLASH young Ethan Hyun excited smaller frame Prime dojang doorway enrollment day bright hopeful, STYLE: PRIME flashback",
         },
         {
             "title": "Present Flinch",
@@ -828,9 +828,9 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
             "prompt": f"{ETHAN_DOBOK} practicing footwork shadow partner on wooden mat focused solitary drill, STYLE: KWONS",
         },
         {
-            "title": "Flash Trophy Shelf Premier",
-            "scene": "**FLASH** — Premier trophy shelf — young Ethan reflected in glass.",
-            "prompt": "FLASH Premier dojang trophy shelf young Ethan Hyun reflection in glass early pride before neglect, STYLE: PREMIER flashback",
+            "title": "Flash Trophy Shelf Prime",
+            "scene": "**FLASH** — Prime trophy shelf — young Ethan reflected in glass.",
+            "prompt": "FLASH Prime dojang trophy shelf young Ethan Hyun reflection in glass early pride before neglect, STYLE: PRIME flashback",
         },
         {
             "title": "Present Fist Unclench Mat",
@@ -864,8 +864,8 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
         },
         {
             "title": "Ghost Flash Fade",
-            "scene": "Premier ghost flash fades — trophy shelf dissolves to Kwon's wood.",
-            "prompt": "Premier trophy flash dissolving into warm Kwon's wooden floor ghost memory fading transition, STYLE: PREMIER to KWONS",
+            "scene": "Prime ghost flash fades — trophy shelf dissolves to Kwon's wood.",
+            "prompt": "Prime trophy flash dissolving into warm Kwon's wooden floor ghost memory fading transition, STYLE: PRIME to KWONS",
         },
         {
             "title": "Present Color Warmer",
@@ -902,73 +902,73 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
         {
             "title": "Hospital Elevator Numbers",
             "scene": "Elevator numbers climb — Ethan watches floor indicator.",
-            "prompt": f"{ETHAN_CASUAL} watching hospital elevator floor numbers climb tense quiet fluorescent, STYLE: PREMIER soft",
+            "prompt": f"{ETHAN_CASUAL} watching hospital elevator floor numbers climb tense quiet fluorescent, STYLE: PRIME soft",
         },
         {
             "title": "Hall Walk to Room",
             "scene": "Ethan walks hall to room — shoes quiet on linoleum.",
-            "prompt": f"{ETHAN_CASUAL} walking hospital corridor toward room quiet linoleum long hallway soft dread, STYLE: PREMIER soft",
+            "prompt": f"{ETHAN_CASUAL} walking hospital corridor toward room quiet linoleum long hallway soft dread, STYLE: PRIME soft",
         },
         {
             "title": "Hand Sanitizer Stop",
             "scene": "Hand sanitizer dispenser — Ethan pauses, pumps twice.",
-            "prompt": f"{ETHAN_CASUAL} pausing at hospital hand sanitizer dispenser pumping twice ritual delay, STYLE: PREMIER soft",
+            "prompt": f"{ETHAN_CASUAL} pausing at hospital hand sanitizer dispenser pumping twice ritual delay, STYLE: PRIME soft",
         },
         {
             "title": "Door Half Open",
             "scene": "Room door half open — warm light inside. Ethan hesitates.",
-            "prompt": f"hospital room door half open warm light inside {ETHAN_CASUAL} hesitating threshold emotional, STYLE: PREMIER soft",
+            "prompt": f"hospital room door half open warm light inside {ETHAN_CASUAL} hesitating threshold emotional, STYLE: PRIME soft",
         },
         {
             "title": "Chair Scrape Sit",
             "scene": "Chair scrape — Ethan sits bedside. Small in room.",
-            "prompt": f"{ETHAN_CASUAL} pulling chair scraping sitting bedside small figure hospital room gentle, STYLE: PREMIER soft",
+            "prompt": f"{ETHAN_CASUAL} pulling chair scraping sitting bedside small figure hospital room gentle, STYLE: PRIME soft",
         },
         {
             "title": "Bedside Table Flowers",
             "scene": "Bedside table — flowers, water cup. Domestic detail in clinical space.",
-            "prompt": "hospital bedside table flowers water cup domestic detail clinical room soft focus background, STYLE: PREMIER soft",
+            "prompt": "hospital bedside table flowers water cup domestic detail clinical room soft focus background, STYLE: PRIME soft",
         },
         {
             "title": "Window Rain Streak",
             "scene": "Window — rain streak. Ethan's reflection layered on glass.",
-            "prompt": f"hospital window rain streaks {ETHAN_CASUAL} reflection layered on glass melancholy wide, STYLE: PREMIER soft",
+            "prompt": f"hospital window rain streaks {ETHAN_CASUAL} reflection layered on glass melancholy wide, STYLE: PRIME soft",
         },
         {
             "title": "Phone Buzz Pocket",
             "scene": "Phone buzzes in pocket — Ethan stiffens. Doesn't look yet.",
-            "prompt": f"{ETHAN_CASUAL} phone buzzing in pocket stiffening not looking yet hospital bedside tension, STYLE: PREMIER soft",
+            "prompt": f"{ETHAN_CASUAL} phone buzzing in pocket stiffening not looking yet hospital bedside tension, STYLE: PRIME soft",
         },
         {
             "title": "Voicemail Waveform",
             "scene": "Phone screen — voicemail waveform. Ttong Kim name visible.",
-            "prompt": "smartphone voicemail waveform playing threatening message screen glow Ethan hand tense hospital, STYLE: PREMIER",
+            "prompt": "smartphone voicemail waveform playing threatening message screen glow Ethan hand tense hospital, STYLE: PRIME",
         },
         {
             "title": "Delete Confirm Thumb",
             "scene": "Delete confirm — thumb hovers, then taps.",
             "dialogue": "Ethan (internal): *Not today.*",
-            "prompt": f"close-up thumb hovering delete voicemail confirm button {ETHAN_CASUAL} decisive tap hospital, STYLE: PREMIER soft",
+            "prompt": f"close-up thumb hovering delete voicemail confirm button {ETHAN_CASUAL} decisive tap hospital, STYLE: PRIME soft",
         },
         {
             "title": "Nurse Shadow Pass",
             "scene": "Nurse shadow passes doorway — Ethan glances, returns to grandmother.",
-            "prompt": f"nurse shadow passing hospital doorway {ETHAN_CASUAL} glancing back to grandmother bedside, STYLE: PREMIER soft",
+            "prompt": f"nurse shadow passing hospital doorway {ETHAN_CASUAL} glancing back to grandmother bedside, STYLE: PRIME soft",
         },
         {
             "title": "Hallway Bench Alone",
             "scene": "Hallway bench — Ethan sits alone after room visit. Head down.",
-            "prompt": f"{ETHAN_CASUAL} sitting alone hospital hallway bench head down exhausted grief quiet, STYLE: PREMIER soft",
+            "prompt": f"{ETHAN_CASUAL} sitting alone hospital hallway bench head down exhausted grief quiet, STYLE: PRIME soft",
         },
         {
             "title": "Bus Stop Wait",
             "scene": "Bus stop — Ethan waits. Rain on hood.",
-            "prompt": f"{ETHAN_CASUAL} waiting at bus stop rain on hoodie hood evening city melancholy, STYLE: PREMIER soft to KWONS",
+            "prompt": f"{ETHAN_CASUAL} waiting at bus stop rain on hoodie hood evening city melancholy, STYLE: PRIME soft to KWONS",
         },
         {
             "title": "Rain on Hood",
             "scene": "Close — raindrops on hood fabric. Breath fog.",
-            "prompt": f"close-up raindrops on hoodie fabric breath fog {ETHAN_CASUAL} cold evening detail shot, STYLE: PREMIER soft",
+            "prompt": f"close-up raindrops on hoodie fabric breath fog {ETHAN_CASUAL} cold evening detail shot, STYLE: PRIME soft",
         },
         {
             "title": "Kwon's Text Glow",
@@ -988,7 +988,7 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
         {
             "title": "Bus Arrival Lights",
             "scene": "Bus arrival lights — Ethan boards. Chapter exhale.",
-            "prompt": f"city bus arrival lights {ETHAN_CASUAL} boarding rain evening transition exhale, STYLE: PREMIER soft to KWONS",
+            "prompt": f"city bus arrival lights {ETHAN_CASUAL} boarding rain evening transition exhale, STYLE: PRIME soft to KWONS",
         },
         {
             "title": "Apartment Window Night",
@@ -999,7 +999,7 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
             "title": "Hospital Exit Wide Dawn",
             "scene": "Wide — hospital exterior dawn breaking. Small figure leaving.",
             "dialogue": "*(none — transition)*",
-            "prompt": "wide shot hospital exterior dawn breaking small teen figure leaving transition hope hard week continues, STYLE: PREMIER soft to KWONS dawn",
+            "prompt": "wide shot hospital exterior dawn breaking small teen figure leaving transition hope hard week continues, STYLE: PRIME soft to KWONS dawn",
         },
     ],
     9: [
@@ -1014,9 +1014,9 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
             "prompt": f"{ETHAN_DOBOK} unlocking smartphone beginning contact scroll nervous hope, STYLE: KWONS",
         },
         {
-            "title": "Premier Names Scroll",
-            "scene": "Contact list — Premier names scroll. Old team.",
-            "prompt": "smartphone contact list scrolling Premier taekwondo team names old connections emotional weight, STYLE: PREMIER soft",
+            "title": "Prime Names Scroll",
+            "scene": "Contact list — Prime names scroll. Old team.",
+            "prompt": "smartphone contact list scrolling Prime taekwondo team names old connections emotional weight, STYLE: PRIME soft",
         },
         {
             "title": "Group Chat Icon",
@@ -1140,7 +1140,7 @@ CH_TRANSITIONS: dict[int, list[dict]] = {
         {
             "title": "Ethan Introducing MV",
             "scene": "**Ethan Hyun** introduces **MV** to arriving team — small gesture.",
-            "prompt": f"{ETHAN_DOBOK} introducing {MV} to arriving Premier teens team bridge gesture warm dojang, STYLE: KWONS HAIKYUU",
+            "prompt": f"{ETHAN_DOBOK} introducing {MV} to arriving Prime teens team bridge gesture warm dojang, STYLE: KWONS HAIKYUU",
         },
         {
             "title": "Team Shoe Line",
@@ -1227,13 +1227,13 @@ OUTFIT_LOCK_TEMPLATE = """## Chapter 1 — Outfit Lock *(copy into every Ch 1 pr
 
 | Context | Character | Locked look |
 |---------|-----------|-------------|
-| **Tournament day** (1.2–1.18 present) | **Ethan Hyun** | 15 · 5'3" · dark blue shadow perm hair · brown eyes · **full Olympic kyorugi kit:** white dobok · electronic chest hogu · headgear · forearm/shin/foot guards · Premier patch · black belt |
-| **Tournament day** | **Ttong Kim** | 38 · 5'8" stocky · square face · **obvious underbite · teeth showing** · **Premier polo + tight black shorts + gold watch** |
+| **Tournament day** (1.2–1.18 present) | **Ethan Hyun** | 15 · 5'3" · dark blue shadow perm hair · brown eyes · **full Olympic kyorugi kit:** white dobok · electronic chest hogu · headgear · forearm/shin/foot guards · Prime patch · black belt |
+| **Tournament day** | **Ttong Kim** | 38 · 5'8" stocky · square face · **obvious underbite · teeth showing** · **Prime polo + tight black shorts + gold watch** |
 | **Tournament day** | **Repeul Kim** | 37 · 5'5" overweight woman · **brown curly hair** · **ugly clashing multicolor casual** · mean sour scowl · **silent · edge of frame** |
 | **Flash enrollment** (1.8) | Ttong + Repeul | Same as tournament street wear (polo/shorts · multicolor casual) |
-| **Flash scrimmage** (1.12 top) | **Ethan Hyun** | White dobok · black belt · Premier patch · forearm/shin guards · **no headgear** · Premier dojang |
+| **Flash scrimmage** (1.12 top) | **Ethan Hyun** | White dobok · black belt · Prime patch · forearm/shin guards · **no headgear** · Prime dojang |
 | **Bedroom** (1.19–1.20) | **Ethan Hyun** | Grey sleep tee · messy dark blue hair · **gold headphones on nightstand** |
-| **Ring opponent** | *(unnamed)* | Taller older Premier teen · **same full kyorugi kit as Ethan** |
+| **Ring opponent** | *(unnamed)* | Taller older Prime teen · **same full kyorugi kit as Ethan** |
 
 **Rule:** Name every recurring character in the **Prompt** line. Attach ref sheet **front** view when batch-generating (Ethan `gear-front`, Ttong `shorts-front`, Repeul `casual-front`)."""
 

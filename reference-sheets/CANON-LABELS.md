@@ -38,7 +38,7 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | Age | 37 |
 | Height | 5'5" (165 cm) |
 | Weight | 230 lbs (104 kg) |
-| Role | Premier — **Ttong Kim's wife** · **background only** |
+| Role | Prime — **Ttong Kim's wife** · **background only** |
 | Hair | Brown, curly, medium-to-long |
 | Outfit | Ugly clashing multicolor casual — always |
 | **Speaks** | **Never** on-page |
@@ -50,7 +50,7 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | Name | **Ttong Kim** |
 | Age | 38 |
 | Rank | 2nd Dan (instructor — not master) |
-| School | Premier Taekwondo Sports Dynasty |
+| School | Prime Taekwondo Sports Dynasty |
 | Height | 5'8"–5'9" stocky |
 | Weight | 198 lbs (90 kg) |
 | Spouse | Repeul Kim (background) |

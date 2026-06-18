@@ -1,7 +1,7 @@
 {
   "title": "Taekwondo Legends",
   "logline": "After leaving a toxic, money-driven school that cares only about the bottom line and their image, Ethan Hyun and five teammates rebuild under Master Viet at Kwon's Taekwondo Academy. Together they chase an impossible dream: qualifying for the Korea U20 National Team.",
-  "story_premise": "Ethan walks into Kwon's Taekwondo Academy with elite technique, a silver letter black belt and scars from an old school. Master Viet doesn't promise miracles - he promises attention. One by one, five friends leave Premier Taekwondo Sports Dynasty's Shadow to follow Ethan.",
+  "story_premise": "Ethan walks into Kwon's Taekwondo Academy with elite technique, a silver letter black belt and scars from an old school. Master Viet doesn't promise miracles - he promises attention. One by one, five friends leave Prime Taekwondo Sports Dynasty's Shadow to follow Ethan.",
   "story_premise_2": "The rivalry stays on the tournament floor — rival schools, national camps, and the long road to Korea. At Kwon's, teammates push each other harder; they don't tear each other down.",
   "genre": [
     "Sports Drama",
@@ -14,7 +14,7 @@
       "num": 1,
       "title": "New Beginnings",
       "chapters": "1–10",
-      "tagline": "Nightmare at Premier. Hope at Kwon's.",
+      "tagline": "Nightmare at Prime. Hope at Kwon's.",
       "href": "arcs/new-beginnings/index.html",
       "available": true
     },
@@ -38,7 +38,7 @@
       "num": 4,
       "title": "Shadow School",
       "chapters": "36–50",
-      "tagline": "Premier doesn't let go easily.",
+      "tagline": "Prime doesn't let go easily.",
       "href": "arcs/shadow-school/index.html",
       "available": true
     },
@@ -553,9 +553,9 @@
       "weight": null,
       "division": null,
       "belt": "2nd Dan (instructor — not master)",
-      "school": "Premier Taekwondo Sports Dynasty",
-      "role": "Antagonist · Premier Taekwondo Sports Dynasty",
-      "faction": "premier",
+      "school": "Prime Taekwondo Sports Dynasty",
+      "role": "Antagonist · Prime Taekwondo Sports Dynasty",
+      "faction": "prime",
       "stats": {},
       "skills": [],
       "portrait": "reference-sheets/output/ttong-kim/casual-front.png",
@@ -610,7 +610,7 @@
       "belt": null,
       "school": null,
       "role": "Background · Ttong's wife (never speaks)",
-      "faction": "premier",
+      "faction": "prime",
       "stats": {},
       "skills": [],
       "portrait": "reference-sheets/output/repeul-kim/casual-front.png",
