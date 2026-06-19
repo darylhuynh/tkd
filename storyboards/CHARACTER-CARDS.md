@@ -99,7 +99,7 @@ Tag in storyboard: `[CARD]` · Panel ID `XX.0` or `XX.C1` / `XX.C2`.
 | Ch | Panel | Who | Type |
 |----|-------|-----|------|
 | 1 | 1.13a-T | Ttong Kim | Prime intro ★ |
-| 1 | 1.13a-R | Yeo Woo Kim | Background intro ★ (no dan) |
+| 1 | 1.13a-R | Yeo Woo Kim | Background intro ★ (1st Dan) |
 | 1 | 3.4 | Ethan | Intro (optional — nightmare first) |
 | 3 | 3.4 | Ethan | First Kwon's intro ★ |
 | 21 | 21.0 | Full team | Team roster montage (6 cards) |
@@ -203,7 +203,7 @@ TTONG KIM · Age 38 · 5'8" · 198 lbs
 ### Yeo Woo Kim — Ch 1 (1.13a-R)
 ```
 YEO WOO KIM · Age 37 · 5'5" · 265 lbs
-Prime (background)
+1st Dan · Prime (background)
 ```
 
 ---

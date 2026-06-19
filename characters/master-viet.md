@@ -18,6 +18,8 @@
 | Title | Master / Head Coach |
 | School | Kwon's Taekwondo Academy |
 | Height | **5'8"–5'9"** (~173–175 cm) |
+| Weight | **200 lbs** (~91 kg) |
+| Belt rank | **5th Dan** |
 | Build | **Soft / stocky** — visible belly; does **not** read as athlete at first glance |
 | Hair color | Black |
 | Hair style | Short, wavy |

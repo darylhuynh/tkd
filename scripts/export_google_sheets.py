@@ -497,7 +497,9 @@ def export_character_cards() -> None:
                         ("Called", "Master Viet"),
                         ("School", "Kwon's Taekwondo Academy (head coach)"),
                         ("Age", "Mid 40s"),
-                        ("Height", "5'8\" (173 cm)"),
+                        ("Height", "5'8\"–5'9\" (173–175 cm)"),
+                        ("Weight", "200 lbs (91 kg)"),
+                        ("Belt", "5th Dan"),
                         ("Build", "Chubby · kind small eyes"),
                         ("Rank", "Master (Kwon's)"),
                     ],
@@ -552,6 +554,7 @@ def export_character_cards() -> None:
                         ("Age", "37"),
                         ("Height", "5'5\" (165 cm)"),
                         ("Weight", "265 lbs (120 kg)"),
+                        ("Belt", "1st Dan"),
                         ("Hair color", "Brown"),
                         ("Hair style", "Curly, medium-to-long (half-up claw clip)"),
                         ("Role", "Ttong Kim's wife — silent background"),
@@ -561,7 +564,7 @@ def export_character_cards() -> None:
                 (
                     "FIGHTER CARD TEXT",
                     [
-                        ("Copy-paste", "YEO WOO KIM · Age 37 · 5'5\" · 265 lbs · Prime (background)"),
+                        ("Copy-paste", "YEO WOO KIM · Age 37 · 5'5\" · 265 lbs · 1st Dan · Prime (background)"),
                     ],
                 ),
             ],

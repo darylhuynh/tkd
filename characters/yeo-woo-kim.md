@@ -15,6 +15,7 @@
 | Age | **37** (series start) |
 | Height | **5'5"** (~165 cm) — average |
 | Weight | **265 lbs** (120 kg) |
+| Belt rank | **1st Dan** |
 | Build | **Pretty overweight** — soft round figure, not athletic |
 | Hair color | Brown |
 | Hair style | Curly, medium-to-long (half-up claw clip) |
@@ -38,7 +39,7 @@
 |------|--------|
 | **Dialogue** | **None** — no speech bubbles, no named lines, no internal monologue |
 | **Screen time** | Background in **most scenes that include Ttong Kim** at Prime (tournament floor edge, parent meetings, VIP handoffs, dojang front desk) |
-| **Intro** | **One brief stat-card beat** paired with Ttong Kim's intro — age, height, weight, role only — then she stays silent |
+| **Intro** | **One brief stat-card beat** paired with Ttong Kim's intro — age, height, weight, **1st Dan**, role only — then she stays silent |
 | **Focus** | Never center-framed for plot; edge of panel, behind counter, on bleachers with purse — **mean scowl**, mouth closed |
 
 ---

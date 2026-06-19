@@ -30,8 +30,10 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | Called | **Master Viet** |
 | Age | Mid 40s |
 | Height | 5'8"–5'9" |
+| Weight | 200 lbs (~91 kg) |
 | Hair color | Black |
 | Hair style | Short, wavy |
+| Belt | **5th Dan** |
 | School | Kwon's Taekwondo Academy (head coach) |
 | **NOT** | Na Viet · Master Na |
 
@@ -42,6 +44,7 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | Age | 37 |
 | Height | 5'5" (165 cm) |
 | Weight | 265 lbs (120 kg) |
+| Belt | **1st Dan** |
 | Hair color | Brown |
 | Hair style | Curly, medium-to-long (half-up claw clip) |
 | Role | Prime — **Ttong Kim's wife** · **background only** |

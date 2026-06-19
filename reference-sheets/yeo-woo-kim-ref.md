@@ -15,6 +15,8 @@ Append: `NO TEXT NO LETTERS NO NAME TAGS NO STAT SHEET NO QUOTES NO SPEECH BUBBL
 | Sex | **Female** — **wife of Ttong Kim** |
 | Age | 37 |
 | Height | 5'5" |
+| Weight | 265 lbs (120 kg) |
+| Belt | **1st Dan** |
 | Build | Pretty overweight — soft round, not athletic |
 | Hair | Brown, curly, medium-to-long |
 | Outfit | **Always casual** — ugly clashing multicolor fashion only |

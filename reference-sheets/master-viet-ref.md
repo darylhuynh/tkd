@@ -17,6 +17,8 @@
 | Full name | **Viet Na** |
 | Age | Mid 40s |
 | Height | 5'8"–5'9" |
+| Weight | 200 lbs (~91 kg) |
+| Belt | **5th Dan** |
 | Build | Chubby — round belly; not athletic-looking |
 | Face | Kind, **small eyes**, warm expression |
 
