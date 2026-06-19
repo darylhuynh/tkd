@@ -1,6 +1,6 @@
 # Ttong Kim
 
-**Role:** Antagonist (institutional) · Former Head of Prime Taekwondo Sports Dynasty  
+**Role:** Imposter syndrome · Narcissist · Instructor posing as a Master  
 **Team Function:** Embodies toxic coaching — not a final boss fight, a system to outgrow
 
 ---

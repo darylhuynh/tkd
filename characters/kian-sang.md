@@ -1,6 +1,6 @@
 # Kian Sang
 
-**Role:** Internal Challenger · The Storm / Wild Card  
+**Role:** Apple in Daddy's Eye · Wildcard  
 **Team Function:** Friendly rival to Ethan — mutual push, zero betrayal
 
 ---

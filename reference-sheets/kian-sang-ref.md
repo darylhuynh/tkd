@@ -1,6 +1,6 @@
 # Kian Sang — Reference Sheet
 
-**Role:** Internal challenger · The Storm / Wild Card  
+**Role:** Apple in Daddy's Eye · Wildcard  
 **Sources:** Google Sheet tab **Kian Sang** · [`source-csv/Kian-Sang.csv`](./source-csv/Kian-Sang.csv) · [`characters/kian-sang.md`](../characters/kian-sang.md)
 
 ---

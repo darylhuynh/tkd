@@ -59,6 +59,7 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | Age | 38 |
 | Rank | 2nd Dan (instructor — not master) |
 | School | Prime Taekwondo Sports Dynasty |
+| Role | **Imposter syndrome · Narcissist · Instructor posing as a Master** |
 | Height | 5'8"–5'9" stocky |
 | Weight | 198 lbs (90 kg) |
 | Hair color | Black |

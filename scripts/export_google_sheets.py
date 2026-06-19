@@ -401,7 +401,7 @@ def export_character_cards() -> None:
                         ("Weight", "108 lbs (49 kg)"),
                         ("Division", "Junior −49 kg"),
                         ("Belt Rank", "2nd Dan"),
-                        ("Role", "Internal Challenger · The Storm"),
+                        ("Role", "Apple in Daddy's Eye · Wildcard"),
                     ],
                 ),
                 (
@@ -529,7 +529,7 @@ def export_character_cards() -> None:
                         ("Weight", "198 lbs (90 kg)"),
                         ("Claimed title", "Master"),
                         ("Actual rank", "2nd Dan — Instructor level"),
-                        ("Role", "Antagonist (institutional)"),
+                        ("Role", "Imposter syndrome · Narcissist · Instructor posing as a Master"),
                     ],
                 ),
                 (
