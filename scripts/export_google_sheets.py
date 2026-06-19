@@ -551,7 +551,9 @@ def export_character_cards() -> None:
                         ("School", "Prime (background only)"),
                         ("Age", "37"),
                         ("Height", "5'5\" (165 cm)"),
-                        ("Weight", "230 lbs (104 kg)"),
+                        ("Weight", "265 lbs (120 kg)"),
+                        ("Hair color", "Brown"),
+                        ("Hair style", "Curly, medium-to-long (half-up claw clip)"),
                         ("Role", "Ttong Kim's wife — silent background"),
                         ("Speaks", "NEVER on-page"),
                     ],
@@ -559,7 +561,7 @@ def export_character_cards() -> None:
                 (
                     "FIGHTER CARD TEXT",
                     [
-                        ("Copy-paste", "REPEUL KIM · Age 37 · 5'5\" · 230 lbs · Prime (background)"),
+                        ("Copy-paste", "YEO WOO KIM · Age 37 · 5'5\" · 265 lbs · Prime (background)"),
                     ],
                 ),
             ],

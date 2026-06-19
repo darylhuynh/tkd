@@ -15,6 +15,8 @@
 | Weight | 95 lbs (43.1 kg) |
 | Division | Junior −45 kg |
 | Belt Rank | **3rd Dan** (**silver-letter** black belt — only one at Kwon's) |
+| Hair color | Navy blue (cobalt blue-black in art) |
+| Hair style | Korean shadow perm, slightly messy |
 
 ---
 

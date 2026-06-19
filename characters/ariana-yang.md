@@ -16,6 +16,8 @@
 | Weight | 92 lbs (42 kg) |
 | Division | Junior −42 kg |
 | Belt Rank | 2nd Dan |
+| Hair color | Black with red streaks |
+| Hair style | Chin-length bob, blunt bangs |
 
 ---
 

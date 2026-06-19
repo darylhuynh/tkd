@@ -19,6 +19,8 @@
 | School | Kwon's Taekwondo Academy |
 | Height | **5'8"–5'9"** (~173–175 cm) |
 | Build | **Soft / stocky** — visible belly; does **not** read as athlete at first glance |
+| Hair color | Black |
+| Hair style | Short, wavy |
 
 ---
 

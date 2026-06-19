@@ -15,6 +15,8 @@
 | Weight | 84 lbs (38 kg) |
 | Division | Cadet −41 kg |
 | Belt Rank | 2nd Dan |
+| Hair color | Dark blue |
+| Hair style | Bowl cut |
 
 ---
 

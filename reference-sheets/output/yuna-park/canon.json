@@ -6,6 +6,8 @@
   "weight": "115 lbs",
   "discipline": "Poomsae",
   "belt": "2nd Dan (poomsae)",
+  "hair_color": "Black",
+  "hair_style": "Long ponytail",
   "poomsae_uniform": "white top black v-neck, dark blue pants, black belt",
   "source": "characters/yuna-park.md",
   "files": {

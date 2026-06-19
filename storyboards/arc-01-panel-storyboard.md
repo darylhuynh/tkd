@@ -661,12 +661,12 @@ red accent bar STYLE CARD STYLE PRIME
 
 ---
 ### Panel 1.36 — [CARD] Yeo Woo Kim Intro ★
-**Scene:** Fighter card — **Age 37 · Ht 5'5" · Wt 230 lbs · Prime (staff)**. Multicolor casual, mean scowl. **Never speaks.**
+**Scene:** Fighter card — **Age 37 · Ht 5'5" · Wt 265 lbs · Prime (staff)**. Multicolor casual, mean scowl. **Never speaks.**
 
 **Prompt:**
 ```
 manhwa fighter profile card Yeo Woo Kim brown curls multicolor floral ugly casual mean scowl,
-stat block Age 37 Height 5'5 Weight 230 lbs Prime staff,
+stat block Age 37 Height 5'5 Weight 265 lbs Prime staff,
 red-grey accent bar STYLE CARD STYLE PRIME
 ```
 

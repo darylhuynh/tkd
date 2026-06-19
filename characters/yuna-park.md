@@ -15,6 +15,8 @@
 | Weight | 115 lbs (52 kg) |
 | Discipline | **Poomsae** (forms) — not Olympic spar roster at Kwon's |
 | Belt Rank | 2nd Dan (poomsae) |
+| Hair color | Black |
+| Hair style | Long ponytail |
 | Personality | Calm, observant, elegant under pressure |
 
 ---

@@ -17,6 +17,8 @@
 | Weight | 108 lbs (49 kg) |
 | Division | Cadet −49 kg |
 | Belt Rank | 2nd Dan |
+| Hair color | Teal with purple streaks |
+| Hair style | Asymmetrical bob |
 
 ---
 

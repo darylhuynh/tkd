@@ -15,6 +15,8 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | Age | 15 |
 | Height | 5'3" (160 cm) |
 | Weight | 95 lbs (43 kg) |
+| Hair color | Navy blue |
+| Hair style | Korean shadow perm, slightly messy |
 | Division | Junior −45 kg |
 | Belt | 3rd Dan (**silver-letter** black belt — only at Kwon's) |
 | School | Kwon's Taekwondo Academy |
@@ -28,6 +30,8 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | Called | **Master Viet** |
 | Age | Mid 40s |
 | Height | 5'8"–5'9" |
+| Hair color | Black |
+| Hair style | Short, wavy |
 | School | Kwon's Taekwondo Academy (head coach) |
 | **NOT** | Na Viet · Master Na |
 
@@ -37,9 +41,10 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | Name | **Yeo Woo Kim** |
 | Age | 37 |
 | Height | 5'5" (165 cm) |
-| Weight | 230 lbs (104 kg) |
+| Weight | 265 lbs (120 kg) |
+| Hair color | Brown |
+| Hair style | Curly, medium-to-long (half-up claw clip) |
 | Role | Prime — **Ttong Kim's wife** · **background only** |
-| Hair | Brown, curly, medium-to-long |
 | Outfit | Ugly clashing multicolor casual — always |
 | **Speaks** | **Never** on-page |
 | **NOT** | Reple · Rebekah · Rachel · fighter rank · dan belt |
@@ -53,6 +58,8 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | School | Prime Taekwondo Sports Dynasty |
 | Height | 5'8"–5'9" stocky |
 | Weight | 198 lbs (90 kg) |
+| Hair color | Black |
+| Hair style | Short, neat |
 | Spouse | Yeo Woo Kim (background) |
 | **NOT** | Master rank · 4th Dan |
 
@@ -67,6 +74,8 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | Age | 15 |
 | Height | 5'11" (180 cm) |
 | Weight | 150 lbs (68 kg) |
+| Hair color | Teal |
+| Hair style | Short with white headband |
 | Division | Junior −68 kg |
 | Belt | 3rd Dan |
 | School | Kwon's Taekwondo Academy |
@@ -80,6 +89,8 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | Age | 13 |
 | Height | 5'8" (173 cm) |
 | Weight | 108 lbs (49 kg) |
+| Hair color | Teal with purple streaks |
+| Hair style | Asymmetrical bob |
 | Division | Cadet −49 kg |
 | Belt | 2nd Dan |
 | School | Kwon's Taekwondo Academy |
@@ -94,6 +105,8 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | Age | 13 |
 | Height | 4'10" (147 cm) |
 | Weight | 84 lbs (38 kg) |
+| Hair color | Dark blue |
+| Hair style | Bowl cut |
 | Division | Cadet −41 kg |
 | Belt | 2nd Dan |
 | School | Kwon's Taekwondo Academy |

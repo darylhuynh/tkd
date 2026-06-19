@@ -15,7 +15,10 @@
 | Actual rank | **2nd Dan — Instructor level** (not master) |
 | School | Prime Taekwondo Sports Dynasty |
 | Height | **5'8"–5'9"** (~173–175 cm) |
+| Weight | **198 lbs** (90 kg) |
 | Build | **Slightly stocky** — thick neck, squared shoulders, solid torso; not lean, not bodybuilder |
+| Hair color | Black |
+| Hair style | Short, neat |
 
 Ethan Hyun (3rd Dan) **technically outranks him.**
 

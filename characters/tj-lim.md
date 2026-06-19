@@ -15,6 +15,8 @@
 | Weight | 150 lbs (68 kg) |
 | Division | Junior −68 kg |
 | Belt Rank | 3rd Dan |
+| Hair color | Teal |
+| Hair style | Short with white headband |
 
 ---
 

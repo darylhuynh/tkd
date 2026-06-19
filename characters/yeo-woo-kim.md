@@ -14,8 +14,10 @@
 | School | Prime Taekwondo Sports Dynasty (always on-site with him) |
 | Age | **37** (series start) |
 | Height | **5'5"** (~165 cm) — average |
+| Weight | **265 lbs** (120 kg) |
 | Build | **Pretty overweight** — soft round figure, not athletic |
-| Hair | **Brown**, **curly**, medium-to-long (past shoulders when loose) |
+| Hair color | Brown |
+| Hair style | Curly, medium-to-long (half-up claw clip) |
 
 ---
 

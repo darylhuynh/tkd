@@ -115,7 +115,7 @@ Won every scrimmage last month.
 
 **TTONG KIM · Age 38 · 5'8" · 198 lbs · 2nd Dan · Prime**
 
-**REPEUL KIM · Age 37 · 5'5" · 230 lbs · Prime (background)**
+**YEO WOO KIM · Age 37 · 5'5" · 265 lbs · Prime (background)**
 
 **[END SCENE 4]**
 

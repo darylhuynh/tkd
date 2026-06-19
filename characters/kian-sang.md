@@ -16,6 +16,8 @@
 | Weight | 108 lbs (49 kg) |
 | Division | Junior −49 kg |
 | Belt Rank | 2nd Dan |
+| Hair color | White/silver |
+| Hair style | Low taper fade |
 
 ---
 

@@ -150,7 +150,7 @@ Use **single card** with Role instead of Division/Dan when the character does no
 | Name | Age | Height | Weight | Role | School |
 |------|-----|--------|--------|------|--------|
 | **Ttong Kim** | 38 | 5'8" (173 cm) | 198 lb (90 kg) | 2nd Dan instructor | Prime |
-| **Yeo Woo Kim** | 37 | 5'5" (165 cm) | 230 lb (104 kg) | Background (spouse) | Prime |
+| **Yeo Woo Kim** | 37 | 5'5" (165 cm) | 265 lb (120 kg) | Background (spouse) | Prime |
 
 **Yeo Woo Kim:** Post-production only — **no dialogue bubbles ever.**
 
@@ -202,7 +202,7 @@ TTONG KIM · Age 38 · 5'8" · 198 lbs
 
 ### Yeo Woo Kim — Ch 1 (1.13a-R)
 ```
-REPEUL KIM · Age 37 · 5'5" · 230 lbs
+YEO WOO KIM · Age 37 · 5'5" · 265 lbs
 Prime (background)
 ```
 

@@ -289,6 +289,8 @@ def load_canon_character(canon_path: Path) -> dict:
         "weight": data.get("weight"),
         "division": data.get("division") or data.get("discipline"),
         "belt": data.get("belt") or data.get("rank"),
+        "hair_color": data.get("hair_color"),
+        "hair_style": data.get("hair_style"),
         "school": data.get("school"),
         "role": ROLE.get(cid) or parse_role_from_md(cid) or data.get("role", ""),
         "faction": FACTION.get(cid, "rival" if cid in OPPONENT_IDS else "kwons"),

@@ -23,7 +23,7 @@ let siteData = null;
 let activeFilter = "all";
 
 async function loadSiteData() {
-  const res = await fetch("data/site.json?v=5");
+  const res = await fetch("data/site.json?v=6");
   if (!res.ok) throw new Error("Failed to load site data");
   siteData = await res.json();
 }
@@ -206,6 +206,8 @@ function renderCards() {
             statChip("Wt", char.weight),
             statChip("Div", char.division),
             statChip("Dan", char.belt),
+            statChip("Hair", char.hair_color),
+            statChip("Style", char.hair_style),
           ].filter(Boolean)),
           el("div", { className: "fighter-card-mid" }, [
             radar ? el("div", { className: "fighter-radar-wrap" }, [radar]) : null,
@@ -279,6 +281,8 @@ function openFighterModal(char) {
       statChip("Weight", char.weight),
       statChip("Division", char.division),
       statChip("Dan / Rank", char.belt),
+      statChip("Hair color", char.hair_color),
+      statChip("Hair style", char.hair_style),
     ].filter(Boolean)),
     el("div", { className: "modal-mid" }, [
       radar ? el("div", { className: "fighter-radar-wrap fighter-radar-wrap--modal" }, [radar]) : null,
