@@ -9,7 +9,7 @@
 
 ## CAST
 
-Full Kwon's roster · **Ttong Kim** in flashbacks only · **Repeul Kim** optional silent background in Prime flash crowd
+Full Kwon's roster · **Ttong Kim** in flashbacks only · **Yeo Woo Kim** optional silent background in Prime flash crowd
 
 ---
 

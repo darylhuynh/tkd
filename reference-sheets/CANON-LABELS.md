@@ -31,10 +31,10 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | School | Kwon's Taekwondo Academy (head coach) |
 | **NOT** | Na Viet · Master Na |
 
-### Repeul Kim
+### Yeo Woo Kim
 | Field | Value |
 |-------|-------|
-| Name | **Repeul Kim** |
+| Name | **Yeo Woo Kim** |
 | Age | 37 |
 | Height | 5'5" (165 cm) |
 | Weight | 230 lbs (104 kg) |
@@ -53,7 +53,7 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | School | Prime Taekwondo Sports Dynasty |
 | Height | 5'8"–5'9" stocky |
 | Weight | 198 lbs (90 kg) |
-| Spouse | Repeul Kim (background) |
+| Spouse | Yeo Woo Kim (background) |
 | **NOT** | Master rank · 4th Dan |
 
 ---

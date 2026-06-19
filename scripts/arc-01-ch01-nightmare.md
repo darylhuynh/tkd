@@ -14,10 +14,10 @@
 | Character | Notes |
 |-----------|--------|
 | **Ethan Hyun** | 15 — dark blue shadow perm — — black belt |
-| **Ttong Kim** | Instructor — tight shorts — predatory grin — **Repeul Kim** silent in background (ugly multicolor, mean scowl) |
+| **Ttong Kim** | Instructor — tight shorts — predatory grin — **Yeo Woo Kim** silent in background (ugly multicolor, mean scowl) |
 | **Prime kids / parents** | Crowd — favored students get warmth |
 | **Opponent** | Older, taller — open bracket energy |
-| **Repeul Kim** | Background only — never speaks |
+| **Yeo Woo Kim** | Background only — never speaks |
 
 ---
 
@@ -53,7 +53,7 @@ Ethan's finger on his name. Internal clock starts.
 **ETHAN (V.O.)** 
 Seven hours.
 
-Wide shot: twenty-plus Prime kids in gear. **Ttong Kim** at far end — coffee with parents — **Repeul Kim** at the edge of the cluster, arms folded, sour face — silent.
+Wide shot: twenty-plus Prime kids in gear. **Ttong Kim** at far end — coffee with parents — **Yeo Woo Kim** at the edge of the cluster, arms folded, sour face — silent.
 
 No mats in use. No warmup. No instructor eyes on fighters.
 
@@ -76,7 +76,7 @@ Same dojang. Different price tag.
 **Montage logic:** One **PRESENT** tournament day on bleachers, interrupted by **FLASH** inserts that explain *why* Ethan is ignored. See [STORYBOARD-CLARITY-GUIDE.md](../storyboards/STORYBOARD-CLARITY-GUIDE.md) § Nightmare Montage.
 
 **ACTION — 1.8 [FLASH — dojang enrollment]:** 
-Check to **Ttong Kim**. VIP brochure. **Repeul Kim** behind him — brochure stack — blank mean stare. **Favored kid** at frame edge (not Ethan).
+Check to **Ttong Kim**. VIP brochure. **Yeo Woo Kim** behind him — brochure stack — blank mean stare. **Favored kid** at frame edge (not Ethan).
 
 **TTONG KIM** *(to VIP parent)* 
 We'll take good care of **him**.
@@ -127,7 +127,7 @@ Won every scrimmage last month.
 **ACTION:** 
 Staging area. **Ttong Kim** holds **1,000 won** up for Prime black belts.
 
-**Repeul Kim** blurred at his shoulder — multicolor disaster — scowl.
+**Yeo Woo Kim** blurred at his shoulder — multicolor disaster — scowl.
 
 **TTONG KIM** 
 One thousand won if you knock them out. Black belt doesn't mean nice — it means you finish them.
@@ -202,7 +202,7 @@ Not again.
 ### Palette
 - **STYLE: PRIME** — grey bleachers, sick fluorescents, clock motif (7:04 → 2:47 → 3:12)
 
-### Repeul Kim rules
+### Yeo Woo Kim rules
 - Background in Scenes 2–5 only — **no dialogue**
 - Ugly multicolor casual · mean scowl · edge of frame
 
@@ -217,7 +217,7 @@ Not again.
 | Panel ID | Scene | Key visual |
 |----------|-------|------------|
 | 1.3 | Bracket shock | −45kg · 3:12 PM |
-| 1.4 | Wide neglect | Repeul at parent cluster |
+| 1.4 | Wide neglect | Yeo Woo at parent cluster |
 | 1.8 | VIP check | Hands + brochure |
 | 1.13b | KO bounty | 1,000 won · *too soft* |
 | 1.14 | Go fight | First close contact all day |

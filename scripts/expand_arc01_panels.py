@@ -1229,13 +1229,13 @@ OUTFIT_LOCK_TEMPLATE = """## Chapter 1 — Outfit Lock *(copy into every Ch 1 pr
 |---------|-----------|-------------|
 | **Tournament day** (1.2–1.18 present) | **Ethan Hyun** | 15 · 5'3" · dark blue shadow perm hair · brown eyes · **full Olympic kyorugi kit:** white dobok · electronic chest hogu · headgear · forearm/shin/foot guards · · black belt |
 | **Tournament day** | **Ttong Kim** | 38 · 5'8" stocky · square face · **obvious underbite · teeth showing** · **Prime polo + tight black shorts + gold watch** |
-| **Tournament day** | **Repeul Kim** | 37 · 5'5" overweight woman · **brown curly hair** · **ugly clashing multicolor casual** · mean sour scowl · **silent · edge of frame** |
-| **Flash enrollment** (1.8) | Ttong + Repeul | Same as tournament street wear (polo/shorts · multicolor casual) |
+| **Tournament day** | **Yeo Woo Kim** | 37 · 5'5" overweight woman · **brown curly hair** · **ugly clashing multicolor casual** · mean sour scowl · **silent · edge of frame** |
+| **Flash enrollment** (1.8) | Ttong + Yeo Woo | Same as tournament street wear (polo/shorts · multicolor casual) |
 | **Flash scrimmage** (1.12 top) | **Ethan Hyun** | White dobok · black belt · · forearm/shin guards · **no headgear** · Prime dojang |
 | **Bedroom** (1.19–1.20) | **Ethan Hyun** | Grey sleep tee · messy dark blue hair · **gold headphones on nightstand** |
 | **Ring opponent** | *(unnamed)* | Taller older Prime teen · **same full kyorugi kit as Ethan** |
 
-**Rule:** Name every recurring character in the **Prompt** line. Attach ref sheet **front** view when batch-generating (Ethan `gear-front`, Ttong `shorts-front`, Repeul `casual-front`)."""
+**Rule:** Name every recurring character in the **Prompt** line. Attach ref sheet **front** view when batch-generating (Ethan `gear-front`, Ttong `shorts-front`, Yeo Woo `casual-front`)."""
 
 
 def parse_storyboard(text: str) -> tuple[str, dict[int, list[dict]]]:

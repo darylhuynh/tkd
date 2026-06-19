@@ -96,7 +96,7 @@ watermark, speech bubble text, low quality, chibi unless specified
 
 1. **Canon name** — `Ethan Hyun`, `Ttong Kim`, `Master Viet` (not "instructor").
 2. **Locked outfit for the scene** — e.g. Ch 1 tournament = Ethan **full Olympic kyorugi kit**; Ttong **Prime polo + tight black shorts + gold watch**; bedroom = Ethan **grey sleep tee, no dobok**.
-3. **Same hair/build tags** every time — Ethan's **dark blue shadow perm**, Ttong's **underbite**, Repeul's **brown curls + multicolor casual**.
+3. **Same hair/build tags** every time — Ethan's **dark blue shadow perm**, Ttong's **underbite**, Yeo Woo's **brown curls + multicolor casual**.
 4. **Reference sheet attach** when batch-generating — see [P0-MANIFEST](../reference-sheets/P0-MANIFEST.md).
 
 **Chapter outfit locks:** Arc 1 Ch 1 table in [arc-01-panel-storyboard.md](./arc-01-panel-storyboard.md#chapter-1--outfit-lock-copy-into-every-ch-1-prompt).
@@ -107,7 +107,7 @@ watermark, speech bubble text, low quality, chibi unless specified
 
 ## Character Prompt Fragments
 
-See [Arc 1 storyboard](./arc-01-panel-storyboard.md) for Ethan, MV, Ttong Kim, Repeul Kim, Grandmother.
+See [Arc 1 storyboard](./arc-01-panel-storyboard.md) for Ethan, MV, Ttong Kim, Yeo Woo Kim, Grandmother.
 
 **Reference sheets (turnarounds):** [reference-sheets/](../reference-sheets/README.md) · [P0-MANIFEST](../reference-sheets/P0-MANIFEST.md) — **P0–P2 complete**; attach refs per manifest when batch panel gen.
 
@@ -119,7 +119,7 @@ See [Arc 1 storyboard](./arc-01-panel-storyboard.md) for Ethan, MV, Ttong Kim, R
 | **Kian Sang** | teen 15, **half korean half indian**, white silver hair, dark brown skin, lean, intense |
 | **Ariana Yang** | teen girl 15, black red streak bob, bandages on arms, stoic |
 | **Yuna Park** (poomsae) | teen girl 15–17, long black ponytail · poomsae dobok · epilogue: SNU casual + friendship ring |
-| **Repeul Kim** (background) | overweight 5'5" woman, brown curls, ugly multicolor casual, **mean scowl** — **never speaks** · beside Ttong at Prime |
+| **Yeo Woo Kim** (background) | overweight 5'5" woman, brown curls, ugly multicolor casual, **mean scowl** — **never speaks** · beside Ttong at Prime |
 
 ---
 

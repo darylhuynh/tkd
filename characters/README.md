@@ -14,7 +14,7 @@ All main characters use **Korean surnames.**
 | [ariana-yang.md](./ariana-yang.md) | Ariana Yang — Workhorse |
 | [master-viet.md](./master-viet.md) | **Viet Na** (first name Viet, last name Na) — known as **Master Viet** |
 | [ttong-kim.md](./ttong-kim.md) | Ttong Kim — Prime antagonist |
-| [repeul-kim.md](./repeul-kim.md) | Repeul Kim — Ttong's wife · background only · no dialogue |
+| [yeo-woo-kim.md](./yeo-woo-kim.md) | Yeo Woo Kim — Ttong's wife · background only · no dialogue |
 | [yuna-park.md](./yuna-park.md) | Yuna Park — Poomsae / love interest |
 | [kim-min-ho.md](./kim-min-ho.md) | Kim Min-ho — U20 opponent (Ch 98) |
 | [han-do-won.md](./han-do-won.md) | Han Do-won — U20 finals opponent (Ch 99) |

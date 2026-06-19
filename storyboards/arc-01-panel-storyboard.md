@@ -47,7 +47,7 @@ blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless 
 | **Master Viet** | **Viet Na** — chubby 5'8", kind small eyes, kwon vest or white dobok black neck stripes |
 | **Ttong Kim** | **5'8" slightly stocky**, obvious underbite teeth showing, tight shorts or suit or white dobok black neck stripes, cold predatory grin, gold watch |
 | **Grandmother** | elderly korean woman, hospital gown, kind tired eyes, thin hands |
-| **Repeul Kim** | **ADULT WOMAN female**, **5'5" pretty overweight**, **brown curly** medium-long hair, **ugly clashing multicolor casual**, **mean sour scowl** — **Ttong Kim's wife**, **background only, never speaking**, edge of frame |
+| **Yeo Woo Kim** | **ADULT WOMAN female**, **5'5" pretty overweight**, **brown curly** medium-long hair, **ugly clashing multicolor casual**, **mean sour scowl** — **Ttong Kim's wife**, **background only, never speaking**, edge of frame |
 | **Team (Ch 10)** | TJ teal headband · Kieryn teal purple bob · Logan bowl cut · Kian silver hair · Ariana red streak bob |
 
 ## Palette Keys
@@ -70,15 +70,15 @@ blurry, watermark, logo, text overlay, speech bubble, low quality, chibi unless 
 | **Dobok warmup** | 1.8 | White **WT dobok** · black belt silver **태권도** · **NO hogu / NO helmet / NO guards** — stretching only |
 | **First full kit** | 1.9–1.14 | Gear donning on PAGE 2 · mirror **1.14** |
 | **Full kit (present)** | 1.15–1.46 | Same tournament kit — **plain white dobok NO arm/sleeve patch** — **SAME face/hair/kit** every panel |
-| **Flash enrollment** | 1.28 | Young Ethan ~5 · shadow parent · Ttong + Repeul counting money |
+| **Flash enrollment** | 1.28 | Young Ethan ~5 · shadow parent · Ttong + Yeo Woo counting money |
 | **Flash scrimmage** | 1.31 | White dobok · black belt · **no headgear** · Prime dojang kick montage |
-| **Flash sidelines** | 1.32 | Ttong displeased watching · arms crossed · Repeul chips · dojang |
+| **Flash sidelines** | 1.32 | Ttong displeased watching · arms crossed · Yeo Woo chips · dojang |
 | **Bedroom** | 1.47–1.48 | Grey sleep tee · messy dark blue hair · gold headphones on nightstand · **NO dobok** |
 
 | Character | Locked look |
 |-----------|-------------|
 | **Ttong Kim** | 38 · 5'8" stocky · underbite · **Prime polo + tight black shorts + gold watch** |
-| **Repeul Kim** | 37 · 5'5" · brown curly hair · **ugly multicolor casual** · scowl · silent edge of frame |
+| **Yeo Woo Kim** | 37 · 5'5" · brown curly hair · **ugly multicolor casual** · scowl · silent edge of frame |
 | **Ethan Hyun** | 15 · 5'3" lean · **navy blue shadow perm** (visible blue tint in hair, not jet black) · brown eyes · kit per phase |
 | **Ring opponent** | Taller external-school teen · red hogu · **plain dobok NO** |
 
@@ -148,10 +148,10 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 | Panel | Shape | Beats |
 |-------|-------|-------|
 | P1 | Wide ~40% | **1.7b-a** Ethan **paddle at side** · **looks at Ttong** · Ttong **faces away** · talks masters/parents |
-| P2 | Wide ~40% **CUT** | **1.7b-b** Ethan **exasperated sigh** walks away · Ttong looks · **Repeul whispers** |
+| P2 | Wide ~40% **CUT** | **1.7b-b** Ethan **exasperated sigh** walks away · Ttong looks · **Yeo Woo whispers** |
 | P3 | Quad-split ~20% | 1.8 warmup montage · dobok only |
 
-**Refs:** `ethan-hyun/dobok-front.png` · `ttong-kim/suit-front.png` · `repeul-kim/casual-front.png`
+**Refs:** `ethan-hyun/dobok-front.png` · `ttong-kim/suit-front.png` · `yeo-woo-kim/casual-front.png`
 
 ### PAGE 3 — Preparation (panels 1.9–1.16) · *skipped in strip reader*
 **3 rows** when generated — gear-up montage + neglect contrast.
@@ -160,7 +160,7 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 |-----|-------|-------|
 | R1 | Thin wide ~20% | 1.9 hogu on \| 1.10 forearm guards |
 | R2 | Tall center ~50% | 1.14 **mirror** full kit reveal |
-| R3 | Wide asymmetric ~30% | 1.15 **Ttong** coaching favored kid · **Repeul** chips \| 1.16 Ethan alone |
+| R3 | Wide asymmetric ~30% | 1.15 **Ttong** coaching favored kid · **Yeo Woo** chips \| 1.16 Ethan alone |
 
 ### PAGE 4 — Isolation & wait (panels 1.17–1.26) · *live — legacy 4-row; regen as 3-row optional*
 **4 rows** (legacy) · hours after PAGE 2 · clock **~7 PM**.
@@ -168,7 +168,7 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 | Row | Shape | Beats |
 |-----|-------|-------|
 | R1 | Wide ~30% | Bleachers · Ethan **full kit** slumped alone · snack wrapper · **clock ~7 PM** |
-| R2 | Wide ~25% | 1.21 crowd waiting · **Ttong** + parents · **Repeul** edge |
+| R2 | Wide ~25% | 1.21 crowd waiting · **Ttong** + parents · **Yeo Woo** edge |
 | R3 | Medium ~25% | 1.22 Ethan isolated · empty seats · clock ~7 PM |
 | R4 | Medium ~20% | 1.26 stiff leg · pins & needles · clock ~7 PM |
 
@@ -178,10 +178,10 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 | Row | Shape | Beats |
 |-----|-------|-------|
 | R1 | Wide ~40% | **1.27 PRESENT** Ethan on bleachers watching Ttong hands-on warmup with **young female student** — touchy spotting |
-| R2 | FLASH inset ~35% | **1.28** shadow parent · VIP brochure · **Ethan ~5** joyous · Repeul counting money |
+| R2 | FLASH inset ~35% | **1.28** shadow parent · VIP brochure · **Ethan ~5** joyous · Yeo Woo counting money |
 | R3 | Medium ~25% | **1.27** Ethan close-up unsettled · helmet on bench |
 
-**Refs:** `ethan-hyun/gear-front.png` · `ttong-kim/casual-front.png` · `repeul-kim/casual-front.png`
+**Refs:** `ethan-hyun/gear-front.png` · `ttong-kim/casual-front.png` · `yeo-woo-kim/casual-front.png`
 
 ### PAGE 5b — Called & walk past (panels 1.29–1.30) · **NEXT TO GENERATE**
 **3 rows** · PA call → stand → pass Ttong without acknowledgment.
@@ -199,19 +199,19 @@ Use when generating **one PNG per page** (not one PNG per panel). Dialogue stays
 | Row | Shape | Beats |
 |-----|-------|-------|
 | R1 | Tri-cut ~40% | **1.31 FLASH** head kick \| roundhouse \| push kick down |
-| R2 | Wide ~30% | **1.32 FLASH dojang** Ttong arms crossed displeased watching · Repeul chips · Ethan looks back |
+| R2 | Wide ~30% | **1.32 FLASH dojang** Ttong arms crossed displeased watching · Yeo Woo chips · Ethan looks back |
 | R3 | Wide ~30% | **1.33 PRESENT** Ethan helmet on in ring · ref hand raised · **same lean tall red opponent as PAGE 6b** (NOT heavyset) |
 
-**Refs:** `dobok-front` · `gear-front` · `ttong-kim` · `repeul-kim` · style anchor PAGE 5b
+**Refs:** `dobok-front` · `gear-front` · `ttong-kim` · `yeo-woo-kim` · style anchor PAGE 5b
 
 ### PAGE 6a — Fighter cards & bounty (panels 1.35–1.37) · **LIVE**
 
 | Row | Shape | Beats |
 |-----|-------|-------|
-| R1 | **33\|33\|33 ~50%** | **Fighter cards** with portrait + **Age · Ht · Wt · Rank**: **Ttong** \| **Repeul** \| **Ethan** |
-| R2 | Wide ~50% | **1.37** Knockout bounty — Ttong holds **1,000 won** bills · **gently talking** to Ethan · *too soft* · Repeul edge |
+| R1 | **33\|33\|33 ~50%** | **Fighter cards** with portrait + **Age · Ht · Wt · Rank**: **Ttong** \| **Yeo Woo** \| **Ethan** |
+| R2 | Wide ~50% | **1.37** Knockout bounty — Ttong holds **1,000 won** bills · **gently talking** to Ethan · *too soft* · Yeo Woo edge |
 
-**Refs:** `ttong-kim` · `repeul-kim` · `ethan-hyun/gear-front` · style anchor PAGE 5c
+**Refs:** `ttong-kim` · `yeo-woo-kim` · `ethan-hyun/gear-front` · style anchor PAGE 5c
 
 ### PAGE 6b — Charge & hook kick (panels 1.41–1.43) · **LIVE**
 
@@ -330,7 +330,7 @@ changing area locker room Ethan Hyun teen boy 15 korean-american lean athletic a
 ### Panel 1.7b — Paddles Ignored (two-panel cut)
 
 **Panel A — Waiting with paddle, ignored**
-**Scene:** Inside stadium on mats. Ethan **waits** with kicking paddle **held naturally at his side** — relaxed grip, **not extended toward anyone**. He **looks at Ttong Kim** (patient, hopeful). Ttong **faces away from Ethan** — body and gaze toward **other masters and parents**, mid-conversation, **never making eye contact with Ethan**. Repeul **not** whispering yet.
+**Scene:** Inside stadium on mats. Ethan **waits** with kicking paddle **held naturally at his side** — relaxed grip, **not extended toward anyone**. He **looks at Ttong Kim** (patient, hopeful). Ttong **faces away from Ethan** — body and gaze toward **other masters and parents**, mid-conversation, **never making eye contact with Ethan**. Yeo Woo **not** whispering yet.
 
 **Prompt:**
 ```
@@ -338,11 +338,11 @@ INSIDE indoor stadium blue red competition mats Ethan Hyun teen white WT dobok b
 ```
 
 **Panel B — Cut: exasperated sigh, walks away**
-**Scene:** **Cut panel.** Ethan **walking away** alone with paddle — **exasperated sigh** (frustrated exhale, defeated). **Ttong looks back at Ethan.** **Repeul whispers** in Ttong’s ear.
+**Scene:** **Cut panel.** Ethan **walking away** alone with paddle — **exasperated sigh** (frustrated exhale, defeated). **Ttong looks back at Ethan.** **Yeo Woo whispers** in Ttong’s ear.
 
 **Prompt:**
 ```
-CUT panel INSIDE stadium mats Ethan Hyun walking away alone carrying kicking paddle EXASPERATED SIGH frustrated exhale eyes half-closed or looking up defeated slumped shoulders giving up Ttong Kim looking over shoulder AT Ethan watching him leave Repeul Kim overweight brown curls ugly multicolor casual whispering into Ttong Kim ear mean scowl ONLY Repeul whispers wide cinematic STYLE PRIME
+CUT panel INSIDE stadium mats Ethan Hyun walking away alone carrying kicking paddle EXASPERATED SIGH frustrated exhale eyes half-closed or looking up defeated slumped shoulders giving up Ttong Kim looking over shoulder AT Ethan watching him leave Yeo Woo Kim overweight brown curls ugly multicolor casual whispering into Ttong Kim ear mean scowl ONLY Yeo Woo whispers wide cinematic STYLE PRIME
 ```
 
 ---
@@ -417,11 +417,11 @@ mirror reflection Ethan Hyun teen boy 15 korean-american 5 foot 3 lean long limb
 
 ---
 ### Panel 1.15 — Warmup Floor — Ttong Coaches (Not Ethan)
-**Scene:** Warmup area. **Ttong Kim** coaching a **favored student** with pads — animated, attentive. **Repeul Kim** in background eating chips, multicolor casual, scowl, silent. **Not Ethan.**
+**Scene:** Warmup area. **Ttong Kim** coaching a **favored student** with pads — animated, attentive. **Yeo Woo Kim** in background eating chips, multicolor casual, scowl, silent. **Not Ethan.**
 
 **Prompt:**
 ```
-warmup area wide shot Ttong Kim adult man 38 slightly stocky 5 foot 8 square face obvious underbite teeth showing predatory grin Prime polo shirt tight black shorts gold watch holding kicking pad coaching favored teen athlete in blue hogu animated attentive Repeul Kim adult woman 37 pretty overweight brown curly hair ugly multicolor casual clothes mean scowl background edge eating potato chips from bag silent mouth closed diverse male female athletes red blue hogus STYLE PRIME
+warmup area wide shot Ttong Kim adult man 38 slightly stocky 5 foot 8 square face obvious underbite teeth showing predatory grin Prime polo shirt tight black shorts gold watch holding kicking pad coaching favored teen athlete in blue hogu animated attentive Yeo Woo Kim adult woman 37 pretty overweight brown curly hair ugly multicolor casual clothes mean scowl background edge eating potato chips from bag silent mouth closed diverse male female athletes red blue hogus STYLE PRIME
 ```
 
 ---
@@ -477,7 +477,7 @@ POV climbing metal bleacher steps Olympic blue electronic hogu forearm shin guar
 
 ---
 ### Panel 1.21 — No Warmup
-**Scene:** ** Wide shot — 20+ Prime kids in gear. Instructor at far end talking to parents with coffee. **Repeul Kim** in ugly multicolor casual at edge of parent cluster — silent. No one on mats.
+**Scene:** ** Wide shot — 20+ Prime kids in gear. Instructor at far end talking to parents with coffee. **Yeo Woo Kim** in ugly multicolor casual at edge of parent cluster — silent. No one on mats.
 **Dialogue:** ** *(none)*
 
 **Prompt:**
@@ -554,7 +554,7 @@ Ethan unsettled tight expression empty seats beside him tournament fluorescents,
 
 ---
 ### Panel 1.28 — The Contract [FLASH — enrollment day]
-**Scene:** Small bordered desaturated inset. Prime front desk. **Faceless dark shadow parent** (no features) extends **VIP brochure** to **Ttong Kim**. **Repeul Kim** in background **counting money**. **Young Ethan ~5 years old** at frame edge beside shadow parent — **joyous grin**, excited to join. Not the favored stranger kid — this is **Ethan's own enrollment memory**.
+**Scene:** Small bordered desaturated inset. Prime front desk. **Faceless dark shadow parent** (no features) extends **VIP brochure** to **Ttong Kim**. **Yeo Woo Kim** in background **counting money**. **Young Ethan ~5 years old** at frame edge beside shadow parent — **joyous grin**, excited to join. Not the favored stranger kid — this is **Ethan's own enrollment memory**.
 **Timeline:** ** **FLASH** — years earlier, Prime enrollment (not tournament).
 **Dialogue:** ** Ttong Kim (to shadow parent): "We'll take good care of **him**." *(him = young Ethan)*
 
@@ -562,7 +562,7 @@ Ethan unsettled tight expression empty seats beside him tournament fluorescents,
 ```
 flashback inset border desaturated Prime taekwondo front desk enrollment,
 faceless dark shadow parent silhouette no facial features handing VIP brochure to Ttong Kim sleazy smile,
-Repeul Kim background counting cash money stack,
+Yeo Woo Kim background counting cash money stack,
 young boy Ethan age 5 small child dark hair joyous excited grin beside shadow parent ready to join taekwondo,
 STYLE: PRIME flashback sleazy contract
 ```
@@ -611,14 +611,14 @@ dynamic action sharp linework, STYLE: PRIME flashback
 
 ---
 ### Panel 1.32 — Displeased Coach [FLASH — dojang]
-**Scene:** Prime **dojang** (not tournament). **Ttong Kim** standing sidelines, **arms crossed**, **watching** sparring with **displeased unsatisfied** expression — not happy with Ethan. **Repeul Kim** behind/near him **eating potato chips**. Teen **Ethan** in dobok **looks back** over shoulder and **notices** Ttong's displeased look.
+**Scene:** Prime **dojang** (not tournament). **Ttong Kim** standing sidelines, **arms crossed**, **watching** sparring with **displeased unsatisfied** expression — not happy with Ethan. **Yeo Woo Kim** behind/near him **eating potato chips**. Teen **Ethan** in dobok **looks back** over shoulder and **notices** Ttong's displeased look.
 **Timeline:** ** **FLASH** — same period as 1.31 dojang scrimmage.
 **Dialogue:** ** *(none)*
 
 **Prompt:**
 ```
 FLASH Prime dojang Ttong Kim standing arms crossed watching sparring displeased unsatisfied scowl frown judging,
-Repeul Kim behind eating potato chips bag multicolor casual mean scowl,
+Yeo Woo Kim behind eating potato chips bag multicolor casual mean scowl,
 teen Ethan white dobok black belt looking back over shoulder noticing coach unhappy expression dojang mirrors trophies,
 desaturated flashback NOT tournament, STYLE: PRIME
 ```
@@ -660,12 +660,12 @@ red accent bar STYLE CARD STYLE PRIME
 ```
 
 ---
-### Panel 1.36 — [CARD] Repeul Kim Intro ★
+### Panel 1.36 — [CARD] Yeo Woo Kim Intro ★
 **Scene:** Fighter card — **Age 37 · Ht 5'5" · Wt 230 lbs · Prime (staff)**. Multicolor casual, mean scowl. **Never speaks.**
 
 **Prompt:**
 ```
-manhwa fighter profile card Repeul Kim brown curls multicolor floral ugly casual mean scowl,
+manhwa fighter profile card Yeo Woo Kim brown curls multicolor floral ugly casual mean scowl,
 stat block Age 37 Height 5'5 Weight 230 lbs Prime staff,
 red-grey accent bar STYLE CARD STYLE PRIME
 ```
@@ -683,14 +683,14 @@ blue accent bar STYLE CARD STYLE PRIME
 
 ---
 ### Panel 1.37 — Knockout Bounty [REAL #28] ★
-**Scene:** Ttong holds **1,000 won**. Eyes Ethan — *too soft.* Repeul blurred edge, scowl, silent.
+**Scene:** Ttong holds **1,000 won**. Eyes Ethan — *too soft.* Yeo Woo blurred edge, scowl, silent.
 **Dialogue:** ** Ttong: "One thousand won if you knock them out… Too soft."
 **Script:** [flash-prime-knockout-bounty.md](../scripts/flash-prime-knockout-bounty.md)
 
 **Prompt:**
 ```
 Ttong Kim holding 1000 won coin bill pointing at teen Ethan black belt too soft unsettling,
-Repeul Kim multicolor casual scowl blurred edge silent,
+Yeo Woo Kim multicolor casual scowl blurred edge silent,
 STYLE: PRIME
 ```
 
@@ -2922,7 +2922,7 @@ POV city traffic below dojang window small teen reflection in glass contemplativ
 
 ---
 ### Panel 7.20 — Enrollment Line [FLASH]
-**Scene:** **FLASH montage cell** — enrollment line grows — brochures multiply — **Repeul Kim** silent with stack.
+**Scene:** **FLASH montage cell** — enrollment line grows — brochures multiply — **Yeo Woo Kim** silent with stack.
 **Dialogue:** *(none)*
 
 **Prompt:**

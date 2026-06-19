@@ -31,7 +31,7 @@ FACTION = {
     "master-viet": "coach",
     "yuna-park": "ally",
     "ttong-kim": "prime",
-    "repeul-kim": "prime",
+    "yeo-woo-kim": "prime",
     "derek-cole": "rival",
     "maya-ortiz": "rival",
     "lee-ji-woo": "rival",
@@ -50,7 +50,7 @@ ROLE = {
     "master-viet": "Head Instructor · Kwon's Taekwondo Academy",
     "yuna-park": "Poomsae Athlete · Ethan's Love Interest",
     "ttong-kim": "Antagonist · Prime Taekwondo Sports Dynasty",
-    "repeul-kim": "Background · Ttong's wife (never speaks)",
+    "yeo-woo-kim": "Background · Ttong's wife (never speaks)",
     "derek-cole": "Arc 3 · Ch 25 opponent",
     "maya-ortiz": "Arc 3 · Ch 33 opponent",
     "lee-ji-woo": "Arc 6 · Ch 77 — Korea regional",
@@ -314,7 +314,7 @@ def main() -> None:
     order = [
         "ethan-hyun", "tj-lim", "kieryn-lim", "logan-hyun", "kian-sang", "ariana-yang",
         "master-viet", "yuna-park",
-        "ttong-kim", "repeul-kim",
+        "ttong-kim", "yeo-woo-kim",
     ]
     rank = {cid: i for i, cid in enumerate(order)}
     characters.sort(key=lambda c: rank.get(c["character_id"], 99))

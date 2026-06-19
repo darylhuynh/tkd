@@ -10,7 +10,7 @@
 
 ## CAST
 
-Ethan · **Ttong Kim** · **Repeul Kim** (background) · Ha-eun (composite) · Grandmother · Logan · TJ · MV · team
+Ethan · **Ttong Kim** · **Yeo Woo Kim** (background) · Ha-eun (composite) · Grandmother · Logan · TJ · MV · team
 
 ---
 
@@ -100,7 +100,7 @@ Patience, boys. Belt isn't a race.
 **ACTION:**  
 Prime dojang — **Ha-eun** (or favored girl) **returns** after bullying incident — younger kid **flinches**.
 
-**Repeul Kim** in ugly multicolor at front desk — mean scowl — silent.
+**Yeo Woo Kim** in ugly multicolor at front desk — mean scowl — silent.
 
 **TTONG KIM**  
 We forgive people who grow. She's family again. **No comments.**

@@ -541,9 +541,9 @@ def export_character_cards() -> None:
     )
 
     write_card_csv(
-        "Repeul-Kim.csv",
+        "Yeo-Woo-Kim.csv",
         card_rows(
-            "Repeul Kim",
+            "Yeo Woo Kim",
             [
                 (
                     "CORE PROFILE",

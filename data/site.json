@@ -543,9 +543,9 @@
       "status": "complete"
     },
     {
-      "character_id": "repeul-kim",
-      "canon_name": "Repeul Kim",
-      "display_name": "Repeul Kim",
+      "character_id": "yeo-woo-kim",
+      "canon_name": "Yeo Woo Kim",
+      "display_name": "Yeo Woo Kim",
       "also_known_as": null,
       "age": 37,
       "height": "5'5\"",
@@ -557,15 +557,15 @@
       "faction": "prime",
       "stats": {},
       "skills": [],
-      "portrait": "reference-sheets/output/repeul-kim/casual-front.png",
+      "portrait": "reference-sheets/output/yeo-woo-kim/casual-front.png",
       "views": [
         {
-          "src": "reference-sheets/output/repeul-kim/casual-front.png",
+          "src": "reference-sheets/output/yeo-woo-kim/casual-front.png",
           "label": "Casual Front",
           "caption": "Primary — ugly multicolor casual turnaround, mean scowl, adult woman"
         },
         {
-          "src": "reference-sheets/output/repeul-kim/casual-3q.png",
+          "src": "reference-sheets/output/yeo-woo-kim/casual-3q.png",
           "label": "Casual 3Q",
           "caption": "Background — 3/4 view, low img2img weight, mean scowl"
         }

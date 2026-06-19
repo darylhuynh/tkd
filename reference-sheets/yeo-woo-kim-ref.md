@@ -1,17 +1,17 @@
-# Repeul Kim — Reference Sheet
+# Yeo Woo Kim — Reference Sheet
 
 **Role:** Background only · Ttong Kim's wife · **never speaks**  
-**Sources:** [`characters/repeul-kim.md`](../characters/repeul-kim.md)
+**Sources:** [`characters/yeo-woo-kim.md`](../characters/yeo-woo-kim.md)
 
 ## AI Text Rule
 
-Append: `NO TEXT NO LETTERS NO NAME TAGS NO STAT SHEET NO QUOTES NO SPEECH BUBBLE` — label **Repeul Kim** in post only. See [`CANON-LABELS.md`](./CANON-LABELS.md).
+Append: `NO TEXT NO LETTERS NO NAME TAGS NO STAT SHEET NO QUOTES NO SPEECH BUBBLE` — label **Yeo Woo Kim** in post only. See [`CANON-LABELS.md`](./CANON-LABELS.md).
 
 ---
 
 | Field | Value |
 |-------|-------|
-| Name | Repeul Kim |
+| Name | Yeo Woo Kim |
 | Sex | **Female** — **wife of Ttong Kim** |
 | Age | 37 |
 | Height | 5'5" |
@@ -39,7 +39,7 @@ Append: `NO TEXT NO LETTERS NO NAME TAGS NO STAT SHEET NO QUOTES NO SPEECH BUBBL
 
 ## Files to Generate
 
-Save under `output/repeul-kim/`:
+Save under `output/yeo-woo-kim/`:
 
 | File | View | Outfit |
 |------|------|--------|
@@ -86,6 +86,6 @@ NO TEXT NO LETTERS NO NAME TAGS NO SPEECH BUBBLE
 ## Master Reference Panel Tie-In
 
 - **Intro card:** Arc 1 panel **1.13a-R** (after Ttong **1.13a-T**, before KO bounty **1.13b**)
-- **Background:** Arc 1 panels **1.4**, **1.8**, **1.9**, **1.13b**, **1.14** — optional `+ Repeul Kim background`
+- **Background:** Arc 1 panels **1.4**, **1.8**, **1.9**, **1.13b**, **1.14** — optional `+ Yeo Woo Kim background`
 
-**Generated v2:** `output/repeul-kim/casual-front.png` — adult woman, ugly multicolor casual, **mean scowl**
+**Generated v2:** `output/yeo-woo-kim/casual-front.png` — adult woman, ugly multicolor casual, **mean scowl**

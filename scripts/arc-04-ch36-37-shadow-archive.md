@@ -12,7 +12,7 @@
 ## CAST
 
 **Present frame:** Ethan (15) · Kwon's dojang · night · empty mat  
-**Flash:** Young Ethan · **Ttong Kim** · **Repeul Kim** (background) · **Ha-eun** (composite) · parents
+**Flash:** Young Ethan · **Ttong Kim** · **Yeo Woo Kim** (background) · **Ha-eun** (composite) · parents
 
 ---
 
@@ -96,7 +96,7 @@ World champion someday!
 **ETHAN (V.O.)**  
 I'm already drowning.
 
-Cold handshake. **Repeul Kim** in multicolor at refreshment table — mean scowl — silent.
+Cold handshake. **Yeo Woo Kim** in multicolor at refreshment table — mean scowl — silent.
 
 ---
 
@@ -173,7 +173,7 @@ Go home. Sleep. Tomorrow we train the **second beat**, not the first wound.
 |------|----------|
 | Bonus points, chart gap, sleepover **claim** + non-denial | Explicit grooming / contact |
 | Board hour cruelty | Heroic break frame |
-| Repeul background only | Repeul speaking |
+| Yeo Woo background only | Yeo Woo speaking |
 
 ### REAL checklist (this file)
 

@@ -19,7 +19,7 @@ Turnaround model sheets for **consistent AI panel generation** (img2img / IP-Ada
 | **P0** | Ethan Hyun | Ethan Hyun | [ethan-hyun-ref.md](./ethan-hyun-ref.md) |
 | **P0** | Master Viet (**Viet Na**) | *(no dedicated tab — use profile)* | [master-viet-ref.md](./master-viet-ref.md) · casual front/side/back |
 | **P0** | Ttong Kim | *(no dedicated tab — use profile)* | [ttong-kim-ref.md](./ttong-kim-ref.md) |
-| **P0** | Repeul Kim | *(background — use profile)* | [repeul-kim-ref.md](./repeul-kim-ref.md) |
+| **P0** | Yeo Woo Kim | *(background — use profile)* | [yeo-woo-kim-ref.md](./yeo-woo-kim-ref.md) |
 | **P1** | TJ Lim | TJ Lim | [tj-lim-ref.md](./tj-lim-ref.md) |
 | **P1** | Kieryn Lim | Kieryn Lim | [kieryn-lim-ref.md](./kieryn-lim-ref.md) |
 | **P1** | Logan Hyun | Logan Hyun | [logan-hyun-ref.md](./logan-hyun-ref.md) |
@@ -36,7 +36,7 @@ Turnaround model sheets for **consistent AI panel generation** (img2img / IP-Ada
 | **Ethan Hyun** | casual · dobok · gear | ✅ All PNGs in `output/ethan-hyun/` |
 | **Master Viet** | vest · dobok · polo | ✅ All PNGs in `output/master-viet/` |
 | **Ttong Kim** | shorts · jaw-profile · dobok · suit | ✅ All PNGs in `output/ttong-kim/` |
-| **Repeul Kim** | casual · casual-3q | ✅ All PNGs in `output/repeul-kim/` |
+| **Yeo Woo Kim** | casual · casual-3q | ✅ All PNGs in `output/yeo-woo-kim/` |
 
 ### P1 generation status ✅
 
@@ -99,7 +99,7 @@ reference-sheets/
 │   ├── ethan-hyun/      ← casual · dobok · gear
 │   ├── master-viet/     ← vest · dobok · polo (tournament)
 │   ├── ttong-kim/       ← shorts · jaw-profile · dobok · suit
-│   ├── repeul-kim/       ← casual · casual-3q (background)
+│   ├── yeo-woo-kim/       ← casual · casual-3q (background)
 │   ├── tj-lim/          ← casual · dobok · gear
 │   ├── kieryn-lim/      ← casual · dobok · gear
 │   ├── logan-hyun/      ← casual · dobok · gear
@@ -124,7 +124,7 @@ reference-sheets/
 | Kieryn surname tab | Kieryn Lim | **Lim** (confirmed) |
 | Master Viet | No tab | **Viet Na**, called Master Viet — chubby, vest, small eyes |
 | Ttong Kim | No tab | Stocky, square jaw, tight shorts / suit |
-| Repeul Kim | No tab | Overweight woman, brown curls, ugly multicolor casual, **mean scowl** — **silent background** |
+| Yeo Woo Kim | No tab | Overweight woman, brown curls, ugly multicolor casual, **mean scowl** — **silent background** |
 | Yuna Park | No tab | Poomsae dobok, casual, **college-casual-ring** (Arc 8 epilogue) — see [yuna-park-ref.md](./yuna-park-ref.md) |
 
 When sheet and profile conflict, **profile wins** unless you update the sheet.

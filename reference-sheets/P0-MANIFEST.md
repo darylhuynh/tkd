@@ -49,8 +49,8 @@ Use these paths for img2img / IP-Adapter when generating panels.
 
 ---
 
-### Repeul Kim — Background Only
-**Folder:** `output/repeul-kim/`
+### Yeo Woo Kim — Background Only
+**Folder:** `output/yeo-woo-kim/`
 
 | File | Use when |
 |------|----------|
@@ -59,7 +59,7 @@ Use these paths for img2img / IP-Adapter when generating panels.
 
 **Rules:** **Never dialogue.** Mean scowl. Ugly multicolor casual.
 
-**Ref:** [repeul-kim-ref.md](./repeul-kim-ref.md)
+**Ref:** [yeo-woo-kim-ref.md](./yeo-woo-kim-ref.md)
 
 ---
 
@@ -67,7 +67,7 @@ Use these paths for img2img / IP-Adapter when generating panels.
 
 | Arc | Attach |
 |-----|--------|
-| **1** Ch 1–10 | Ethan gear/casual/dobok · MV vest · Ttong shorts · Repeul casual |
+| **1** Ch 1–10 | Ethan gear/casual/dobok · MV vest · Ttong shorts · Yeo Woo casual |
 | **3** fights | Ethan gear · team dobok refs (P1) |
 | **4** Prime flash | Ttong shorts/suit · STYLE: PRIME |
 | **7** Ch 98 | Ethan gear · Min-ho (no ref sheet — CARD only) |

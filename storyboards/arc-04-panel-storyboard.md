@@ -36,7 +36,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 **Prompt:** `flashback teen finally breaks board exhausted bruised fist parents whispering coach silence, STYLE: PRIME flashback`
 
 ### 36.1 — Ceremony Hands [FLASH — black belt ceremony]
-**Scene:** Instructor cold handshake — Ethan 3rd dan certificate. **Repeul Kim** multicolor at refreshment table — silent.
+**Scene:** Instructor cold handshake — Ethan 3rd dan certificate. **Yeo Woo Kim** multicolor at refreshment table — silent.
 **Prompt:** `flashback hollow black belt ceremony cold handshake, STYLE: PRIME flashback`
 
 ### 36.2 — Second Place [REAL #9, #24] [FLASH — test results]
@@ -103,8 +103,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 **Dialogue:** Ethan (V.O.): *Nothing left but fear.*
 **Prompt:** `flashback cold handshake black belt ceremony hidden bruised hand trembling, STYLE: PRIME flashback`
 
-### 36.15 — Repeul Kim Scowl [FLASH — refreshment table]
-**Scene:** **Repeul Kim** multicolor at refreshment table — mean scowl — says nothing — Ethan passes without eye contact.
+### 36.15 — Yeo Woo Kim Scowl [FLASH — refreshment table]
+**Scene:** **Yeo Woo Kim** multicolor at refreshment table — mean scowl — says nothing — Ethan passes without eye contact.
 **Prompt:** `flashback silent front desk woman multicolor mean scowl refreshment table teen passing, STYLE: PRIME flashback`
 
 ### 36.16 — Camera Smile [FLASH — ceremony photo]
@@ -124,7 +124,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 **Scene map:** pay-to-train → **37.1** · sidelined → **37.2** · promotion wall → **37.3** · demo pick → **37.4** · New Year's brag → **37.5** · bonus → **37.6**
 
 ### 37.1 — Pay-to-Train Montage [FLASH — dojang, money thread]
-**Scene:** Three quick panels — checks · VIP gear · private lessons. **Repeul Kim** may appear at desk edge — silent.
+**Scene:** Three quick panels — checks · VIP gear · private lessons. **Yeo Woo Kim** may appear at desk edge — silent.
 **Prompt:** `flashback money favoritism montage taekwondo school checks private lessons, STYLE: PRIME flashback`
 
 ### 37.2 — Ethan Sidelined [FLASH — dojang mat]
@@ -158,7 +158,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 **Prompt:** `present coach finding teen alone on mat after trauma memory kind intervention kwons warm, STYLE: KWONS HAIKYUU`
 
 ### 37.8 — Checks on Desk [FLASH — pay-to-train detail]
-**Scene:** Close on parent check sliding across front desk — **Repeul Kim** stamps receipt — no eye contact.
+**Scene:** Close on parent check sliding across front desk — **Yeo Woo Kim** stamps receipt — no eye contact.
 **Dialogue:** Ethan (V.O.): *They sold access.*
 **Prompt:** `flashback parent check sliding front desk silent receptionist stamp favoritism, STYLE: PRIME flashback`
 
@@ -477,8 +477,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 **Dialogue:** Ttong Kim: "They **buy** promotion. We **earn** it." · Ethan (V.O.): *Ha-eun earned spirit points.*
 **Prompt:** `flashback coach pointing competitor school photo parents murmuring scapegoat, STYLE: PRIME flashback`
 
-### 40.11 — Repeul Kim Pamphlets [FLASH — background]
-**Scene:** **Repeul Kim** stacks enrollment pamphlets — multicolor — mean scowl — silent distribution.
+### 40.11 — Yeo Woo Kim Pamphlets [FLASH — background]
+**Scene:** **Yeo Woo Kim** stacks enrollment pamphlets — multicolor — mean scowl — silent distribution.
 **Prompt:** `flashback silent receptionist stacking enrollment pamphlets mean scowl, STYLE: PRIME flashback`
 
 ### 40.12 — Walk Home [FLASH — after meeting]
@@ -569,8 +569,8 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 **Dialogue:** Ttong Kim: **"You skipped tournaments. I don't know how committed you are."**
 **Prompt:** `flashback instructor inches from teen face blue lock predator pressure confrontation, STYLE: PRIME flashback`
 
-### 41.9 — Repeul Kim Witness [FLASH — silent]
-**Scene:** Door crack — **Repeul Kim** watches — multicolor — mean scowl — says nothing — closes door.
+### 41.9 — Yeo Woo Kim Witness [FLASH — silent]
+**Scene:** Door crack — **Yeo Woo Kim** watches — multicolor — mean scowl — says nothing — closes door.
 **Prompt:** `flashback silent receptionist watching door crack mean scowl witness no help, STYLE: PRIME flashback`
 
 ### 41.10 — Ethan Nods Cold [FLASH — surrender]
@@ -636,7 +636,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 **Script:** [flash-prime-girl-favoritism.md](../scripts/flash-prime-girl-favoritism.md) § Ch 42
 
 ### 42.1 — Girl Bully Returns [REAL #26] ★ [FLASH — Prime dojang]
-**Scene:** **Ha-eun** (favored girl) **readmitted** after bullying — younger kid **flinches** — **Repeul Kim** at front desk — silent.
+**Scene:** **Ha-eun** (favored girl) **readmitted** after bullying — younger kid **flinches** — **Yeo Woo Kim** at front desk — silent.
 **Dialogue:** Ttong Kim: "We forgive people who grow. She's family again. No comments."
 **Prompt:** `flashback bully girl welcomed back dojang victim flinching instructor protecting, STYLE: PRIME flashback`
 
@@ -651,7 +651,7 @@ Append Global Style from [STORYBOARD-GUIDE](./STORYBOARD-GUIDE.md).
 **Prompt:** `flashback teen punished extra conditioning lonely mat, STYLE: PRIME flashback`
 
 ### 42.4 — Lobby Arrival [FLASH — readmit setup]
-**Scene:** Prime lobby — mother and **Ha-eun** walk in — enrollment form already on desk — **Repeul Kim** stamps without looking up.
+**Scene:** Prime lobby — mother and **Ha-eun** walk in — enrollment form already on desk — **Yeo Woo Kim** stamps without looking up.
 **Dialogue:** Ethan (V.O.): *Rumor said she grabbed a white belt's hogu until he cried. Today she was family again.*
 **Prompt:** `flashback bully girl walking in lobby enrollment form already waiting, STYLE: PRIME flashback`
 

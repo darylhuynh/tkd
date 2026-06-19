@@ -19,7 +19,7 @@ PANELS = {
     "kian-sang": 5,
     "yuna-park": 3,
     "ttong-kim": 3,
-    "repeul-kim": 4,
+    "yeo-woo-kim": 4,
 }
 
 

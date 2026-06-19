@@ -15,7 +15,7 @@
 | **Blue Lock DNA** | ✅ Individual stakes, elimination boards, ego duels (Ethan/Kian), selection pressure |
 | **Solo Leveling DNA** | ✅ Visual intensity, growth montages, signature unlocks — **not** isekai/system menus |
 
-**One intentional exception:** Arc 1 Ch 1 has **23 panels** (extra Ttong/Repeul cards + knockout bounty) — acceptable cold open.
+**One intentional exception:** Arc 1 Ch 1 has **23 panels** (extra Ttong/Yeo Woo cards + knockout bounty) — acceptable cold open.
 
 ---
 

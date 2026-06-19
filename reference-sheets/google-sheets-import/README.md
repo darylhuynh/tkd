@@ -25,7 +25,7 @@ For each character, **replace the tab contents** with the matching CSV:
 | `Yuna-Park.csv` | **Yuna Park** *(new tab)* |
 | `Master-Viet.csv` | **Master Viet** *(new tab)* |
 | `Ttong-Kim.csv` | **Ttong Kim** *(new tab)* |
-| `Repeul-Kim.csv` | **Repeul Kim** *(new tab)* |
+| `Yeo-Woo-Kim.csv` | **Yeo Woo Kim** *(new tab)* |
 | `Opponents.csv` | **Opponents** *(new tab)* |
 
 **Import steps in Google Sheets:**
@@ -72,7 +72,7 @@ Then re-import changed CSVs into Google Sheets.
 | `Indian-American` only for Kian | **Half Korean, half Indian** |
 | Missing School field | **Kwon's** or **Prime** on every fighter |
 | Missing Arc 7 signatures | Added per fighter (Ultimate Counter, Mountain Strike, etc.) |
-| No tabs for MV / Ttong / Repeul / Yuna | New CSVs |
+| No tabs for MV / Ttong / Yeo Woo / Yuna | New CSVs |
 | Storyboard only in markdown | **Storyboard-Index.csv** (~620+ rows) |
 
 ---

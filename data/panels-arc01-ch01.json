@@ -175,7 +175,7 @@
     {
       "id": "1.28",
       "title": "The Contract [FLASH \u2014 enrollment day]",
-      "prompt": "flashback inset border desaturated Prime taekwondo front desk enrollment,\nfaceless dark shadow parent silhouette no facial features handing VIP brochure to Ttong Kim sleazy smile,\nRepeul Kim background counting cash money stack,\nyoung boy Ethan age 5 small child dark hair joyous excited grin beside shadow parent ready to join taekwondo,\nSTYLE: PRIME flashback sleazy contract\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "flashback inset border desaturated Prime taekwondo front desk enrollment,\nfaceless dark shadow parent silhouette no facial features handing VIP brochure to Ttong Kim sleazy smile,\nYeo Woo Kim background counting cash money stack,\nyoung boy Ethan age 5 small child dark hair joyous excited grin beside shadow parent ready to join taekwondo,\nSTYLE: PRIME flashback sleazy contract\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.28.png"
     },
     {
@@ -199,7 +199,7 @@
     {
       "id": "1.32",
       "title": "Displeased Coach [FLASH \u2014 dojang]",
-      "prompt": "FLASH Prime dojang Ttong Kim standing arms crossed watching sparring displeased unsatisfied scowl,\nRepeul Kim behind eating potato chips bag multicolor casual,\nteen Ethan white dobok black belt looking back over shoulder noticing coach unhappy expression,\ndesaturated flashback NOT tournament, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
+      "prompt": "FLASH Prime dojang Ttong Kim standing arms crossed watching sparring displeased unsatisfied scowl,\nYeo Woo Kim behind eating potato chips bag multicolor casual,\nteen Ethan white dobok black belt looking back over shoulder noticing coach unhappy expression,\ndesaturated flashback NOT tournament, STYLE: PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.32.png"
     },
     {
@@ -222,7 +222,7 @@
     },
     {
       "id": "1.36",
-      "title": "[CARD] Repeul Kim Intro \u2605",
+      "title": "[CARD] Yeo Woo Kim Intro \u2605",
       "prompt": "manhwa webtoon profile card vertical panel, overweight korean-american woman brown curly hair,\nintentionally ugly clashing multicolor casual outfit neon floral plaid mean sour scowl judgmental face NOT smiling closed mouth not speaking, stat block empty boxes,\nred-grey prime accent bar cel shading no readable text STYLE CARD STYLE PRIME\nmanhwa webtoon, vertical comic panel, clean lineart, cel shading, korean sports manhwa, solo leveling aesthetic, cinematic lighting, sharp focus, detailed background",
       "output": "gallery/panels/arc-01/1.36.png"
     },

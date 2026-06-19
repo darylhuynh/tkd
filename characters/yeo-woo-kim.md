@@ -1,4 +1,4 @@
-# Repeul Kim
+# Yeo Woo Kim
 
 **Role:** Background · Prime co-presence · **Ttong Kim's wife**  
 **Team Function:** Silent fixture at Prime — visual shorthand for the school's off-mat culture. **Never speaks on-page.**
@@ -9,7 +9,7 @@
 
 | Field | Value |
 |-------|-------|
-| Name | **Repeul Kim** |
+| Name | **Yeo Woo Kim** |
 | Relation | **Wife of Ttong Kim** |
 | School | Prime Taekwondo Sports Dynasty (always on-site with him) |
 | Age | **37** (series start) |
@@ -26,7 +26,7 @@
 - **Face:** **Ugly mean aesthetic** — soft but unkind features, **sour resting face**, judgmental scowl, narrowed eyes, tight lips; reads rude even in silence; **never** given dialogue bubbles.
 - **Fashion:** **Always casual** — deliberately **ugly, multi-colored** outfits: clashing neons, florals on stripes, animal print + plaid layers, mismatched sneakers, too many accessories. **Intentionally bad taste** — not "cozy mom," **chaotic thrift-store collage**.
 
-**Contrast with Prime brand:** Ttong Kim performs **elite** in shorts/suit; Repeul looks like a walking yard sale — the school's real priorities showing in the margins.
+**Contrast with Prime brand:** Ttong Kim performs **elite** in shorts/suit; Yeo Woo looks like a walking yard sale — the school's real priorities showing in the margins.
 
 ---
 
@@ -71,5 +71,5 @@ manhwa webtoon STYLE PRIME, NO TEXT NO LETTERS NO NAME TAGS NO SPEECH BUBBLE
 ## Links
 
 - Spouse: [ttong-kim.md](./ttong-kim.md)
-- Reference sheet: [repeul-kim-ref.md](../reference-sheets/repeul-kim-ref.md)
+- Reference sheet: [yeo-woo-kim-ref.md](../reference-sheets/yeo-woo-kim-ref.md)
 - Intro cards: [CHARACTER-CARDS.md](../storyboards/CHARACTER-CARDS.md) — panels **1.13a-T** / **1.13a-R**

@@ -28,14 +28,14 @@ OUTFIT_LOCK = """## Chapter 1 — Outfit Lock *(copy into every Ch 1 prompt)*
 | **Dobok change** | 1.6–1.7 | White **WT dobok** · **black belt w/ silver embroidery** · · changing area |
 | **First full kit** | 1.8–1.14 | Dobok + **blue electronic hogu** + guards + **blue helmet** (mirror reveal **1.14**) |
 | **Full kit (present)** | 1.15–1.46 | Same tournament kit as above — **SAME face/hair/kit** every panel |
-| **Flash enrollment** | 1.27 | Ttong + Repeul — polo/shorts · multicolor casual |
+| **Flash enrollment** | 1.27 | Ttong + Yeo Woo — polo/shorts · multicolor casual |
 | **Flash scrimmage** | 1.31 top | White dobok · black belt · guards · **no headgear** · Prime dojang |
 | **Bedroom** | 1.47–1.48 | Grey sleep tee · messy dark blue hair · gold headphones on nightstand · **NO dobok** |
 
 | Character | Locked look |
 |-----------|-------------|
 | **Ttong Kim** | 38 · 5'8" stocky · underbite · **Prime polo + tight black shorts + gold watch** |
-| **Repeul Kim** | 37 · 5'5" · brown curly hair · **ugly multicolor casual** · scowl · silent edge of frame |
+| **Yeo Woo Kim** | 37 · 5'5" · brown curly hair · **ugly multicolor casual** · scowl · silent edge of frame |
 | **Ring opponent** | Taller older Prime teen · **same blue-hogu kit as Ethan** |
 
 **Visual arc:** casual kid → dobok → athlete → neglected all day → KO → wake.

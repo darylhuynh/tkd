@@ -52,7 +52,7 @@ As Ethan slowly trusts again, he brings his friends — TJ, Logan, Kieryn, Kian,
 
 ### Prime Taekwondo Sports Dynasty (Former School)
 - **Ttong Kim:** Head instructor. Started warm when the school was new; grew colder as enrollment grew. Obsessed with money, status, and control. See [ttong-kim.md](./characters/ttong-kim.md).
-- **Repeul Kim:** Ttong's wife — **always in ugly multicolor casual**, **background only**, **never speaks**. Paired intro stat card in Arc 1. See [repeul-kim.md](./characters/repeul-kim.md).
+- **Yeo Woo Kim:** Ttong's wife — **always in ugly multicolor casual**, **background only**, **never speaks**. Paired intro stat card in Arc 1. See [yeo-woo-kim.md](./characters/yeo-woo-kim.md).
 - **Public face:** "Elite" program. **Reality:** 2nd Dan instructor-level credentials — not a master. Ethan (3rd Dan) technically outranks him.
 - **Tactics:** Favoritism toward paying families, misinformation to parents, loyalty tests ("with us or against us"), harassment after students leave.
 
@@ -154,7 +154,7 @@ All main characters use **Korean surnames:** Hyun (Ethan, Logan), Lim (TJ, Kiery
 |-----------|------|
 | Master Viet | [master-viet.md](./characters/master-viet.md) |
 | Ttong Kim (Prime) | [ttong-kim.md](./characters/ttong-kim.md) |
-| Repeul Kim (background) | [repeul-kim.md](./characters/repeul-kim.md) |
+| Yeo Woo Kim (background) | [yeo-woo-kim.md](./characters/yeo-woo-kim.md) |
 | Yuna Park (poomsae) | [yuna-park.md](./characters/yuna-park.md) |
 | Kim Min-ho (Ch 98) | [kim-min-ho.md](./characters/kim-min-ho.md) |
 | Han Do-won (Ch 99) | [han-do-won.md](./characters/han-do-won.md) |

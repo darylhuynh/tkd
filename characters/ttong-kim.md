@@ -83,9 +83,9 @@ Ethan Hyun (3rd Dan) **technically outranks him.**
 
 ---
 
-## Spouse — Repeul Kim
+## Spouse — Yeo Woo Kim
 
-**Repeul Kim** (wife) is almost always on-site in **ugly multicolor casual** — **background only, never speaks**. Brief intro stat card paired with Ttong's in Arc 1. See [repeul-kim.md](./repeul-kim.md).
+**Yeo Woo Kim** (wife) is almost always on-site in **ugly multicolor casual** — **background only, never speaks**. Brief intro stat card paired with Ttong's in Arc 1. See [yeo-woo-kim.md](./yeo-woo-kim.md).
 
 ---
 

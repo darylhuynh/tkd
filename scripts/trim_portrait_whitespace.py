@@ -21,7 +21,7 @@ PORTRAITS = [
     "master-viet/casual-front.png",
     "yuna-park/casual-front.png",
     "ttong-kim/casual-front.png",
-    "repeul-kim/casual-front.png",
+    "yeo-woo-kim/casual-front.png",
     "derek-cole/dobok-front.png",
     "maya-ortiz/dobok-front.png",
     "lee-ji-woo/dobok-front.png",

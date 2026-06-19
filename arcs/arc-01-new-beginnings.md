@@ -24,12 +24,12 @@ Ethan arrives alone at Kwon's Taekwondo Academy — quiet, guarded, carrying a s
 
 #### Beat 2 — Paid Coaching, Minutes of Attention
 - Ethan on bleachers watches **Ttong** give touchy, hands-on warmup to a **young female student** — favoritism reads uncomfortable
-- Flash: enrollment day — shadow parent, VIP brochure, **young Ethan (~5)** excited; Repeul counts money; *"We'll take good care of him."*
+- Flash: enrollment day — shadow parent, VIP brochure, **young Ethan (~5)** excited; Yeo Woo counts money; *"We'll take good care of him."*
 - PA calls **Ring 4** — Ethan picks up helmet, walks past Ttong (ignored)
 - Flash montage: Ethan lands head kick, roundhouse body, cut/push kick — **Ttong bored on sidelines**, never watching
 
 #### Beat 3 — The Only Minutes That Count
-- Fighter cards (Ttong · Repeul · Ethan) with roster stats
+- Fighter cards (Ttong · Yeo Woo · Ethan) with roster stats
 - **[REAL #28]** Knockout bounty — 1,000 won — *too soft*
 - Ttong yells *attack, don't be soft* — Ethan hesitant vs looming opponent — **spinning hook** — mouthguard out
 
