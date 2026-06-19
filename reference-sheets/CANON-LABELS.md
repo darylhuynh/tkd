@@ -47,7 +47,7 @@ AI image tools hallucinate names (e.g. "Jay Park," "Kwon Euisik"). Use this file
 | Belt | **1st Dan** |
 | Hair color | Brown |
 | Hair style | Curly, medium-to-long (half-up claw clip) |
-| Role | Prime — **Ttong Kim's wife** · **background only** |
+| Role | **Duplicitous · Silent mastermind behind the dojang · Ttong's Wife** |
 | Outfit | Ugly clashing multicolor casual — always |
 | **Speaks** | **Never** on-page |
 | **NOT** | Reple · Rebekah · Rachel · fighter rank · dan belt |

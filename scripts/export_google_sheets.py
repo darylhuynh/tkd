@@ -557,7 +557,7 @@ def export_character_cards() -> None:
                         ("Belt", "1st Dan"),
                         ("Hair color", "Brown"),
                         ("Hair style", "Curly, medium-to-long (half-up claw clip)"),
-                        ("Role", "Ttong Kim's wife — silent background"),
+                        ("Role", "Duplicitous · Silent mastermind behind the dojang · Ttong's Wife"),
                         ("Speaks", "NEVER on-page"),
                     ],
                 ),

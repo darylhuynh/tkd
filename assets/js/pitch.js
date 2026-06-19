@@ -23,7 +23,7 @@ let siteData = null;
 let activeFilter = "all";
 
 async function loadSiteData() {
-  const res = await fetch("data/site.json?v=7");
+  const res = await fetch("data/site.json?v=8");
   if (!res.ok) throw new Error("Failed to load site data");
   siteData = await res.json();
 }

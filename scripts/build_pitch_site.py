@@ -50,7 +50,7 @@ ROLE = {
     "master-viet": "Head Instructor · Kwon's Taekwondo Academy",
     "yuna-park": "Poomsae Athlete · Ethan's Love Interest",
     "ttong-kim": "Antagonist · Prime Taekwondo Sports Dynasty",
-    "yeo-woo-kim": "Background · Ttong's wife (never speaks)",
+    "yeo-woo-kim": "Duplicitous · Silent mastermind behind the dojang · Ttong's Wife",
     "derek-cole": "Arc 3 · Ch 25 opponent",
     "maya-ortiz": "Arc 3 · Ch 33 opponent",
     "lee-ji-woo": "Arc 6 · Ch 77 — Korea regional",

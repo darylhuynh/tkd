@@ -1,6 +1,6 @@
 # Yeo Woo Kim
 
-**Role:** Background · Prime co-presence · **Ttong Kim's wife**  
+**Role:** Duplicitous · Silent mastermind behind the dojang · **Ttong's Wife**  
 **Team Function:** Silent fixture at Prime — visual shorthand for the school's off-mat culture. **Never speaks on-page.**
 
 ---
